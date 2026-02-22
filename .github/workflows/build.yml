@@ -1,0 +1,42 @@
+name: Build
+
+on:
+  push:
+    paths:
+      - "source/**"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Detect changed projects and run pipelines
+        run: |
+          CHANGED_PROJECTS=$(git diff --name-only HEAD~1 HEAD -- source/ | cut -d/ -f2 | sort -u)
+          if [ -z "$CHANGED_PROJECTS" ]; then
+            echo "No project changes detected"
+            exit 0
+          fi
+          for PROJECT in $CHANGED_PROJECTS; do
+            PIPELINE=$(cat "source/$PROJECT/.pipeline" 2>/dev/null || echo "image")
+            PIPELINE=$(echo "$PIPELINE" | tr -d '[:space:]')
+            echo "Running pipeline/$PIPELINE.sh for $PROJECT"
+            bash "pipeline/$PIPELINE.sh" "$PROJECT"
+          done
+
+      - name: Commit and push docs
+        run: |
+          git diff --quiet docs/ && echo "No changes to docs/" && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git commit -m "Build: update docs/ $(date +%Y-%m-%d)"
+          git push

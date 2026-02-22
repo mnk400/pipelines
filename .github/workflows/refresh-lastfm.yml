@@ -1,0 +1,31 @@
+name: Refresh Last.fm data
+
+on:
+  schedule:
+    - cron: "0 6 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run lastfm pipeline
+        run: bash pipeline/lastfm.sh lastfm-stats
+
+      - name: Commit and push
+        run: |
+          git diff --quiet source/lastfm-stats/ docs/lastfm-stats/ && echo "No changes" && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add source/lastfm-stats/ docs/lastfm-stats/
+          git commit -m "Refresh lastfm data $(date +%Y-%m-%d)"
+          git push

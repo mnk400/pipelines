@@ -1,0 +1,3258 @@
+{
+  "tiers": [
+    {
+      "name": "obscure",
+      "max": 100000,
+      "color": "#7c3aed"
+    },
+    {
+      "name": "niche",
+      "max": 500000,
+      "color": "#6366f1"
+    },
+    {
+      "name": "mid",
+      "max": 2000000,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "popular",
+      "max": 5000000,
+      "color": "#f59e0b"
+    },
+    {
+      "name": "mainstream",
+      "max": null,
+      "color": "#ef4444"
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2016-03",
+      "totalPlays": 57,
+      "medianListeners": 3265371,
+      "p25Listeners": 905793,
+      "p75Listeners": 8130713,
+      "obscurityScore": 24.3,
+      "tierPct": {
+        "obscure": 8.77,
+        "niche": 1.75,
+        "mid": 19.3,
+        "popular": 35.09,
+        "mainstream": 35.09
+      },
+      "mostObscure": {
+        "name": "Eden",
+        "listeners": 808770,
+        "plays": 4
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 16
+      }
+    },
+    {
+      "month": "2016-04",
+      "totalPlays": 55,
+      "medianListeners": 683237,
+      "p25Listeners": 249111,
+      "p75Listeners": 2542904,
+      "obscurityScore": 58.3,
+      "tierPct": {
+        "obscure": 5.45,
+        "niche": 29.09,
+        "mid": 36.36,
+        "popular": 14.55,
+        "mainstream": 14.55
+      },
+      "mostObscure": {
+        "name": "Blue Sky Black Death",
+        "listeners": 218875,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2016-05",
+      "totalPlays": 207,
+      "medianListeners": 8130713,
+      "p25Listeners": 1242366,
+      "p75Listeners": 8130713,
+      "obscurityScore": 4.5,
+      "tierPct": {
+        "obscure": 14.98,
+        "niche": 5.31,
+        "mid": 10.63,
+        "popular": 4.35,
+        "mainstream": 64.73
+      },
+      "mostObscure": {
+        "name": "Flapo",
+        "listeners": 14165,
+        "plays": 4
+      },
+      "mostMainstream": {
+        "name": "Coldplay",
+        "listeners": 9003415,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2016-06",
+      "totalPlays": 151,
+      "medianListeners": 2733468,
+      "p25Listeners": 242100,
+      "p75Listeners": 6547969,
+      "obscurityScore": 28.2,
+      "tierPct": {
+        "obscure": 11.92,
+        "niche": 17.22,
+        "mid": 16.56,
+        "popular": 14.57,
+        "mainstream": 39.74
+      },
+      "mostObscure": {
+        "name": "n u a g e s",
+        "listeners": 25381,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Coldplay",
+        "listeners": 9003415,
+        "plays": 2
+      }
+    },
+    {
+      "month": "2016-07",
+      "totalPlays": 245,
+      "medianListeners": 8130713,
+      "p25Listeners": 1687984,
+      "p75Listeners": 8130713,
+      "obscurityScore": 4.5,
+      "tierPct": {
+        "obscure": 11.43,
+        "niche": 5.31,
+        "mid": 14.69,
+        "popular": 7.76,
+        "mainstream": 60.82
+      },
+      "mostObscure": {
+        "name": "Jacob Banks",
+        "listeners": 298825,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Coldplay",
+        "listeners": 9003415,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2016-08",
+      "totalPlays": 80,
+      "medianListeners": 768557,
+      "p25Listeners": 209348,
+      "p75Listeners": 1743816,
+      "obscurityScore": 55.7,
+      "tierPct": {
+        "obscure": 11.25,
+        "niche": 33.75,
+        "mid": 38.75,
+        "popular": 5,
+        "mainstream": 11.25
+      },
+      "mostObscure": {
+        "name": "Daniel Martin Moore",
+        "listeners": 45061,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2016-09",
+      "totalPlays": 51,
+      "medianListeners": 1240413,
+      "p25Listeners": 93915,
+      "p75Listeners": 5217648,
+      "obscurityScore": 45.3,
+      "tierPct": {
+        "obscure": 37.25,
+        "niche": 5.88,
+        "mid": 17.65,
+        "popular": 13.73,
+        "mainstream": 25.49
+      },
+      "mostObscure": {
+        "name": "Talkdemonic",
+        "listeners": 93915,
+        "plays": 14
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 6
+      }
+    },
+    {
+      "month": "2016-10",
+      "totalPlays": 65,
+      "medianListeners": 695069,
+      "p25Listeners": 93915,
+      "p75Listeners": 5217648,
+      "obscurityScore": 57.9,
+      "tierPct": {
+        "obscure": 29.23,
+        "niche": 7.69,
+        "mid": 15.38,
+        "popular": 20,
+        "mainstream": 27.69
+      },
+      "mostObscure": {
+        "name": "Talkdemonic",
+        "listeners": 93915,
+        "plays": 5
+      },
+      "mostMainstream": {
+        "name": "Arctic Monkeys",
+        "listeners": 6999675,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2016-11",
+      "totalPlays": 63,
+      "medianListeners": 2397217,
+      "p25Listeners": 209348,
+      "p75Listeners": 4179554,
+      "obscurityScore": 31,
+      "tierPct": {
+        "obscure": 20.63,
+        "niche": 9.52,
+        "mid": 19.05,
+        "popular": 33.33,
+        "mainstream": 17.46
+      },
+      "mostObscure": {
+        "name": "Talkdemonic",
+        "listeners": 93915,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2016-12",
+      "totalPlays": 314,
+      "medianListeners": 3526833,
+      "p25Listeners": 838259,
+      "p75Listeners": 5217648,
+      "obscurityScore": 22.6,
+      "tierPct": {
+        "obscure": 15.92,
+        "niche": 5.41,
+        "mid": 24.84,
+        "popular": 20.06,
+        "mainstream": 33.76
+      },
+      "mostObscure": {
+        "name": "Nucleya",
+        "listeners": 37916,
+        "plays": 8
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2017-01",
+      "totalPlays": 36,
+      "medianListeners": 5217648,
+      "p25Listeners": 2397217,
+      "p75Listeners": 7849221,
+      "obscurityScore": 14.1,
+      "tierPct": {
+        "obscure": 0,
+        "niche": 11.11,
+        "mid": 0,
+        "popular": 33.33,
+        "mainstream": 55.56
+      },
+      "mostObscure": {
+        "name": "Marian Hill",
+        "listeners": 469222,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Kanye West",
+        "listeners": 7849221,
+        "plays": 13
+      }
+    },
+    {
+      "month": "2017-09",
+      "totalPlays": 23,
+      "medianListeners": 22644,
+      "p25Listeners": 22644,
+      "p75Listeners": 4191096,
+      "obscurityScore": 100,
+      "tierPct": {
+        "obscure": 52.17,
+        "niche": 8.7,
+        "mid": 0,
+        "popular": 34.78,
+        "mainstream": 4.35
+      },
+      "mostObscure": {
+        "name": "Lemâitre",
+        "listeners": 22644,
+        "plays": 9
+      },
+      "mostMainstream": {
+        "name": "Bruno Mars",
+        "listeners": 5125745,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2017-10",
+      "totalPlays": 11,
+      "medianListeners": 4191096,
+      "p25Listeners": 4191096,
+      "p75Listeners": 4191096,
+      "obscurityScore": 18.9,
+      "tierPct": {
+        "obscure": 0,
+        "niche": 0,
+        "mid": 0,
+        "popular": 100,
+        "mainstream": 0
+      },
+      "mostObscure": {
+        "name": "Tame Impala",
+        "listeners": 4191096,
+        "plays": 10
+      },
+      "mostMainstream": {
+        "name": "Tame Impala",
+        "listeners": 4191096,
+        "plays": 10
+      }
+    },
+    {
+      "month": "2017-11",
+      "totalPlays": 12,
+      "medianListeners": 311811,
+      "p25Listeners": 22644,
+      "p75Listeners": 810370,
+      "obscurityScore": 75.3,
+      "tierPct": {
+        "obscure": 33.33,
+        "niche": 16.67,
+        "mid": 41.67,
+        "popular": 8.33,
+        "mainstream": 0
+      },
+      "mostObscure": null,
+      "mostMainstream": {
+        "name": "Post Malone",
+        "listeners": 3471707,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2017-12",
+      "totalPlays": 13,
+      "medianListeners": 956433,
+      "p25Listeners": 490258,
+      "p75Listeners": 2542904,
+      "obscurityScore": 51,
+      "tierPct": {
+        "obscure": 7.69,
+        "niche": 23.08,
+        "mid": 30.77,
+        "popular": 15.38,
+        "mainstream": 23.08
+      },
+      "mostObscure": null,
+      "mostMainstream": {
+        "name": "Queen",
+        "listeners": 7146882,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2018-01",
+      "totalPlays": 2,
+      "medianListeners": 276300,
+      "p25Listeners": 276300,
+      "p75Listeners": 2125955,
+      "obscurityScore": 77.9,
+      "tierPct": {
+        "obscure": 0,
+        "niche": 50,
+        "mid": 0,
+        "popular": 50,
+        "mainstream": 0
+      },
+      "mostObscure": null,
+      "mostMainstream": {
+        "name": "Men I Trust",
+        "listeners": 2125955,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2018-02",
+      "totalPlays": 6,
+      "medianListeners": 2402325,
+      "p25Listeners": 1859794,
+      "p75Listeners": 2402325,
+      "obscurityScore": 31,
+      "tierPct": {
+        "obscure": 0,
+        "niche": 16.67,
+        "mid": 16.67,
+        "popular": 66.67,
+        "mainstream": 0
+      },
+      "mostObscure": {
+        "name": "The Marías",
+        "listeners": 2402325,
+        "plays": 4
+      },
+      "mostMainstream": {
+        "name": "The Marías",
+        "listeners": 2402325,
+        "plays": 4
+      }
+    },
+    {
+      "month": "2018-06",
+      "totalPlays": 21,
+      "medianListeners": 1321922,
+      "p25Listeners": 1030840,
+      "p75Listeners": 2188737,
+      "obscurityScore": 43.9,
+      "tierPct": {
+        "obscure": 9.52,
+        "niche": 0,
+        "mid": 52.38,
+        "popular": 33.33,
+        "mainstream": 4.76
+      },
+      "mostObscure": {
+        "name": "Death Grips",
+        "listeners": 1182774,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Kanye West",
+        "listeners": 7849221,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2018-07",
+      "totalPlays": 1403,
+      "medianListeners": 1599961,
+      "p25Listeners": 655147,
+      "p75Listeners": 3661578,
+      "obscurityScore": 39.8,
+      "tierPct": {
+        "obscure": 9.84,
+        "niche": 12.4,
+        "mid": 31.29,
+        "popular": 29.37,
+        "mainstream": 17.11
+      },
+      "mostObscure": {
+        "name": "TakingBackSummer",
+        "listeners": 1,
+        "plays": 5
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 13
+      }
+    },
+    {
+      "month": "2018-08",
+      "totalPlays": 891,
+      "medianListeners": 1687984,
+      "p25Listeners": 495027,
+      "p75Listeners": 3661578,
+      "obscurityScore": 38.6,
+      "tierPct": {
+        "obscure": 11.45,
+        "niche": 13.69,
+        "mid": 31.54,
+        "popular": 27.83,
+        "mainstream": 15.49
+      },
+      "mostObscure": {
+        "name": "Czarface & MF Doom",
+        "listeners": 18442,
+        "plays": 35
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 4
+      }
+    },
+    {
+      "month": "2018-09",
+      "totalPlays": 1160,
+      "medianListeners": 1360066,
+      "p25Listeners": 390022,
+      "p75Listeners": 2917532,
+      "obscurityScore": 43.3,
+      "tierPct": {
+        "obscure": 8.36,
+        "niche": 18.02,
+        "mid": 33.71,
+        "popular": 31.72,
+        "mainstream": 8.19
+      },
+      "mostObscure": {
+        "name": "Shye Ben-Tzur, Jonny Greenwood & The Rajasthan Express",
+        "listeners": 741,
+        "plays": 13
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 3
+      }
+    },
+    {
+      "month": "2018-10",
+      "totalPlays": 870,
+      "medianListeners": 1687984,
+      "p25Listeners": 369719,
+      "p75Listeners": 3870952,
+      "obscurityScore": 38.6,
+      "tierPct": {
+        "obscure": 11.26,
+        "niche": 15.86,
+        "mid": 30.92,
+        "popular": 32.87,
+        "mainstream": 9.08
+      },
+      "mostObscure": {
+        "name": "Florence + the Machine",
+        "listeners": 16889,
+        "plays": 11
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 15
+      }
+    },
+    {
+      "month": "2018-11",
+      "totalPlays": 680,
+      "medianListeners": 1054065,
+      "p25Listeners": 228026,
+      "p75Listeners": 3168369,
+      "obscurityScore": 48.9,
+      "tierPct": {
+        "obscure": 13.68,
+        "niche": 21.03,
+        "mid": 25.44,
+        "popular": 30,
+        "mainstream": 9.85
+      },
+      "mostObscure": {
+        "name": "Black Thought & Salaam Remi",
+        "listeners": 2235,
+        "plays": 9
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 23
+      }
+    },
+    {
+      "month": "2018-12",
+      "totalPlays": 1282,
+      "medianListeners": 1253107,
+      "p25Listeners": 472719,
+      "p75Listeners": 2402325,
+      "obscurityScore": 45.1,
+      "tierPct": {
+        "obscure": 7.49,
+        "niche": 20.28,
+        "mid": 40.95,
+        "popular": 22,
+        "mainstream": 9.28
+      },
+      "mostObscure": {
+        "name": "Nohidea & Ben Beal",
+        "listeners": 612,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Coldplay",
+        "listeners": 9003415,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2019-01",
+      "totalPlays": 883,
+      "medianListeners": 1253107,
+      "p25Listeners": 324462,
+      "p75Listeners": 3393697,
+      "obscurityScore": 45.1,
+      "tierPct": {
+        "obscure": 16.76,
+        "niche": 20.84,
+        "mid": 28.99,
+        "popular": 25.14,
+        "mainstream": 8.27
+      },
+      "mostObscure": {
+        "name": "Black Thought & Salaam Remi",
+        "listeners": 2235,
+        "plays": 9
+      },
+      "mostMainstream": {
+        "name": "Coldplay",
+        "listeners": 9003415,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2019-02",
+      "totalPlays": 673,
+      "medianListeners": 1851559,
+      "p25Listeners": 718238,
+      "p75Listeners": 3387005,
+      "obscurityScore": 36.6,
+      "tierPct": {
+        "obscure": 13.22,
+        "niche": 8.17,
+        "mid": 36.4,
+        "popular": 33.88,
+        "mainstream": 8.32
+      },
+      "mostObscure": {
+        "name": "Laurie Holiday",
+        "listeners": 277,
+        "plays": 9
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 9
+      }
+    },
+    {
+      "month": "2019-03",
+      "totalPlays": 899,
+      "medianListeners": 1557898,
+      "p25Listeners": 239963,
+      "p75Listeners": 3185666,
+      "obscurityScore": 40.4,
+      "tierPct": {
+        "obscure": 11.01,
+        "niche": 20.8,
+        "mid": 32.59,
+        "popular": 26.59,
+        "mainstream": 9.01
+      },
+      "mostObscure": {
+        "name": "Ruby Empress",
+        "listeners": 36118,
+        "plays": 6
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2019-04",
+      "totalPlays": 1125,
+      "medianListeners": 1637357,
+      "p25Listeners": 515435,
+      "p75Listeners": 3460574,
+      "obscurityScore": 39.3,
+      "tierPct": {
+        "obscure": 7.11,
+        "niche": 16.62,
+        "mid": 35.02,
+        "popular": 31.2,
+        "mainstream": 10.04
+      },
+      "mostObscure": {
+        "name": "Florence + the Machine",
+        "listeners": 16889,
+        "plays": 11
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 83
+      }
+    },
+    {
+      "month": "2019-05",
+      "totalPlays": 1185,
+      "medianListeners": 1537426,
+      "p25Listeners": 433596,
+      "p75Listeners": 3847110,
+      "obscurityScore": 40.7,
+      "tierPct": {
+        "obscure": 9.87,
+        "niche": 16.2,
+        "mid": 30.97,
+        "popular": 35.44,
+        "mainstream": 7.51
+      },
+      "mostObscure": {
+        "name": "KAYTRANADA & VanJess",
+        "listeners": 2690,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 10
+      }
+    },
+    {
+      "month": "2019-06",
+      "totalPlays": 1220,
+      "medianListeners": 1381147,
+      "p25Listeners": 372367,
+      "p75Listeners": 4179554,
+      "obscurityScore": 43,
+      "tierPct": {
+        "obscure": 5.74,
+        "niche": 21.97,
+        "mid": 30.25,
+        "popular": 19.67,
+        "mainstream": 22.38
+      },
+      "mostObscure": {
+        "name": "L'Orange & Jeremiah Jae",
+        "listeners": 5469,
+        "plays": 18
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2019-07",
+      "totalPlays": 655,
+      "medianListeners": 1776548,
+      "p25Listeners": 771278,
+      "p75Listeners": 4240618,
+      "obscurityScore": 37.5,
+      "tierPct": {
+        "obscure": 4.43,
+        "niche": 8.55,
+        "mid": 39.54,
+        "popular": 32.52,
+        "mainstream": 14.96
+      },
+      "mostObscure": {
+        "name": "Duckwrth & Shaboozey",
+        "listeners": 7448,
+        "plays": 4
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 3
+      }
+    },
+    {
+      "month": "2019-08",
+      "totalPlays": 583,
+      "medianListeners": 1653154,
+      "p25Listeners": 397708,
+      "p75Listeners": 4179554,
+      "obscurityScore": 39.1,
+      "tierPct": {
+        "obscure": 7.89,
+        "niche": 29.5,
+        "mid": 14.92,
+        "popular": 27.44,
+        "mainstream": 20.24
+      },
+      "mostObscure": {
+        "name": "Swet Shop Boys",
+        "listeners": 33429,
+        "plays": 11
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 10
+      }
+    },
+    {
+      "month": "2019-09",
+      "totalPlays": 601,
+      "medianListeners": 1599961,
+      "p25Listeners": 256914,
+      "p75Listeners": 3460574,
+      "obscurityScore": 39.8,
+      "tierPct": {
+        "obscure": 13.81,
+        "niche": 14.64,
+        "mid": 26.12,
+        "popular": 34.61,
+        "mainstream": 10.82
+      },
+      "mostObscure": {
+        "name": "Seventhgaze",
+        "listeners": 112,
+        "plays": 12
+      },
+      "mostMainstream": {
+        "name": "Rihanna",
+        "listeners": 8184785,
+        "plays": 6
+      }
+    },
+    {
+      "month": "2019-10",
+      "totalPlays": 583,
+      "medianListeners": 1193164,
+      "p25Listeners": 555677,
+      "p75Listeners": 3526833,
+      "obscurityScore": 46.2,
+      "tierPct": {
+        "obscure": 6.86,
+        "niche": 17.15,
+        "mid": 38.59,
+        "popular": 34.13,
+        "mainstream": 3.26
+      },
+      "mostObscure": {
+        "name": "Khai",
+        "listeners": 72829,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Rihanna",
+        "listeners": 8184785,
+        "plays": 2
+      }
+    },
+    {
+      "month": "2019-11",
+      "totalPlays": 359,
+      "medianListeners": 3847110,
+      "p25Listeners": 599615,
+      "p75Listeners": 5163194,
+      "obscurityScore": 20.7,
+      "tierPct": {
+        "obscure": 2.79,
+        "niche": 19.78,
+        "mid": 16.71,
+        "popular": 31.75,
+        "mainstream": 28.97
+      },
+      "mostObscure": {
+        "name": "Brock Berrigan, goosetaf & Kyle McEvoy",
+        "listeners": 210,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 19
+      }
+    },
+    {
+      "month": "2019-12",
+      "totalPlays": 856,
+      "medianListeners": 1349171,
+      "p25Listeners": 367589,
+      "p75Listeners": 3168369,
+      "obscurityScore": 43.5,
+      "tierPct": {
+        "obscure": 8.76,
+        "niche": 22.2,
+        "mid": 32.94,
+        "popular": 31.07,
+        "mainstream": 5.02
+      },
+      "mostObscure": {
+        "name": "June Marieezy",
+        "listeners": 93720,
+        "plays": 4
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2020-01",
+      "totalPlays": 359,
+      "medianListeners": 1537426,
+      "p25Listeners": 615157,
+      "p75Listeners": 3452818,
+      "obscurityScore": 40.7,
+      "tierPct": {
+        "obscure": 11.14,
+        "niche": 10.86,
+        "mid": 40.11,
+        "popular": 36.21,
+        "mainstream": 1.67
+      },
+      "mostObscure": {
+        "name": "RZA & MF DOOM",
+        "listeners": 13715,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2020-02",
+      "totalPlays": 411,
+      "medianListeners": 1947824,
+      "p25Listeners": 785906,
+      "p75Listeners": 3731290,
+      "obscurityScore": 35.5,
+      "tierPct": {
+        "obscure": 7.3,
+        "niche": 13.14,
+        "mid": 29.68,
+        "popular": 43.8,
+        "mainstream": 6.08
+      },
+      "mostObscure": {
+        "name": "Grimes & 潘PAN",
+        "listeners": 10834,
+        "plays": 5
+      },
+      "mostMainstream": {
+        "name": "Rihanna",
+        "listeners": 8184785,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2020-03",
+      "totalPlays": 771,
+      "medianListeners": 2032989,
+      "p25Listeners": 785906,
+      "p75Listeners": 3731290,
+      "obscurityScore": 34.6,
+      "tierPct": {
+        "obscure": 6.61,
+        "niche": 9.99,
+        "mid": 33.33,
+        "popular": 33.85,
+        "mainstream": 16.21
+      },
+      "mostObscure": {
+        "name": "Grimes & i_o",
+        "listeners": 25819,
+        "plays": 4
+      },
+      "mostMainstream": {
+        "name": "Rihanna",
+        "listeners": 8184785,
+        "plays": 5
+      }
+    },
+    {
+      "month": "2020-04",
+      "totalPlays": 710,
+      "medianListeners": 2917532,
+      "p25Listeners": 371389,
+      "p75Listeners": 3731290,
+      "obscurityScore": 26.7,
+      "tierPct": {
+        "obscure": 9.72,
+        "niche": 17.04,
+        "mid": 16.76,
+        "popular": 39.58,
+        "mainstream": 16.9
+      },
+      "mostObscure": {
+        "name": "Holden Laurence",
+        "listeners": 27989,
+        "plays": 10
+      },
+      "mostMainstream": {
+        "name": "Rihanna",
+        "listeners": 8184785,
+        "plays": 2
+      }
+    },
+    {
+      "month": "2020-05",
+      "totalPlays": 901,
+      "medianListeners": 1050561,
+      "p25Listeners": 371389,
+      "p75Listeners": 3847110,
+      "obscurityScore": 48.9,
+      "tierPct": {
+        "obscure": 9.88,
+        "niche": 20.42,
+        "mid": 27.97,
+        "popular": 31.08,
+        "mainstream": 10.65
+      },
+      "mostObscure": {
+        "name": "Lowell Brams",
+        "listeners": 2472,
+        "plays": 21
+      },
+      "mostMainstream": {
+        "name": "Rihanna",
+        "listeners": 8184785,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2020-06",
+      "totalPlays": 620,
+      "medianListeners": 885339,
+      "p25Listeners": 292562,
+      "p75Listeners": 2220385,
+      "obscurityScore": 52.6,
+      "tierPct": {
+        "obscure": 9.35,
+        "niche": 19.19,
+        "mid": 45.81,
+        "popular": 19.52,
+        "mainstream": 6.13
+      },
+      "mostObscure": {
+        "name": "Nostrum Grocers, Milo & Elucid",
+        "listeners": 542,
+        "plays": 8
+      },
+      "mostMainstream": {
+        "name": "Rihanna",
+        "listeners": 8184785,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2020-07",
+      "totalPlays": 619,
+      "medianListeners": 1197594,
+      "p25Listeners": 718989,
+      "p75Listeners": 3452818,
+      "obscurityScore": 46.1,
+      "tierPct": {
+        "obscure": 8.08,
+        "niche": 14.7,
+        "mid": 42.97,
+        "popular": 24.88,
+        "mainstream": 9.37
+      },
+      "mostObscure": {
+        "name": "Jye",
+        "listeners": 78477,
+        "plays": 4
+      },
+      "mostMainstream": {
+        "name": "Rihanna",
+        "listeners": 8184785,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2020-08",
+      "totalPlays": 885,
+      "medianListeners": 812632,
+      "p25Listeners": 138070,
+      "p75Listeners": 2125955,
+      "obscurityScore": 54.5,
+      "tierPct": {
+        "obscure": 21.81,
+        "niche": 19.32,
+        "mid": 30.62,
+        "popular": 25.08,
+        "mainstream": 3.16
+      },
+      "mostObscure": {
+        "name": "Greg Street Presents Nappy Roots",
+        "listeners": 1991,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Rihanna",
+        "listeners": 8184785,
+        "plays": 4
+      }
+    },
+    {
+      "month": "2020-09",
+      "totalPlays": 459,
+      "medianListeners": 1850348,
+      "p25Listeners": 376094,
+      "p75Listeners": 3452818,
+      "obscurityScore": 36.6,
+      "tierPct": {
+        "obscure": 12.2,
+        "niche": 16.12,
+        "mid": 22.66,
+        "popular": 37.04,
+        "mainstream": 11.98
+      },
+      "mostObscure": {
+        "name": "Wyatt Moran",
+        "listeners": 4612,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 3
+      }
+    },
+    {
+      "month": "2020-10",
+      "totalPlays": 564,
+      "medianListeners": 1033307,
+      "p25Listeners": 239963,
+      "p75Listeners": 2032989,
+      "obscurityScore": 49.3,
+      "tierPct": {
+        "obscure": 21.63,
+        "niche": 10.64,
+        "mid": 40.25,
+        "popular": 24.11,
+        "mainstream": 3.37
+      },
+      "mostObscure": {
+        "name": "Czarface & MF Doom",
+        "listeners": 18442,
+        "plays": 15
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 11
+      }
+    },
+    {
+      "month": "2020-11",
+      "totalPlays": 386,
+      "medianListeners": 2032989,
+      "p25Listeners": 335516,
+      "p75Listeners": 3526833,
+      "obscurityScore": 34.6,
+      "tierPct": {
+        "obscure": 11.66,
+        "niche": 16.58,
+        "mid": 21.24,
+        "popular": 34.46,
+        "mainstream": 16.06
+      },
+      "mostObscure": {
+        "name": "Shane T",
+        "listeners": 20771,
+        "plays": 8
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 23
+      }
+    },
+    {
+      "month": "2020-12",
+      "totalPlays": 680,
+      "medianListeners": 885339,
+      "p25Listeners": 170321,
+      "p75Listeners": 2617667,
+      "obscurityScore": 52.6,
+      "tierPct": {
+        "obscure": 20,
+        "niche": 18.09,
+        "mid": 30.74,
+        "popular": 25,
+        "mainstream": 6.18
+      },
+      "mostObscure": {
+        "name": "R.A.P. Ferreira & Scallops Hotel",
+        "listeners": 832,
+        "plays": 24
+      },
+      "mostMainstream": {
+        "name": "Rihanna",
+        "listeners": 8184785,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2021-01",
+      "totalPlays": 824,
+      "medianListeners": 1011392,
+      "p25Listeners": 138070,
+      "p75Listeners": 3141938,
+      "obscurityScore": 49.8,
+      "tierPct": {
+        "obscure": 24.03,
+        "niche": 13.23,
+        "mid": 28.03,
+        "popular": 24.51,
+        "mainstream": 10.19
+      },
+      "mostObscure": {
+        "name": "kabstofly",
+        "listeners": 332,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 12
+      }
+    },
+    {
+      "month": "2021-02",
+      "totalPlays": 927,
+      "medianListeners": 1391030,
+      "p25Listeners": 528452,
+      "p75Listeners": 2032989,
+      "obscurityScore": 42.8,
+      "tierPct": {
+        "obscure": 9.92,
+        "niche": 14.67,
+        "mid": 50.27,
+        "popular": 22.76,
+        "mainstream": 2.37
+      },
+      "mostObscure": {
+        "name": "R.A.P. Ferreira & Scallops Hotel",
+        "listeners": 832,
+        "plays": 5
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 11
+      }
+    },
+    {
+      "month": "2021-03",
+      "totalPlays": 1259,
+      "medianListeners": 1563977,
+      "p25Listeners": 528549,
+      "p75Listeners": 3702710,
+      "obscurityScore": 40.3,
+      "tierPct": {
+        "obscure": 10.33,
+        "niche": 13.82,
+        "mid": 31.14,
+        "popular": 25.42,
+        "mainstream": 19.3
+      },
+      "mostObscure": {
+        "name": "Using a 4K OLED TV as a Monitor",
+        "listeners": 44,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 22
+      }
+    },
+    {
+      "month": "2021-04",
+      "totalPlays": 1014,
+      "medianListeners": 848052,
+      "p25Listeners": 225155,
+      "p75Listeners": 2438312,
+      "obscurityScore": 53.6,
+      "tierPct": {
+        "obscure": 18.44,
+        "niche": 19.63,
+        "mid": 35.4,
+        "popular": 17.36,
+        "mainstream": 9.17
+      },
+      "mostObscure": {
+        "name": "Billy Lemos, Still Woozy & Blake Saint David",
+        "listeners": 1278,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 21
+      }
+    },
+    {
+      "month": "2021-05",
+      "totalPlays": 925,
+      "medianListeners": 1563977,
+      "p25Listeners": 331738,
+      "p75Listeners": 3460574,
+      "obscurityScore": 40.3,
+      "tierPct": {
+        "obscure": 16.76,
+        "niche": 11.03,
+        "mid": 30.59,
+        "popular": 33.19,
+        "mainstream": 8.43
+      },
+      "mostObscure": {
+        "name": "Dua Lipa & Angele",
+        "listeners": 4217,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Rihanna",
+        "listeners": 8184785,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2021-06",
+      "totalPlays": 898,
+      "medianListeners": 1220296,
+      "p25Listeners": 524478,
+      "p75Listeners": 2733468,
+      "obscurityScore": 45.7,
+      "tierPct": {
+        "obscure": 10.8,
+        "niche": 13.7,
+        "mid": 42.54,
+        "popular": 23.83,
+        "mainstream": 9.13
+      },
+      "mostObscure": {
+        "name": "Freak Slug & Dwyer",
+        "listeners": 77,
+        "plays": 7
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 12
+      }
+    },
+    {
+      "month": "2021-07",
+      "totalPlays": 912,
+      "medianListeners": 1391030,
+      "p25Listeners": 514425,
+      "p75Listeners": 2284417,
+      "obscurityScore": 42.8,
+      "tierPct": {
+        "obscure": 11.73,
+        "niche": 13.05,
+        "mid": 46.93,
+        "popular": 24.34,
+        "mainstream": 3.95
+      },
+      "mostObscure": {
+        "name": "WILLOW & Avril Lavigne",
+        "listeners": 5327,
+        "plays": 6
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 10
+      }
+    },
+    {
+      "month": "2021-08",
+      "totalPlays": 810,
+      "medianListeners": 514425,
+      "p25Listeners": 42550,
+      "p75Listeners": 1563977,
+      "obscurityScore": 64.4,
+      "tierPct": {
+        "obscure": 30.62,
+        "niche": 19.01,
+        "mid": 31.36,
+        "popular": 14.57,
+        "mainstream": 4.44
+      },
+      "mostObscure": {
+        "name": "R.A.P. Ferreira & Scallops Hotel",
+        "listeners": 832,
+        "plays": 12
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 9
+      }
+    },
+    {
+      "month": "2021-09",
+      "totalPlays": 314,
+      "medianListeners": 768990,
+      "p25Listeners": 185560,
+      "p75Listeners": 1517599,
+      "obscurityScore": 55.7,
+      "tierPct": {
+        "obscure": 22.61,
+        "niche": 22.61,
+        "mid": 37.26,
+        "popular": 12.74,
+        "mainstream": 4.78
+      },
+      "mostObscure": {
+        "name": "Ethansroom",
+        "listeners": 23184,
+        "plays": 12
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2021-10",
+      "totalPlays": 304,
+      "medianListeners": 740773,
+      "p25Listeners": 225155,
+      "p75Listeners": 1808069,
+      "obscurityScore": 56.5,
+      "tierPct": {
+        "obscure": 18.75,
+        "niche": 23.03,
+        "mid": 33.88,
+        "popular": 18.42,
+        "mainstream": 5.92
+      },
+      "mostObscure": {
+        "name": "Alves",
+        "listeners": 7520,
+        "plays": 4
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 3
+      }
+    },
+    {
+      "month": "2021-11",
+      "totalPlays": 328,
+      "medianListeners": 842715,
+      "p25Listeners": 259591,
+      "p75Listeners": 1747361,
+      "obscurityScore": 53.7,
+      "tierPct": {
+        "obscure": 20.43,
+        "niche": 12.2,
+        "mid": 47.56,
+        "popular": 16.77,
+        "mainstream": 3.05
+      },
+      "mostObscure": {
+        "name": "Alves",
+        "listeners": 7520,
+        "plays": 10
+      },
+      "mostMainstream": {
+        "name": "Britney Spears",
+        "listeners": 6355218,
+        "plays": 7
+      }
+    },
+    {
+      "month": "2021-12",
+      "totalPlays": 398,
+      "medianListeners": 785906,
+      "p25Listeners": 335516,
+      "p75Listeners": 1517283,
+      "obscurityScore": 55.2,
+      "tierPct": {
+        "obscure": 14.57,
+        "niche": 18.59,
+        "mid": 50.75,
+        "popular": 13.82,
+        "mainstream": 2.26
+      },
+      "mostObscure": {
+        "name": "R.A.P. Ferreira & Scallops Hotel",
+        "listeners": 832,
+        "plays": 12
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 9
+      }
+    },
+    {
+      "month": "2022-01",
+      "totalPlays": 766,
+      "medianListeners": 1160087,
+      "p25Listeners": 388857,
+      "p75Listeners": 2334652,
+      "obscurityScore": 46.8,
+      "tierPct": {
+        "obscure": 11.36,
+        "niche": 20.63,
+        "mid": 35.64,
+        "popular": 24.41,
+        "mainstream": 7.96
+      },
+      "mostObscure": {
+        "name": "Adrianne Lenker & Buck Meek",
+        "listeners": 4347,
+        "plays": 7
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 6
+      }
+    },
+    {
+      "month": "2022-02",
+      "totalPlays": 515,
+      "medianListeners": 1197594,
+      "p25Listeners": 428831,
+      "p75Listeners": 2413968,
+      "obscurityScore": 46.1,
+      "tierPct": {
+        "obscure": 16.31,
+        "niche": 9.9,
+        "mid": 46.41,
+        "popular": 19.22,
+        "mainstream": 8.16
+      },
+      "mostObscure": {
+        "name": "Alves",
+        "listeners": 7520,
+        "plays": 10
+      },
+      "mostMainstream": {
+        "name": "Coldplay",
+        "listeners": 9003415,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2022-03",
+      "totalPlays": 553,
+      "medianListeners": 2438312,
+      "p25Listeners": 812632,
+      "p75Listeners": 3687813,
+      "obscurityScore": 30.6,
+      "tierPct": {
+        "obscure": 5.06,
+        "niche": 7.23,
+        "mid": 24.95,
+        "popular": 57.5,
+        "mainstream": 5.24
+      },
+      "mostObscure": {
+        "name": "Alves",
+        "listeners": 7520,
+        "plays": 10
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 5
+      }
+    },
+    {
+      "month": "2022-04",
+      "totalPlays": 552,
+      "medianListeners": 1391030,
+      "p25Listeners": 1032050,
+      "p75Listeners": 3460574,
+      "obscurityScore": 42.8,
+      "tierPct": {
+        "obscure": 3.99,
+        "niche": 8.7,
+        "mid": 48.19,
+        "popular": 27.54,
+        "mainstream": 11.59
+      },
+      "mostObscure": {
+        "name": "Milo",
+        "listeners": 219130,
+        "plays": 8
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 10
+      }
+    },
+    {
+      "month": "2022-05",
+      "totalPlays": 678,
+      "medianListeners": 1129752,
+      "p25Listeners": 282027,
+      "p75Listeners": 2857872,
+      "obscurityScore": 47.4,
+      "tierPct": {
+        "obscure": 16.08,
+        "niche": 17.11,
+        "mid": 38.5,
+        "popular": 10.32,
+        "mainstream": 17.99
+      },
+      "mostObscure": {
+        "name": "POiSON GiRLFRiEND",
+        "listeners": 3652,
+        "plays": 6
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 11
+      }
+    },
+    {
+      "month": "2022-06",
+      "totalPlays": 510,
+      "medianListeners": 1062131,
+      "p25Listeners": 615157,
+      "p75Listeners": 2643444,
+      "obscurityScore": 48.7,
+      "tierPct": {
+        "obscure": 6.86,
+        "niche": 11.57,
+        "mid": 50.39,
+        "popular": 14.31,
+        "mainstream": 16.86
+      },
+      "mostObscure": {
+        "name": "SHADXWBXRN, ARCHEZ & KXNVRA",
+        "listeners": 943,
+        "plays": 6
+      },
+      "mostMainstream": {
+        "name": "Rihanna",
+        "listeners": 8184785,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2022-07",
+      "totalPlays": 1097,
+      "medianListeners": 1129752,
+      "p25Listeners": 484524,
+      "p75Listeners": 2438312,
+      "obscurityScore": 47.4,
+      "tierPct": {
+        "obscure": 3.92,
+        "niche": 22.79,
+        "mid": 36.65,
+        "popular": 28.53,
+        "mainstream": 8.11
+      },
+      "mostObscure": {
+        "name": "Milmine",
+        "listeners": 87195,
+        "plays": 5
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 21
+      }
+    },
+    {
+      "month": "2022-08",
+      "totalPlays": 953,
+      "medianListeners": 1193164,
+      "p25Listeners": 608202,
+      "p75Listeners": 2695632,
+      "obscurityScore": 46.2,
+      "tierPct": {
+        "obscure": 7.03,
+        "niche": 14.59,
+        "mid": 44.18,
+        "popular": 23.5,
+        "mainstream": 10.7
+      },
+      "mostObscure": {
+        "name": "Madvillain, Madlib & MF DOOM",
+        "listeners": 42550,
+        "plays": 22
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 11
+      }
+    },
+    {
+      "month": "2022-09",
+      "totalPlays": 848,
+      "medianListeners": 785906,
+      "p25Listeners": 372367,
+      "p75Listeners": 2062432,
+      "obscurityScore": 55.2,
+      "tierPct": {
+        "obscure": 13.09,
+        "niche": 21.34,
+        "mid": 40.33,
+        "popular": 19.81,
+        "mainstream": 5.42
+      },
+      "mostObscure": {
+        "name": "American Pleasure Club & Teen Suicide",
+        "listeners": 1472,
+        "plays": 10
+      },
+      "mostMainstream": {
+        "name": "Rihanna",
+        "listeners": 8184785,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2022-10",
+      "totalPlays": 1224,
+      "medianListeners": 757221,
+      "p25Listeners": 372367,
+      "p75Listeners": 1517283,
+      "obscurityScore": 56,
+      "tierPct": {
+        "obscure": 11.27,
+        "niche": 18.55,
+        "mid": 47.39,
+        "popular": 15.77,
+        "mainstream": 7.03
+      },
+      "mostObscure": {
+        "name": "POiSON GiRLFRiEND",
+        "listeners": 3652,
+        "plays": 6
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2022-11",
+      "totalPlays": 388,
+      "medianListeners": 975218,
+      "p25Listeners": 397708,
+      "p75Listeners": 2233871,
+      "obscurityScore": 50.5,
+      "tierPct": {
+        "obscure": 10.57,
+        "niche": 17.01,
+        "mid": 43.81,
+        "popular": 24.74,
+        "mainstream": 3.87
+      },
+      "mostObscure": {
+        "name": "Courtney Barnett & Kurt Vile",
+        "listeners": 17453,
+        "plays": 8
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2022-12",
+      "totalPlays": 527,
+      "medianListeners": 1517283,
+      "p25Listeners": 615157,
+      "p75Listeners": 3181616,
+      "obscurityScore": 40.9,
+      "tierPct": {
+        "obscure": 2.28,
+        "niche": 16.32,
+        "mid": 38.33,
+        "popular": 33.59,
+        "mainstream": 9.49
+      },
+      "mostObscure": {
+        "name": "Milmine",
+        "listeners": 87195,
+        "plays": 4
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 11
+      }
+    },
+    {
+      "month": "2023-01",
+      "totalPlays": 1430,
+      "medianListeners": 1032050,
+      "p25Listeners": 397708,
+      "p75Listeners": 2233871,
+      "obscurityScore": 49.3,
+      "tierPct": {
+        "obscure": 6.22,
+        "niche": 21.75,
+        "mid": 42.59,
+        "popular": 26.29,
+        "mainstream": 3.15
+      },
+      "mostObscure": {
+        "name": "Adrianne Lenker & Buck Meek",
+        "listeners": 4347,
+        "plays": 7
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 10
+      }
+    },
+    {
+      "month": "2023-02",
+      "totalPlays": 1384,
+      "medianListeners": 1076076,
+      "p25Listeners": 514425,
+      "p75Listeners": 3185666,
+      "obscurityScore": 48.4,
+      "tierPct": {
+        "obscure": 3.32,
+        "niche": 21.46,
+        "mid": 40.25,
+        "popular": 15.68,
+        "mainstream": 19.29
+      },
+      "mostObscure": {
+        "name": "Deep Sea Peach Tree",
+        "listeners": 43756,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 31
+      }
+    },
+    {
+      "month": "2023-03",
+      "totalPlays": 652,
+      "medianListeners": 1455352,
+      "p25Listeners": 469282,
+      "p75Listeners": 2857872,
+      "obscurityScore": 41.9,
+      "tierPct": {
+        "obscure": 5.67,
+        "niche": 24.69,
+        "mid": 32.98,
+        "popular": 23.62,
+        "mainstream": 13.04
+      },
+      "mostObscure": {
+        "name": "Alves",
+        "listeners": 7520,
+        "plays": 10
+      },
+      "mostMainstream": {
+        "name": "Rihanna",
+        "listeners": 8184785,
+        "plays": 2
+      }
+    },
+    {
+      "month": "2023-04",
+      "totalPlays": 537,
+      "medianListeners": 1244652,
+      "p25Listeners": 347523,
+      "p75Listeners": 3049132,
+      "obscurityScore": 45.2,
+      "tierPct": {
+        "obscure": 9.31,
+        "niche": 23.46,
+        "mid": 29.42,
+        "popular": 28.49,
+        "mainstream": 9.31
+      },
+      "mostObscure": {
+        "name": "Alves",
+        "listeners": 7520,
+        "plays": 10
+      },
+      "mostMainstream": {
+        "name": "Rihanna",
+        "listeners": 8184785,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2023-05",
+      "totalPlays": 929,
+      "medianListeners": 1062131,
+      "p25Listeners": 319607,
+      "p75Listeners": 1712617,
+      "obscurityScore": 48.7,
+      "tierPct": {
+        "obscure": 7.1,
+        "niche": 22.93,
+        "mid": 46.29,
+        "popular": 13.99,
+        "mainstream": 9.69
+      },
+      "mostObscure": {
+        "name": "Teen Suicide & American Pleasure Club",
+        "listeners": 582,
+        "plays": 11
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 22
+      }
+    },
+    {
+      "month": "2023-06",
+      "totalPlays": 1232,
+      "medianListeners": 1499168,
+      "p25Listeners": 550403,
+      "p75Listeners": 3185666,
+      "obscurityScore": 41.2,
+      "tierPct": {
+        "obscure": 6.09,
+        "niche": 16.64,
+        "mid": 36.36,
+        "popular": 29.3,
+        "mainstream": 11.61
+      },
+      "mostObscure": {
+        "name": "Alves",
+        "listeners": 7520,
+        "plays": 14
+      },
+      "mostMainstream": {
+        "name": "Coldplay",
+        "listeners": 9003415,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2023-07",
+      "totalPlays": 1133,
+      "medianListeners": 1902222,
+      "p25Listeners": 769271,
+      "p75Listeners": 3847110,
+      "obscurityScore": 36,
+      "tierPct": {
+        "obscure": 5.38,
+        "niche": 13.68,
+        "mid": 31.6,
+        "popular": 32.04,
+        "mainstream": 17.3
+      },
+      "mostObscure": {
+        "name": "Hello Mary",
+        "listeners": 70577,
+        "plays": 30
+      },
+      "mostMainstream": {
+        "name": "Rihanna",
+        "listeners": 8184785,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2023-08",
+      "totalPlays": 391,
+      "medianListeners": 1032050,
+      "p25Listeners": 324971,
+      "p75Listeners": 2423980,
+      "obscurityScore": 49.3,
+      "tierPct": {
+        "obscure": 16.37,
+        "niche": 16.88,
+        "mid": 39.9,
+        "popular": 14.32,
+        "mainstream": 12.53
+      },
+      "mostObscure": {
+        "name": "Ayla D'Lyla & Miss Madeline",
+        "listeners": 1041,
+        "plays": 7
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 11
+      }
+    },
+    {
+      "month": "2023-09",
+      "totalPlays": 537,
+      "medianListeners": 1128403,
+      "p25Listeners": 428831,
+      "p75Listeners": 2965725,
+      "obscurityScore": 47.4,
+      "tierPct": {
+        "obscure": 12.29,
+        "niche": 15.64,
+        "mid": 35.75,
+        "popular": 25.7,
+        "mainstream": 10.61
+      },
+      "mostObscure": {
+        "name": "The Ninjas",
+        "listeners": 35795,
+        "plays": 4
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2023-10",
+      "totalPlays": 838,
+      "medianListeners": 1128403,
+      "p25Listeners": 236028,
+      "p75Listeners": 2769158,
+      "obscurityScore": 47.4,
+      "tierPct": {
+        "obscure": 16.35,
+        "niche": 15.39,
+        "mid": 36.4,
+        "popular": 22.79,
+        "mainstream": 9.07
+      },
+      "mostObscure": {
+        "name": "Crumb & Melody's Echo Chamber",
+        "listeners": 855,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Coldplay",
+        "listeners": 9003415,
+        "plays": 3
+      }
+    },
+    {
+      "month": "2023-11",
+      "totalPlays": 561,
+      "medianListeners": 1517599,
+      "p25Listeners": 404312,
+      "p75Listeners": 3212469,
+      "obscurityScore": 40.9,
+      "tierPct": {
+        "obscure": 14.26,
+        "niche": 13.73,
+        "mid": 29.06,
+        "popular": 34.05,
+        "mainstream": 8.91
+      },
+      "mostObscure": {
+        "name": "Hideyuki Hashimoto & Hiroco.M",
+        "listeners": 372,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 8
+      }
+    },
+    {
+      "month": "2023-12",
+      "totalPlays": 1478,
+      "medianListeners": 1499168,
+      "p25Listeners": 355930,
+      "p75Listeners": 2605030,
+      "obscurityScore": 41.2,
+      "tierPct": {
+        "obscure": 10.35,
+        "niche": 20.09,
+        "mid": 31.66,
+        "popular": 35.25,
+        "mainstream": 2.64
+      },
+      "mostObscure": {
+        "name": "American Pleasure Club & Teen Suicide",
+        "listeners": 1472,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Rihanna",
+        "listeners": 8184785,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2024-01",
+      "totalPlays": 955,
+      "medianListeners": 1517283,
+      "p25Listeners": 379534,
+      "p75Listeners": 2643444,
+      "obscurityScore": 40.9,
+      "tierPct": {
+        "obscure": 15.71,
+        "niche": 12.98,
+        "mid": 31.94,
+        "popular": 28.17,
+        "mainstream": 11.2
+      },
+      "mostObscure": {
+        "name": "Alexandra Stréliski",
+        "listeners": 10409,
+        "plays": 39
+      },
+      "mostMainstream": {
+        "name": "Coldplay",
+        "listeners": 9003415,
+        "plays": 2
+      }
+    },
+    {
+      "month": "2024-02",
+      "totalPlays": 726,
+      "medianListeners": 654385,
+      "p25Listeners": 266068,
+      "p75Listeners": 1571982,
+      "obscurityScore": 59.2,
+      "tierPct": {
+        "obscure": 15.29,
+        "niche": 30.72,
+        "mid": 33.2,
+        "popular": 18.6,
+        "mainstream": 2.2
+      },
+      "mostObscure": {
+        "name": "Alexandra Stréliski",
+        "listeners": 10409,
+        "plays": 25
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 4
+      }
+    },
+    {
+      "month": "2024-03",
+      "totalPlays": 1158,
+      "medianListeners": 1065531,
+      "p25Listeners": 384674,
+      "p75Listeners": 2643444,
+      "obscurityScore": 48.6,
+      "tierPct": {
+        "obscure": 10.88,
+        "niche": 18.91,
+        "mid": 33.77,
+        "popular": 26.42,
+        "mainstream": 10.02
+      },
+      "mostObscure": {
+        "name": "Kenny Segal & Milo",
+        "listeners": 575,
+        "plays": 20
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2024-04",
+      "totalPlays": 1513,
+      "medianListeners": 1922394,
+      "p25Listeners": 654385,
+      "p75Listeners": 2917664,
+      "obscurityScore": 35.8,
+      "tierPct": {
+        "obscure": 7.73,
+        "niche": 16.33,
+        "mid": 26.97,
+        "popular": 42.83,
+        "mainstream": 6.15
+      },
+      "mostObscure": {
+        "name": "De la beauté",
+        "listeners": 166,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 2
+      }
+    },
+    {
+      "month": "2024-05",
+      "totalPlays": 1356,
+      "medianListeners": 1308048,
+      "p25Listeners": 533730,
+      "p75Listeners": 2643444,
+      "obscurityScore": 44.2,
+      "tierPct": {
+        "obscure": 7.23,
+        "niche": 17.55,
+        "mid": 38.57,
+        "popular": 30.53,
+        "mainstream": 6.12
+      },
+      "mostObscure": {
+        "name": "Cuco & Clairo",
+        "listeners": 6436,
+        "plays": 4
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 17
+      }
+    },
+    {
+      "month": "2024-06",
+      "totalPlays": 1300,
+      "medianListeners": 1571982,
+      "p25Listeners": 390895,
+      "p75Listeners": 2917664,
+      "obscurityScore": 40.2,
+      "tierPct": {
+        "obscure": 9.69,
+        "niche": 17.15,
+        "mid": 29.62,
+        "popular": 38.85,
+        "mainstream": 4.69
+      },
+      "mostObscure": {
+        "name": "Katie Jane Garside",
+        "listeners": 4827,
+        "plays": 5
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 12
+      }
+    },
+    {
+      "month": "2024-07",
+      "totalPlays": 1050,
+      "medianListeners": 1391030,
+      "p25Listeners": 504232,
+      "p75Listeners": 2997771,
+      "obscurityScore": 42.8,
+      "tierPct": {
+        "obscure": 9.14,
+        "niche": 15.43,
+        "mid": 35.43,
+        "popular": 31.62,
+        "mainstream": 8.38
+      },
+      "mostObscure": {
+        "name": "Hanumankind & Kalmi",
+        "listeners": 9246,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Rihanna",
+        "listeners": 8184785,
+        "plays": 2
+      }
+    },
+    {
+      "month": "2024-08",
+      "totalPlays": 1013,
+      "medianListeners": 700975,
+      "p25Listeners": 371086,
+      "p75Listeners": 2617667,
+      "obscurityScore": 57.7,
+      "tierPct": {
+        "obscure": 10.86,
+        "niche": 33.46,
+        "mid": 22.9,
+        "popular": 26.85,
+        "mainstream": 5.92
+      },
+      "mostObscure": {
+        "name": "Underscores & henhouse!",
+        "listeners": 3691,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Rihanna",
+        "listeners": 8184785,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2024-09",
+      "totalPlays": 892,
+      "medianListeners": 1308048,
+      "p25Listeners": 471793,
+      "p75Listeners": 2917664,
+      "obscurityScore": 44.2,
+      "tierPct": {
+        "obscure": 8.74,
+        "niche": 17.26,
+        "mid": 37.78,
+        "popular": 27.91,
+        "mainstream": 8.3
+      },
+      "mostObscure": {
+        "name": "PITY PARTY GIRLS CLUB",
+        "listeners": 2499,
+        "plays": 6
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2024-10",
+      "totalPlays": 705,
+      "medianListeners": 1349171,
+      "p25Listeners": 389214,
+      "p75Listeners": 2017857,
+      "obscurityScore": 43.5,
+      "tierPct": {
+        "obscure": 9.65,
+        "niche": 22.27,
+        "mid": 42.41,
+        "popular": 22.13,
+        "mainstream": 3.55
+      },
+      "mostObscure": {
+        "name": "Underscores & henhouse!",
+        "listeners": 3691,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 2
+      }
+    },
+    {
+      "month": "2024-11",
+      "totalPlays": 670,
+      "medianListeners": 1947824,
+      "p25Listeners": 1947824,
+      "p75Listeners": 1947824,
+      "obscurityScore": 35.5,
+      "tierPct": {
+        "obscure": 3.43,
+        "niche": 10.9,
+        "mid": 68.21,
+        "popular": 3.43,
+        "mainstream": 14.03
+      },
+      "mostObscure": {
+        "name": "Kendrick Lamar & SZA",
+        "listeners": 66884,
+        "plays": 5
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 16
+      }
+    },
+    {
+      "month": "2024-12",
+      "totalPlays": 843,
+      "medianListeners": 1517283,
+      "p25Listeners": 716212,
+      "p75Listeners": 2238317,
+      "obscurityScore": 40.9,
+      "tierPct": {
+        "obscure": 6.29,
+        "niche": 15.42,
+        "mid": 50.18,
+        "popular": 17.91,
+        "mainstream": 10.2
+      },
+      "mostObscure": {
+        "name": "Courtney Barnett & Kurt Vile",
+        "listeners": 17453,
+        "plays": 7
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 5
+      }
+    },
+    {
+      "month": "2025-01",
+      "totalPlays": 1005,
+      "medianListeners": 1947824,
+      "p25Listeners": 757221,
+      "p75Listeners": 3452818,
+      "obscurityScore": 35.5,
+      "tierPct": {
+        "obscure": 9.15,
+        "niche": 12.14,
+        "mid": 30.65,
+        "popular": 34.33,
+        "mainstream": 13.73
+      },
+      "mostObscure": {
+        "name": "Hello Mary",
+        "listeners": 70577,
+        "plays": 20
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 15
+      }
+    },
+    {
+      "month": "2025-02",
+      "totalPlays": 959,
+      "medianListeners": 1617002,
+      "p25Listeners": 736188,
+      "p75Listeners": 2917664,
+      "obscurityScore": 39.6,
+      "tierPct": {
+        "obscure": 7.3,
+        "niche": 15.02,
+        "mid": 39.83,
+        "popular": 27.95,
+        "mainstream": 9.91
+      },
+      "mostObscure": {
+        "name": "proderics & melodybloom",
+        "listeners": 1153,
+        "plays": 11
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 3
+      }
+    },
+    {
+      "month": "2025-03",
+      "totalPlays": 1021,
+      "medianListeners": 1193164,
+      "p25Listeners": 514425,
+      "p75Listeners": 1922394,
+      "obscurityScore": 46.2,
+      "tierPct": {
+        "obscure": 4.51,
+        "niche": 20.47,
+        "mid": 51.32,
+        "popular": 15.18,
+        "mainstream": 8.52
+      },
+      "mostObscure": {
+        "name": "Alves",
+        "listeners": 7520,
+        "plays": 10
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 7
+      }
+    },
+    {
+      "month": "2025-04",
+      "totalPlays": 799,
+      "medianListeners": 1062131,
+      "p25Listeners": 510564,
+      "p75Listeners": 1947824,
+      "obscurityScore": 48.7,
+      "tierPct": {
+        "obscure": 7.76,
+        "niche": 16.9,
+        "mid": 53.57,
+        "popular": 16.77,
+        "mainstream": 5.01
+      },
+      "mostObscure": {
+        "name": "The Ninjas",
+        "listeners": 35795,
+        "plays": 4
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 8
+      }
+    },
+    {
+      "month": "2025-05",
+      "totalPlays": 1223,
+      "medianListeners": 1617002,
+      "p25Listeners": 899525,
+      "p75Listeners": 1947824,
+      "obscurityScore": 39.6,
+      "tierPct": {
+        "obscure": 6.3,
+        "niche": 11.04,
+        "mid": 63.29,
+        "popular": 15.7,
+        "mainstream": 3.68
+      },
+      "mostObscure": {
+        "name": "Saba & No ID",
+        "listeners": 5589,
+        "plays": 15
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2025-06",
+      "totalPlays": 919,
+      "medianListeners": 1032050,
+      "p25Listeners": 754562,
+      "p75Listeners": 1828069,
+      "obscurityScore": 49.3,
+      "tierPct": {
+        "obscure": 4.46,
+        "niche": 15.89,
+        "mid": 59.19,
+        "popular": 17.85,
+        "mainstream": 2.61
+      },
+      "mostObscure": {
+        "name": "Tweedy & Jeff Tweedy",
+        "listeners": 501,
+        "plays": 7
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 3
+      }
+    },
+    {
+      "month": "2025-07",
+      "totalPlays": 766,
+      "medianListeners": 873125,
+      "p25Listeners": 389214,
+      "p75Listeners": 1947824,
+      "obscurityScore": 52.9,
+      "tierPct": {
+        "obscure": 17.23,
+        "niche": 9.53,
+        "mid": 53.79,
+        "popular": 12.4,
+        "mainstream": 7.05
+      },
+      "mostObscure": {
+        "name": "Clipse, The-Dream, Pharrell Williams, Pusha T & Malice",
+        "listeners": 7373,
+        "plays": 7
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 3
+      }
+    },
+    {
+      "month": "2025-08",
+      "totalPlays": 505,
+      "medianListeners": 1032050,
+      "p25Listeners": 769271,
+      "p75Listeners": 1517283,
+      "obscurityScore": 49.3,
+      "tierPct": {
+        "obscure": 7.13,
+        "niche": 13.27,
+        "mid": 63.37,
+        "popular": 13.27,
+        "mainstream": 2.97
+      },
+      "mostObscure": {
+        "name": "Clipse, Pharrell Williams, Pusha T & Malice",
+        "listeners": 9706,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2025-09",
+      "totalPlays": 394,
+      "medianListeners": 1042970,
+      "p25Listeners": 1032050,
+      "p75Listeners": 2917664,
+      "obscurityScore": 49.1,
+      "tierPct": {
+        "obscure": 1.52,
+        "niche": 9.9,
+        "mid": 60.41,
+        "popular": 17.26,
+        "mainstream": 10.91
+      },
+      "mostObscure": {
+        "name": "The Licks",
+        "listeners": 116425,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2025-10",
+      "totalPlays": 436,
+      "medianListeners": 3049132,
+      "p25Listeners": 1032050,
+      "p75Listeners": 3185666,
+      "obscurityScore": 25.8,
+      "tierPct": {
+        "obscure": 3.44,
+        "niche": 4.82,
+        "mid": 33.72,
+        "popular": 47.48,
+        "mainstream": 10.55
+      },
+      "mostObscure": {
+        "name": "The Parcels",
+        "listeners": 3353,
+        "plays": 4
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2025-11",
+      "totalPlays": 744,
+      "medianListeners": 1617002,
+      "p25Listeners": 501473,
+      "p75Listeners": 3049132,
+      "obscurityScore": 39.6,
+      "tierPct": {
+        "obscure": 3.49,
+        "niche": 19.76,
+        "mid": 41.53,
+        "popular": 25,
+        "mainstream": 10.22
+      },
+      "mostObscure": {
+        "name": "Pacifica",
+        "listeners": 78641,
+        "plays": 5
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 11
+      }
+    },
+    {
+      "month": "2025-12",
+      "totalPlays": 1066,
+      "medianListeners": 789791,
+      "p25Listeners": 321006,
+      "p75Listeners": 1947824,
+      "obscurityScore": 55.1,
+      "tierPct": {
+        "obscure": 4.13,
+        "niche": 41.37,
+        "mid": 29.92,
+        "popular": 20.08,
+        "mainstream": 4.5
+      },
+      "mostObscure": {
+        "name": "Guy Sigsworth, Imogen Heap & Frou Frou",
+        "listeners": 3117,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Rihanna",
+        "listeners": 8184785,
+        "plays": 2
+      }
+    },
+    {
+      "month": "2026-01",
+      "totalPlays": 748,
+      "medianListeners": 1391030,
+      "p25Listeners": 372367,
+      "p75Listeners": 2917664,
+      "obscurityScore": 42.8,
+      "tierPct": {
+        "obscure": 4.41,
+        "niche": 23.26,
+        "mid": 41.84,
+        "popular": 22.73,
+        "mainstream": 7.75
+      },
+      "mostObscure": {
+        "name": "Clipse, Pharrell Williams, Pusha T & Malice",
+        "listeners": 9706,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 3
+      }
+    },
+    {
+      "month": "2026-02",
+      "totalPlays": 325,
+      "medianListeners": 1032050,
+      "p25Listeners": 361968,
+      "p75Listeners": 1617002,
+      "obscurityScore": 49.3,
+      "tierPct": {
+        "obscure": 4.92,
+        "niche": 26.15,
+        "mid": 46.77,
+        "popular": 16.62,
+        "mainstream": 5.54
+      },
+      "mostObscure": {
+        "name": "Peter, Paul & Mary",
+        "listeners": 195823,
+        "plays": 13
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 4
+      }
+    }
+  ],
+  "quarterly": [
+    {
+      "month": "2016-03",
+      "totalPlays": 319,
+      "obscurityScore": 29,
+      "medianListeners": 4026440,
+      "tierPct": {
+        "obscure": 9.73,
+        "niche": 12.05,
+        "mid": 22.1,
+        "popular": 18,
+        "mainstream": 38.12
+      }
+    },
+    {
+      "month": "2016-06",
+      "totalPlays": 476,
+      "obscurityScore": 29.5,
+      "medianListeners": 3877579,
+      "tierPct": {
+        "obscure": 11.53,
+        "niche": 18.76,
+        "mid": 23.33,
+        "popular": 9.11,
+        "mainstream": 37.27
+      }
+    },
+    {
+      "month": "2016-09",
+      "totalPlays": 179,
+      "obscurityScore": 44.7,
+      "medianListeners": 1444233,
+      "tierPct": {
+        "obscure": 29.04,
+        "niche": 7.7,
+        "mid": 17.36,
+        "popular": 22.35,
+        "mainstream": 23.55
+      }
+    },
+    {
+      "month": "2016-12",
+      "totalPlays": 373,
+      "obscurityScore": 45.6,
+      "medianListeners": 2922375,
+      "tierPct": {
+        "obscure": 22.7,
+        "niche": 8.41,
+        "mid": 8.28,
+        "popular": 29.39,
+        "mainstream": 31.22
+      }
+    },
+    {
+      "month": "2017-10",
+      "totalPlays": 36,
+      "obscurityScore": 48.4,
+      "medianListeners": 1819780,
+      "tierPct": {
+        "obscure": 13.67,
+        "niche": 13.25,
+        "mid": 24.15,
+        "popular": 41.24,
+        "mainstream": 7.69
+      }
+    },
+    {
+      "month": "2018-01",
+      "totalPlays": 29,
+      "obscurityScore": 50.9,
+      "medianListeners": 1333516,
+      "tierPct": {
+        "obscure": 3.17,
+        "niche": 22.22,
+        "mid": 23.02,
+        "popular": 50,
+        "mainstream": 1.59
+      }
+    },
+    {
+      "month": "2018-07",
+      "totalPlays": 3454,
+      "obscurityScore": 40.6,
+      "medianListeners": 1549337,
+      "tierPct": {
+        "obscure": 9.88,
+        "niche": 14.7,
+        "mid": 32.18,
+        "popular": 29.64,
+        "mainstream": 13.6
+      }
+    },
+    {
+      "month": "2018-10",
+      "totalPlays": 2832,
+      "obscurityScore": 44.2,
+      "medianListeners": 1331719,
+      "tierPct": {
+        "obscure": 10.81,
+        "niche": 19.06,
+        "mid": 32.44,
+        "popular": 28.29,
+        "mainstream": 9.4
+      }
+    },
+    {
+      "month": "2019-01",
+      "totalPlays": 2455,
+      "obscurityScore": 40.7,
+      "medianListeners": 1554188,
+      "tierPct": {
+        "obscure": 13.66,
+        "niche": 16.6,
+        "mid": 32.66,
+        "popular": 28.54,
+        "mainstream": 8.53
+      }
+    },
+    {
+      "month": "2019-04",
+      "totalPlays": 3530,
+      "obscurityScore": 41,
+      "medianListeners": 1518643,
+      "tierPct": {
+        "obscure": 7.57,
+        "niche": 18.26,
+        "mid": 32.08,
+        "popular": 28.77,
+        "mainstream": 13.31
+      }
+    },
+    {
+      "month": "2019-07",
+      "totalPlays": 1839,
+      "obscurityScore": 38.8,
+      "medianListeners": 1676554,
+      "tierPct": {
+        "obscure": 8.71,
+        "niche": 17.56,
+        "mid": 26.86,
+        "popular": 31.52,
+        "mainstream": 15.34
+      }
+    },
+    {
+      "month": "2019-10",
+      "totalPlays": 1798,
+      "obscurityScore": 36.8,
+      "medianListeners": 2129815,
+      "tierPct": {
+        "obscure": 6.14,
+        "niche": 19.71,
+        "mid": 29.41,
+        "popular": 32.32,
+        "mainstream": 12.42
+      }
+    },
+    {
+      "month": "2020-01",
+      "totalPlays": 1541,
+      "obscurityScore": 36.9,
+      "medianListeners": 1839413,
+      "tierPct": {
+        "obscure": 8.35,
+        "niche": 11.33,
+        "mid": 34.37,
+        "popular": 37.95,
+        "mainstream": 7.99
+      }
+    },
+    {
+      "month": "2020-04",
+      "totalPlays": 2231,
+      "obscurityScore": 42.7,
+      "medianListeners": 1617811,
+      "tierPct": {
+        "obscure": 9.65,
+        "niche": 18.88,
+        "mid": 30.18,
+        "popular": 30.06,
+        "mainstream": 11.23
+      }
+    },
+    {
+      "month": "2020-07",
+      "totalPlays": 1963,
+      "obscurityScore": 45.7,
+      "medianListeners": 1286858,
+      "tierPct": {
+        "obscure": 14.03,
+        "niche": 16.71,
+        "mid": 32.08,
+        "popular": 29,
+        "mainstream": 8.17
+      }
+    },
+    {
+      "month": "2020-10",
+      "totalPlays": 1630,
+      "obscurityScore": 45.5,
+      "medianListeners": 1317212,
+      "tierPct": {
+        "obscure": 17.76,
+        "niche": 15.1,
+        "mid": 30.74,
+        "popular": 27.86,
+        "mainstream": 8.54
+      }
+    },
+    {
+      "month": "2021-01",
+      "totalPlays": 3010,
+      "obscurityScore": 44.3,
+      "medianListeners": 1322133,
+      "tierPct": {
+        "obscure": 14.76,
+        "niche": 13.91,
+        "mid": 36.48,
+        "popular": 24.23,
+        "mainstream": 10.62
+      }
+    },
+    {
+      "month": "2021-04",
+      "totalPlays": 2837,
+      "obscurityScore": 46.5,
+      "medianListeners": 1210775,
+      "tierPct": {
+        "obscure": 15.33,
+        "niche": 14.79,
+        "mid": 36.18,
+        "popular": 24.79,
+        "mainstream": 8.91
+      }
+    },
+    {
+      "month": "2021-07",
+      "totalPlays": 2036,
+      "obscurityScore": 54.3,
+      "medianListeners": 891482,
+      "tierPct": {
+        "obscure": 21.65,
+        "niche": 18.22,
+        "mid": 38.52,
+        "popular": 17.22,
+        "mainstream": 4.39
+      }
+    },
+    {
+      "month": "2021-10",
+      "totalPlays": 1030,
+      "obscurityScore": 55.1,
+      "medianListeners": 789798,
+      "tierPct": {
+        "obscure": 17.92,
+        "niche": 17.94,
+        "mid": 44.06,
+        "popular": 16.34,
+        "mainstream": 3.74
+      }
+    },
+    {
+      "month": "2022-01",
+      "totalPlays": 1834,
+      "obscurityScore": 41.2,
+      "medianListeners": 1598664,
+      "tierPct": {
+        "obscure": 10.91,
+        "niche": 12.59,
+        "mid": 35.67,
+        "popular": 33.71,
+        "mainstream": 7.12
+      }
+    },
+    {
+      "month": "2022-04",
+      "totalPlays": 1740,
+      "obscurityScore": 46.3,
+      "medianListeners": 1194304,
+      "tierPct": {
+        "obscure": 8.98,
+        "niche": 12.46,
+        "mid": 45.69,
+        "popular": 17.39,
+        "mainstream": 15.48
+      }
+    },
+    {
+      "month": "2022-07",
+      "totalPlays": 2898,
+      "obscurityScore": 49.6,
+      "medianListeners": 1036274,
+      "tierPct": {
+        "obscure": 8.01,
+        "niche": 19.57,
+        "mid": 40.39,
+        "popular": 23.95,
+        "mainstream": 8.08
+      }
+    },
+    {
+      "month": "2022-10",
+      "totalPlays": 2139,
+      "obscurityScore": 49.1,
+      "medianListeners": 1083241,
+      "tierPct": {
+        "obscure": 8.04,
+        "niche": 17.29,
+        "mid": 43.18,
+        "popular": 24.7,
+        "mainstream": 6.8
+      }
+    },
+    {
+      "month": "2023-01",
+      "totalPlays": 3466,
+      "obscurityScore": 46.5,
+      "medianListeners": 1187826,
+      "tierPct": {
+        "obscure": 5.07,
+        "niche": 22.63,
+        "mid": 38.61,
+        "popular": 21.86,
+        "mainstream": 11.83
+      }
+    },
+    {
+      "month": "2023-04",
+      "totalPlays": 2698,
+      "obscurityScore": 45,
+      "medianListeners": 1268650,
+      "tierPct": {
+        "obscure": 7.5,
+        "niche": 21.01,
+        "mid": 37.36,
+        "popular": 23.93,
+        "mainstream": 10.2
+      }
+    },
+    {
+      "month": "2023-07",
+      "totalPlays": 2061,
+      "obscurityScore": 44.2,
+      "medianListeners": 1354225,
+      "tierPct": {
+        "obscure": 11.35,
+        "niche": 15.4,
+        "mid": 35.75,
+        "popular": 24.02,
+        "mainstream": 13.48
+      }
+    },
+    {
+      "month": "2023-10",
+      "totalPlays": 2877,
+      "obscurityScore": 43.2,
+      "medianListeners": 1381723,
+      "tierPct": {
+        "obscure": 13.65,
+        "niche": 16.4,
+        "mid": 32.37,
+        "popular": 30.7,
+        "mainstream": 6.87
+      }
+    },
+    {
+      "month": "2024-01",
+      "totalPlays": 2839,
+      "obscurityScore": 49.6,
+      "medianListeners": 1079066,
+      "tierPct": {
+        "obscure": 13.96,
+        "niche": 20.87,
+        "mid": 32.97,
+        "popular": 24.4,
+        "mainstream": 7.81
+      }
+    },
+    {
+      "month": "2024-04",
+      "totalPlays": 4169,
+      "obscurityScore": 40.1,
+      "medianListeners": 1600808,
+      "tierPct": {
+        "obscure": 8.22,
+        "niche": 17.01,
+        "mid": 31.72,
+        "popular": 37.4,
+        "mainstream": 5.65
+      }
+    },
+    {
+      "month": "2024-07",
+      "totalPlays": 2955,
+      "obscurityScore": 48.2,
+      "medianListeners": 1133351,
+      "tierPct": {
+        "obscure": 9.58,
+        "niche": 22.05,
+        "mid": 32.04,
+        "popular": 28.79,
+        "mainstream": 7.53
+      }
+    },
+    {
+      "month": "2024-10",
+      "totalPlays": 2218,
+      "obscurityScore": 40,
+      "medianListeners": 1604759,
+      "tierPct": {
+        "obscure": 6.46,
+        "niche": 16.2,
+        "mid": 53.6,
+        "popular": 14.49,
+        "mainstream": 9.26
+      }
+    },
+    {
+      "month": "2025-01",
+      "totalPlays": 2985,
+      "obscurityScore": 40.4,
+      "medianListeners": 1585997,
+      "tierPct": {
+        "obscure": 6.99,
+        "niche": 15.88,
+        "mid": 40.6,
+        "popular": 25.82,
+        "mainstream": 10.72
+      }
+    },
+    {
+      "month": "2025-04",
+      "totalPlays": 2941,
+      "obscurityScore": 45.9,
+      "medianListeners": 1237061,
+      "tierPct": {
+        "obscure": 6.17,
+        "niche": 14.61,
+        "mid": 58.68,
+        "popular": 16.77,
+        "mainstream": 3.77
+      }
+    },
+    {
+      "month": "2025-07",
+      "totalPlays": 1665,
+      "obscurityScore": 50.4,
+      "medianListeners": 982715,
+      "tierPct": {
+        "obscure": 8.63,
+        "niche": 10.9,
+        "mid": 59.19,
+        "popular": 14.31,
+        "mainstream": 6.98
+      }
+    },
+    {
+      "month": "2025-10",
+      "totalPlays": 2246,
+      "obscurityScore": 40.2,
+      "medianListeners": 1818642,
+      "tierPct": {
+        "obscure": 3.69,
+        "niche": 21.98,
+        "mid": 35.06,
+        "popular": 30.85,
+        "mainstream": 8.42
+      }
+    },
+    {
+      "month": "2026-01",
+      "totalPlays": 1073,
+      "obscurityScore": 46.1,
+      "medianListeners": 1211540,
+      "tierPct": {
+        "obscure": 4.67,
+        "niche": 24.71,
+        "mid": 44.31,
+        "popular": 19.68,
+        "mainstream": 6.65
+      }
+    }
+  ],
+  "meta": {
+    "totalArtists": 4461,
+    "firstMonth": "2016-03",
+    "lastMonth": "2026-02",
+    "overallMedianListeners": 1565854
+  }
+}
