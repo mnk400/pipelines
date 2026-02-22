@@ -45,7 +45,7 @@ jobs:
             exit 0
           fi
           for PROJECT in $CHANGED_PROJECTS; do
-            PIPELINE=$(cat "source/$PROJECT/.pipeline" 2>/dev/null || echo "image")
+            PIPELINE=$(cat "source/$PROJECT/.pipeline" 2>/dev/null || echo "...")
             PIPELINE=$(echo "$PIPELINE" | tr -d '[:space:]')
             echo "Running pipeline/$PIPELINE.sh for $PROJECT"
             bash "pipeline/$PIPELINE.sh" "$PROJECT"

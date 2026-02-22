@@ -1,5 +1,5 @@
 {
-  "name": "cdn",
+  "name": "pipelines",
   "private": true,
   "type": "module"
 }
