@@ -48,15 +48,28 @@ async function main() {
   allScrobbles.push(...extractTracks(first.track));
 
   let newCount = 0;
+  let emptyPages = 0;
   for (let page = 2; page <= totalPages; page++) {
     process.stdout.write(
-      `\r  Fetching page ${page}/${totalPages} (${allScrobbles.length} scrobbles)`,
+      `\r  Fetching page ${page}/${totalPages} (${allScrobbles.length} scrobbles, ${newCount} new)`,
     );
     try {
       const data = await getRecentTracks(page, 200);
       const newTracks = extractTracks(data.track);
       allScrobbles.push(...newTracks);
       newCount += newTracks.length;
+
+      // Recent tracks are newest-first. If we get 3 consecutive pages
+      // with nothing new, the rest are already cached — stop early.
+      if (newTracks.length === 0) {
+        emptyPages++;
+        if (emptyPages >= 3) {
+          console.log(`\n  Stopping early: ${emptyPages} consecutive pages with no new tracks`);
+          break;
+        }
+      } else {
+        emptyPages = 0;
+      }
     } catch (e) {
       console.warn(`\n  Warning: page ${page} failed: ${e.message}`);
     }
