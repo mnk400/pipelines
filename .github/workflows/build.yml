@@ -4,6 +4,8 @@ on:
   push:
     paths:
       - "source/**"
+      - "pipeline/**"
+      - ".github/workflows/**"
 
 permissions:
   contents: write
@@ -13,14 +15,31 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
       - uses: actions/setup-node@v4
         with:
           node-version: 20
 
+      - name: Install image tools
+        run: sudo apt-get update && sudo apt-get install -y webp imagemagick
+
       - name: Detect changed projects and run pipelines
         run: |
-          CHANGED_PROJECTS=$(git diff --name-only HEAD~1 HEAD -- source/ | cut -d/ -f2 | sort -u)
+          # If pipeline or workflow files changed, rebuild all projects
+          REBUILD_ALL=0
+          if git rev-parse HEAD~1 >/dev/null 2>&1; then
+            if git diff --name-only HEAD~1 HEAD -- pipeline/ .github/ | grep -q .; then
+              REBUILD_ALL=1
+            fi
+            CHANGED_PROJECTS=$(git diff --name-only HEAD~1 HEAD -- source/ | cut -d/ -f2 | sort -u)
+          else
+            REBUILD_ALL=1
+          fi
+          if [ "$REBUILD_ALL" = 1 ] && [ -z "$CHANGED_PROJECTS" ]; then
+            CHANGED_PROJECTS=$(ls -d source/*/ 2>/dev/null | xargs -I{} basename {} | sort -u)
+          fi
           if [ -z "$CHANGED_PROJECTS" ]; then
             echo "No project changes detected"
             exit 0
