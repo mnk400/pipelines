@@ -45,8 +45,12 @@ jobs:
             exit 0
           fi
           for PROJECT in $CHANGED_PROJECTS; do
-            PIPELINE=$(cat "source/$PROJECT/.pipeline" 2>/dev/null || echo "...")
+            PIPELINE=$(cat "source/$PROJECT/.pipeline" 2>/dev/null || echo "")
             PIPELINE=$(echo "$PIPELINE" | tr -d '[:space:]')
+            if [ -z "$PIPELINE" ] || [ "$PIPELINE" = "..." ]; then
+              echo "Skipping $PROJECT (no pipeline configured)"
+              continue
+            fi
             echo "Running pipeline/$PIPELINE.sh for $PROJECT"
             bash "pipeline/$PIPELINE.sh" "$PROJECT"
           done
