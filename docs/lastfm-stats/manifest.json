@@ -3,6 +3,8 @@
   "files": [
     { "name": "genre-drift.json", "dir": "processed", "description": "Monthly genre breakdown" },
     { "name": "3am-analysis.json", "dir": "processed", "description": "Hourly listening patterns" },
-    { "name": "mainstream-analysis.json", "dir": "processed", "description": "Obscurity trends" }
+    { "name": "mainstream-analysis.json", "dir": "processed", "description": "Obscurity trends" },
+    { "name": "artist-lifecycle.json", "dir": "processed", "description": "Artist rise-and-fall arcs" },
+    { "name": "discovery.json", "dir": "processed", "description": "New artist discovery rate" }
   ]
 }
