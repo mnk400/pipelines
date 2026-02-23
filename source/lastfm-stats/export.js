@@ -46,3 +46,20 @@ writeFileSync(
   })
 );
 console.log("Exported mainstream-analysis.json");
+
+// Artist lifecycle — keep everything (already small)
+const lifecycle = JSON.parse(readFileSync(`${dataDir}/artist-lifecycle.json`));
+writeFileSync(`${outDir}/artist-lifecycle.json`, JSON.stringify(lifecycle));
+console.log("Exported artist-lifecycle.json");
+
+// Discovery rate — keep monthly, quarterly, meta
+const discovery = JSON.parse(readFileSync(`${dataDir}/discovery.json`));
+writeFileSync(
+  `${outDir}/discovery.json`,
+  JSON.stringify({
+    monthly: discovery.monthly,
+    quarterly: discovery.quarterly,
+    meta: discovery.meta,
+  })
+);
+console.log("Exported discovery.json");

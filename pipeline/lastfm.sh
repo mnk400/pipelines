@@ -22,6 +22,8 @@ node fetch-artist-listeners.js
 node analyze-genre-drift.js
 node analyze-3am.js
 node analyze-mainstream.js
+node analyze-artist-lifecycle.js
+node analyze-discovery.js
 
 # Export trimmed JSON to docs
 mkdir -p "$DOCS_DIR/processed"
@@ -34,7 +36,9 @@ cat > "$DOCS_DIR/manifest.json" << 'MANIFEST'
   "files": [
     { "name": "genre-drift.json", "dir": "processed", "description": "Monthly genre breakdown" },
     { "name": "3am-analysis.json", "dir": "processed", "description": "Hourly listening patterns" },
-    { "name": "mainstream-analysis.json", "dir": "processed", "description": "Obscurity trends" }
+    { "name": "mainstream-analysis.json", "dir": "processed", "description": "Obscurity trends" },
+    { "name": "artist-lifecycle.json", "dir": "processed", "description": "Artist rise-and-fall arcs" },
+    { "name": "discovery.json", "dir": "processed", "description": "New artist discovery rate" }
   ]
 }
 MANIFEST
