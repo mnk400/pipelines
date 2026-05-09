@@ -39,7 +39,12 @@ const paintings = input.records
       dimensions: buildDimensions(r),
       collection: r.collection,
       series: classifySeries(r.title),
-      image: { thumb: r.image.thumb, full: r.image.full },
+      image: {
+        thumb: r.image.thumb,
+        full: r.image.full,
+        width: r.image.width,
+        height: r.image.height,
+      },
       iiif: r.iiif,
     };
   })

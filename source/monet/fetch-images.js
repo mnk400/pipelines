@@ -45,7 +45,17 @@ for (let i = 0; i < withFilename.length; i += BATCH_SIZE) {
   const info = await imageinfo(batch.map((r) => r.image_filename));
   for (const r of batch) {
     const meta = info[r.image_filename];
-    if (meta) records.push({ ...r, image: { thumb: meta.thumb, full: meta.full } });
+    if (meta) {
+      records.push({
+        ...r,
+        image: {
+          thumb: meta.thumb,
+          full: meta.full,
+          width: meta.width,
+          height: meta.height,
+        },
+      });
+    }
   }
   process.stdout.write(`\rImages: ${records.length}/${withFilename.length}`);
   await sleep(150);
