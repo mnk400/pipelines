@@ -1,4 +1,5 @@
 import { readFileSync, writeFileSync } from "node:fs";
+import { fetchJson } from "./http.js";
 
 const UA = "manik.cc-monet-pipeline/0.1 (https://manik.cc; mnk_400@yahoo.com)";
 const API = "https://commons.wikimedia.org/w/api.php";
@@ -17,9 +18,7 @@ async function imageinfo(titles) {
     iiurlwidth: String(THUMB_WIDTH),
     format: "json",
   });
-  const res = await fetch(`${API}?${params}`, { headers: { "User-Agent": UA, Accept: "application/json" } });
-  if (!res.ok) throw new Error(`Commons imageinfo ${res.status} ${res.statusText}`);
-  const data = await res.json();
+  const data = await fetchJson(`${API}?${params}`, { headers: { "User-Agent": UA, Accept: "application/json" } });
   const out = {};
   if (data.query?.pages) {
     for (const p of Object.values(data.query.pages)) {

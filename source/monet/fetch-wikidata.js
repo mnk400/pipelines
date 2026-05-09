@@ -1,4 +1,5 @@
 import { writeFileSync, mkdirSync } from "node:fs";
+import { fetchJson } from "./http.js";
 
 const UA = "manik.cc-monet-pipeline/0.1 (https://manik.cc; mnk_400@yahoo.com)";
 const ENDPOINT = "https://query.wikidata.org/sparql";
@@ -53,9 +54,7 @@ function normalize(rows) {
 }
 
 const url = `${ENDPOINT}?format=json&query=${encodeURIComponent(QUERY)}`;
-const res = await fetch(url, { headers: { "User-Agent": UA, Accept: "application/json" } });
-if (!res.ok) throw new Error(`Wikidata SPARQL ${res.status} ${res.statusText}`);
-const data = await res.json();
+const data = await fetchJson(url, { headers: { "User-Agent": UA, Accept: "application/json" } });
 const records = normalize(data.results.bindings);
 
 mkdirSync("data", { recursive: true });
