@@ -39,6 +39,9 @@ const paintings = input.records
       dimensions: buildDimensions(r),
       collection: r.collection,
       series: classifySeries(r.title),
+      popularity: {
+        sitelinks: r.sitelinks ?? 0,
+      },
       image: {
         thumb: r.image.thumb,
         full: r.image.full,

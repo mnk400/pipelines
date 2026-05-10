@@ -10,9 +10,10 @@ const ENDPOINT = "https://query.wikidata.org/sparql";
 const WILDENSTEIN_CATALOG = "Q17441029";
 
 const QUERY = `
-SELECT ?item ?itemLabel ?inception ?width ?height ?collectionLabel ?wildenstein ?iiif ?image WHERE {
+SELECT ?item ?itemLabel ?inception ?width ?height ?collectionLabel ?wildenstein ?iiif ?image ?sitelinks WHERE {
   ?item wdt:P170 wd:Q296 .
   ?item wdt:P31 wd:Q3305213 .
+  ?item wikibase:sitelinks ?sitelinks .
   OPTIONAL { ?item wdt:P571 ?inception . }
   OPTIONAL { ?item wdt:P2049 ?width . }
   OPTIONAL { ?item wdt:P2048 ?height . }
@@ -46,6 +47,7 @@ function normalize(rows) {
       width_cm: row.width?.value ? Number(row.width.value) : null,
       collection: row.collectionLabel?.value || null,
       wildenstein: row.wildenstein?.value || null,
+      sitelinks: row.sitelinks?.value ? Number(row.sitelinks.value) : 0,
       iiif: row.iiif?.value || null,
       image_filename: row.image?.value ? commonsFilenameFromUrl(row.image.value) : null,
     });
