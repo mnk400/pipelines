@@ -23,7 +23,7 @@ Pipeline scripts live in `pipeline/`. Each project picks its pipeline via a `.pi
 | `.pipeline` contents | Script | What it does |
 |---|---|---|
 | `lastfm` | `pipeline/lastfm.sh` | Fetch Last.fm API, analyze listening data, export JSON |
-| `monet` | `pipeline/monet.sh` | Fetch Monet painting catalog from Wikidata, resolve images via Commons, emit manifest |
+| `monet` | `pipeline/monet.sh` | Fetch Monet painting catalog from Wikidata and Commons Wildenstein, resolve images via Commons, emit manifest |
 
 To add a new pipeline, create `pipeline/<name>.sh`. It receives the project name as `$1` and should read from `source/$1/` and write to `docs/$1/`.
 
@@ -41,7 +41,7 @@ echo "my-pipeline" > source/my-project/.pipeline
 
 - **`build.yml`** — triggers on push to `source/**`, `pipeline/**`, or `.github/workflows/**`. Detects changed projects, runs their pipelines, commits `docs/`. Falls back to rebuilding all projects when pipeline or workflow files change.
 - **`refresh-lastfm.yml`** — monthly cron (1st of month) + manual trigger. Fetches new Last.fm data, runs the full pipeline, commits both `source/` and `docs/`.
-- **`refresh-monet.yml`** — monthly cron (1st of month) + manual trigger. Re-fetches the Wikidata Monet catalog and rebuilds `docs/monet/manifest.json` if anything changed.
+- **`refresh-monet.yml`** — monthly cron (1st of month) + manual trigger. Re-fetches the Wikidata/Commons Monet catalog and rebuilds `docs/monet/manifest.json` if anything changed.
 
 Projects that fetch external data get their own scheduled workflow. Most projects are push-only.
 

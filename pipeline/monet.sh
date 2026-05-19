@@ -16,6 +16,9 @@ cd "$SOURCE_DIR"
 # Fetch Wikidata painting metadata (SPARQL).
 node fetch-wikidata.js
 
+# Fetch image-backed Wildenstein catalogue entries from Commons.
+node fetch-commons-wildenstein.js
+
 # Resolve P18 filenames to Commons URLs (thumb + full) via batched imageinfo.
 node fetch-images.js
 
