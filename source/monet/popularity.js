@@ -2,25 +2,30 @@ export function isCatalogScan(filename = "") {
   return /(?:^|[ _-])Wildenstein[ _-]1996/i.test(filename);
 }
 
-export function buildPopularity({ sitelinks = 0, commons_globalusage = 0, source = "wikidata", image_filename = "" }) {
+// Popularity ≈ how recognizable the painting is to a human visitor.
+// Primary signal: Wikipedia pageviews over the trailing 12 months, summed
+// across all language editions. Direct measurement of human interest.
+// Tiebreakers: Wikidata sitelinks (editorial recognition — does each language
+// bother to have an article) and Commons globalusage (image reuse across
+// wikis). Both are weaker because they measure activity, not attention.
+export function buildPopularity({
+  pageviews_365d = 0,
+  sitelinks = 0,
+  commons_globalusage = 0,
+} = {}) {
+  const pageviews = Number(pageviews_365d) || 0;
   const wikidataSitelinks = Number(sitelinks) || 0;
   const commonsGlobalusage = Number(commons_globalusage) || 0;
-  const sourceBonus = source === "wikidata" ? 8 : 4;
-  const imageQualityBonus = isCatalogScan(image_filename) ? 0 : 5;
 
   const score =
-    60 * Math.log1p(wikidataSitelinks) +
-    35 * Math.log1p(commonsGlobalusage) +
-    sourceBonus +
-    imageQualityBonus;
+    25 * Math.log1p(pageviews) +
+    10 * Math.log1p(wikidataSitelinks) +
+    10 * Math.log1p(commonsGlobalusage);
 
   return {
     score: Math.round(score * 10) / 10,
+    pageviews_365d: pageviews,
     sitelinks: wikidataSitelinks,
-    wikidata_sitelinks: wikidataSitelinks,
     globalusage: commonsGlobalusage,
-    commons_globalusage: commonsGlobalusage,
-    source_bonus: sourceBonus,
-    image_quality_bonus: imageQualityBonus,
   };
 }

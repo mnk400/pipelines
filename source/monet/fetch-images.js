@@ -59,15 +59,30 @@ const commons = existsSync("data/commons-wildenstein.json")
   ? JSON.parse(readFileSync("data/commons-wildenstein.json", "utf8"))
   : { records: [] };
 const wikidataByWildenstein = new Map();
+const wikidataByImageFilename = new Map();
 const wikidataWithImages = new Set();
+const wikidataFilenames = new Set();
 for (const r of wd.records) {
   if (r.wildenstein && !wikidataByWildenstein.has(r.wildenstein)) wikidataByWildenstein.set(r.wildenstein, r);
   if (r.wildenstein && r.image_filename) wikidataWithImages.add(r.wildenstein);
+  if (r.image_filename) {
+    wikidataFilenames.add(r.image_filename);
+    if (!wikidataByImageFilename.has(r.image_filename)) wikidataByImageFilename.set(r.image_filename, r);
+  }
 }
+
+// Drop commons records whose image is already covered by a wikidata record
+// (either via shared Wildenstein number OR shared Commons filename) — otherwise
+// we'd carry duplicate canvases through to manifest dedupe with weaker metadata.
 const commonsFallbacks = commons.records
-  .filter((r) => !r.wildenstein || !wikidataWithImages.has(r.wildenstein))
+  .filter((r) => {
+    if (r.wildenstein && wikidataWithImages.has(r.wildenstein)) return false;
+    if (r.image_filename && wikidataFilenames.has(r.image_filename)) return false;
+    return true;
+  })
   .map((r) => {
-    const wikidata = wikidataByWildenstein.get(r.wildenstein);
+    const wikidata =
+      wikidataByWildenstein.get(r.wildenstein) ?? wikidataByImageFilename.get(r.image_filename);
     if (!wikidata) return r;
     return {
       ...wikidata,

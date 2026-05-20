@@ -9,10 +9,20 @@ const ENDPOINT = "https://query.wikidata.org/sparql";
 // P5396 ("Wildenstein index number for Monet paintings") exists but has zero values.
 const WILDENSTEIN_CATALOG = "Q17441029";
 
+// Membership: by Monet authorship (P170=Q296) UNION by Wildenstein catalogue
+// raisonné entry. The UNION catches occasional Wikidata data errors where the
+// creator is mistagged but the catalogue qualifier is right (e.g. The Magpie,
+// whose P170 is currently set to Picasso). Subclass-walk on P31 picks up
+// "oil on canvas" / "winter landscape painting" etc.
 const QUERY = `
 SELECT ?item ?itemLabel ?inception ?width ?height ?collectionLabel ?wildenstein ?iiif ?image ?sitelinks WHERE {
-  ?item wdt:P170 wd:Q296 .
-  ?item wdt:P31 wd:Q3305213 .
+  {
+    ?item wdt:P170 wd:Q296 .
+    ?item wdt:P31/wdt:P279* wd:Q3305213 .
+  } UNION {
+    ?item p:P528 ?stmt0 .
+    ?stmt0 pq:P972 wd:${WILDENSTEIN_CATALOG} .
+  }
   ?item wikibase:sitelinks ?sitelinks .
   OPTIONAL { ?item wdt:P571 ?inception . }
   OPTIONAL { ?item wdt:P2049 ?width . }

@@ -19,6 +19,10 @@ node fetch-wikidata.js
 # Fetch image-backed Wildenstein catalogue entries from Commons.
 node fetch-commons-wildenstein.js
 
+# Fetch trailing-12-month Wikipedia pageviews per QID across all language editions.
+# Disk-cached; reruns within the same month are cheap.
+node fetch-pageviews.js
+
 # Resolve P18 filenames to Commons URLs (thumb + full) via batched imageinfo.
 node fetch-images.js
 

@@ -1,10 +1,13 @@
-import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { existsSync, readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import { classifySeries } from "./series.js";
 import { buildPopularity } from "./popularity.js";
 
 const OUT_DIR = process.env.OUT_DIR || "../../docs/monet";
 
 const input = JSON.parse(readFileSync("data/with-images.json", "utf8"));
+const pageviews = existsSync("data/pageviews.json")
+  ? JSON.parse(readFileSync("data/pageviews.json", "utf8")).records
+  : {};
 
 function buildId(r) {
   if (r.wildenstein) return `w-${r.wildenstein}`;
@@ -111,7 +114,11 @@ for (const r of records) {
     dimensions: buildDimensions(r),
     collection: r.collection,
     series: classifySeries(r.title),
-    popularity: buildPopularity(r),
+    popularity: buildPopularity({
+      pageviews_365d: pageviews[r.qid]?.total_365d ?? 0,
+      sitelinks: r.sitelinks,
+      commons_globalusage: r.commons_globalusage,
+    }),
     image: {
       thumb: r.image.thumb,
       full: r.image.full,
