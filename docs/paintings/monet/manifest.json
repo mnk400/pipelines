@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-25T03:00:33.995Z",
+  "generated": "2026-05-25T04:21:06.588Z",
   "artist": {
     "qid": "Q296",
     "name": "Claude Monet",
@@ -1853,41 +1853,6 @@
       "iiif": null
     },
     {
-      "id": "w-80",
-      "qid": "Q70781190",
-      "catalog_number": "80",
-      "wildenstein": "80",
-      "source": "wikidata",
-      "title": "Road toward the Farm Saint-Siméon, Honfleur",
-      "year": "1866",
-      "dimensions": {
-        "height_cm": 56,
-        "width_cm": 81
-      },
-      "collection": "Fogg Museum",
-      "series": null,
-      "popularity": {
-        "score": 27.1,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 14
-      },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg/960px-Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/3/33/Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg",
-        "width": 2400,
-        "height": 1655,
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.harvardartmuseums.org/collections/object/299844?position=4\">https://www.harvardartmuseums.org/collections/object/299844?position=4</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      },
-      "iiif": "https://iiif.harvardartmuseums.org/manifests/object/299844"
-    },
-    {
       "id": "w-86",
       "qid": "Q55647396",
       "catalog_number": "86",
@@ -2265,6 +2230,41 @@
         }
       },
       "iiif": null
+    },
+    {
+      "id": "w-80",
+      "qid": "Q70781190",
+      "catalog_number": "80",
+      "wildenstein": "80",
+      "source": "wikidata",
+      "title": "Road toward the Farm Saint-Siméon, Honfleur",
+      "year": "1867",
+      "dimensions": {
+        "height_cm": 56,
+        "width_cm": 81
+      },
+      "collection": "Harvard Art Museums",
+      "series": null,
+      "popularity": {
+        "score": 27.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 14
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg/960px-Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/3/33/Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg",
+        "width": 2400,
+        "height": 1655,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.harvardartmuseums.org/collections/object/299844?position=4\">https://www.harvardartmuseums.org/collections/object/299844?position=4</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      },
+      "iiif": "https://iiif.harvardartmuseums.org/manifests/object/299844"
     },
     {
       "id": "w-93",
@@ -3973,7 +3973,7 @@
         "height_cm": 50,
         "width_cm": 65
       },
-      "collection": "Musée des Beaux-Arts d'Angers",
+      "collection": "Musées Nationaux Récupération",
       "series": null,
       "popularity": {
         "score": 36.9,
@@ -10774,7 +10774,7 @@
         "height_cm": 83,
         "width_cm": 101.5
       },
-      "collection": "Fogg Museum",
+      "collection": "Harvard Art Museums",
       "series": null,
       "popularity": {
         "score": 174.3,
@@ -13586,7 +13586,7 @@
       "year": "1880",
       "dimensions": {
         "height_cm": 135,
-        "width_cm": 150
+        "width_cm": 186
       },
       "collection": "Musée des Beaux-Arts de la ville de Paris",
       "series": null,
@@ -14673,7 +14673,7 @@
         "height_cm": 73,
         "width_cm": 59.7
       },
-      "collection": "Paul G. Allen Collection",
+      "collection": "Impressionism: The Hasso Plattner Collection",
       "series": null,
       "popularity": {
         "score": 23,
@@ -18531,7 +18531,7 @@
         "height_cm": 60,
         "width_cm": 73
       },
-      "collection": "Impressionism: The Hasso Plattner Collection",
+      "collection": "Museum Barberini",
       "series": null,
       "popularity": {
         "score": 24.8,
@@ -19231,7 +19231,7 @@
         "height_cm": 66,
         "width_cm": 81.5
       },
-      "collection": "Museum Barberini",
+      "collection": "Impressionism: The Hasso Plattner Collection",
       "series": null,
       "popularity": {
         "score": 32.6,
@@ -21702,7 +21702,7 @@
         "height_cm": 60.7,
         "width_cm": 73.7
       },
-      "collection": "National Museum of Art, Architecture and Design",
+      "collection": "National Gallery of Norway",
       "series": null,
       "popularity": {
         "score": 17.9,
@@ -27317,7 +27317,7 @@
         "height_cm": 60,
         "width_cm": 100
       },
-      "collection": "Impressionism: The Hasso Plattner Collection",
+      "collection": "Museum Barberini",
       "series": null,
       "popularity": {
         "score": 20.8,
@@ -32430,21 +32430,21 @@
       "collection": "Kunsthaus Zürich",
       "series": null,
       "popularity": {
-        "score": 25.6,
+        "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 12
+        "globalusage": 4
       },
       "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Monet_-_Le_Pont_de_Waterloo%2C_1902.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Monet_-_Le_Pont_de_Waterloo%2C_1902.jpg",
-        "width": 800,
-        "height": 516,
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Claude_Monet_-_Le_Pont_de_Waterloo_-_1995-0002_-_Kunsthaus_Z%C3%BCrich.jpg/960px-Claude_Monet_-_Le_Pont_de_Waterloo_-_1995-0002_-_Kunsthaus_Z%C3%BCrich.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/6/64/Claude_Monet_-_Le_Pont_de_Waterloo_-_1995-0002_-_Kunsthaus_Z%C3%BCrich.jpg",
+        "width": 1200,
+        "height": 774,
         "license": {
-          "short_name": "CC BY-SA 4.0",
-          "url": "https://creativecommons.org/licenses/by-sa/4.0",
-          "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://mplus.kunsthaus.ch/MpWeb-mpZuerichKunsthaus/v?mode=online&amp;l=de#!m/Object/2433/form/ObjCatalogueViewOnlineUser\">https://mplus.kunsthaus.ch/MpWeb-mpZuerichKunsthaus/v?mode=online&amp;l=de#!m/Object/2433/form/ObjCatalogueViewOnlineUser</a>",
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://collection.kunsthaus.ch/en/collection/item/2433/\">Kunsthaus Zürich</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       },
@@ -39452,6 +39452,51 @@
       "iiif": null
     },
     {
+      "id": "w-1903",
+      "qid": "Q105099615",
+      "catalog_number": "1903",
+      "wildenstein": "1903",
+      "source": "wikidata",
+      "title": "Q105099615",
+      "year": "1919",
+      "dimensions": {
+        "height_cm": 100,
+        "width_cm": 300
+      },
+      "collection": "Musée Marmottan Monet",
+      "series": null,
+      "popularity": {
+        "score": 25.6,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 12
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Claude_Monet_-_Glycines_W1903_-_Mus%C3%A9e_Marmottan-Monet.jpg/960px-Claude_Monet_-_Glycines_W1903_-_Mus%C3%A9e_Marmottan-Monet.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/0/07/Claude_Monet_-_Glycines_W1903_-_Mus%C3%A9e_Marmottan-Monet.jpg",
+        "width": 4570,
+        "height": 1468,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      },
+      "iiif": null,
+      "aliases": [
+        {
+          "id": "wd-Q63952039",
+          "qid": "Q63952039",
+          "catalog_number": "1903",
+          "wildenstein": "1903",
+          "source": "wikidata",
+          "title": "Q63952039"
+        }
+      ]
+    },
+    {
       "id": "w-1893b",
       "qid": "Q136341516",
       "catalog_number": "1893b",
@@ -39485,51 +39530,6 @@
         }
       },
       "iiif": null
-    },
-    {
-      "id": "w-1903",
-      "qid": "Q63952039",
-      "catalog_number": "1903",
-      "wildenstein": "1903",
-      "source": "wikidata",
-      "title": "Q63952039",
-      "year": "1919",
-      "dimensions": {
-        "height_cm": 100,
-        "width_cm": 300
-      },
-      "collection": "Musée Marmottan Monet",
-      "series": null,
-      "popularity": {
-        "score": 25.6,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 12
-      },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Claude_Monet_-_Glycines_W1903_-_Mus%C3%A9e_Marmottan-Monet.jpg/960px-Claude_Monet_-_Glycines_W1903_-_Mus%C3%A9e_Marmottan-Monet.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/0/07/Claude_Monet_-_Glycines_W1903_-_Mus%C3%A9e_Marmottan-Monet.jpg",
-        "width": 4570,
-        "height": 1468,
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      },
-      "iiif": null,
-      "aliases": [
-        {
-          "id": "wd-Q105099615",
-          "qid": "Q105099615",
-          "catalog_number": "1903",
-          "wildenstein": "1903",
-          "source": "wikidata",
-          "title": "Q105099615"
-        }
-      ]
     },
     {
       "id": "w-1891",
