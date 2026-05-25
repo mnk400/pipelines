@@ -7,7 +7,8 @@ const UA = userAgent(config);
 const WD_API = "https://www.wikidata.org/w/api.php";
 const PV_API = "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article";
 const BATCH_SIZE = 50;
-const THROTTLE_MS = 50;
+const THROTTLE_MS = Number(process.env.PAINTINGS_PAGEVIEW_THROTTLE_MS || 250);
+const SITELINK_BATCH_THROTTLE_MS = Number(process.env.PAINTINGS_SITELINK_BATCH_THROTTLE_MS || 500);
 
 // Trailing 12 months, snapped to month boundaries (start of month, exclusive end).
 const now = new Date();
@@ -52,6 +53,7 @@ async function fetchSitelinks(qids) {
       out.set(qid, links);
     }
     process.stdout.write(`\rSitelinks: ${out.size}/${qids.length}`);
+    await sleep(SITELINK_BATCH_THROTTLE_MS);
   }
   process.stdout.write("\n");
   return out;

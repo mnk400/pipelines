@@ -1,0 +1,34 @@
+{
+  "artist": {
+    "qid": "Q206820",
+    "name": "Anders Zorn",
+    "slug": "zorn"
+  },
+  "work": {
+    "qid": "Q3305213",
+    "label": "paintings",
+    "manifestKey": "paintings"
+  },
+  "seriesRules": [
+    {
+      "name": "mora",
+      "pattern": "\\bmora\\b"
+    },
+    {
+      "name": "dalarna",
+      "pattern": "\\b(dalarna|dalecarlia|dalecarlian)\\b"
+    },
+    {
+      "name": "midsummer",
+      "pattern": "\\bmidsummer\\b"
+    },
+    {
+      "name": "bathing",
+      "pattern": "\\b(bath|bather|bathing|nude)\\b"
+    },
+    {
+      "name": "portrait",
+      "pattern": "\\bportrait\\b"
+    }
+  ]
+}

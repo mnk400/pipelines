@@ -27,6 +27,8 @@ Pipeline scripts live in `pipeline/`. Each project picks its pipeline via a `.pi
 
 To add a new pipeline, create `pipeline/<name>.sh`. It receives the project name as `$1` and should read from `source/$1/` and write to `docs/$1/`.
 
+Painting artist configs live in `source/paintings/artists/`. The painting pipeline deliberately spaces out Wikimedia API calls; CI pacing can be tuned with `PAINTINGS_STEP_THROTTLE_SECONDS`, `PAINTINGS_ARTIST_THROTTLE_SECONDS`, `PAINTINGS_IMAGE_BATCH_THROTTLE_MS`, `PAINTINGS_PAGEVIEW_THROTTLE_MS`, and `PAINTINGS_SITELINK_BATCH_THROTTLE_MS`.
+
 ## Adding a project
 
 **Custom pipeline**:
@@ -53,6 +55,9 @@ All output is served at `https://manik.cc/pipelines/<project>/`:
 manik.cc/pipelines/lastfm-stats/manifest.json
 manik.cc/pipelines/paintings/monet/manifest.json
 manik.cc/pipelines/paintings/pissarro/manifest.json
+manik.cc/pipelines/paintings/zorn/manifest.json
+manik.cc/pipelines/paintings/morisot/manifest.json
+manik.cc/pipelines/paintings/remington/manifest.json
 ```
 
 GitHub Pages serves `docs/`, Cloudflare handles caching and CORS.

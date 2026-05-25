@@ -7,6 +7,7 @@ const UA = userAgent(config);
 const API = "https://commons.wikimedia.org/w/api.php";
 const THUMB_WIDTH = 600;
 const BATCH_SIZE = 50;
+const BATCH_THROTTLE_MS = Number(process.env.PAINTINGS_IMAGE_BATCH_THROTTLE_MS || 750);
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const stripUtm = (url) => url?.replace(/\?utm_[^#]*/, "") ?? url;
@@ -131,7 +132,7 @@ for (let i = 0; i < withFilename.length; i += BATCH_SIZE) {
     }
   }
   process.stdout.write(`\rImages: ${records.length}/${withFilename.length}`);
-  await sleep(150);
+  await sleep(BATCH_THROTTLE_MS);
 }
 process.stdout.write("\n");
 

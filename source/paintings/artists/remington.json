@@ -1,0 +1,34 @@
+{
+  "artist": {
+    "qid": "Q560787",
+    "name": "Frederic Remington",
+    "slug": "remington"
+  },
+  "work": {
+    "qid": "Q3305213",
+    "label": "paintings",
+    "manifestKey": "paintings"
+  },
+  "seriesRules": [
+    {
+      "name": "cowboys",
+      "pattern": "\\b(cowboy|cowboys|bronco|vaquero|roundup|ranch)\\b"
+    },
+    {
+      "name": "cavalry",
+      "pattern": "\\b(cavalry|trooper|soldier|military|guard|scout)\\b"
+    },
+    {
+      "name": "native-american",
+      "pattern": "\\b(indian|indians|sioux|apache|comanche|native)\\b"
+    },
+    {
+      "name": "mexico",
+      "pattern": "\\b(mexican|mexico|vaquero)\\b"
+    },
+    {
+      "name": "night",
+      "pattern": "\\b(night|moonlight|nocturne)\\b"
+    }
+  ]
+}

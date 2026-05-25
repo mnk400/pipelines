@@ -29,6 +29,14 @@ else
 fi
 
 LAST_CONFIG_INDEX=$((${#CONFIGS[@]} - 1))
+STEP_THROTTLE_SECONDS="${PAINTINGS_STEP_THROTTLE_SECONDS:-5}"
+ARTIST_THROTTLE_SECONDS="${PAINTINGS_ARTIST_THROTTLE_SECONDS:-30}"
+
+run_network_step() {
+  ARTIST_CONFIG="$CONFIG" DATA_DIR="$DATA_DIR" node "$PIPELINE_DIR/$1"
+  sleep "$STEP_THROTTLE_SECONDS"
+}
+
 for INDEX in "${!CONFIGS[@]}"; do
   CONFIG="${CONFIGS[$INDEX]}"
   if [ ! -f "$CONFIG" ]; then
@@ -43,15 +51,15 @@ for INDEX in "${!CONFIGS[@]}"; do
   echo "==> Building paintings/$SLUG"
   mkdir -p "$DATA_DIR" "$OUT_DIR"
 
-  ARTIST_CONFIG="$CONFIG" DATA_DIR="$DATA_DIR" node "$PIPELINE_DIR/fetch-wikidata.js"
-  ARTIST_CONFIG="$CONFIG" DATA_DIR="$DATA_DIR" node "$PIPELINE_DIR/fetch-commons-gallery.js"
-  ARTIST_CONFIG="$CONFIG" DATA_DIR="$DATA_DIR" node "$PIPELINE_DIR/fetch-pageviews.js"
-  ARTIST_CONFIG="$CONFIG" DATA_DIR="$DATA_DIR" node "$PIPELINE_DIR/fetch-images.js"
+  run_network_step "fetch-wikidata.js"
+  run_network_step "fetch-commons-gallery.js"
+  run_network_step "fetch-pageviews.js"
+  run_network_step "fetch-images.js"
   ARTIST_CONFIG="$CONFIG" DATA_DIR="$DATA_DIR" OUT_DIR="$OUT_DIR" node "$PIPELINE_DIR/build-manifest.js"
 
   echo "Done. docs/$PROJECT/$SLUG/manifest.json updated."
 
   if [ "$INDEX" -lt "$LAST_CONFIG_INDEX" ]; then
-    sleep "${PAINTINGS_ARTIST_THROTTLE_SECONDS:-10}"
+    sleep "$ARTIST_THROTTLE_SECONDS"
   fi
 done

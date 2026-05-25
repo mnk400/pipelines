@@ -1,0 +1,34 @@
+{
+  "artist": {
+    "qid": "Q105320",
+    "name": "Berthe Morisot",
+    "slug": "morisot"
+  },
+  "work": {
+    "qid": "Q3305213",
+    "label": "paintings",
+    "manifestKey": "paintings"
+  },
+  "seriesRules": [
+    {
+      "name": "boulogne",
+      "pattern": "bois de boulogne|\\bboulogne\\b"
+    },
+    {
+      "name": "lorient",
+      "pattern": "\\blorient\\b"
+    },
+    {
+      "name": "nice",
+      "pattern": "\\bnice\\b"
+    },
+    {
+      "name": "mother-and-child",
+      "pattern": "mother|child|children|daughter|julie"
+    },
+    {
+      "name": "toilette",
+      "pattern": "\\btoilette\\b"
+    }
+  ]
+}
