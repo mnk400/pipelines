@@ -31,6 +31,28 @@ function buildDimensions(r) {
   return { height_cm: r.height_cm, width_cm: r.width_cm };
 }
 
+function titleFromImageFilename(fileTitle) {
+  if (!fileTitle) return null;
+
+  const artistPattern = config.artist.name
+    .replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+    .replace(/\s+/g, "[ _-]+");
+
+  return decodeURIComponent(fileTitle.replace(/^File:/, ""))
+    .replace(/\.[^.]+$/, "")
+    .replace(/_/g, " ")
+    .replace(new RegExp(`^${artistPattern}\\s*[-,]?\\s*`, "i"), "")
+    .replace(new RegExp(`\\s*[-,]?\\s*${artistPattern}$`, "i"), "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function displayTitle(r) {
+  if (r.title && !/^Q[0-9]+$/.test(r.title)) return r.title;
+  if (r.commons_title && !/^Q[0-9]+$/.test(r.commons_title)) return r.commons_title;
+  return titleFromImageFilename(r.image_filename) ?? r.title;
+}
+
 // Wikidata occasionally has multiple QIDs claiming the same catalog number
 // (sometimes true duplicates, sometimes data errors). The first occurrence keeps
 // the catalog id; later collisions fall back to wd-Q... so consumers can rely on id uniqueness.
@@ -111,6 +133,7 @@ const records = input.records
 for (const r of records) {
   const catalogNumber = r.catalog_number ?? r.wildenstein;
   if (r.source === "commons-wildenstein" && catalogNumber && wSeen.has(catalogNumber)) continue;
+  const title = displayTitle(r);
 
   let id = buildId(r);
   if (catalogNumber && wSeen.has(catalogNumber)) {
@@ -126,11 +149,11 @@ for (const r of records) {
     catalog_number: r.catalog_number,
     wildenstein: r.wildenstein,
     source: r.source ?? "wikidata",
-    title: r.title,
+    title,
     year: r.year,
     dimensions: buildDimensions(r),
     collection: r.collection,
-    series: classifySeries(r.title, config.seriesRules),
+    series: classifySeries(title, config.seriesRules),
     popularity: buildPopularity({
       pageviews_365d: pageviews[r.qid]?.total_365d ?? 0,
       sitelinks: r.sitelinks,

@@ -1,0 +1,34 @@
+{
+  "artist": {
+    "qid": "Q3735411",
+    "name": "Edwin Lord Weeks",
+    "slug": "weeks"
+  },
+  "work": {
+    "qid": "Q3305213",
+    "label": "paintings",
+    "manifestKey": "paintings"
+  },
+  "seriesRules": [
+    {
+      "name": "india",
+      "pattern": "\\b(india|indian|delhi|agra|benaras|varanasi|udaipur|rajasthan|maharaja|rajah)\\b"
+    },
+    {
+      "name": "morocco",
+      "pattern": "\\b(morocco|moroccan|tangier|marrakesh|marrakech|fez|rabat)\\b"
+    },
+    {
+      "name": "market",
+      "pattern": "\\b(market|bazaar|shop|merchant|street|square)\\b"
+    },
+    {
+      "name": "caravan",
+      "pattern": "\\b(caravan|camel|camels|desert|gateway|journey)\\b"
+    },
+    {
+      "name": "interior",
+      "pattern": "\\b(interior|palace|mosque|temple|courtyard|doorway)\\b"
+    }
+  ]
+}

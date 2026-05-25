@@ -1,0 +1,38 @@
+{
+  "artist": {
+    "qid": "Q175130",
+    "name": "Alfred Sisley",
+    "slug": "sisley"
+  },
+  "work": {
+    "qid": "Q3305213",
+    "label": "paintings",
+    "manifestKey": "paintings"
+  },
+  "seriesRules": [
+    {
+      "name": "moret",
+      "pattern": "\\b(moret|moret-sur-loing|moret sur loing)\\b"
+    },
+    {
+      "name": "loing",
+      "pattern": "\\bloing\\b"
+    },
+    {
+      "name": "marly",
+      "pattern": "\\b(marly|port-marly|port marly|louveciennes)\\b"
+    },
+    {
+      "name": "seine",
+      "pattern": "\\b(seine|sevres|sèvres|bougival)\\b"
+    },
+    {
+      "name": "snow",
+      "pattern": "\\b(snow|neige|winter|hiver|frost|gelée)\\b"
+    },
+    {
+      "name": "flood",
+      "pattern": "\\b(flood|flooded|inondation)\\b"
+    }
+  ]
+}
