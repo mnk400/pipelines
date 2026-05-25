@@ -1,7 +1,9 @@
 import { existsSync, readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { dataPath, loadArtistConfig, userAgent } from "./config.js";
 import { fetchJson } from "./http.js";
 
-const UA = "manik.cc-monet-pipeline/0.1 (https://manik.cc; mnk_400@yahoo.com)";
+const config = loadArtistConfig();
+const UA = userAgent(config);
 const WD_API = "https://www.wikidata.org/w/api.php";
 const PV_API = "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article";
 const BATCH_SIZE = 50;
@@ -55,7 +57,7 @@ async function fetchSitelinks(qids) {
   return out;
 }
 
-const cachePath = "data/pageviews-cache.json";
+const cachePath = dataPath("pageviews-cache.json");
 const cache = existsSync(cachePath) ? JSON.parse(readFileSync(cachePath, "utf8")) : {};
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -82,7 +84,7 @@ async function fetchViews(project, title) {
   }
 }
 
-const wd = JSON.parse(readFileSync("data/wikidata.json", "utf8"));
+const wd = JSON.parse(readFileSync(dataPath("wikidata.json"), "utf8"));
 const qids = wd.records.map((r) => r.qid).filter(Boolean);
 
 console.log(`Resolving sitelinks for ${qids.length} QIDs (range ${RANGE_KEY})...`);
@@ -116,10 +118,10 @@ for (const [qid, links] of sitelinksByQid) {
 }
 process.stdout.write("\n");
 
-mkdirSync("data", { recursive: true });
+mkdirSync(process.env.DATA_DIR || "data", { recursive: true });
 writeFileSync(
-  "data/pageviews.json",
+  dataPath("pageviews.json"),
   JSON.stringify({ range: RANGE_KEY, count: Object.keys(results).length, records: results }, null, 2),
 );
 writeFileSync(cachePath, JSON.stringify(cache));
-console.log(`Pageviews: ${Object.keys(results).length} records → data/pageviews.json`);
+console.log(`Pageviews: ${Object.keys(results).length} records → ${dataPath("pageviews.json")}`);

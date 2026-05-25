@@ -1,16 +1,19 @@
 import { existsSync, readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { dataPath, loadArtistConfig } from "./config.js";
 import { classifySeries } from "./series.js";
 import { buildPopularity } from "./popularity.js";
 
-const OUT_DIR = process.env.OUT_DIR || "../../docs/monet";
+const config = loadArtistConfig();
+const OUT_DIR = process.env.OUT_DIR || `../../docs/${config.artist.slug ?? config.artist.name.toLowerCase().replace(/\s+/g, "-")}`;
 
-const input = JSON.parse(readFileSync("data/with-images.json", "utf8"));
-const pageviews = existsSync("data/pageviews.json")
-  ? JSON.parse(readFileSync("data/pageviews.json", "utf8")).records
+const input = JSON.parse(readFileSync(dataPath("with-images.json"), "utf8"));
+const pageviews = existsSync(dataPath("pageviews.json"))
+  ? JSON.parse(readFileSync(dataPath("pageviews.json"), "utf8")).records
   : {};
 
 function buildId(r) {
-  if (r.wildenstein) return `w-${r.wildenstein}`;
+  const catalogNumber = r.catalog_number ?? r.wildenstein;
+  if (catalogNumber) return `${config.catalog?.idPrefix ?? "cat"}-${catalogNumber}`;
   return `wd-${r.qid}`;
 }
 
@@ -19,12 +22,13 @@ function buildDimensions(r) {
   return { height_cm: r.height_cm, width_cm: r.width_cm };
 }
 
-// Wikidata occasionally has multiple QIDs claiming the same Wildenstein number
+// Wikidata occasionally has multiple QIDs claiming the same catalog number
 // (sometimes true duplicates, sometimes data errors). The first occurrence keeps
-// the w-N id; later collisions fall back to wd-Q... so consumers can rely on id uniqueness.
+// the catalog id; later collisions fall back to wd-Q... so consumers can rely on id uniqueness.
 const SOURCE_ORDER = {
   wikidata: 0,
   "commons-wildenstein": 1,
+  "commons-gallery": 1,
 };
 
 function sourceRank(source) {
@@ -57,6 +61,7 @@ function mergeAliases(target, duplicate) {
   aliases.push({
     id: duplicate.id,
     qid: duplicate.qid,
+    catalog_number: duplicate.catalog_number,
     wildenstein: duplicate.wildenstein,
     source: duplicate.source,
     title: duplicate.title,
@@ -94,26 +99,28 @@ const records = input.records
   .sort((a, b) => (SOURCE_ORDER[a.source] ?? 99) - (SOURCE_ORDER[b.source] ?? 99));
 
 for (const r of records) {
-  if (r.source === "commons-wildenstein" && r.wildenstein && wSeen.has(r.wildenstein)) continue;
+  const catalogNumber = r.catalog_number ?? r.wildenstein;
+  if (r.source === "commons-wildenstein" && catalogNumber && wSeen.has(catalogNumber)) continue;
 
   let id = buildId(r);
-  if (r.wildenstein && wSeen.has(r.wildenstein)) {
-    collisions.push({ wildenstein: r.wildenstein, qid: r.qid });
+  if (catalogNumber && wSeen.has(catalogNumber)) {
+    collisions.push({ catalog_number: catalogNumber, qid: r.qid });
     id = `wd-${r.qid}`;
-  } else if (r.wildenstein) {
-    wSeen.add(r.wildenstein);
+  } else if (catalogNumber) {
+    wSeen.add(catalogNumber);
   }
 
   paintings.push({
     id,
     qid: r.qid,
+    catalog_number: r.catalog_number,
     wildenstein: r.wildenstein,
     source: r.source ?? "wikidata",
     title: r.title,
     year: r.year,
     dimensions: buildDimensions(r),
     collection: r.collection,
-    series: classifySeries(r.title),
+    series: classifySeries(r.title, config.seriesRules),
     popularity: buildPopularity({
       pageviews_365d: pageviews[r.qid]?.total_365d ?? 0,
       sitelinks: r.sitelinks,
@@ -124,6 +131,7 @@ for (const r of records) {
       full: r.image.full,
       width: r.image.width,
       height: r.image.height,
+      license: r.image.license,
     },
     iiif: r.iiif,
   });
@@ -132,14 +140,16 @@ for (const r of records) {
 const dedupedPaintings = dedupeByImage(paintings).sort((a, b) => (a.year || "9999").localeCompare(b.year || "9999"));
 
 if (collisions.length) {
-  console.warn(`Wildenstein collisions (kept first, fell back to wd-QID for the rest):`);
-  for (const c of collisions) console.warn(`  W-${c.wildenstein} → ${c.qid}`);
+  console.warn(`Catalog number collisions (kept first, fell back to wd-QID for the rest):`);
+  for (const c of collisions) console.warn(`  ${c.catalog_number} → ${c.qid}`);
 }
 
 const manifest = {
   generated: new Date().toISOString(),
+  artist: config.artist,
+  work: config.work,
   count: dedupedPaintings.length,
-  paintings: dedupedPaintings,
+  [config.work.manifestKey]: dedupedPaintings,
 };
 
 mkdirSync(OUT_DIR, { recursive: true });
@@ -147,5 +157,5 @@ writeFileSync(`${OUT_DIR}/manifest.json`, JSON.stringify(manifest, null, 2));
 
 const seriesHist = {};
 for (const p of dedupedPaintings) seriesHist[p.series ?? "—"] = (seriesHist[p.series ?? "—"] ?? 0) + 1;
-console.log(`Manifest: ${dedupedPaintings.length} paintings → ${OUT_DIR}/manifest.json`);
+console.log(`Manifest: ${dedupedPaintings.length} ${config.work.label} → ${OUT_DIR}/manifest.json`);
 console.log("Series:", seriesHist);

@@ -1,0 +1,58 @@
+{
+  "artist": {
+    "qid": "Q296",
+    "name": "Claude Monet",
+    "slug": "monet"
+  },
+  "work": {
+    "qid": "Q3305213",
+    "label": "paintings",
+    "manifestKey": "paintings"
+  },
+  "catalog": {
+    "qid": "Q17441029",
+    "name": "Monet: Catalogue Raisonné",
+    "fieldName": "wildenstein",
+    "idPrefix": "w"
+  },
+  "commonsGallery": {
+    "page": "Claude Monet catalogue raisonné, 1996 Wildenstein",
+    "sourceName": "commons-wildenstein",
+    "catalogLabel": "Wildenstein",
+    "stopBeforePattern": "===\\s*Les Grandes D[ée]corations",
+    "titleStripPatterns": [
+      "^Claude Monet[, -]+",
+      "^Monet[, -]+"
+    ]
+  },
+  "seriesRules": [
+    {
+      "name": "nympheas",
+      "pattern": "nymph[éeè]as|water[\\s-]?lil(?:ies|y)"
+    },
+    {
+      "name": "rouen",
+      "pattern": "rouen cathedral|cath[ée]drale (?:de |of )?rouen"
+    },
+    {
+      "name": "haystacks",
+      "pattern": "haystack|meule|wheatstack|grainstack|stacks? of wheat"
+    },
+    {
+      "name": "poplars",
+      "pattern": "\\bpoplar|peuplier"
+    },
+    {
+      "name": "parliament",
+      "pattern": "houses? of parliament|westminster|le parlement"
+    },
+    {
+      "name": "charing-cross",
+      "pattern": "charing[\\s-]?cross"
+    },
+    {
+      "name": "mornings-on-seine",
+      "pattern": "morning(?:s)? on the seine|matin(?:[ée]e?)? sur la seine|bras de la seine"
+    }
+  ]
+}

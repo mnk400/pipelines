@@ -1,4 +1,4 @@
-name: Refresh Monet data
+name: Refresh paintings data
 
 on:
   schedule:
@@ -18,15 +18,15 @@ jobs:
         with:
           node-version: 20
 
-      - name: Run monet pipeline
-        run: bash pipeline/monet.sh monet
+      - name: Run paintings pipeline
+        run: bash pipeline/paintings.sh paintings
 
       - name: Commit and push
         run: |
-          git diff --quiet docs/monet/ && echo "No changes" && exit 0
+          git diff --quiet docs/paintings/ && echo "No changes" && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/monet/
-          git commit -m "Refresh monet data $(date +%Y-%m-%d)"
+          git add docs/paintings/
+          git commit -m "Refresh paintings data $(date +%Y-%m-%d)"
           git pull --rebase
           git push

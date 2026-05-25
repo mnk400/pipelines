@@ -1,7 +1,9 @@
 import { existsSync, readFileSync, writeFileSync } from "node:fs";
+import { dataPath, loadArtistConfig, userAgent } from "./config.js";
 import { fetchJson } from "./http.js";
 
-const UA = "manik.cc-monet-pipeline/0.1 (https://manik.cc; mnk_400@yahoo.com)";
+const config = loadArtistConfig();
+const UA = userAgent(config);
 const API = "https://commons.wikimedia.org/w/api.php";
 const THUMB_WIDTH = 600;
 const BATCH_SIZE = 50;
@@ -19,7 +21,7 @@ async function imageinfo(titles) {
       action: "query",
       titles: titles.join("|"),
       prop: "imageinfo|globalusage",
-      iiprop: "url|size|mime",
+      iiprop: "url|size|mime|extmetadata",
       iiurlwidth: String(THUMB_WIDTH),
       gulimit: "max",
       format: "json",
@@ -38,6 +40,13 @@ async function imageinfo(titles) {
             full: stripUtm(ii.url),
             width: ii.width,
             height: ii.height,
+            license: {
+              short_name: ii.extmetadata?.LicenseShortName?.value ?? null,
+              url: ii.extmetadata?.LicenseUrl?.value ?? null,
+              usage_terms: ii.extmetadata?.UsageTerms?.value ?? null,
+              credit: ii.extmetadata?.Credit?.value ?? null,
+              artist: ii.extmetadata?.Artist?.value ?? null,
+            },
           };
         }
       }
@@ -54,17 +63,18 @@ async function imageinfo(titles) {
   return out;
 }
 
-const wd = JSON.parse(readFileSync("data/wikidata.json", "utf8"));
-const commons = existsSync("data/commons-wildenstein.json")
-  ? JSON.parse(readFileSync("data/commons-wildenstein.json", "utf8"))
+const wd = JSON.parse(readFileSync(dataPath("wikidata.json"), "utf8"));
+const commons = existsSync(dataPath("commons-gallery.json"))
+  ? JSON.parse(readFileSync(dataPath("commons-gallery.json"), "utf8"))
   : { records: [] };
-const wikidataByWildenstein = new Map();
+const wikidataByCatalogNumber = new Map();
 const wikidataByImageFilename = new Map();
 const wikidataWithImages = new Set();
 const wikidataFilenames = new Set();
 for (const r of wd.records) {
-  if (r.wildenstein && !wikidataByWildenstein.has(r.wildenstein)) wikidataByWildenstein.set(r.wildenstein, r);
-  if (r.wildenstein && r.image_filename) wikidataWithImages.add(r.wildenstein);
+  const catalogNumber = r.catalog_number ?? r.wildenstein;
+  if (catalogNumber && !wikidataByCatalogNumber.has(catalogNumber)) wikidataByCatalogNumber.set(catalogNumber, r);
+  if (catalogNumber && r.image_filename) wikidataWithImages.add(catalogNumber);
   if (r.image_filename) {
     wikidataFilenames.add(r.image_filename);
     if (!wikidataByImageFilename.has(r.image_filename)) wikidataByImageFilename.set(r.image_filename, r);
@@ -72,21 +82,23 @@ for (const r of wd.records) {
 }
 
 // Drop commons records whose image is already covered by a wikidata record
-// (either via shared Wildenstein number OR shared Commons filename) — otherwise
+// (either via shared catalog number OR shared Commons filename) — otherwise
 // we'd carry duplicate canvases through to manifest dedupe with weaker metadata.
 const commonsFallbacks = commons.records
   .filter((r) => {
-    if (r.wildenstein && wikidataWithImages.has(r.wildenstein)) return false;
+    const catalogNumber = r.catalog_number ?? r.wildenstein;
+    if (catalogNumber && wikidataWithImages.has(catalogNumber)) return false;
     if (r.image_filename && wikidataFilenames.has(r.image_filename)) return false;
     return true;
   })
   .map((r) => {
+    const catalogNumber = r.catalog_number ?? r.wildenstein;
     const wikidata =
-      wikidataByWildenstein.get(r.wildenstein) ?? wikidataByImageFilename.get(r.image_filename);
+      wikidataByCatalogNumber.get(catalogNumber) ?? wikidataByImageFilename.get(r.image_filename);
     if (!wikidata) return r;
     return {
       ...wikidata,
-      source: "commons-wildenstein",
+      source: r.source ?? "commons-gallery",
       image_filename: r.image_filename,
       catalogue_label: r.catalogue_label,
       commons_title: r.title,
@@ -113,6 +125,7 @@ for (let i = 0; i < withFilename.length; i += BATCH_SIZE) {
           full: meta.full,
           width: meta.width,
           height: meta.height,
+          license: meta.license,
         },
       });
     }
@@ -122,5 +135,5 @@ for (let i = 0; i < withFilename.length; i += BATCH_SIZE) {
 }
 process.stdout.write("\n");
 
-writeFileSync("data/with-images.json", JSON.stringify({ count: records.length, records }, null, 2));
-console.log(`Images: ${records.length}/${withFilename.length} resolved → data/with-images.json`);
+writeFileSync(dataPath("with-images.json"), JSON.stringify({ count: records.length, records }, null, 2));
+console.log(`Images: ${records.length}/${withFilename.length} resolved → ${dataPath("with-images.json")}`);

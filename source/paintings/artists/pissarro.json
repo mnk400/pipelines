@@ -1,0 +1,30 @@
+{
+  "artist": {
+    "qid": "Q134741",
+    "name": "Camille Pissarro",
+    "slug": "pissarro"
+  },
+  "work": {
+    "qid": "Q3305213",
+    "label": "paintings",
+    "manifestKey": "paintings"
+  },
+  "seriesRules": [
+    {
+      "name": "boulevard-montmartre",
+      "pattern": "boulevard montmartre"
+    },
+    {
+      "name": "eragny",
+      "pattern": "\\b(eragny|eragny-sur-epte|eragny sur epte)\\b"
+    },
+    {
+      "name": "pontoise",
+      "pattern": "\\bpontoise\\b"
+    },
+    {
+      "name": "louveciennes",
+      "pattern": "\\blouveciennes\\b"
+    }
+  ]
+}
