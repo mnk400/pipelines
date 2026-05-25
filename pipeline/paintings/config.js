@@ -28,6 +28,7 @@ export function loadArtistConfig() {
     },
     seriesRules: config.seriesRules ?? [],
     commonsGallery: config.commonsGallery ?? null,
+    commonsCategory: config.commonsCategory ?? null,
   };
 }
 

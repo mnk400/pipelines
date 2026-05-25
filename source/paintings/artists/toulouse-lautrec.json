@@ -1,0 +1,34 @@
+{
+  "artist": {
+    "qid": "Q82445",
+    "name": "Henri de Toulouse-Lautrec",
+    "slug": "toulouse-lautrec"
+  },
+  "work": {
+    "qid": "Q3305213",
+    "label": "paintings",
+    "manifestKey": "paintings"
+  },
+  "seriesRules": [
+    {
+      "name": "moulin-rouge",
+      "pattern": "moulin rouge|la goulue|jane avril|valentin"
+    },
+    {
+      "name": "dance",
+      "pattern": "\\b(dance|dancer|dancing|danse|danseuse|ballet)\\b"
+    },
+    {
+      "name": "theater",
+      "pattern": "\\b(theater|theatre|cabaret|circus|clown|stage)\\b"
+    },
+    {
+      "name": "portrait",
+      "pattern": "\\bportrait\\b"
+    },
+    {
+      "name": "brothel",
+      "pattern": "\\b(brothel|salon|rue des moulins)\\b"
+    }
+  ]
+}

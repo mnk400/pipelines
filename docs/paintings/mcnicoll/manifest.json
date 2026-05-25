@@ -1,0 +1,828 @@
+{
+  "generated": "2026-05-25T05:22:32.850Z",
+  "artist": {
+    "qid": "Q276123",
+    "name": "Helen McNicoll",
+    "slug": "mcnicoll"
+  },
+  "work": {
+    "qid": "Q3305213",
+    "label": "paintings",
+    "manifestKey": "paintings"
+  },
+  "count": 26,
+  "paintings": [
+    {
+      "id": "wd-Q39731164",
+      "qid": "Q39731164",
+      "catalog_number": null,
+      "source": "wikidata",
+      "title": "In the Shadow of the Tree",
+      "year": "1910",
+      "dimensions": {
+        "height_cm": 100.4,
+        "width_cm": 82.6
+      },
+      "collection": "Musée national des beaux-arts du Québec",
+      "series": "shade",
+      "popularity": {
+        "score": 27.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 14
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Helen_McNicoll_-_A_l%27ombre_de_l%27arbre.jpg/960px-Helen_McNicoll_-_A_l%27ombre_de_l%27arbre.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Helen_McNicoll_-_A_l%27ombre_de_l%27arbre.jpg",
+        "width": 1192,
+        "height": 1462,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "www.mnbaq.org : <a rel=\"nofollow\" class=\"external text\" href=\"http://www.mnbaq.org\">Home</a> : [<a rel=\"nofollow\" class=\"external free\" href=\"http://wwri.blogspot.com\">http://wwri.blogspot.com</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Helen_McNicoll\" class=\"extiw\" title=\"w:en:Helen McNicoll\"><span title=\"Canadian artist (1879-1915)\">Helen McNicoll</span></a></bdi>"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "wd-Q66927458",
+      "qid": "Q66927458",
+      "catalog_number": null,
+      "source": "wikidata",
+      "title": "Under the Shadow of the Tent",
+      "year": "1914",
+      "dimensions": {
+        "height_cm": 83.5,
+        "width_cm": 101.2
+      },
+      "collection": "Montreal Museum of Fine Arts",
+      "series": "interior",
+      "popularity": {
+        "score": 19.5,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 6
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/MBAM_McNicoll_-_%C3%80_l%27ombre_de_la_tente.jpg/960px-MBAM_McNicoll_-_%C3%80_l%27ombre_de_la_tente.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/d/d9/MBAM_McNicoll_-_%C3%80_l%27ombre_de_la_tente.jpg",
+        "width": 3015,
+        "height": 2468,
+        "license": {
+          "short_name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+          "credit": "photo by <a href=\"//commons.wikimedia.org/wiki/User:Pymouss\" title=\"User:Pymouss\">Pymouss</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Helen_McNicoll\" class=\"extiw\" title=\"w:en:Helen McNicoll\"><span title=\"Canadian artist (1879-1915)\">Helen McNicoll</span></a></bdi>"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-mcnicoll-21",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "21",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": null,
+      "popularity": {
+        "score": 13.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 3
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Mcnicoll_21.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Mcnicoll_21.jpg",
+        "width": 375,
+        "height": 461,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "giornivacanzieri.blogspot.com : <a rel=\"nofollow\" class=\"external text\" href=\"http://giornivacanzieri.blogspot.com\">Home</a> : <a rel=\"nofollow\" class=\"external text\" href=\"http://giornivacanzieri.blogspot.com/2011/01/helen-mcnicoll.html\">Info</a> : <a rel=\"nofollow\" class=\"external text\" href=\"http://1.bp.blogspot.com/_aaZ1rYGME-U/TSReGR1hBDI/AAAAAAAAA4I/SMMl4r_-LZo/s400/mcnicoll.jpg\">Pic</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Helen_McNicoll\" class=\"extiw\" title=\"w:en:Helen McNicoll\"><span title=\"Canadian artist (1879-1915)\">Helen McNicoll</span></a></bdi>"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-cherry-time",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "Cherry Time",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": "flowers",
+      "popularity": {
+        "score": 6.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 1
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/56/Cherry_Time.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/5/56/Cherry_Time.jpg",
+        "width": 342,
+        "height": 420,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://en.wahooart.com/@@/8XX6FV-Helen-Galloway-Mcnicoll-Cherry-Time\">https://en.wahooart.com/@@/8XX6FV-Helen-Galloway-Mcnicoll-Cherry-Time</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Helen_McNicoll\" class=\"extiw\" title=\"w:en:Helen McNicoll\"><span title=\"Canadian artist (1879-1915)\">Helen McNicoll</span></a></bdi>"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-mcnicoll-helen-galloway-children-by-stream",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "children by stream",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": "children",
+      "popularity": {
+        "score": 13.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 3
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/13/Mcnicoll_helen_galloway-children_by_stream.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/1/13/Mcnicoll_helen_galloway-children_by_stream.jpg",
+        "width": 550,
+        "height": 460,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.arcadja.com/auctions/en/mcnicoll_helen_galloway/artist/154742/\">Auction: Heffel, Vancouver, 23 May 2007, lot 181 via Arcadja auctions results</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Helen_McNicoll\" class=\"extiw\" title=\"w:en:Helen McNicoll\"><span title=\"Canadian artist (1879-1915)\">Helen McNicoll</span></a></bdi>"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-helen-mcnicoll2",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "Helen McNicoll2",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": null,
+      "popularity": {
+        "score": 6.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 1
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Helen_McNicoll2.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Helen_McNicoll2.jpg",
+        "width": 578,
+        "height": 474,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://polarbearstale.blogspot.com/2009/03/helen-mcnicoll-1879-1915.html\">http://polarbearstale.blogspot.com/2009/03/helen-mcnicoll-1879-1915.html</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Helen_McNicoll\" class=\"extiw\" title=\"w:en:Helen McNicoll\"><span title=\"Canadian artist (1879-1915)\">Helen McNicoll</span></a></bdi>"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-helen-mcnicoll4",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "Helen McNicoll4",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": null,
+      "popularity": {
+        "score": 20.8,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 7
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/09/Helen_McNicoll4.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/0/09/Helen_McNicoll4.jpg",
+        "width": 544,
+        "height": 477,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://polarbearstale.blogspot.com/2009/03/helen-mcnicoll-1879-1915.html\">http://polarbearstale.blogspot.com/2009/03/helen-mcnicoll-1879-1915.html</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Helen_McNicoll\" class=\"extiw\" title=\"w:en:Helen McNicoll\"><span title=\"Canadian artist (1879-1915)\">Helen McNicoll</span></a></bdi>"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-in-the-shade-of-a-tree-by-helen-galloway-mcnicoll-1910",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "In the shade of a Tree",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": "shade",
+      "popularity": {
+        "score": 6.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 1
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/In_the_shade_of_a_Tree_by_Helen_Galloway_McNicoll_1910.tif/lossy-page1-960px-In_the_shade_of_a_Tree_by_Helen_Galloway_McNicoll_1910.tif.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/b/ba/In_the_shade_of_a_Tree_by_Helen_Galloway_McNicoll_1910.tif",
+        "width": 5142,
+        "height": 6387,
+        "license": {
+          "short_name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q115464159\" class=\"extiw\" title=\"d:Q115464159\"><span title=\"developer analyst and photographer from Venezuela\">Wilfredor</span></a></bdi>"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-mcnicoll-in-the-shadow-of-the-tent",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "In the Shadow of the Tent",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": "interior",
+      "popularity": {
+        "score": 13.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 3
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/63/Mcnicoll_In_the_Shadow_of_the_Tent.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/6/63/Mcnicoll_In_the_Shadow_of_the_Tent.jpg",
+        "width": 600,
+        "height": 491,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://bertc.com/subsix/g140/mcnicholl.htm\">http://bertc.com/subsix/g140/mcnicholl.htm</a>",
+          "artist": "Helen McNicoll"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-helen-galloway-mcnicoll-interior-google-art-project",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "Interior",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": "interior",
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Helen_Galloway_McNicoll_-_Interior_-_Google_Art_Project.jpg/960px-Helen_Galloway_McNicoll_-_Interior_-_Google_Art_Project.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/8/86/Helen_Galloway_McNicoll_-_Interior_-_Google_Art_Project.jpg",
+        "width": 4393,
+        "height": 5384,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/cgHCY3gaFhafRw\">cgHCY3gaFhafRw at Google Cultural Institute</a>, zoom level maximum",
+          "artist": "<div class=\"fn value\">\n<p>Helen McNicoll\n</p>\n(1879/1915)</div>"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-kobiety-mcnicoll1",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "Kobiety mcnicoll1",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": null,
+      "popularity": {
+        "score": 11,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 2
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/85/Kobiety_mcnicoll1.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/8/85/Kobiety_mcnicoll1.jpg",
+        "width": 475,
+        "height": 569,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://giornivacanzieri.blogspot.com/2011/01/helen-mcnicoll.html\">http://giornivacanzieri.blogspot.com/2011/01/helen-mcnicoll.html</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Helen_McNicoll\" class=\"extiw\" title=\"w:en:Helen McNicoll\"><span title=\"Canadian artist (1879-1915)\">Helen McNicoll</span></a></bdi>"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-making-posies-mcniccoll",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "Making posies McNiccoll",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": "flowers",
+      "popularity": {
+        "score": 11,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 2
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Making_posies_McNiccoll.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Making_posies_McNiccoll.jpg",
+        "width": 542,
+        "height": 483,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.mutualart.com/Artwork/Making-Posies/4515B2F282CD77EC\">http://www.mutualart.com/Artwork/Making-Posies/4515B2F282CD77EC</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Helen_McNicoll\" class=\"extiw\" title=\"w:en:Helen McNicoll\"><span title=\"Canadian artist (1879-1915)\">Helen McNicoll</span></a></bdi>"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-mcniccol-english-beach",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "Mcniccol english beach",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": "beach",
+      "popularity": {
+        "score": 6.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 1
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/10/Mcniccol_english_beach.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/1/10/Mcniccol_english_beach.jpg",
+        "width": 570,
+        "height": 448,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.mutualart.com/Artwork/AN-ENGLISH-BEACH/696B16E3DD20CEA4\">http://www.mutualart.com/Artwork/AN-ENGLISH-BEACH/696B16E3DD20CEA4</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Helen_McNicoll\" class=\"extiw\" title=\"w:en:Helen McNicoll\"><span title=\"Canadian artist (1879-1915)\">Helen McNicoll</span></a></bdi>"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-mcnicoll",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "Mcnicoll",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": null,
+      "popularity": {
+        "score": 37.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 40
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Mcnicoll.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Mcnicoll.jpg",
+        "width": 275,
+        "height": 350,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://polarbearstale.blogspot.com/2009/03/helen-mcnicoll-1879-1915.html\">http://polarbearstale.blogspot.com/2009/03/helen-mcnicoll-1879-1915.html</a>",
+          "artist": "Helen McNicoll<style data-mw-deduplicate=\"TemplateStyles:r1120359340\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding:2px 0.9em 2px 0;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-serious\" role=\"presentation\" style=\"margin:.75em auto; min-width:66%; width:85%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"?\"><img alt=\"?\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/OOjs_UI_icon_helpNotice-ltr-destructive.svg/40px-OOjs_UI_icon_helpNotice-ltr-destructive.svg.png\" decoding=\"async\" width=\"40\" height=\"40\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/OOjs_UI_icon_helpNotice-ltr-destructive.svg/120px-OOjs_UI_icon_helpNotice-ltr-destructive.svg.png 2x\" data-file-width=\"20\" data-file-height=\"20\"></span></span></td><td class=\"mbox-text\"><div style=\"font-weight:bold;\">The factual accuracy of this description or the file name is disputed.</div>\n<div style=\"font-size:small; text-indent:1.5em;\">Reason: Please see the relevant discussion on the <a href=\"//commons.wikimedia.org/wiki/File_talk:Mcnicoll.jpg\" title=\"File talk:Mcnicoll.jpg\">talk page</a>.</div></td></tr></tbody></table>"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-mcnicoll66",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "Mcnicoll66",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": null,
+      "popularity": {
+        "score": 13.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 3
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mcnicoll66.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mcnicoll66.jpg",
+        "width": 487,
+        "height": 411,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.northlandart.com/news_pr/nov19-08_mcnicoll.html\">http://www.northlandart.com/news_pr/nov19-08_mcnicoll.html</a>",
+          "artist": "Helen McNicoll"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-midsummer",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "Midsummer",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": null,
+      "popularity": {
+        "score": 0,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 0
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Midsummer.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Midsummer.jpg",
+        "width": 297,
+        "height": 255,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://polarbearstale.blogspot.com/2009/03/helen-mcnicoll-1879-1915.html\">http://polarbearstale.blogspot.com/2009/03/helen-mcnicoll-1879-1915.html</a>",
+          "artist": "<div class=\"fn value\">\nHelen McNicoll (1879 - 1915) Canadian Impressionist Painter</div>"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-helen-mcnicoll-montreal-en-hiver-1911",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "Montreal en hiver 1911",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": null,
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Helen_McNicoll_-_Montreal_en_hiver_1911.jpg/960px-Helen_McNicoll_-_Montreal_en_hiver_1911.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/6/62/Helen_McNicoll_-_Montreal_en_hiver_1911.jpg",
+        "width": 1396,
+        "height": 1816,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.mnbaq.org/blogue/2016/03/03/passion-hivernale-helen-mcnicoll#sthash.trU311N0.dpuf\">mnbaq.org</a> - <a rel=\"nofollow\" class=\"external text\" href=\"https://d2bkax9t3zigfp.cloudfront.net/attachments/000/182/583/original/6d1a9a3c1203fa366d39dc4c1598ed5a?v=1\">*</a>",
+          "artist": "Helen McNicoll"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-helen-galloway-mcnicoll-picking-flowers-google-art-project",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "Picking Flowers",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": "flowers",
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Helen_Galloway_McNicoll_-_Picking_Flowers_-_Google_Art_Project.jpg/960px-Helen_Galloway_McNicoll_-_Picking_Flowers_-_Google_Art_Project.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Helen_Galloway_McNicoll_-_Picking_Flowers_-_Google_Art_Project.jpg",
+        "width": 4618,
+        "height": 5521,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/LAGKOLO2BV0Jrg\">LAGKOLO2BV0Jrg at Google Cultural Institute</a>, zoom level maximum",
+          "artist": "<div class=\"fn value\">\n<p>Helen McNicoll\n</p>\n(1879/1915)</div>"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-helen-galloway-mcnicoll-sketch-for-picking-flowers-google-art-project",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "Sketch for \"Picking Flowers\"",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": "flowers",
+      "popularity": {
+        "score": 6.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 1
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Helen_Galloway_McNicoll_-_Sketch_for_%22Picking_Flowers%22_-_Google_Art_Project.jpg/960px-Helen_Galloway_McNicoll_-_Sketch_for_%22Picking_Flowers%22_-_Google_Art_Project.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/4/40/Helen_Galloway_McNicoll_-_Sketch_for_%22Picking_Flowers%22_-_Google_Art_Project.jpg",
+        "width": 3587,
+        "height": 4502,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/0QFGc0A6motp5Q\">0QFGc0A6motp5Q at Google Cultural Institute</a>, zoom level maximum",
+          "artist": "<div class=\"fn value\">\n<p>Helen McNicoll\n</p>\n(1879/1915)</div>"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-mcnicoll-helen-galloway-the-apple-gatherer",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "The Apple Gatherer",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": "flowers",
+      "popularity": {
+        "score": 20.8,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 7
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c9/McNicoll%2CHelen_Galloway-The_Apple_Gatherer.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/c/c9/McNicoll%2CHelen_Galloway-The_Apple_Gatherer.jpg",
+        "width": 868,
+        "height": 1028,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://giornivacanzieri.blogspot.com/2011/01/helen-mcnicoll.html\">http://giornivacanzieri.blogspot.com/2011/01/helen-mcnicoll.html</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Helen_McNicoll\" class=\"extiw\" title=\"w:en:Helen McNicoll\"><span title=\"Canadian artist (1879-1915)\">Helen McNicoll</span></a></bdi>"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-the-bean-harvest-helen-mcnicoll",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "The Bean Harvest",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": "flowers",
+      "popularity": {
+        "score": 6.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 1
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_Bean_Harvest_Helen_McNicoll.jpg/960px-The_Bean_Harvest_Helen_McNicoll.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_Bean_Harvest_Helen_McNicoll.jpg",
+        "width": 4096,
+        "height": 3328,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sothebys.com/en/buy/auction/2024/modern-british-irish-art-evening-auction/the-bean-harvest\">https://www.sothebys.com/en/buy/auction/2024/modern-british-irish-art-evening-auction/the-bean-harvest</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Helen_McNicoll\" class=\"extiw\" title=\"w:en:Helen McNicoll\"><span title=\"Canadian artist (1879-1915)\">Helen McNicoll</span></a></bdi>"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-mcnicoll-the-little-female-worker",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "The Little Female Worker",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": null,
+      "popularity": {
+        "score": 11,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 2
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/13/Mcnicoll_The_Little_Female_Worker.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/1/13/Mcnicoll_The_Little_Female_Worker.jpg",
+        "width": 661,
+        "height": 820,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" data-mw-original-href=\"http://poboh.tumblr.com/post/10558965260\" href=\"https://poboh.tumblr.com/post/10558965260\">http://poboh.tumblr.com/post/10558965260</a>",
+          "artist": "Helen McNicoll"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-helen-galloway-mcnicoll-the-little-worker-google-art-project",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "The Little Worker",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": "children",
+      "popularity": {
+        "score": 13.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 3
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Helen_Galloway_McNicoll_-_The_Little_Worker_-_Google_Art_Project.jpg/960px-Helen_Galloway_McNicoll_-_The_Little_Worker_-_Google_Art_Project.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Helen_Galloway_McNicoll_-_The_Little_Worker_-_Google_Art_Project.jpg",
+        "width": 2947,
+        "height": 3539,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/OQHbG9JMgoQkIw\">OQHbG9JMgoQkIw at Google Cultural Institute</a>, zoom level maximum",
+          "artist": "<div class=\"fn value\">\n<p>Helen Galloway McNicoll\n</p>\n(1879/1915)</div>"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-mcnicoll-the-open-door",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "The Open Door",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": "interior",
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/40/Mcnicoll_The_Open_Door.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/4/40/Mcnicoll_The_Open_Door.jpg",
+        "width": 474,
+        "height": 600,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://bertc.com/subfive/g159/mcnicholl.htm\">http://bertc.com/subfive/g159/mcnicholl.htm</a>",
+          "artist": "Helen McNicoll"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-mcnicoll-helen-galloway-welcome-breeze",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "welcome-breeze",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": null,
+      "popularity": {
+        "score": 0,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 0
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/71/Mcnicoll-helen-galloway-welcome-breeze.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/7/71/Mcnicoll-helen-galloway-welcome-breeze.jpg",
+        "width": 542,
+        "height": 442,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.heffel.com/links/sales.aspx?ID=5E575D56\">http://www.heffel.com/links/sales.aspx?ID=5E575D56</a>",
+          "artist": "Helen McNiccoll"
+        }
+      },
+      "iiif": null
+    },
+    {
+      "id": "commons-helen-galloway-mcnicoll-white-sunshade-2-google-art-project",
+      "qid": null,
+      "catalog_number": null,
+      "source": "commons-category",
+      "title": "White Sunshade -2",
+      "year": null,
+      "dimensions": null,
+      "collection": null,
+      "series": "shade",
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Helen_Galloway_McNicoll_-_White_Sunshade_-2_-_Google_Art_Project.jpg/960px-Helen_Galloway_McNicoll_-_White_Sunshade_-2_-_Google_Art_Project.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Helen_Galloway_McNicoll_-_White_Sunshade_-2_-_Google_Art_Project.jpg",
+        "width": 2463,
+        "height": 3009,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/CgG6cEijaGMqbQ\">CgG6cEijaGMqbQ at Google Cultural Institute</a>, zoom level maximum",
+          "artist": "<div class=\"fn value\">\n<p>Helen McNicoll\n</p>\n(1879/1915)</div>"
+        }
+      },
+      "iiif": null
+    }
+  ]
+}

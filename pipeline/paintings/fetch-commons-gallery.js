@@ -6,6 +6,7 @@ const config = loadArtistConfig();
 const UA = userAgent(config);
 const API = "https://commons.wikimedia.org/w/api.php";
 const galleryConfig = config.commonsGallery;
+const categoryConfig = config.commonsCategory;
 const OUT = dataPath("commons-gallery.json");
 
 function normalizeFileTitle(file) {
@@ -36,6 +37,22 @@ function titleFromFilename(fileTitle, catalogNumber) {
     .reduce((title, pattern) => title.replace(new RegExp(pattern, "i"), ""), basename)
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function titleFromCategoryFile(fileTitle) {
+  const basename = decodeURIComponent(fileTitle.replace(/^File:/, ""))
+    .replace(/\.[^.]+$/, "")
+    .replace(/_/g, " ")
+    .trim();
+
+  return (categoryConfig.titleStripPatterns ?? [])
+    .reduce((title, pattern) => title.replace(new RegExp(pattern, "i"), ""), basename)
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function shouldSkipCategoryFile(fileTitle) {
+  return (categoryConfig.excludeFilePatterns ?? []).some((pattern) => new RegExp(pattern, "i").test(fileTitle));
 }
 
 function parseGalleryRecords(wikitext) {
@@ -81,24 +98,76 @@ function parseGalleryRecords(wikitext) {
   return records;
 }
 
-if (!galleryConfig?.page) {
+async function fetchGalleryRecords() {
+  if (!galleryConfig?.page) return [];
+
+  const params = new URLSearchParams({
+    action: "parse",
+    page: galleryConfig.page,
+    prop: "wikitext",
+    format: "json",
+  });
+
+  const data = await fetchJson(`${API}?${params}`, { headers: { "User-Agent": UA, Accept: "application/json" } });
+  const wikitext = data.parse?.wikitext?.["*"] ?? "";
+  return parseGalleryRecords(wikitext);
+}
+
+async function fetchCategoryRecords() {
+  if (!categoryConfig?.title) return [];
+
+  const records = [];
+  const seen = new Set();
+  let continuation = {};
+
+  do {
+    const params = new URLSearchParams({
+      action: "query",
+      list: "categorymembers",
+      cmtitle: categoryConfig.title,
+      cmnamespace: "6",
+      cmlimit: "max",
+      format: "json",
+      ...continuation,
+    });
+    const data = await fetchJson(`${API}?${params}`, { headers: { "User-Agent": UA, Accept: "application/json" } });
+    for (const member of data.query?.categorymembers ?? []) {
+      const fileTitle = normalizeFileTitle(member.title);
+      if (seen.has(fileTitle) || shouldSkipCategoryFile(fileTitle)) continue;
+      seen.add(fileTitle);
+
+      records.push({
+        source: categoryConfig.sourceName ?? "commons-category",
+        qid: null,
+        title: titleFromCategoryFile(fileTitle),
+        year: null,
+        height_cm: null,
+        width_cm: null,
+        collection: null,
+        catalog_number: null,
+        sitelinks: 0,
+        iiif: null,
+        image_filename: fileTitle,
+      });
+    }
+    continuation = data.continue ?? null;
+  } while (continuation);
+
+  return records;
+}
+
+if (!galleryConfig?.page && !categoryConfig?.title) {
   mkdirSync(process.env.DATA_DIR || "data", { recursive: true });
   writeFileSync(OUT, JSON.stringify({ count: 0, records: [] }, null, 2));
   console.log(`Commons gallery: skipped for ${config.artist.name} → ${OUT}`);
   process.exit(0);
 }
 
-const params = new URLSearchParams({
-  action: "parse",
-  page: galleryConfig.page,
-  prop: "wikitext",
-  format: "json",
-});
-
-const data = await fetchJson(`${API}?${params}`, { headers: { "User-Agent": UA, Accept: "application/json" } });
-const wikitext = data.parse?.wikitext?.["*"] ?? "";
-const records = parseGalleryRecords(wikitext);
+const records = [
+  ...(await fetchGalleryRecords()),
+  ...(await fetchCategoryRecords()),
+];
 
 mkdirSync(process.env.DATA_DIR || "data", { recursive: true });
 writeFileSync(OUT, JSON.stringify({ count: records.length, records }, null, 2));
-console.log(`Commons gallery: ${records.length} image-backed entries → ${OUT}`);
+console.log(`Commons gallery/category: ${records.length} image-backed entries → ${OUT}`);

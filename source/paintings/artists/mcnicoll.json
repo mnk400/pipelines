@@ -1,0 +1,52 @@
+{
+  "artist": {
+    "qid": "Q276123",
+    "name": "Helen McNicoll",
+    "slug": "mcnicoll"
+  },
+  "work": {
+    "qid": "Q3305213",
+    "label": "paintings",
+    "manifestKey": "paintings"
+  },
+  "commonsCategory": {
+    "title": "Category:Helen McNicoll",
+    "sourceName": "commons-category",
+    "excludeFilePatterns": [
+      "Exposition dans le Mus[ée]e national des beaux-arts du Qu[ée]bec"
+    ],
+    "titleStripPatterns": [
+      "^Helen Galloway McNicoll - ",
+      "^Helen McNicoll - ",
+      "^McNicoll,Helen Galloway-",
+      "^McNicoll-helen-galloway-",
+      "^Mcnicoll helen galloway-",
+      "^Mcnicoll ",
+      " - Google Art Project$",
+      " by Helen Galloway McNicoll.*$",
+      " Helen McNicoll$"
+    ]
+  },
+  "seriesRules": [
+    {
+      "name": "children",
+      "pattern": "\\b(child|children|little worker|girl|girls)\\b"
+    },
+    {
+      "name": "flowers",
+      "pattern": "\\b(flower|flowers|posies|cherry|apple|harvest|gatherer)\\b"
+    },
+    {
+      "name": "beach",
+      "pattern": "\\b(beach|shore|sea|stream)\\b"
+    },
+    {
+      "name": "interior",
+      "pattern": "\\b(interior|open door|tent)\\b"
+    },
+    {
+      "name": "shade",
+      "pattern": "\\b(shade|shadow|sunshade|tree)\\b"
+    }
+  ]
+}

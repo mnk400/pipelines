@@ -14,7 +14,16 @@ const pageviews = existsSync(dataPath("pageviews.json"))
 function buildId(r) {
   const catalogNumber = r.catalog_number ?? r.wildenstein;
   if (catalogNumber) return `${config.catalog?.idPrefix ?? "cat"}-${catalogNumber}`;
-  return `wd-${r.qid}`;
+  if (r.qid) return `wd-${r.qid}`;
+  if (r.image_filename) {
+    return `commons-${r.image_filename
+      .replace(/^File:/, "")
+      .replace(/\.[^.]+$/, "")
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-|-$/g, "")}`;
+  }
+  throw new Error(`Cannot build id for record without catalog number, QID, or image filename: ${JSON.stringify(r)}`);
 }
 
 function buildDimensions(r) {
@@ -29,6 +38,7 @@ const SOURCE_ORDER = {
   wikidata: 0,
   "commons-wildenstein": 1,
   "commons-gallery": 1,
+  "commons-category": 2,
 };
 
 function sourceRank(source) {
