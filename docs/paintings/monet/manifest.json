@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-25T04:21:06.588Z",
+  "generated": "2026-05-25T05:39:27.985Z",
   "artist": {
     "qid": "Q296",
     "name": "Claude Monet",
@@ -3973,7 +3973,7 @@
         "height_cm": 50,
         "width_cm": 65
       },
-      "collection": "Musées Nationaux Récupération",
+      "collection": "Musée des Beaux-Arts d'Angers",
       "series": null,
       "popularity": {
         "score": 36.9,
@@ -13136,7 +13136,7 @@
         "height_cm": 73,
         "width_cm": 60
       },
-      "collection": "Kunsthaus Zürich",
+      "collection": "Foundation E.G. Bührle Collection",
       "series": null,
       "popularity": {
         "score": 16.1,
@@ -14673,7 +14673,7 @@
         "height_cm": 73,
         "width_cm": 59.7
       },
-      "collection": "Impressionism: The Hasso Plattner Collection",
+      "collection": "Paul G. Allen Collection",
       "series": null,
       "popularity": {
         "score": 23,
@@ -18531,7 +18531,7 @@
         "height_cm": 60,
         "width_cm": 73
       },
-      "collection": "Museum Barberini",
+      "collection": "Impressionism: The Hasso Plattner Collection",
       "series": null,
       "popularity": {
         "score": 24.8,
@@ -21702,7 +21702,7 @@
         "height_cm": 60.7,
         "width_cm": 73.7
       },
-      "collection": "National Gallery of Norway",
+      "collection": "National Museum of Art, Architecture and Design",
       "series": null,
       "popularity": {
         "score": 17.9,
@@ -27317,7 +27317,7 @@
         "height_cm": 60,
         "width_cm": 100
       },
-      "collection": "Museum Barberini",
+      "collection": "Impressionism: The Hasso Plattner Collection",
       "series": null,
       "popularity": {
         "score": 20.8,
@@ -38633,22 +38633,22 @@
       "collection": null,
       "series": null,
       "popularity": {
-        "score": 47.2,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 55
+        "globalusage": 2
       },
       "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Le_bassin_aux_nymph%C3%A9as_-_Claude_Monet.jpg/960px-Le_bassin_aux_nymph%C3%A9as_-_Claude_Monet.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Le_bassin_aux_nymph%C3%A9as_-_Claude_Monet.jpg",
-        "width": 2233,
-        "height": 1096,
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Monet_w1890.jpg/960px-Monet_w1890.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/0/06/Monet_w1890.jpg",
+        "width": 1600,
+        "height": 779,
         "license": {
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "1. <a href=\"https://en.wikipedia.org/wiki/Private_collection\" class=\"extiw\" title=\"en:Private collection\">Private collection</a><div style=\"display: none;\">institution QS:P195,somevalue,P3831,Q768717</div><br>2. <a href=\"https://en.wikipedia.org/wiki/Christie%27s\" class=\"extiw\" title=\"en:Christie's\">Christie's</a>, LotFinder:  entry  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.christies.com/LotFinder/lot_details.aspx?intObjectID=5100003\">5100003</a> (sale 7599, lot 16, london, 24 June 2008)",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+          "credit": "Flickr",
+          "artist": "Claude Monet"
         }
       },
       "iiif": null
@@ -39452,51 +39452,6 @@
       "iiif": null
     },
     {
-      "id": "w-1903",
-      "qid": "Q105099615",
-      "catalog_number": "1903",
-      "wildenstein": "1903",
-      "source": "wikidata",
-      "title": "Q105099615",
-      "year": "1919",
-      "dimensions": {
-        "height_cm": 100,
-        "width_cm": 300
-      },
-      "collection": "Musée Marmottan Monet",
-      "series": null,
-      "popularity": {
-        "score": 25.6,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 12
-      },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Claude_Monet_-_Glycines_W1903_-_Mus%C3%A9e_Marmottan-Monet.jpg/960px-Claude_Monet_-_Glycines_W1903_-_Mus%C3%A9e_Marmottan-Monet.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/0/07/Claude_Monet_-_Glycines_W1903_-_Mus%C3%A9e_Marmottan-Monet.jpg",
-        "width": 4570,
-        "height": 1468,
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      },
-      "iiif": null,
-      "aliases": [
-        {
-          "id": "wd-Q63952039",
-          "qid": "Q63952039",
-          "catalog_number": "1903",
-          "wildenstein": "1903",
-          "source": "wikidata",
-          "title": "Q63952039"
-        }
-      ]
-    },
-    {
       "id": "w-1893b",
       "qid": "Q136341516",
       "catalog_number": "1893b",
@@ -39530,6 +39485,51 @@
         }
       },
       "iiif": null
+    },
+    {
+      "id": "w-1903",
+      "qid": "Q63952039",
+      "catalog_number": "1903",
+      "wildenstein": "1903",
+      "source": "wikidata",
+      "title": "Q63952039",
+      "year": "1919",
+      "dimensions": {
+        "height_cm": 100,
+        "width_cm": 300
+      },
+      "collection": "Musée Marmottan Monet",
+      "series": null,
+      "popularity": {
+        "score": 25.6,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 12
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Claude_Monet_-_Glycines_W1903_-_Mus%C3%A9e_Marmottan-Monet.jpg/960px-Claude_Monet_-_Glycines_W1903_-_Mus%C3%A9e_Marmottan-Monet.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/0/07/Claude_Monet_-_Glycines_W1903_-_Mus%C3%A9e_Marmottan-Monet.jpg",
+        "width": 4570,
+        "height": 1468,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      },
+      "iiif": null,
+      "aliases": [
+        {
+          "id": "wd-Q105099615",
+          "qid": "Q105099615",
+          "catalog_number": "1903",
+          "wildenstein": "1903",
+          "source": "wikidata",
+          "title": "Q105099615"
+        }
+      ]
     },
     {
       "id": "w-1891",
