@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-25T21:02:14.105Z",
+  "generated": "2026-05-25T23:22:17.137Z",
   "artist": {
     "qid": "Q296",
     "name": "Claude Monet",
@@ -1853,6 +1853,41 @@
       "iiif": null
     },
     {
+      "id": "w-80",
+      "qid": "Q70781190",
+      "catalog_number": "80",
+      "wildenstein": "80",
+      "source": "wikidata",
+      "title": "Road toward the Farm Saint-Siméon, Honfleur",
+      "year": "1866",
+      "dimensions": {
+        "height_cm": 56,
+        "width_cm": 81
+      },
+      "collection": "Fogg Museum",
+      "series": null,
+      "popularity": {
+        "score": 27.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 14
+      },
+      "image": {
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg/960px-Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/3/33/Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg",
+        "width": 2400,
+        "height": 1655,
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.harvardartmuseums.org/collections/object/299844?position=4\">https://www.harvardartmuseums.org/collections/object/299844?position=4</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      },
+      "iiif": "https://iiif.harvardartmuseums.org/manifests/object/299844"
+    },
+    {
       "id": "w-86",
       "qid": "Q55647396",
       "catalog_number": "86",
@@ -2230,41 +2265,6 @@
         }
       },
       "iiif": null
-    },
-    {
-      "id": "w-80",
-      "qid": "Q70781190",
-      "catalog_number": "80",
-      "wildenstein": "80",
-      "source": "wikidata",
-      "title": "Road toward the Farm Saint-Siméon, Honfleur",
-      "year": "1867",
-      "dimensions": {
-        "height_cm": 56,
-        "width_cm": 81
-      },
-      "collection": "Harvard Art Museums",
-      "series": null,
-      "popularity": {
-        "score": 27.1,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 14
-      },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg/960px-Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/3/33/Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg",
-        "width": 2400,
-        "height": 1655,
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.harvardartmuseums.org/collections/object/299844?position=4\">https://www.harvardartmuseums.org/collections/object/299844?position=4</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      },
-      "iiif": "https://iiif.harvardartmuseums.org/manifests/object/299844"
     },
     {
       "id": "w-93",
@@ -9326,7 +9326,7 @@
         "height_cm": 62,
         "width_cm": 82.5
       },
-      "collection": "Fogg Museum",
+      "collection": "Harvard Art Museums",
       "series": null,
       "popularity": {
         "score": 27.1,
@@ -10774,7 +10774,7 @@
         "height_cm": 83,
         "width_cm": 101.5
       },
-      "collection": "Harvard Art Museums",
+      "collection": "Fogg Museum",
       "series": null,
       "popularity": {
         "score": 174.3,
@@ -14743,7 +14743,7 @@
         "height_cm": 73,
         "width_cm": 59.7
       },
-      "collection": "Paul G. Allen Collection",
+      "collection": "Impressionism: The Hasso Plattner Collection",
       "series": null,
       "popularity": {
         "score": 23,
@@ -19543,24 +19543,24 @@
         "height_cm": 60,
         "width_cm": 73
       },
-      "collection": "Museum Barberini",
+      "collection": "Impressionism: The Hasso Plattner Collection",
       "series": null,
       "popularity": {
-        "score": 17.9,
+        "score": 32.6,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 2
+        "globalusage": 12
       },
       "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/MB-Mon-15_Monet_Villen-in-Bordighera.jpg/960px-MB-Mon-15_Monet_Villen-in-Bordighera.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/d/d3/MB-Mon-15_Monet_Villen-in-Bordighera.jpg",
-        "width": 2500,
-        "height": 2050,
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Claude_Monet_-_Villas_%C3%A0_Bordighera.jpg/960px-Claude_Monet_-_Villas_%C3%A0_Bordighera.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Claude_Monet_-_Villas_%C3%A0_Bordighera.jpg",
+        "width": 2048,
+        "height": 1668,
         "license": {
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span> <a href=\"//commons.wikimedia.org/w/index.php?title=User:MuseumBarberini&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MuseumBarberini (page does not exist)\">MuseumBarberini</a> Taken on 19 April 2022",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/UKrebsbach/status/1040533285074620416\">Twitter</a> <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://pbs.twimg.com/media/DnC3bfhW4AECE02.jpg:large\">[1]</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       },
@@ -24031,10 +24031,10 @@
       "collection": "Art Institute of Chicago",
       "series": "poplars",
       "popularity": {
-        "score": 31.8,
+        "score": 31.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 23
+        "globalusage": 22
       },
       "image": {
         "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Claude_Monet_-_Poplars_at_Giverny%2C_Sunrise.jpg/960px-Claude_Monet_-_Poplars_at_Giverny%2C_Sunrise.jpg",
@@ -28349,27 +28349,27 @@
       "title": "Vernon in the Sun",
       "year": "1894",
       "dimensions": {
-        "height_cm": 65.7,
+        "height_cm": 66,
         "width_cm": 95.1
       },
       "collection": "Brooklyn Museum",
       "series": null,
       "popularity": {
-        "score": 6.9,
+        "score": 34.3,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 1
+        "globalusage": 30
       },
       "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/37/Vernon%2C_soleil.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/3/37/Vernon%2C_soleil.jpg",
-        "width": 800,
-        "height": 598,
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/60/Brooklyn_Museum_-_Church_at_Vernon_-_Claude_Monet_-_overall.jpg",
+        "full": "https://upload.wikimedia.org/wikipedia/commons/6/60/Brooklyn_Museum_-_Church_at_Vernon_-_Claude_Monet_-_overall.jpg",
+        "width": 768,
+        "height": 535,
         "license": {
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sothebys.com/en/buy/auction/2020/impressionist-modern-contemporary-art-an-evening-sale/vernon-soleil\">https://www.sothebys.com/en/buy/auction/2020/impressionist-modern-contemporary-art-an-evening-sale/vernon-soleil</a>",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.brooklynmuseum.org/opencollection/objects/4410/Church_at_Vernon\">Online Collection</a> of <a href=\"https://en.wikipedia.org/wiki/Brooklyn_Museum\" class=\"extiw\" title=\"w:Brooklyn Museum\">Brooklyn Museum</a>; Photo: Brooklyn Museum, 22.59_reference_SL1.jpg",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       },
@@ -38654,10 +38654,10 @@
       "iiif": null
     },
     {
-      "id": "w-1964",
+      "id": "w-1965",
       "qid": "Q124250959",
-      "catalog_number": "1964",
-      "wildenstein": "1964",
+      "catalog_number": "1965",
+      "wildenstein": "1965",
       "source": "wikidata",
       "title": "Le Bassin aux nymphéas, le soir",
       "year": "1918",
