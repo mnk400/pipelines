@@ -62,6 +62,7 @@ manik.cc/pipelines/paintings/mcnicoll/manifest.json
 manik.cc/pipelines/paintings/toulouse-lautrec/manifest.json
 manik.cc/pipelines/paintings/sisley/manifest.json
 manik.cc/pipelines/paintings/weeks/manifest.json
+manik.cc/pipelines/paintings/yoshida/manifest.json
 ```
 
 GitHub Pages serves `docs/`, Cloudflare handles caching and CORS.

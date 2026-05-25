@@ -1,0 +1,60 @@
+{
+  "artist": {
+    "qid": "Q2916723",
+    "name": "Hiroshi Yoshida",
+    "slug": "yoshida"
+  },
+  "work": {
+    "qid": "Q11060274",
+    "label": "prints",
+    "manifestKey": "paintings"
+  },
+  "commonsCategory": {
+    "title": "Category:Woodblock prints by Yoshida Hiroshi",
+    "sourceName": "commons-category",
+    "titleStripPatterns": [
+      "^Yoshida Hiroshi\\s*-\\s*",
+      "^Hiroshi Yoshida\\s*-\\s*",
+      "^Hiroshi Yoshido\\s*-\\s*Yoshido-[0-9]+\\s*-\\s*",
+      "^\\(1876-1950\\)\\s*-\\s*",
+      "\\s+by Yoshida Hiroshi.*$",
+      "\\s+-\\s+Google Art Project$",
+      "\\s*,\\s+woodblock print.*$",
+      "\\s*,\\s+from the series.*$",
+      "\\s+\\([0-9]{8,}\\)$",
+      "\\s+-\\s+[0-9]{4}$",
+      "\\s*,\\s*$"
+    ],
+    "excludeFilePatterns": [
+      "signature",
+      "signatures",
+      "seal"
+    ]
+  },
+  "seriesRules": [
+    {
+      "name": "japan",
+      "pattern": "\\b(japan|tokyo|kyoto|nikko|nara|hirosaki|himeji|fuji|fujiyama|kameido|arashiyama|sarusawa|seto|inland sea)\\b"
+    },
+    {
+      "name": "india",
+      "pattern": "\\b(india|amritsar|taj mahal|agra|darjeeling|udaipur)\\b"
+    },
+    {
+      "name": "asia-travel",
+      "pattern": "\\b(korea|pyongyang|rangoon|burma|singapore|china|beijing|peking)\\b"
+    },
+    {
+      "name": "mountains",
+      "pattern": "\\b(mountain|mountains|alps|fuji|fujiyama|washibadake|matterhorn)\\b"
+    },
+    {
+      "name": "boats",
+      "pattern": "\\b(boat|boats|sailing|sailboat|sailboats|harbor|harbour|sea)\\b"
+    },
+    {
+      "name": "night",
+      "pattern": "\\b(night|moon|moonlight|evening)\\b"
+    }
+  ]
+}
