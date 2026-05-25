@@ -137,7 +137,15 @@ for (const r of records) {
   });
 }
 
-const dedupedPaintings = dedupeByImage(paintings).sort((a, b) => (a.year || "9999").localeCompare(b.year || "9999"));
+function comparePaintings(a, b) {
+  return (
+    (a.year || "9999").localeCompare(b.year || "9999") ||
+    (a.title || "").localeCompare(b.title || "") ||
+    a.id.localeCompare(b.id)
+  );
+}
+
+const dedupedPaintings = dedupeByImage(paintings).sort(comparePaintings);
 
 if (collisions.length) {
   console.warn(`Catalog number collisions (kept first, fell back to wd-QID for the rest):`);

@@ -28,7 +28,9 @@ else
   CONFIGS=("$CONFIG_DIR"/*.json)
 fi
 
-for CONFIG in "${CONFIGS[@]}"; do
+LAST_CONFIG_INDEX=$((${#CONFIGS[@]} - 1))
+for INDEX in "${!CONFIGS[@]}"; do
+  CONFIG="${CONFIGS[$INDEX]}"
   if [ ! -f "$CONFIG" ]; then
     echo "Artist config not found: $CONFIG"
     exit 1
@@ -48,4 +50,8 @@ for CONFIG in "${CONFIGS[@]}"; do
   ARTIST_CONFIG="$CONFIG" DATA_DIR="$DATA_DIR" OUT_DIR="$OUT_DIR" node "$PIPELINE_DIR/build-manifest.js"
 
   echo "Done. docs/$PROJECT/$SLUG/manifest.json updated."
+
+  if [ "$INDEX" -lt "$LAST_CONFIG_INDEX" ]; then
+    sleep "${PAINTINGS_ARTIST_THROTTLE_SECONDS:-10}"
+  fi
 done

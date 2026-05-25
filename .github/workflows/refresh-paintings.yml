@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 6 1 * *"
   workflow_dispatch:
+    inputs:
+      artist:
+        description: "Optional artist slug to refresh, e.g. monet or pissarro"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -19,7 +24,12 @@ jobs:
           node-version: 20
 
       - name: Run paintings pipeline
-        run: bash pipeline/paintings.sh paintings
+        run: |
+          if [ -n "${{ github.event.inputs.artist }}" ]; then
+            bash pipeline/paintings.sh paintings "${{ github.event.inputs.artist }}"
+          else
+            bash pipeline/paintings.sh paintings
+          fi
 
       - name: Commit and push
         run: |
