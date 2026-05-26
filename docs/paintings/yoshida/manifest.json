@@ -1,41 +1,32 @@
 {
-  "generated": "2026-05-25T23:35:23.341Z",
-  "artist": {
-    "qid": "Q2916723",
-    "name": "Hiroshi Yoshida",
-    "slug": "yoshida"
-  },
-  "work": {
-    "qid": "Q11060274",
-    "label": "prints",
-    "manifestKey": "paintings"
-  },
-  "count": 61,
-  "paintings": [
+  "version": 1,
+  "name": "Hiroshi Yoshida",
+  "items": [
     {
       "id": "wd-Q113487261",
-      "qid": "Q113487261",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Kumoi Cherry Trees",
       "year": "1920",
-      "dimensions": {
-        "height_cm": 29.4,
-        "width_cm": 45.1
-      },
-      "collection": "Toledo Museum of Art",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hiroshi_Yoshida_-_Kumoi-Zakura_%28Kumoi_Cherry_Trees%29_-_Google_Art_Project.jpg/960px-Hiroshi_Yoshida_-_Kumoi-Zakura_%28Kumoi_Cherry_Trees%29_-_Google_Art_Project.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Hiroshi_Yoshida_-_Kumoi-Zakura_%28Kumoi_Cherry_Trees%29_-_Google_Art_Project.jpg",
+      "width": 5005,
+      "height": 3894,
+      "tags": [],
       "popularity": {
         "score": 27.7,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 15
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hiroshi_Yoshida_-_Kumoi-Zakura_%28Kumoi_Cherry_Trees%29_-_Google_Art_Project.jpg/960px-Hiroshi_Yoshida_-_Kumoi-Zakura_%28Kumoi_Cherry_Trees%29_-_Google_Art_Project.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Hiroshi_Yoshida_-_Kumoi-Zakura_%28Kumoi_Cherry_Trees%29_-_Google_Art_Project.jpg",
-        "width": 5005,
-        "height": 3894,
+      "meta": {
+        "Collection": "Toledo Museum of Art"
+      },
+      "extras": {
+        "qid": "Q113487261",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 29.4,
+          "width_cm": 45.1
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -43,33 +34,34 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/2wHA6qvg4l6i2g\">2wHA6qvg4l6i2g at Google Cultural Institute</a> maximum zoom level",
           "artist": "<div class=\"fn value\">\nHiroshi Yoshida (1876 - 1950)  (Japanese)<br> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.googleartproject.com/artist/hiroshi-yoshida/4126300/\">Details on Google Art Project</a></div>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q113193792",
-      "qid": "Q113193792",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Hirosaki Castle",
       "year": "1935",
-      "dimensions": {
-        "height_cm": 40.5,
-        "width_cm": 27.3
-      },
-      "collection": "Museum of Fine Arts Boston",
-      "series": "japan",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Yoshida_Hiroshi_-_Hirosaki_Castle_%28Hirosaki_j%C3%B4%29%2C_from_the_series_Eight_Scenes_of_Cherry_Blossoms_%28Sakura_hachidai%29%2C_Museum_of_Fine_Arts_Boston.jpg/960px-Yoshida_Hiroshi_-_Hirosaki_Castle_%28Hirosaki_j%C3%B4%29%2C_from_the_series_Eight_Scenes_of_Cherry_Blossoms_%28Sakura_hachidai%29%2C_Museum_of_Fine_Arts_Boston.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Yoshida_Hiroshi_-_Hirosaki_Castle_%28Hirosaki_j%C3%B4%29%2C_from_the_series_Eight_Scenes_of_Cherry_Blossoms_%28Sakura_hachidai%29%2C_Museum_of_Fine_Arts_Boston.jpg",
+      "width": 1045,
+      "height": 1531,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Yoshida_Hiroshi_-_Hirosaki_Castle_%28Hirosaki_j%C3%B4%29%2C_from_the_series_Eight_Scenes_of_Cherry_Blossoms_%28Sakura_hachidai%29%2C_Museum_of_Fine_Arts_Boston.jpg/960px-Yoshida_Hiroshi_-_Hirosaki_Castle_%28Hirosaki_j%C3%B4%29%2C_from_the_series_Eight_Scenes_of_Cherry_Blossoms_%28Sakura_hachidai%29%2C_Museum_of_Fine_Arts_Boston.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Yoshida_Hiroshi_-_Hirosaki_Castle_%28Hirosaki_j%C3%B4%29%2C_from_the_series_Eight_Scenes_of_Cherry_Blossoms_%28Sakura_hachidai%29%2C_Museum_of_Fine_Arts_Boston.jpg",
-        "width": 1045,
-        "height": 1531,
+      "meta": {
+        "Collection": "Museum of Fine Arts Boston",
+        "Series": "japan"
+      },
+      "extras": {
+        "qid": "Q113193792",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 40.5,
+          "width_cm": 27.3
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -77,33 +69,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://collections.mfa.org/objects/254606\">https://collections.mfa.org/objects/254606</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q136536562",
-      "qid": "Q136536562",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Daidōmon",
       "year": "1937",
-      "dimensions": {
-        "height_cm": 27.1,
-        "width_cm": 40.1
-      },
-      "collection": "Musée Cernuschi",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Daid%C5%8Dmon_%28la_Porte_de_Taedong%29%2C_Pyongyang%2C_actuelle_Cor%C3%A9e_du_Nord.jpg/960px-Daid%C5%8Dmon_%28la_Porte_de_Taedong%29%2C_Pyongyang%2C_actuelle_Cor%C3%A9e_du_Nord.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Daid%C5%8Dmon_%28la_Porte_de_Taedong%29%2C_Pyongyang%2C_actuelle_Cor%C3%A9e_du_Nord.jpg",
+      "width": 3000,
+      "height": 2031,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Daid%C5%8Dmon_%28la_Porte_de_Taedong%29%2C_Pyongyang%2C_actuelle_Cor%C3%A9e_du_Nord.jpg/960px-Daid%C5%8Dmon_%28la_Porte_de_Taedong%29%2C_Pyongyang%2C_actuelle_Cor%C3%A9e_du_Nord.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Daid%C5%8Dmon_%28la_Porte_de_Taedong%29%2C_Pyongyang%2C_actuelle_Cor%C3%A9e_du_Nord.jpg",
-        "width": 3000,
-        "height": 2031,
+      "meta": {
+        "Collection": "Musée Cernuschi"
+      },
+      "extras": {
+        "qid": "Q136536562",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 27.1,
+          "width_cm": 40.1
+        },
         "license": {
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
@@ -111,30 +103,28 @@
           "credit": "Le site Paris Musées Collections : <a rel=\"nofollow\" class=\"external free\" href=\"https://www.parismuseescollections.paris.fr/fr/musee-cernuschi/oeuvres/daidomon-la-porte-de-taedong-pyongyang-actuelle-coree-du-nord#infos-principales\">https://www.parismuseescollections.paris.fr/fr/musee-cernuschi/oeuvres/daidomon-la-porte-de-taedong-pyongyang-actuelle-coree-du-nord#infos-principales</a>",
           "artist": "Unknown author<span style=\"display: none;\">Unknown author</span>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-a-misty-day-in-nikko-by-yoshida-hiroshi-1936-woodblock-print-honolulu-museum-of-art",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "A Misty Day in Nikko",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "japan",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/55/A_Misty_Day_in_Nikko_by_Yoshida_Hiroshi%2C_1936%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/55/A_Misty_Day_in_Nikko_by_Yoshida_Hiroshi%2C_1936%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "width": 536,
+      "height": 800,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/55/A_Misty_Day_in_Nikko_by_Yoshida_Hiroshi%2C_1936%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/5/55/A_Misty_Day_in_Nikko_by_Yoshida_Hiroshi%2C_1936%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "width": 536,
-        "height": 800,
+      "meta": {
+        "Series": "japan"
+      },
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -142,30 +132,28 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-arashiyama-by-yoshida-hiroshi-woodblock-print-honolulu-museum-of-art",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Arashiyama",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "japan",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Arashiyama_by_Yoshida_Hiroshi%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Arashiyama_by_Yoshida_Hiroshi%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "width": 544,
+      "height": 800,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Arashiyama_by_Yoshida_Hiroshi%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Arashiyama_by_Yoshida_Hiroshi%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "width": 544,
-        "height": 800,
+      "meta": {
+        "Series": "japan"
+      },
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -173,30 +161,26 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-bamboo-grove-5759026915",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Bamboo Grove",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bamboo_Grove_%285759026915%29.jpg/960px-Bamboo_Grove_%285759026915%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/05/Bamboo_Grove_%285759026915%29.jpg",
+      "width": 2573,
+      "height": 3727,
+      "tags": [],
       "popularity": {
         "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 6
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bamboo_Grove_%285759026915%29.jpg/960px-Bamboo_Grove_%285759026915%29.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/0/05/Bamboo_Grove_%285759026915%29.jpg",
-        "width": 2573,
-        "height": 3727,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -204,30 +188,28 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/thesandiegomuseumofartcollection/5759026915/\">Flickr</a> (www.flickr.com/photos/thesandiegomuseumofartcollection)",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-camping-at-washibadake-by-yoshida-hiroshi-1926-woodblock-print-honolulu-museum-of-art",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Camping at Washibadake",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "mountains",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Camping_at_Washibadake_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Camping_at_Washibadake_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "width": 535,
+      "height": 800,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Camping_at_Washibadake_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Camping_at_Washibadake_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "width": 535,
-        "height": 800,
+      "meta": {
+        "Series": "mountains"
+      },
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -235,30 +217,26 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-cryptomeria-avenue-by-yoshida-hiroshi-woodblock-print-honolulu-museum-of-art",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Cryptomeria Avenue",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Cryptomeria_Avenue_by_Yoshida_Hiroshi%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Cryptomeria_Avenue_by_Yoshida_Hiroshi%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "width": 528,
+      "height": 800,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Cryptomeria_Avenue_by_Yoshida_Hiroshi%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Cryptomeria_Avenue_by_Yoshida_Hiroshi%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "width": 528,
-        "height": 800,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -266,30 +244,28 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-de-sarusawa-vijver-sarusawa-pond-titel-op-object-sarusawa-ike-titel-op-object-ak-mak-1632",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "De Sarusawa vijver Sarusawa pond (titel op object) Sarusawa ike (titel op object), AK-MAK-1632",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "japan",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/De_Sarusawa_vijver_Sarusawa_pond_%28titel_op_object%29_Sarusawa_ike_%28titel_op_object%29%2C_AK-MAK-1632.jpg/960px-De_Sarusawa_vijver_Sarusawa_pond_%28titel_op_object%29_Sarusawa_ike_%28titel_op_object%29%2C_AK-MAK-1632.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/0f/De_Sarusawa_vijver_Sarusawa_pond_%28titel_op_object%29_Sarusawa_ike_%28titel_op_object%29%2C_AK-MAK-1632.jpg",
+      "width": 4398,
+      "height": 6425,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/De_Sarusawa_vijver_Sarusawa_pond_%28titel_op_object%29_Sarusawa_ike_%28titel_op_object%29%2C_AK-MAK-1632.jpg/960px-De_Sarusawa_vijver_Sarusawa_pond_%28titel_op_object%29_Sarusawa_ike_%28titel_op_object%29%2C_AK-MAK-1632.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/0/0f/De_Sarusawa_vijver_Sarusawa_pond_%28titel_op_object%29_Sarusawa_ike_%28titel_op_object%29%2C_AK-MAK-1632.jpg",
-        "width": 4398,
-        "height": 6425,
+      "meta": {
+        "Series": "japan"
+      },
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
@@ -297,30 +273,28 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10934/RM0001.COLLECT.349569\">http://hdl.handle.net/10934/RM0001.COLLECT.349569</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-evening-in-nara-by-yoshida-hiroshi-1933-woodblock-print-honolulu-museum-of-art",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Evening in Nara",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "japan",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Evening_in_Nara_by_Yoshida_Hiroshi%2C_1933%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Evening_in_Nara_by_Yoshida_Hiroshi%2C_1933%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "width": 540,
+      "height": 800,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Evening_in_Nara_by_Yoshida_Hiroshi%2C_1933%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Evening_in_Nara_by_Yoshida_Hiroshi%2C_1933%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "width": 540,
-        "height": 800,
+      "meta": {
+        "Series": "japan"
+      },
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -328,30 +302,28 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-golden-pagoda-in-rangoon-by-yoshida-hiroshi-1932-from-the-hood-museum-of-art-162-13-14759",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Golden Pagoda in Rangoon",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "asia-travel",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Golden_Pagoda_in_Rangoon%2C_by_Yoshida_Hiroshi%2C_1932%2C_from_the_Hood_Museum_of_Art_-_162.13.14759.tif/lossy-page1-960px-Golden_Pagoda_in_Rangoon%2C_by_Yoshida_Hiroshi%2C_1932%2C_from_the_Hood_Museum_of_Art_-_162.13.14759.tif.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/99/Golden_Pagoda_in_Rangoon%2C_by_Yoshida_Hiroshi%2C_1932%2C_from_the_Hood_Museum_of_Art_-_162.13.14759.tif",
+      "width": 4163,
+      "height": 2813,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Golden_Pagoda_in_Rangoon%2C_by_Yoshida_Hiroshi%2C_1932%2C_from_the_Hood_Museum_of_Art_-_162.13.14759.tif/lossy-page1-960px-Golden_Pagoda_in_Rangoon%2C_by_Yoshida_Hiroshi%2C_1932%2C_from_the_Hood_Museum_of_Art_-_162.13.14759.tif.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/99/Golden_Pagoda_in_Rangoon%2C_by_Yoshida_Hiroshi%2C_1932%2C_from_the_Hood_Museum_of_Art_-_162.13.14759.tif",
-        "width": 4163,
-        "height": 2813,
+      "meta": {
+        "Series": "asia-travel"
+      },
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -359,30 +331,28 @@
           "credit": "Hood Museum of Art:  <a rel=\"nofollow\" class=\"external free\" href=\"https://hoodmuseum.dartmouth.edu/objects/162.13.14759\">https://hoodmuseum.dartmouth.edu/objects/162.13.14759</a>",
           "artist": "<div class=\"fn value\">\nYoshida Hiroshi</div>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-golden-temple-in-amritsar-by-yoshida-hiroshi-1931",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Golden Temple in Amritsar",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Golden_Temple_in_Amritsar%2C_by_Yoshida_Hiroshi%2C_1931.jpg/960px-Golden_Temple_in_Amritsar%2C_by_Yoshida_Hiroshi%2C_1931.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Golden_Temple_in_Amritsar%2C_by_Yoshida_Hiroshi%2C_1931.jpg",
+      "width": 1600,
+      "height": 1103,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Golden_Temple_in_Amritsar%2C_by_Yoshida_Hiroshi%2C_1931.jpg/960px-Golden_Temple_in_Amritsar%2C_by_Yoshida_Hiroshi%2C_1931.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Golden_Temple_in_Amritsar%2C_by_Yoshida_Hiroshi%2C_1931.jpg",
-        "width": 1600,
-        "height": 1103,
+      "meta": {
+        "Series": "india"
+      },
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -390,30 +360,28 @@
           "credit": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"https://collections.mfa.org/objects/255008\">[1]</a>; <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://ukiyo-e.org/image/mfa/sc209106\">[2]</a>",
           "artist": "Yoshida Hiroshi (Japanese, 1876–1950)"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-himeji-castle-in-the-morning-by-yoshida-hiroshi-woodblock-print-honolulu-museum-of-art4",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Himeji Castle in the Morning",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "japan",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Himeji_Castle_in_the_Morning_by_Yoshida_Hiroshi%2C_woodblock_print%2C_Honolulu_Museum_of_Art4.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Himeji_Castle_in_the_Morning_by_Yoshida_Hiroshi%2C_woodblock_print%2C_Honolulu_Museum_of_Art4.jpg",
+      "width": 544,
+      "height": 800,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Himeji_Castle_in_the_Morning_by_Yoshida_Hiroshi%2C_woodblock_print%2C_Honolulu_Museum_of_Art4.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Himeji_Castle_in_the_Morning_by_Yoshida_Hiroshi%2C_woodblock_print%2C_Honolulu_Museum_of_Art4.jpg",
-        "width": 544,
-        "height": 800,
+      "meta": {
+        "Series": "japan"
+      },
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -421,30 +389,28 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-yoshida-hiroshi-1876-1950-hirosaki-castle-from-the-series-eight-scenes-of-cherry-blossoms-woodblock-1935-honolulu-academy-of-arts",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Hirosaki Castle",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "japan",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Yoshida_Hiroshi_-_%281876-1950%29_-_Hirosaki_Castle%2C_from_the_series_%27Eight_Scenes_of_Cherry_Blossoms%27%2C_woodblock%2C_1935%2C_Honolulu_Academy_of_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Yoshida_Hiroshi_-_%281876-1950%29_-_Hirosaki_Castle%2C_from_the_series_%27Eight_Scenes_of_Cherry_Blossoms%27%2C_woodblock%2C_1935%2C_Honolulu_Academy_of_Arts.jpg",
+      "width": 393,
+      "height": 581,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Yoshida_Hiroshi_-_%281876-1950%29_-_Hirosaki_Castle%2C_from_the_series_%27Eight_Scenes_of_Cherry_Blossoms%27%2C_woodblock%2C_1935%2C_Honolulu_Academy_of_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Yoshida_Hiroshi_-_%281876-1950%29_-_Hirosaki_Castle%2C_from_the_series_%27Eight_Scenes_of_Cherry_Blossoms%27%2C_woodblock%2C_1935%2C_Honolulu_Academy_of_Arts.jpg",
-        "width": 393,
-        "height": 581,
+      "meta": {
+        "Series": "japan"
+      },
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -452,30 +418,26 @@
           "credit": "Honolulu Academy of Arts",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-hiroshi-landschaft",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Hiroshi Landschaft",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hiroshi_Landschaft.jpg/960px-Hiroshi_Landschaft.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/12/Hiroshi_Landschaft.jpg",
+      "width": 1780,
+      "height": 2480,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hiroshi_Landschaft.jpg/960px-Hiroshi_Landschaft.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/1/12/Hiroshi_Landschaft.jpg",
-        "width": 1780,
-        "height": 2480,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -483,30 +445,26 @@
           "credit": "Catalogue",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-hodakayama-from-the-series-twelve-scenes-in-the-japan-alps-hiroshi-yoshida",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Hodakayama",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hodakayama%2C_from_the_series_Twelve_Scenes_in_the_Japan_Alps%2C_Hiroshi_Yoshida.jpg/960px-Hodakayama%2C_from_the_series_Twelve_Scenes_in_the_Japan_Alps%2C_Hiroshi_Yoshida.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Hodakayama%2C_from_the_series_Twelve_Scenes_in_the_Japan_Alps%2C_Hiroshi_Yoshida.jpg",
+      "width": 2000,
+      "height": 1355,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hodakayama%2C_from_the_series_Twelve_Scenes_in_the_Japan_Alps%2C_Hiroshi_Yoshida.jpg/960px-Hodakayama%2C_from_the_series_Twelve_Scenes_in_the_Japan_Alps%2C_Hiroshi_Yoshida.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Hodakayama%2C_from_the_series_Twelve_Scenes_in_the_Japan_Alps%2C_Hiroshi_Yoshida.jpg",
-        "width": 2000,
-        "height": 1355,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -514,30 +472,28 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://ukiyo-e.org/image/mfa/sc206945\">https://ukiyo-e.org/image/mfa/sc206945</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-kagurazaka-street-after-a-night-rain-5759570482",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Kagurazaka Street after a Night Rain",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "night",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kagurazaka_Street_after_a_Night_Rain_%285759570482%29.jpg/960px-Kagurazaka_Street_after_a_Night_Rain_%285759570482%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/41/Kagurazaka_Street_after_a_Night_Rain_%285759570482%29.jpg",
+      "width": 999,
+      "height": 1545,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kagurazaka_Street_after_a_Night_Rain_%285759570482%29.jpg/960px-Kagurazaka_Street_after_a_Night_Rain_%285759570482%29.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/4/41/Kagurazaka_Street_after_a_Night_Rain_%285759570482%29.jpg",
-        "width": 999,
-        "height": 1545,
+      "meta": {
+        "Series": "night"
+      },
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -545,30 +501,28 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/thesandiegomuseumofartcollection/5759570482/\">Flickr</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-kagurazaka-street-at-night-after-rain-from-the-series-twelve-scenes-of-tokyo-hiroshi-yoshida",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Kagurazaka Street at Night after Rain",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "night",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Kagurazaka_Street_at_Night_after_Rain%2C_from_the_Series_%22Twelve_Scenes_of_Tokyo%22._Hiroshi_Yoshida.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Kagurazaka_Street_at_Night_after_Rain%2C_from_the_Series_%22Twelve_Scenes_of_Tokyo%22._Hiroshi_Yoshida.jpg",
+      "width": 950,
+      "height": 1397,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Kagurazaka_Street_at_Night_after_Rain%2C_from_the_Series_%22Twelve_Scenes_of_Tokyo%22._Hiroshi_Yoshida.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Kagurazaka_Street_at_Night_after_Rain%2C_from_the_Series_%22Twelve_Scenes_of_Tokyo%22._Hiroshi_Yoshida.jpg",
-        "width": 950,
-        "height": 1397,
+      "meta": {
+        "Series": "night"
+      },
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
@@ -576,30 +530,28 @@
           "credit": "Tokyo Fuji Art Museum",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-hiroshi-yoshido-yoshido-98426-kameido-bridge",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Kameido Bridge",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "japan",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hiroshi_Yoshido_-_Yoshido-98426_-_Kameido_Bridge.jpg/960px-Hiroshi_Yoshido_-_Yoshido-98426_-_Kameido_Bridge.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Hiroshi_Yoshido_-_Yoshido-98426_-_Kameido_Bridge.jpg",
+      "width": 1292,
+      "height": 1950,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hiroshi_Yoshido_-_Yoshido-98426_-_Kameido_Bridge.jpg/960px-Hiroshi_Yoshido_-_Yoshido-98426_-_Kameido_Bridge.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Hiroshi_Yoshido_-_Yoshido-98426_-_Kameido_Bridge.jpg",
-        "width": 1292,
-        "height": 1950,
+      "meta": {
+        "Series": "japan"
+      },
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -607,30 +559,26 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20200416081856/http://www.abbottandholder-thelist.co.uk/\">http://www.abbottandholder-thelist.co.uk/</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-lake-kawaguchi-by-yoshida-hiroshi-1926-woodblock-print-honolulu-museum-of-art",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Lake Kawaguchi",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lake_Kawaguchi_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lake_Kawaguchi_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "width": 800,
+      "height": 585,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lake_Kawaguchi_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lake_Kawaguchi_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "width": 800,
-        "height": 585,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -638,30 +586,28 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-hiroshi-yoshida-memories-of-japan-99-3-detroit-institute-of-arts",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Memories of Japan - 99.3 - Detroit Institute of Arts",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "japan",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hiroshi_Yoshida_-_Memories_of_Japan_-_99.3_-_Detroit_Institute_of_Arts.jpg/960px-Hiroshi_Yoshida_-_Memories_of_Japan_-_99.3_-_Detroit_Institute_of_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hiroshi_Yoshida_-_Memories_of_Japan_-_99.3_-_Detroit_Institute_of_Arts.jpg",
+      "width": 2000,
+      "height": 1539,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hiroshi_Yoshida_-_Memories_of_Japan_-_99.3_-_Detroit_Institute_of_Arts.jpg/960px-Hiroshi_Yoshida_-_Memories_of_Japan_-_99.3_-_Detroit_Institute_of_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hiroshi_Yoshida_-_Memories_of_Japan_-_99.3_-_Detroit_Institute_of_Arts.jpg",
-        "width": 2000,
-        "height": 1539,
+      "meta": {
+        "Series": "japan"
+      },
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -669,30 +615,28 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.dia.org/art/collection/object/memories-japan-65740\">https://www.dia.org/art/collection/object/memories-japan-65740</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-morning-mist-in-taj-mahal-no-5-hiroshi-yoshida",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Morning Mist in Taj Mahal, no. 5, Hiroshi yoshida",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Morning_Mist_in_Taj_Mahal%2C_no._5%2C_Hiroshi_yoshida.jpg/960px-Morning_Mist_in_Taj_Mahal%2C_no._5%2C_Hiroshi_yoshida.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Morning_Mist_in_Taj_Mahal%2C_no._5%2C_Hiroshi_yoshida.jpg",
+      "width": 2000,
+      "height": 1446,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Morning_Mist_in_Taj_Mahal%2C_no._5%2C_Hiroshi_yoshida.jpg/960px-Morning_Mist_in_Taj_Mahal%2C_no._5%2C_Hiroshi_yoshida.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Morning_Mist_in_Taj_Mahal%2C_no._5%2C_Hiroshi_yoshida.jpg",
-        "width": 2000,
-        "height": 1446,
+      "meta": {
+        "Series": "india"
+      },
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -700,30 +644,26 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://ukiyo-e.org/image/mfa/sc211824\">https://ukiyo-e.org/image/mfa/sc211824</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-musashino-by-yoshida-hiroshi-1928-woodblock-print-honolulu-museum-of-art",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Musashino",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/02/Musashino_by_Yoshida_Hiroshi%2C_1928%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/02/Musashino_by_Yoshida_Hiroshi%2C_1928%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "width": 800,
+      "height": 535,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/02/Musashino_by_Yoshida_Hiroshi%2C_1928%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/0/02/Musashino_by_Yoshida_Hiroshi%2C_1928%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "width": 800,
-        "height": 535,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -731,30 +671,26 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-nigatsud-by-yoshida-hiroshi-1926-woodblock-print-honolulu-museum-of-art",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Nigatsudō",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Nigatsud%C5%8D_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Nigatsud%C5%8D_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "width": 543,
+      "height": 800,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Nigatsud%C5%8D_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Nigatsud%C5%8D_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "width": 543,
-        "height": 800,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -762,30 +698,28 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-night-in-kyoto-5759026225",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Night in Kyoto",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "japan",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Night_in_Kyoto_%285759026225%29.jpg/960px-Night_in_Kyoto_%285759026225%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/19/Night_in_Kyoto_%285759026225%29.jpg",
+      "width": 966,
+      "height": 1485,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Night_in_Kyoto_%285759026225%29.jpg/960px-Night_in_Kyoto_%285759026225%29.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/1/19/Night_in_Kyoto_%285759026225%29.jpg",
-        "width": 966,
-        "height": 1485,
+      "meta": {
+        "Series": "japan"
+      },
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -793,30 +727,26 @@
           "credit": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:The_San_Diego_Museum_of_Art\" class=\"extiw\" title=\"w:en:The San Diego Museum of Art\"><span title=\"art museum in San Diego, California\">San Diego Museum of Art</span></a>\n</bdi>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-northern-imperial-tombs-5759555258",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Northern Imperial Tombs",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Northern_Imperial_Tombs_%285759555258%29.jpg/960px-Northern_Imperial_Tombs_%285759555258%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Northern_Imperial_Tombs_%285759555258%29.jpg",
+      "width": 1486,
+      "height": 970,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Northern_Imperial_Tombs_%285759555258%29.jpg/960px-Northern_Imperial_Tombs_%285759555258%29.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Northern_Imperial_Tombs_%285759555258%29.jpg",
-        "width": 1486,
-        "height": 970,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -824,30 +754,26 @@
           "credit": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:The_San_Diego_Museum_of_Art\" class=\"extiw\" title=\"w:en:The San Diego Museum of Art\"><span title=\"art museum in San Diego, California\">San Diego Museum of Art</span></a>\n</bdi>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-yoshida-hiroshi-omuro",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Omuro",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Yoshida_Hiroshi_-_Omuro.jpg/960px-Yoshida_Hiroshi_-_Omuro.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Yoshida_Hiroshi_-_Omuro.jpg",
+      "width": 1024,
+      "height": 683,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Yoshida_Hiroshi_-_Omuro.jpg/960px-Yoshida_Hiroshi_-_Omuro.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Yoshida_Hiroshi_-_Omuro.jpg",
-        "width": 1024,
-        "height": 683,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -855,30 +781,26 @@
           "credit": "Katalog",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-rapids-hiroshi-yoshida",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Rapids, Hiroshi Yoshida, 渓流, 吉田博",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Rapids%2C_Hiroshi_Yoshida%2C_%E6%B8%93%E6%B5%81%2C_%E5%90%89%E7%94%B0%E5%8D%9A.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Rapids%2C_Hiroshi_Yoshida%2C_%E6%B8%93%E6%B5%81%2C_%E5%90%89%E7%94%B0%E5%8D%9A.jpg",
+      "width": 950,
+      "height": 647,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Rapids%2C_Hiroshi_Yoshida%2C_%E6%B8%93%E6%B5%81%2C_%E5%90%89%E7%94%B0%E5%8D%9A.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Rapids%2C_Hiroshi_Yoshida%2C_%E6%B8%93%E6%B5%81%2C_%E5%90%89%E7%94%B0%E5%8D%9A.jpg",
-        "width": 950,
-        "height": 647,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
@@ -886,30 +808,26 @@
           "credit": "Tokyo Fuji Art Museum",
           "artist": "Hiroshi Yoshida"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-yoshida-hiroshi-ruhigertag-am-inlandsee",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "RuhigerTag am Inlandsee",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Yoshida_Hiroshi_-_RuhigerTag_am_Inlandsee.jpg/960px-Yoshida_Hiroshi_-_RuhigerTag_am_Inlandsee.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/76/Yoshida_Hiroshi_-_RuhigerTag_am_Inlandsee.jpg",
+      "width": 1068,
+      "height": 704,
+      "tags": [],
       "popularity": {
         "score": 11,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 2
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Yoshida_Hiroshi_-_RuhigerTag_am_Inlandsee.jpg/960px-Yoshida_Hiroshi_-_RuhigerTag_am_Inlandsee.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/7/76/Yoshida_Hiroshi_-_RuhigerTag_am_Inlandsee.jpg",
-        "width": 1068,
-        "height": 704,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -917,30 +835,26 @@
           "credit": "Katalog",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-yoshida-hiroshi-setonaikai",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Setonaikai",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Yoshida_Hiroshi_-_Setonaikai.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Yoshida_Hiroshi_-_Setonaikai.jpg",
+      "width": 680,
+      "height": 462,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Yoshida_Hiroshi_-_Setonaikai.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Yoshida_Hiroshi_-_Setonaikai.jpg",
-        "width": 680,
-        "height": 462,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -948,30 +862,28 @@
           "credit": "Katalog",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-yoshida-hiroshi-sochu-china",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Sochu China",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "asia-travel",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Yoshida_Hiroshi_-_Sochu_China.jpg/960px-Yoshida_Hiroshi_-_Sochu_China.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Yoshida_Hiroshi_-_Sochu_China.jpg",
+      "width": 1351,
+      "height": 896,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Yoshida_Hiroshi_-_Sochu_China.jpg/960px-Yoshida_Hiroshi_-_Sochu_China.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Yoshida_Hiroshi_-_Sochu_China.jpg",
-        "width": 1351,
-        "height": 896,
+      "meta": {
+        "Series": "asia-travel"
+      },
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -979,30 +891,26 @@
           "credit": "Katalog",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-spring-in-a-hot-spring-5759555822",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Spring in a Hot Spring",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Spring_in_a_Hot_Spring_%285759555822%29.jpg/960px-Spring_in_a_Hot_Spring_%285759555822%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/03/Spring_in_a_Hot_Spring_%285759555822%29.jpg",
+      "width": 1641,
+      "height": 1083,
+      "tags": [],
       "popularity": {
         "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 5
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Spring_in_a_Hot_Spring_%285759555822%29.jpg/960px-Spring_in_a_Hot_Spring_%285759555822%29.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/0/03/Spring_in_a_Hot_Spring_%285759555822%29.jpg",
-        "width": 1641,
-        "height": 1083,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1010,30 +918,26 @@
           "credit": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:The_San_Diego_Museum_of_Art\" class=\"extiw\" title=\"w:en:The San Diego Museum of Art\"><span title=\"art museum in San Diego, California\">San Diego Museum of Art</span></a>\n</bdi>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-spring-rain-by-yoshida-hiroshi-1935-woodblock-print-honolulu-museum-of-art",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Spring Rain",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Spring_Rain_by_Yoshida_Hiroshi%2C_1935._woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Spring_Rain_by_Yoshida_Hiroshi%2C_1935._woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "width": 546,
+      "height": 800,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Spring_Rain_by_Yoshida_Hiroshi%2C_1935._woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Spring_Rain_by_Yoshida_Hiroshi%2C_1935._woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "width": 546,
-        "height": 800,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1041,30 +945,26 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-sulphur-crested-cockatoo-by-yoshida-hiroshi-1926-woodblock-print-honolulu-museum-of-art",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Sulphur-crested Cockatoo",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sulphur-crested_Cockatoo_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sulphur-crested_Cockatoo_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "width": 556,
+      "height": 800,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sulphur-crested_Cockatoo_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sulphur-crested_Cockatoo_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "width": 556,
-        "height": 800,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1072,30 +972,26 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-suzukawa-river-hiroshi-yoshida",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Suzukawa River, Hiroshi Yoshida, 鈴川, 吉田博",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Suzukawa_River%2C_Hiroshi_Yoshida%2C_%E9%88%B4%E5%B7%9D%2C_%E5%90%89%E7%94%B0%E5%8D%9A.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Suzukawa_River%2C_Hiroshi_Yoshida%2C_%E9%88%B4%E5%B7%9D%2C_%E5%90%89%E7%94%B0%E5%8D%9A.jpg",
+      "width": 950,
+      "height": 625,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Suzukawa_River%2C_Hiroshi_Yoshida%2C_%E9%88%B4%E5%B7%9D%2C_%E5%90%89%E7%94%B0%E5%8D%9A.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Suzukawa_River%2C_Hiroshi_Yoshida%2C_%E9%88%B4%E5%B7%9D%2C_%E5%90%89%E7%94%B0%E5%8D%9A.jpg",
-        "width": 950,
-        "height": 625,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
@@ -1103,30 +999,26 @@
           "credit": "Tokyo Fuji Art Museum",
           "artist": "Hiroshi Yoshida"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-tateyama-betsuzan-by-yoshida-hiroshi-1926-woodblock-print-honolulu-museum-of-art",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Tateyama Betsuzan",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/34/Tateyama_Betsuzan_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/34/Tateyama_Betsuzan_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "width": 800,
+      "height": 533,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/34/Tateyama_Betsuzan_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/3/34/Tateyama_Betsuzan_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "width": 800,
-        "height": 533,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1134,30 +1026,26 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-temple-bell-tower-by-yoshida-hiroshi-1935-woodblock-print-honolulu-museum-of-art",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Temple Bell Tower",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Temple_Bell_Tower_by_Yoshida_Hiroshi%2C_1935%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Temple_Bell_Tower_by_Yoshida_Hiroshi%2C_1935%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "width": 542,
+      "height": 800,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Temple_Bell_Tower_by_Yoshida_Hiroshi%2C_1935%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Temple_Bell_Tower_by_Yoshida_Hiroshi%2C_1935%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "width": 542,
-        "height": 800,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1165,30 +1053,26 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-the-chion-in-temple-gate-by-yoshida-hiroshi-1935-honolulu-museum-of-art",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "The Chion-in Temple Gate",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d5/The_Chion-in_Temple_Gate_by_Yoshida_Hiroshi%2C_1935%2C_Honolulu_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/d5/The_Chion-in_Temple_Gate_by_Yoshida_Hiroshi%2C_1935%2C_Honolulu_Museum_of_Art.jpg",
+      "width": 800,
+      "height": 536,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d5/The_Chion-in_Temple_Gate_by_Yoshida_Hiroshi%2C_1935%2C_Honolulu_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/d/d5/The_Chion-in_Temple_Gate_by_Yoshida_Hiroshi%2C_1935%2C_Honolulu_Museum_of_Art.jpg",
-        "width": 800,
-        "height": 536,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1196,30 +1080,26 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-the-gate-to-bumnosuke-teahouse-by-yoshida-hiroshi-1933-woodblock-print-honolulu-museum-of-art",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "The Gate to Bumnosuke Teahouse",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/75/The_Gate_to_Bumnosuke_Teahouse_by_Yoshida_Hiroshi%2C_1933%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/75/The_Gate_to_Bumnosuke_Teahouse_by_Yoshida_Hiroshi%2C_1933%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "width": 543,
+      "height": 800,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/75/The_Gate_to_Bumnosuke_Teahouse_by_Yoshida_Hiroshi%2C_1933%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/7/75/The_Gate_to_Bumnosuke_Teahouse_by_Yoshida_Hiroshi%2C_1933%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "width": 543,
-        "height": 800,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1227,30 +1107,26 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-the-golden-pavilion-5759027207",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "The Golden Pavilion",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c1/The_Golden_Pavilion_%285759027207%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c1/The_Golden_Pavilion_%285759027207%29.jpg",
+      "width": 709,
+      "height": 1059,
+      "tags": [],
       "popularity": {
         "score": 11,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 2
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c1/The_Golden_Pavilion_%285759027207%29.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/c/c1/The_Golden_Pavilion_%285759027207%29.jpg",
-        "width": 709,
-        "height": 1059,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1258,30 +1134,26 @@
           "credit": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:The_San_Diego_Museum_of_Art\" class=\"extiw\" title=\"w:en:The San Diego Museum of Art\"><span title=\"art museum in San Diego, California\">San Diego Museum of Art</span></a>\n</bdi>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-the-grand-canyon-from-the-united-states-series-hiroshi-yoshida",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "The Grand Canyon, from \"The United States Series\", Hiroshi Yoshida",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5f/The_Grand_Canyon%2C_from_%22The_United_States_Series%22%2C_Hiroshi_Yoshida.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/5f/The_Grand_Canyon%2C_from_%22The_United_States_Series%22%2C_Hiroshi_Yoshida.jpg",
+      "width": 950,
+      "height": 620,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5f/The_Grand_Canyon%2C_from_%22The_United_States_Series%22%2C_Hiroshi_Yoshida.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/5/5f/The_Grand_Canyon%2C_from_%22The_United_States_Series%22%2C_Hiroshi_Yoshida.jpg",
-        "width": 950,
-        "height": 620,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
@@ -1289,30 +1161,26 @@
           "credit": "<p>Tokyo Fuji Art Museum\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://www.fujibi.or.jp/collection/artwork/09903/\">https://www.fujibi.or.jp/collection/artwork/09903/</a>",
           "artist": "Hiroshi Yoshida"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-the-kengamine-summit-by-yoshida-hiroshi-1928-honolulu-museum-of-art",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "The Kengamine Summit",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/9d/The_Kengamine_Summit_by_Yoshida_Hiroshi%2C_1928%2C_Honolulu_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/9d/The_Kengamine_Summit_by_Yoshida_Hiroshi%2C_1928%2C_Honolulu_Museum_of_Art.jpg",
+      "width": 800,
+      "height": 536,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/9d/The_Kengamine_Summit_by_Yoshida_Hiroshi%2C_1928%2C_Honolulu_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/9d/The_Kengamine_Summit_by_Yoshida_Hiroshi%2C_1928%2C_Honolulu_Museum_of_Art.jpg",
-        "width": 800,
-        "height": 536,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1320,30 +1188,26 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-the-sumida-river-in-the-mist-by-yoshida-hiroshi-1926-woodblock-print-honolulu-museum-of-art",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "The Sumida River in the Mist",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Sumida_River_in_the_Mist_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Sumida_River_in_the_Mist_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "width": 800,
+      "height": 541,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Sumida_River_in_the_Mist_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Sumida_River_in_the_Mist_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "width": 800,
-        "height": 541,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1351,30 +1215,26 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-tomonoura-by-yoshida-hiroshi-1927-woodblock-print-honolulu-museum-of-art",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Tomonoura",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tomonoura_by_Yoshida_Hiroshi%2C_1927%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tomonoura_by_Yoshida_Hiroshi%2C_1927%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "width": 800,
+      "height": 521,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tomonoura_by_Yoshida_Hiroshi%2C_1927%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tomonoura_by_Yoshida_Hiroshi%2C_1927%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "width": 800,
-        "height": 521,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1382,30 +1242,26 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-toshogu-shrine-5759027311",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Toshogu Shrine",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Toshogu_Shrine_%285759027311%29.jpg/960px-Toshogu_Shrine_%285759027311%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/82/Toshogu_Shrine_%285759027311%29.jpg",
+      "width": 1332,
+      "height": 1947,
+      "tags": [],
       "popularity": {
         "score": 11,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 2
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Toshogu_Shrine_%285759027311%29.jpg/960px-Toshogu_Shrine_%285759027311%29.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/8/82/Toshogu_Shrine_%285759027311%29.jpg",
-        "width": 1332,
-        "height": 1947,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1413,30 +1269,26 @@
           "credit": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:The_San_Diego_Museum_of_Art\" class=\"extiw\" title=\"w:en:The San Diego Museum of Art\"><span title=\"art museum in San Diego, California\">San Diego Museum of Art</span></a>\n</bdi>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-hiroshi-yoshido-yoshido-98424-willow-and-stone-bridge-1926",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Willow and Stone Bridge",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hiroshi_Yoshido_-_Yoshido-98424_-_Willow_and_Stone_Bridge_-_1926.jpg/960px-Hiroshi_Yoshido_-_Yoshido-98424_-_Willow_and_Stone_Bridge_-_1926.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Hiroshi_Yoshido_-_Yoshido-98424_-_Willow_and_Stone_Bridge_-_1926.jpg",
+      "width": 1306,
+      "height": 1950,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hiroshi_Yoshido_-_Yoshido-98424_-_Willow_and_Stone_Bridge_-_1926.jpg/960px-Hiroshi_Yoshido_-_Yoshido-98424_-_Willow_and_Stone_Bridge_-_1926.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Hiroshi_Yoshido_-_Yoshido-98424_-_Willow_and_Stone_Bridge_-_1926.jpg",
-        "width": 1306,
-        "height": 1950,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1444,30 +1296,26 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20200416081856/http://www.abbottandholder-thelist.co.uk/\">http://www.abbottandholder-thelist.co.uk/</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-winter-in-taguchi-by-yoshida-hiroshi-1927-honolulu-museum-of-art",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Winter in Taguchi",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Winter_in_Taguchi_by_Yoshida_Hiroshi%2C_1927%2C_Honolulu_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Winter_in_Taguchi_by_Yoshida_Hiroshi%2C_1927%2C_Honolulu_Museum_of_Art.jpg",
+      "width": 800,
+      "height": 543,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Winter_in_Taguchi_by_Yoshida_Hiroshi%2C_1927%2C_Honolulu_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Winter_in_Taguchi_by_Yoshida_Hiroshi%2C_1927%2C_Honolulu_Museum_of_Art.jpg",
-        "width": 800,
-        "height": 543,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1475,30 +1323,26 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-hiroshi-yoshida-wisteria-10651",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Wisteria - 10651",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hiroshi_Yoshida_-_Wisteria_-_10651.jpg/960px-Hiroshi_Yoshida_-_Wisteria_-_10651.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Hiroshi_Yoshida_-_Wisteria_-_10651.jpg",
+      "width": 2048,
+      "height": 1376,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hiroshi_Yoshida_-_Wisteria_-_10651.jpg/960px-Hiroshi_Yoshida_-_Wisteria_-_10651.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Hiroshi_Yoshida_-_Wisteria_-_10651.jpg",
-        "width": 2048,
-        "height": 1376,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1506,30 +1350,26 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20220315184355/https://www.abbottandholder-thelist.co.uk/\">https://www.abbottandholder-thelist.co.uk/</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-hiroshi-yoshida-yomei-gate",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Yomei Gate",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hiroshi_Yoshida_-_Yomei_Gate.jpg/960px-Hiroshi_Yoshida_-_Yomei_Gate.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Hiroshi_Yoshida_-_Yomei_Gate.jpg",
+      "width": 3900,
+      "height": 5925,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hiroshi_Yoshida_-_Yomei_Gate.jpg/960px-Hiroshi_Yoshida_-_Yomei_Gate.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Hiroshi_Yoshida_-_Yomei_Gate.jpg",
-        "width": 3900,
-        "height": 5925,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1537,30 +1377,26 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mutualart.com/Artwork/Yomei-Gate/B42B5EC95683DD359130ABF5E9403A7B\">https://www.mutualart.com/Artwork/Yomei-Gate/B42B5EC95683DD359130ABF5E9403A7B</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-y-meimon-hiroshi-yoshida",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Yōmeimon, Hiroshi Yoshida, 陽明門, 吉田博",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Y%C5%8Dmeimon%2C_Hiroshi_Yoshida%2C_%E9%99%BD%E6%98%8E%E9%96%80%2C_%E5%90%89%E7%94%B0%E5%8D%9A.jpg/960px-Y%C5%8Dmeimon%2C_Hiroshi_Yoshida%2C_%E9%99%BD%E6%98%8E%E9%96%80%2C_%E5%90%89%E7%94%B0%E5%8D%9A.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Y%C5%8Dmeimon%2C_Hiroshi_Yoshida%2C_%E9%99%BD%E6%98%8E%E9%96%80%2C_%E5%90%89%E7%94%B0%E5%8D%9A.jpg",
+      "width": 966,
+      "height": 1400,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Y%C5%8Dmeimon%2C_Hiroshi_Yoshida%2C_%E9%99%BD%E6%98%8E%E9%96%80%2C_%E5%90%89%E7%94%B0%E5%8D%9A.jpg/960px-Y%C5%8Dmeimon%2C_Hiroshi_Yoshida%2C_%E9%99%BD%E6%98%8E%E9%96%80%2C_%E5%90%89%E7%94%B0%E5%8D%9A.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Y%C5%8Dmeimon%2C_Hiroshi_Yoshida%2C_%E9%99%BD%E6%98%8E%E9%96%80%2C_%E5%90%89%E7%94%B0%E5%8D%9A.jpg",
-        "width": 966,
-        "height": 1400,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1568,30 +1404,26 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://ukiyo-e.org/image/artelino/34117g1\">https://ukiyo-e.org/image/artelino/34117g1</a>",
           "artist": "Hiroshi Yoshida"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-yoshida-funatsu",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Yoshida Funatsu",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yoshida_Funatsu.jpg/960px-Yoshida_Funatsu.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Yoshida_Funatsu.jpg",
+      "width": 1931,
+      "height": 2929,
+      "tags": [],
       "popularity": {
         "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 6
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yoshida_Funatsu.jpg/960px-Yoshida_Funatsu.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Yoshida_Funatsu.jpg",
-        "width": 1931,
-        "height": 2929,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1599,30 +1431,26 @@
           "credit": "Catalogue",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-yoshida-hiroshi-grand-canyon",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Yoshida Hiroshi Grand Canyon",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Yoshida_Hiroshi_Grand_Canyon.jpg/960px-Yoshida_Hiroshi_Grand_Canyon.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/94/Yoshida_Hiroshi_Grand_Canyon.jpg",
+      "width": 1514,
+      "height": 1000,
+      "tags": [],
       "popularity": {
         "score": 11,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 2
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Yoshida_Hiroshi_Grand_Canyon.jpg/960px-Yoshida_Hiroshi_Grand_Canyon.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/94/Yoshida_Hiroshi_Grand_Canyon.jpg",
-        "width": 1514,
-        "height": 1000,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1630,30 +1458,26 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://ukiyo-e.org/image/artelino/40083g1\">https://ukiyo-e.org/image/artelino/40083g1</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-yoshida-hiroshi-s6",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Yoshida Hiroshi S6",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Yoshida_Hiroshi_S6.jpg/960px-Yoshida_Hiroshi_S6.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Yoshida_Hiroshi_S6.jpg",
+      "width": 1896,
+      "height": 1240,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Yoshida_Hiroshi_S6.jpg/960px-Yoshida_Hiroshi_S6.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Yoshida_Hiroshi_S6.jpg",
-        "width": 1896,
-        "height": 1240,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1661,30 +1485,26 @@
           "credit": "Japan Ukiyoe Museum",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-yoshida-hiroshi-small-town-in-chugoku",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Yoshida Hiroshi Small town in Chugoku",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Yoshida_Hiroshi_Small_town_in_Chugoku.jpg/960px-Yoshida_Hiroshi_Small_town_in_Chugoku.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/97/Yoshida_Hiroshi_Small_town_in_Chugoku.jpg",
+      "width": 5000,
+      "height": 3386,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Yoshida_Hiroshi_Small_town_in_Chugoku.jpg/960px-Yoshida_Hiroshi_Small_town_in_Chugoku.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/97/Yoshida_Hiroshi_Small_town_in_Chugoku.jpg",
-        "width": 5000,
-        "height": 3386,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1692,30 +1512,26 @@
           "credit": "<a href=\"//commons.wikimedia.org/wiki/Category:Dorotheum\" title=\"Category:Dorotheum\">Dorotheum</a>: <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Information_icon.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/20px-Information_icon.svg.png\" decoding=\"async\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/40px-Information_icon.svg.png 2x\" data-file-width=\"620\" data-file-height=\"620\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.dorotheum.com/en/l/9839837/\">Info about artwork</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-yoshida-hiroshi-suzukawa-1935",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Yoshida Hiroshi Suzukawa, 1935",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Yoshida_Hiroshi_Suzukawa%2C_1935.jpg/960px-Yoshida_Hiroshi_Suzukawa%2C_1935.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Yoshida_Hiroshi_Suzukawa%2C_1935.jpg",
+      "width": 3200,
+      "height": 2148,
+      "tags": [],
       "popularity": {
         "score": 11,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 2
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Yoshida_Hiroshi_Suzukawa%2C_1935.jpg/960px-Yoshida_Hiroshi_Suzukawa%2C_1935.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Yoshida_Hiroshi_Suzukawa%2C_1935.jpg",
-        "width": 3200,
-        "height": 2148,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1723,30 +1539,26 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mutualart.com/Artwork/Suzukawa/42072DFD053EAA2D\">https://www.mutualart.com/Artwork/Suzukawa/42072DFD053EAA2D</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-yoshida-hiroshi-rapids-at-the-upper-reaches-of-tone-river-1928",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Yoshida Hiroshi, Rapids at the Upper Reaches of Tone River, 1928",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Yoshida_Hiroshi%2C_Rapids_at_the_Upper_Reaches_of_Tone_River%2C_1928.jpg/960px-Yoshida_Hiroshi%2C_Rapids_at_the_Upper_Reaches_of_Tone_River%2C_1928.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/49/Yoshida_Hiroshi%2C_Rapids_at_the_Upper_Reaches_of_Tone_River%2C_1928.jpg",
+      "width": 2000,
+      "height": 1373,
+      "tags": [],
       "popularity": {
         "score": 11,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 2
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Yoshida_Hiroshi%2C_Rapids_at_the_Upper_Reaches_of_Tone_River%2C_1928.jpg/960px-Yoshida_Hiroshi%2C_Rapids_at_the_Upper_Reaches_of_Tone_River%2C_1928.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/4/49/Yoshida_Hiroshi%2C_Rapids_at_the_Upper_Reaches_of_Tone_River%2C_1928.jpg",
-        "width": 2000,
-        "height": 1373,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1754,30 +1566,26 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://ukiyo-e.org/image/mfa/sc219915\">https://ukiyo-e.org/image/mfa/sc219915</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-yoshida-hiroshi-rapids-at-the-upper-reaches-of-tone-river-1928-cropped",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Yoshida Hiroshi, Rapids at the Upper Reaches of Tone River, 1928 (cropped)",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Yoshida_Hiroshi%2C_Rapids_at_the_Upper_Reaches_of_Tone_River%2C_1928_%28cropped%29.jpg/960px-Yoshida_Hiroshi%2C_Rapids_at_the_Upper_Reaches_of_Tone_River%2C_1928_%28cropped%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Yoshida_Hiroshi%2C_Rapids_at_the_Upper_Reaches_of_Tone_River%2C_1928_%28cropped%29.jpg",
+      "width": 1830,
+      "height": 1205,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Yoshida_Hiroshi%2C_Rapids_at_the_Upper_Reaches_of_Tone_River%2C_1928_%28cropped%29.jpg/960px-Yoshida_Hiroshi%2C_Rapids_at_the_Upper_Reaches_of_Tone_River%2C_1928_%28cropped%29.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Yoshida_Hiroshi%2C_Rapids_at_the_Upper_Reaches_of_Tone_River%2C_1928_%28cropped%29.jpg",
-        "width": 1830,
-        "height": 1205,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1785,30 +1593,26 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://ukiyo-e.org/image/mfa/sc219915\">https://ukiyo-e.org/image/mfa/sc219915</a>",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-yoshida-kameid",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Yoshida Kameidô",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Yoshida_Kameid%C3%B4.jpg/960px-Yoshida_Kameid%C3%B4.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Yoshida_Kameid%C3%B4.jpg",
+      "width": 1049,
+      "height": 1554,
+      "tags": [],
       "popularity": {
         "score": 26.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 13
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Yoshida_Kameid%C3%B4.jpg/960px-Yoshida_Kameid%C3%B4.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Yoshida_Kameid%C3%B4.jpg",
-        "width": 1049,
-        "height": 1554,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1816,30 +1620,26 @@
           "credit": "Catalogue",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-yoshida-komagatake",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Yoshida Komagatake",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Yoshida_Komagatake.jpg/960px-Yoshida_Komagatake.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Yoshida_Komagatake.jpg",
+      "width": 2912,
+      "height": 1883,
+      "tags": [],
       "popularity": {
         "score": 24.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 11
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Yoshida_Komagatake.jpg/960px-Yoshida_Komagatake.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Yoshida_Komagatake.jpg",
-        "width": 2912,
-        "height": 1883,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1847,30 +1647,26 @@
           "credit": "Catalogue",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-yoshida-village-by-yoshida-hiroshi-1926-woodblock-print-honolulu-museum-of-art",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Yoshida Village",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/77/Yoshida_Village_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/77/Yoshida_Village_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "width": 800,
+      "height": 553,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/77/Yoshida_Village_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/7/77/Yoshida_Village_by_Yoshida_Hiroshi%2C_1926%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "width": 800,
-        "height": 553,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1878,30 +1674,26 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "commons-yoshikawa-by-yoshida-hiroshi-1935-woodblock-print-honolulu-museum-of-art",
-      "qid": null,
-      "catalog_number": null,
-      "source": "commons-category",
       "title": "Yoshikawa",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Yoshikawa_by_Yoshida_Hiroshi%2C_1935%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Yoshikawa_by_Yoshida_Hiroshi%2C_1935%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
+      "width": 800,
+      "height": 536,
+      "tags": [],
       "popularity": {
         "score": 0,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 0
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Yoshikawa_by_Yoshida_Hiroshi%2C_1935%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Yoshikawa_by_Yoshida_Hiroshi%2C_1935%2C_woodblock_print%2C_Honolulu_Museum_of_Art.jpg",
-        "width": 800,
-        "height": 536,
+      "meta": {},
+      "extras": {
+        "source": "commons-category",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1909,8 +1701,22 @@
           "credit": "Honolulu Museum of Art",
           "artist": "Yoshida Hiroshi"
         }
-      },
-      "iiif": null
+      }
     }
-  ]
+  ],
+  "source": {
+    "generator": "pipelines-paintings",
+    "generated": "2026-05-25T23:35:23.341Z",
+    "artist": {
+      "qid": "Q2916723",
+      "name": "Hiroshi Yoshida",
+      "slug": "yoshida"
+    },
+    "work": {
+      "qid": "Q11060274",
+      "label": "prints",
+      "manifestKey": "paintings"
+    },
+    "count": 61
+  }
 }

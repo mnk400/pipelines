@@ -1,41 +1,32 @@
 {
-  "generated": "2026-05-25T23:28:48.293Z",
-  "artist": {
-    "qid": "Q560787",
-    "name": "Frederic Remington",
-    "slug": "remington"
-  },
-  "work": {
-    "qid": "Q3305213",
-    "label": "paintings",
-    "manifestKey": "paintings"
-  },
-  "count": 81,
-  "paintings": [
+  "version": 1,
+  "name": "Frederic Remington",
+  "items": [
     {
       "id": "wd-Q28094688",
-      "qid": "Q28094688",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Lookout",
       "year": "1887",
-      "dimensions": {
-        "height_cm": 65.9,
-        "width_cm": 55.7
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Frederic_Remington_-_The_Lookout_-_43.19_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Lookout_-_43.19_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/67/Frederic_Remington_-_The_Lookout_-_43.19_-_Museum_of_Fine_Arts.jpg",
+      "width": 2725,
+      "height": 3200,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Frederic_Remington_-_The_Lookout_-_43.19_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Lookout_-_43.19_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/6/67/Frederic_Remington_-_The_Lookout_-_43.19_-_Museum_of_Fine_Arts.jpg",
-        "width": 2725,
-        "height": 3200,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094688",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 65.9,
+          "width_cm": 55.7
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -43,30 +34,30 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/45620\">https://www.mfah.org/art/detail/45620</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20539508",
-      "qid": "Q20539508",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Advance Guard",
       "year": "1888",
-      "dimensions": null,
-      "collection": "Smithsonian American Art Museum",
-      "series": "cavalry",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Frederic_Remington_-_The_Advance_Guard_-_2005.23.3_-_Smithsonian_American_Art_Museum.jpg/960px-Frederic_Remington_-_The_Advance_Guard_-_2005.23.3_-_Smithsonian_American_Art_Museum.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Frederic_Remington_-_The_Advance_Guard_-_2005.23.3_-_Smithsonian_American_Art_Museum.jpg",
+      "width": 1400,
+      "height": 1539,
+      "tags": [],
       "popularity": {
         "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 5
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Frederic_Remington_-_The_Advance_Guard_-_2005.23.3_-_Smithsonian_American_Art_Museum.jpg/960px-Frederic_Remington_-_The_Advance_Guard_-_2005.23.3_-_Smithsonian_American_Art_Museum.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Frederic_Remington_-_The_Advance_Guard_-_2005.23.3_-_Smithsonian_American_Art_Museum.jpg",
-        "width": 1400,
-        "height": 1539,
+      "meta": {
+        "Collection": "Smithsonian American Art Museum",
+        "Series": "cavalry"
+      },
+      "extras": {
+        "qid": "Q20539508",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -74,33 +65,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://americanart.si.edu/collections/search/artwork/?id=75127\">http://americanart.si.edu/collections/search/artwork/?id=75127</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q120754911",
-      "qid": "Q120754911",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "A Dash for the Timber",
       "year": "1889",
-      "dimensions": {
-        "height_cm": 122.6,
-        "width_cm": 213.7
-      },
-      "collection": "Amon Carter Museum of American Art",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/A_Dash_for_the_Timber_by_Frederic_Remington.jpg/960px-A_Dash_for_the_Timber_by_Frederic_Remington.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/73/A_Dash_for_the_Timber_by_Frederic_Remington.jpg",
+      "width": 4236,
+      "height": 2400,
+      "tags": [],
       "popularity": {
         "score": 210.7,
         "pageviews_365d": 997,
         "sitelinks": 2,
         "globalusage": 14
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/A_Dash_for_the_Timber_by_Frederic_Remington.jpg/960px-A_Dash_for_the_Timber_by_Frederic_Remington.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/7/73/A_Dash_for_the_Timber_by_Frederic_Remington.jpg",
-        "width": 4236,
-        "height": 2400,
+      "meta": {
+        "Collection": "Amon Carter Museum of American Art"
+      },
+      "extras": {
+        "qid": "Q120754911",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 122.6,
+          "width_cm": 213.7
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -108,30 +99,29 @@
           "credit": "Photograph of original painting, scanned from film transparency.",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q49246296",
-      "qid": "Q49246296",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "A Texas Pony",
       "year": "1889",
-      "dimensions": null,
-      "collection": "Yale University Art Gallery",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Frederic_Remington_-_A_Texas_Pony_-_1975.115.1_-_Yale_University_Art_Gallery.jpg/960px-Frederic_Remington_-_A_Texas_Pony_-_1975.115.1_-_Yale_University_Art_Gallery.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Frederic_Remington_-_A_Texas_Pony_-_1975.115.1_-_Yale_University_Art_Gallery.jpg",
+      "width": 1769,
+      "height": 1920,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Frederic_Remington_-_A_Texas_Pony_-_1975.115.1_-_Yale_University_Art_Gallery.jpg/960px-Frederic_Remington_-_A_Texas_Pony_-_1975.115.1_-_Yale_University_Art_Gallery.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Frederic_Remington_-_A_Texas_Pony_-_1975.115.1_-_Yale_University_Art_Gallery.jpg",
-        "width": 1769,
-        "height": 1920,
+      "meta": {
+        "Collection": "Yale University Art Gallery"
+      },
+      "extras": {
+        "qid": "Q49246296",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -139,33 +129,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://artgallery.yale.edu/collections/objects/15081\">https://artgallery.yale.edu/collections/objects/15081</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20172851",
-      "qid": "Q20172851",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Pitched It Sheer into the River . . . Where It Still Is Seen in the Summer",
       "year": "1889",
-      "dimensions": {
-        "height_cm": 50.8,
-        "width_cm": 71.8
-      },
-      "collection": "Metropolitan Museum of Art",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Pitched_It_Sheer_into_the_River_._._._Where_It_Still_Is_Seen_in_the_Summer_MET_DP227348.jpg/960px-Pitched_It_Sheer_into_the_River_._._._Where_It_Still_Is_Seen_in_the_Summer_MET_DP227348.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/16/Pitched_It_Sheer_into_the_River_._._._Where_It_Still_Is_Seen_in_the_Summer_MET_DP227348.jpg",
+      "width": 3863,
+      "height": 2781,
+      "tags": [],
       "popularity": {
         "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 6
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Pitched_It_Sheer_into_the_River_._._._Where_It_Still_Is_Seen_in_the_Summer_MET_DP227348.jpg/960px-Pitched_It_Sheer_into_the_River_._._._Where_It_Still_Is_Seen_in_the_Summer_MET_DP227348.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/1/16/Pitched_It_Sheer_into_the_River_._._._Where_It_Still_Is_Seen_in_the_Summer_MET_DP227348.jpg",
-        "width": 3863,
-        "height": 2781,
+      "meta": {
+        "Collection": "Metropolitan Museum of Art"
+      },
+      "extras": {
+        "qid": "Q20172851",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 50.8,
+          "width_cm": 71.8
+        },
         "license": {
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
@@ -173,33 +163,34 @@
           "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094608",
-      "qid": "Q28094608",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Pueblo Indian Village",
       "year": "1889",
-      "dimensions": {
-        "height_cm": 68.6,
-        "width_cm": 43.2
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": "native-american",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Frederic_Remington_-_Pueblo_Indian_Village_-_43.54_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_Pueblo_Indian_Village_-_43.54_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/30/Frederic_Remington_-_Pueblo_Indian_Village_-_43.54_-_Museum_of_Fine_Arts.jpg",
+      "width": 3200,
+      "height": 2031,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Frederic_Remington_-_Pueblo_Indian_Village_-_43.54_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_Pueblo_Indian_Village_-_43.54_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/3/30/Frederic_Remington_-_Pueblo_Indian_Village_-_43.54_-_Museum_of_Fine_Arts.jpg",
-        "width": 3200,
-        "height": 2031,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston",
+        "Series": "native-american"
+      },
+      "extras": {
+        "qid": "Q28094608",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 68.6,
+          "width_cm": 43.2
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -207,33 +198,34 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/44125\">https://www.mfah.org/art/detail/44125</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20268869",
-      "qid": "Q20268869",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Mexican Major",
       "year": "1889",
-      "dimensions": {
-        "height_cm": 84,
-        "width_cm": 124.8
-      },
-      "collection": "Art Institute of Chicago",
-      "series": "mexico",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Frederic_Remington_-_The_Mexican_Major_-_1982.804_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_The_Mexican_Major_-_1982.804_-_Art_Institute_of_Chicago.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Frederic_Remington_-_The_Mexican_Major_-_1982.804_-_Art_Institute_of_Chicago.jpg",
+      "width": 3000,
+      "height": 2075,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Frederic_Remington_-_The_Mexican_Major_-_1982.804_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_The_Mexican_Major_-_1982.804_-_Art_Institute_of_Chicago.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Frederic_Remington_-_The_Mexican_Major_-_1982.804_-_Art_Institute_of_Chicago.jpg",
-        "width": 3000,
-        "height": 2075,
+      "meta": {
+        "Collection": "Art Institute of Chicago",
+        "Series": "mexico"
+      },
+      "extras": {
+        "qid": "Q20268869",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 84,
+          "width_cm": 124.8
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -241,30 +233,30 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/97912\">https://www.artic.edu/artworks/97912</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20270696",
-      "qid": "Q20270696",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "A Mexican Vaquero",
       "year": "1890",
-      "dimensions": null,
-      "collection": "Art Institute of Chicago",
-      "series": "cowboys",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Frederic_Remington_-_A_Mexican_Vaquero_-_1982.799_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_A_Mexican_Vaquero_-_1982.799_-_Art_Institute_of_Chicago.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/34/Frederic_Remington_-_A_Mexican_Vaquero_-_1982.799_-_Art_Institute_of_Chicago.jpg",
+      "width": 1520,
+      "height": 2250,
+      "tags": [],
       "popularity": {
         "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 5
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Frederic_Remington_-_A_Mexican_Vaquero_-_1982.799_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_A_Mexican_Vaquero_-_1982.799_-_Art_Institute_of_Chicago.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/3/34/Frederic_Remington_-_A_Mexican_Vaquero_-_1982.799_-_Art_Institute_of_Chicago.jpg",
-        "width": 1520,
-        "height": 2250,
+      "meta": {
+        "Collection": "Art Institute of Chicago",
+        "Series": "cowboys"
+      },
+      "extras": {
+        "qid": "Q20270696",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -272,33 +264,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/97907\">https://www.artic.edu/artworks/97907</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094678",
-      "qid": "Q28094678",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Aiding a Comrade",
       "year": "1890",
-      "dimensions": {
-        "height_cm": 871.47,
-        "width_cm": 1222.5
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Frederic_Remington_-_Aiding_a_Comrade_-_Google_Art_Project.jpg/960px-Frederic_Remington_-_Aiding_a_Comrade_-_Google_Art_Project.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/81/Frederic_Remington_-_Aiding_a_Comrade_-_Google_Art_Project.jpg",
+      "width": 8608,
+      "height": 6048,
+      "tags": [],
       "popularity": {
         "score": 36.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 37
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Frederic_Remington_-_Aiding_a_Comrade_-_Google_Art_Project.jpg/960px-Frederic_Remington_-_Aiding_a_Comrade_-_Google_Art_Project.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/8/81/Frederic_Remington_-_Aiding_a_Comrade_-_Google_Art_Project.jpg",
-        "width": 8608,
-        "height": 6048,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094678",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 871.47,
+          "width_cm": 1222.5
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -306,33 +298,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/NgFOqvqn8LtPew\">NgFOqvqn8LtPew at Google Cultural Institute</a> maximum zoom level",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q138143076",
-      "qid": "Q138143076",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Antoine's Cabin",
       "year": "1890",
-      "dimensions": {
-        "height_cm": 28,
-        "width_cm": 20
-      },
-      "collection": "Frederic Remington Art Museum",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Remington%2C_Frederic_-_Antoine%27s_Cabin%2C_1890.jpg/960px-Remington%2C_Frederic_-_Antoine%27s_Cabin%2C_1890.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Remington%2C_Frederic_-_Antoine%27s_Cabin%2C_1890.jpg",
+      "width": 2730,
+      "height": 3870,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Remington%2C_Frederic_-_Antoine%27s_Cabin%2C_1890.jpg/960px-Remington%2C_Frederic_-_Antoine%27s_Cabin%2C_1890.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Remington%2C_Frederic_-_Antoine%27s_Cabin%2C_1890.jpg",
-        "width": 2730,
-        "height": 3870,
+      "meta": {
+        "Collection": "Frederic Remington Art Museum"
+      },
+      "extras": {
+        "qid": "Q138143076",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 28,
+          "width_cm": 20
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -340,30 +332,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://artsandculture.google.com/asset/antoines-cabin/IQHCjHl8-0-itg\">Google Art &amp; Culture</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q104773629",
-      "qid": "Q104773629",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Dismounted: The Fourth Troopers Moving the Led Horses",
       "year": "1890",
-      "dimensions": null,
-      "collection": "Clark Art Institute",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Frederic_Remington_-_Dismounted%2C_The_Fourth_Troopers_Moving_the_Led_Horses_-_1955.11_-_Clark_Art_Institute.tiff/lossy-page1-960px-Frederic_Remington_-_Dismounted%2C_The_Fourth_Troopers_Moving_the_Led_Horses_-_1955.11_-_Clark_Art_Institute.tiff.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Frederic_Remington_-_Dismounted%2C_The_Fourth_Troopers_Moving_the_Led_Horses_-_1955.11_-_Clark_Art_Institute.tiff",
+      "width": 10615,
+      "height": 7123,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Frederic_Remington_-_Dismounted%2C_The_Fourth_Troopers_Moving_the_Led_Horses_-_1955.11_-_Clark_Art_Institute.tiff/lossy-page1-960px-Frederic_Remington_-_Dismounted%2C_The_Fourth_Troopers_Moving_the_Led_Horses_-_1955.11_-_Clark_Art_Institute.tiff.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Frederic_Remington_-_Dismounted%2C_The_Fourth_Troopers_Moving_the_Led_Horses_-_1955.11_-_Clark_Art_Institute.tiff",
-        "width": 10615,
-        "height": 7123,
+      "meta": {
+        "Collection": "Clark Art Institute"
+      },
+      "extras": {
+        "qid": "Q104773629",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -371,30 +362,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.clarkart.edu/ArtPiece/Detail/Dismounted-The-Fourth-Troopers-Moving-the-Led-Hors\">Clark Art Institute</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20274883",
-      "qid": "Q20274883",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Historians of the Tribe",
       "year": "1890",
-      "dimensions": null,
-      "collection": "Art Institute of Chicago",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Frederic_Remington_-_Historians_of_the_Tribe_-_1982.801_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_Historians_of_the_Tribe_-_1982.801_-_Art_Institute_of_Chicago.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Frederic_Remington_-_Historians_of_the_Tribe_-_1982.801_-_Art_Institute_of_Chicago.jpg",
+      "width": 3000,
+      "height": 1624,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Frederic_Remington_-_Historians_of_the_Tribe_-_1982.801_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_Historians_of_the_Tribe_-_1982.801_-_Art_Institute_of_Chicago.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Frederic_Remington_-_Historians_of_the_Tribe_-_1982.801_-_Art_Institute_of_Chicago.jpg",
-        "width": 3000,
-        "height": 1624,
+      "meta": {
+        "Collection": "Art Institute of Chicago"
+      },
+      "extras": {
+        "qid": "Q20274883",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -402,33 +392,34 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/97909\">https://www.artic.edu/artworks/97909</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20789726",
-      "qid": "Q20789726",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Mexican Infantry \"On the March\"",
       "year": "1890",
-      "dimensions": {
-        "height_cm": 45.72,
-        "width_cm": 70.8
-      },
-      "collection": "Museum of Fine Arts Boston",
-      "series": "mexico",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Frederic_Remington_-_Mexican_Infantry_%22On_the_March%22_-_1981.341_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_Mexican_Infantry_%22On_the_March%22_-_1981.341_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Frederic_Remington_-_Mexican_Infantry_%22On_the_March%22_-_1981.341_-_Museum_of_Fine_Arts.jpg",
+      "width": 1600,
+      "height": 1025,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Frederic_Remington_-_Mexican_Infantry_%22On_the_March%22_-_1981.341_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_Mexican_Infantry_%22On_the_March%22_-_1981.341_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Frederic_Remington_-_Mexican_Infantry_%22On_the_March%22_-_1981.341_-_Museum_of_Fine_Arts.jpg",
-        "width": 1600,
-        "height": 1025,
+      "meta": {
+        "Collection": "Museum of Fine Arts Boston",
+        "Series": "mexico"
+      },
+      "extras": {
+        "qid": "Q20789726",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 45.72,
+          "width_cm": 70.8
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -436,33 +427,34 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfa.org/collections/object/mexican-infantry-on-the-march-34457\">https://www.mfa.org/collections/object/mexican-infantry-on-the-march-34457</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20275745",
-      "qid": "Q20275745",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Advance-Guard, or The Military Sacrifice (The Ambush)",
       "year": "1890",
-      "dimensions": {
-        "height_cm": 87.3,
-        "width_cm": 123.1
-      },
-      "collection": "Art Institute of Chicago",
-      "series": "cavalry",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Frederic_Remington_-_The_Advance-Guard%2C_or_The_Military_Sacrifice_%28The_Ambush%29_-_1982.802_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_The_Advance-Guard%2C_or_The_Military_Sacrifice_%28The_Ambush%29_-_1982.802_-_Art_Institute_of_Chicago.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/15/Frederic_Remington_-_The_Advance-Guard%2C_or_The_Military_Sacrifice_%28The_Ambush%29_-_1982.802_-_Art_Institute_of_Chicago.jpg",
+      "width": 3000,
+      "height": 2110,
+      "tags": [],
       "popularity": {
         "score": 226.4,
         "pageviews_365d": 2404,
         "sitelinks": 2,
         "globalusage": 7
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Frederic_Remington_-_The_Advance-Guard%2C_or_The_Military_Sacrifice_%28The_Ambush%29_-_1982.802_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_The_Advance-Guard%2C_or_The_Military_Sacrifice_%28The_Ambush%29_-_1982.802_-_Art_Institute_of_Chicago.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/1/15/Frederic_Remington_-_The_Advance-Guard%2C_or_The_Military_Sacrifice_%28The_Ambush%29_-_1982.802_-_Art_Institute_of_Chicago.jpg",
-        "width": 3000,
-        "height": 2110,
+      "meta": {
+        "Collection": "Art Institute of Chicago",
+        "Series": "cavalry"
+      },
+      "extras": {
+        "qid": "Q20275745",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 87.3,
+          "width_cm": 123.1
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -470,33 +462,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/97910\">https://www.artic.edu/artworks/97910</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q49246440",
-      "qid": "Q49246440",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Touchdown, Yale vs. Princeton, Thanksgiving Day, Nov. 27, 1890, Yale 32, Princeton 0",
       "year": "1890",
-      "dimensions": {
-        "height_cm": 55.9,
-        "width_cm": 82.7
-      },
-      "collection": "Yale University Art Gallery",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Frederic_Remington_-_Touchdown%2C_Yale_vs._Princeton%2C_Thanksgiving_Day%2C_Nov._27%2C_1890%2C_Yale_32%2C_Princeton_0_-_1932.264_-_Yale_University_Art_Gallery.jpg/960px-Frederic_Remington_-_Touchdown%2C_Yale_vs._Princeton%2C_Thanksgiving_Day%2C_Nov._27%2C_1890%2C_Yale_32%2C_Princeton_0_-_1932.264_-_Yale_University_Art_Gallery.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Frederic_Remington_-_Touchdown%2C_Yale_vs._Princeton%2C_Thanksgiving_Day%2C_Nov._27%2C_1890%2C_Yale_32%2C_Princeton_0_-_1932.264_-_Yale_University_Art_Gallery.jpg",
+      "width": 1920,
+      "height": 1294,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Frederic_Remington_-_Touchdown%2C_Yale_vs._Princeton%2C_Thanksgiving_Day%2C_Nov._27%2C_1890%2C_Yale_32%2C_Princeton_0_-_1932.264_-_Yale_University_Art_Gallery.jpg/960px-Frederic_Remington_-_Touchdown%2C_Yale_vs._Princeton%2C_Thanksgiving_Day%2C_Nov._27%2C_1890%2C_Yale_32%2C_Princeton_0_-_1932.264_-_Yale_University_Art_Gallery.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Frederic_Remington_-_Touchdown%2C_Yale_vs._Princeton%2C_Thanksgiving_Day%2C_Nov._27%2C_1890%2C_Yale_32%2C_Princeton_0_-_1932.264_-_Yale_University_Art_Gallery.jpg",
-        "width": 1920,
-        "height": 1294,
+      "meta": {
+        "Collection": "Yale University Art Gallery"
+      },
+      "extras": {
+        "qid": "Q49246440",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 55.9,
+          "width_cm": 82.7
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -504,30 +496,30 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://artgallery.yale.edu/collections/objects/5465\">https://artgallery.yale.edu/collections/objects/5465</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q104717541",
-      "qid": "Q104717541",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Mounted Indian Scout",
       "year": "1891",
-      "dimensions": null,
-      "collection": "Cincinnati Art Museum",
-      "series": "cavalry",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%27Mounted_Indian_Scout%27_by_Frederic_Remington%2C_Cincinnati_Art_Museum.JPG/960px-%27Mounted_Indian_Scout%27_by_Frederic_Remington%2C_Cincinnati_Art_Museum.JPG",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%27Mounted_Indian_Scout%27_by_Frederic_Remington%2C_Cincinnati_Art_Museum.JPG",
+      "width": 1396,
+      "height": 2572,
+      "tags": [],
       "popularity": {
         "score": 23,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 9
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%27Mounted_Indian_Scout%27_by_Frederic_Remington%2C_Cincinnati_Art_Museum.JPG/960px-%27Mounted_Indian_Scout%27_by_Frederic_Remington%2C_Cincinnati_Art_Museum.JPG",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%27Mounted_Indian_Scout%27_by_Frederic_Remington%2C_Cincinnati_Art_Museum.JPG",
-        "width": 1396,
-        "height": 2572,
+      "meta": {
+        "Collection": "Cincinnati Art Museum",
+        "Series": "cavalry"
+      },
+      "extras": {
+        "qid": "Q104717541",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -535,33 +527,33 @@
           "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094711",
-      "qid": "Q28094711",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Scouts Climbing a Mountain",
       "year": "1891",
-      "dimensions": {
-        "height_cm": 109.2,
-        "width_cm": 51.1
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Frederic_Remington_-_Scouts_Climbing_a_Mountain_-_43.11_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_Scouts_Climbing_a_Mountain_-_43.11_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/29/Frederic_Remington_-_Scouts_Climbing_a_Mountain_-_43.11_-_Museum_of_Fine_Arts.jpg",
+      "width": 1498,
+      "height": 3200,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Frederic_Remington_-_Scouts_Climbing_a_Mountain_-_43.11_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_Scouts_Climbing_a_Mountain_-_43.11_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/2/29/Frederic_Remington_-_Scouts_Climbing_a_Mountain_-_43.11_-_Museum_of_Fine_Arts.jpg",
-        "width": 1498,
-        "height": 3200,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094711",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 109.2,
+          "width_cm": 51.1
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -569,33 +561,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/45610\">https://www.mfah.org/art/detail/45610</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094709",
-      "qid": "Q28094709",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Transgressor",
       "year": "1891",
-      "dimensions": {
-        "height_cm": 33.13,
-        "width_cm": 23.13
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Frederic_Remington_-_The_Transgressor_-_43.12_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Transgressor_-_43.12_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Frederic_Remington_-_The_Transgressor_-_43.12_-_Museum_of_Fine_Arts.jpg",
+      "width": 2234,
+      "height": 3200,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Frederic_Remington_-_The_Transgressor_-_43.12_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Transgressor_-_43.12_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Frederic_Remington_-_The_Transgressor_-_43.12_-_Museum_of_Fine_Arts.jpg",
-        "width": 2234,
-        "height": 3200,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094709",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 33.13,
+          "width_cm": 23.13
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -603,33 +595,34 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/45611\">https://www.mfah.org/art/detail/45611</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q49246343",
-      "qid": "Q49246343",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Roasting the Christmas Beef in a Cavalry Camp",
       "year": "1892",
-      "dimensions": {
-        "height_cm": 74,
-        "width_cm": 114.5
-      },
-      "collection": "Yale University Art Gallery",
-      "series": "cavalry",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Frederic_Remington_-_Roasting_the_Christmas_Beef_in_a_Cavalry_Camp_-_1972.55_-_Yale_University_Art_Gallery.jpg/960px-Frederic_Remington_-_Roasting_the_Christmas_Beef_in_a_Cavalry_Camp_-_1972.55_-_Yale_University_Art_Gallery.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/93/Frederic_Remington_-_Roasting_the_Christmas_Beef_in_a_Cavalry_Camp_-_1972.55_-_Yale_University_Art_Gallery.jpg",
+      "width": 1920,
+      "height": 1245,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Frederic_Remington_-_Roasting_the_Christmas_Beef_in_a_Cavalry_Camp_-_1972.55_-_Yale_University_Art_Gallery.jpg/960px-Frederic_Remington_-_Roasting_the_Christmas_Beef_in_a_Cavalry_Camp_-_1972.55_-_Yale_University_Art_Gallery.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/93/Frederic_Remington_-_Roasting_the_Christmas_Beef_in_a_Cavalry_Camp_-_1972.55_-_Yale_University_Art_Gallery.jpg",
-        "width": 1920,
-        "height": 1245,
+      "meta": {
+        "Collection": "Yale University Art Gallery",
+        "Series": "cavalry"
+      },
+      "extras": {
+        "qid": "Q49246343",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 74,
+          "width_cm": 114.5
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -637,30 +630,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://artgallery.yale.edu/collections/objects/9480\">https://artgallery.yale.edu/collections/objects/9480</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q83559807",
-      "qid": "Q83559807",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "On the Head-Waters--Burgess Finding a Ford",
       "year": "1893",
-      "dimensions": null,
-      "collection": "Metropolitan Museum of Art",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/On_the_Head-Waters--Burgess_Finding_a_Ford_%28Illustration_from_Frederic_Remington%27s_%22Pony_Tracks%2C%22_1895%29_MET_DP367927.jpg/960px-On_the_Head-Waters--Burgess_Finding_a_Ford_%28Illustration_from_Frederic_Remington%27s_%22Pony_Tracks%2C%22_1895%29_MET_DP367927.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/On_the_Head-Waters--Burgess_Finding_a_Ford_%28Illustration_from_Frederic_Remington%27s_%22Pony_Tracks%2C%22_1895%29_MET_DP367927.jpg",
+      "width": 3915,
+      "height": 2672,
+      "tags": [],
       "popularity": {
         "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 5
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/On_the_Head-Waters--Burgess_Finding_a_Ford_%28Illustration_from_Frederic_Remington%27s_%22Pony_Tracks%2C%22_1895%29_MET_DP367927.jpg/960px-On_the_Head-Waters--Burgess_Finding_a_Ford_%28Illustration_from_Frederic_Remington%27s_%22Pony_Tracks%2C%22_1895%29_MET_DP367927.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/On_the_Head-Waters--Burgess_Finding_a_Ford_%28Illustration_from_Frederic_Remington%27s_%22Pony_Tracks%2C%22_1895%29_MET_DP367927.jpg",
-        "width": 3915,
-        "height": 2672,
+      "meta": {
+        "Collection": "Metropolitan Museum of Art"
+      },
+      "extras": {
+        "qid": "Q83559807",
+        "source": "wikidata",
         "license": {
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
@@ -668,30 +660,29 @@
           "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20267430",
-      "qid": "Q20267430",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Slave Market",
       "year": "1893",
-      "dimensions": null,
-      "collection": "Art Institute of Chicago",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Frederic_Remington_-_Slave_Market_-_1982.800_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_Slave_Market_-_1982.800_-_Art_Institute_of_Chicago.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Frederic_Remington_-_Slave_Market_-_1982.800_-_Art_Institute_of_Chicago.jpg",
+      "width": 3000,
+      "height": 1939,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Frederic_Remington_-_Slave_Market_-_1982.800_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_Slave_Market_-_1982.800_-_Art_Institute_of_Chicago.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Frederic_Remington_-_Slave_Market_-_1982.800_-_Art_Institute_of_Chicago.jpg",
-        "width": 3000,
-        "height": 1939,
+      "meta": {
+        "Collection": "Art Institute of Chicago"
+      },
+      "extras": {
+        "qid": "Q20267430",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -699,33 +690,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/97908\">https://www.artic.edu/artworks/97908</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094706",
-      "qid": "Q28094706",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Hussar",
       "year": "1893",
-      "dimensions": {
-        "height_cm": 71.1,
-        "width_cm": 58.4
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Frederic_Remington_-_The_Hussar_-_43.13_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Hussar_-_43.13_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/86/Frederic_Remington_-_The_Hussar_-_43.13_-_Museum_of_Fine_Arts.jpg",
+      "width": 2590,
+      "height": 3200,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Frederic_Remington_-_The_Hussar_-_43.13_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Hussar_-_43.13_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/8/86/Frederic_Remington_-_The_Hussar_-_43.13_-_Museum_of_Fine_Arts.jpg",
-        "width": 2590,
-        "height": 3200,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094706",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 71.1,
+          "width_cm": 58.4
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -733,33 +724,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/45612\">https://www.mfah.org/art/detail/45612</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094621",
-      "qid": "Q28094621",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Infantry Square",
       "year": "1893",
-      "dimensions": {
-        "height_cm": 61,
-        "width_cm": 86.4
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Frederic_Remington_-_The_Infantry_Square_-_43.49_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Infantry_Square_-_43.49_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/50/Frederic_Remington_-_The_Infantry_Square_-_43.49_-_Museum_of_Fine_Arts.jpg",
+      "width": 3200,
+      "height": 2230,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Frederic_Remington_-_The_Infantry_Square_-_43.49_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Infantry_Square_-_43.49_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/5/50/Frederic_Remington_-_The_Infantry_Square_-_43.49_-_Museum_of_Fine_Arts.jpg",
-        "width": 3200,
-        "height": 2230,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094621",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 61,
+          "width_cm": 86.4
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -767,30 +758,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/44120\">https://www.mfah.org/art/detail/44120</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20267425",
-      "qid": "Q20267425",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "First and Best Camp of the Trip",
       "year": "1895",
-      "dimensions": null,
-      "collection": "Art Institute of Chicago",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Frederic_Remington_-_First_and_Best_Camp_of_the_Trip_-_1982.788_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_First_and_Best_Camp_of_the_Trip_-_1982.788_-_Art_Institute_of_Chicago.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Frederic_Remington_-_First_and_Best_Camp_of_the_Trip_-_1982.788_-_Art_Institute_of_Chicago.jpg",
+      "width": 3000,
+      "height": 2031,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Frederic_Remington_-_First_and_Best_Camp_of_the_Trip_-_1982.788_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_First_and_Best_Camp_of_the_Trip_-_1982.788_-_Art_Institute_of_Chicago.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Frederic_Remington_-_First_and_Best_Camp_of_the_Trip_-_1982.788_-_Art_Institute_of_Chicago.jpg",
-        "width": 3000,
-        "height": 2031,
+      "meta": {
+        "Collection": "Art Institute of Chicago"
+      },
+      "extras": {
+        "qid": "Q20267425",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -798,33 +788,34 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/97896\">https://www.artic.edu/artworks/97896</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094610",
-      "qid": "Q28094610",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Indian Fire God (The Going of the Medicine-Horse)",
       "year": "1895",
-      "dimensions": {
-        "height_cm": 68.6,
-        "width_cm": 101.6
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": "native-american",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Frederic_Remington_-_Indian_Fire_God_%28The_Going_of_the_Medicine-Horse%29_-_43.53_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_Indian_Fire_God_%28The_Going_of_the_Medicine-Horse%29_-_43.53_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Frederic_Remington_-_Indian_Fire_God_%28The_Going_of_the_Medicine-Horse%29_-_43.53_-_Museum_of_Fine_Arts.jpg",
+      "width": 2158,
+      "height": 3200,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Frederic_Remington_-_Indian_Fire_God_%28The_Going_of_the_Medicine-Horse%29_-_43.53_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_Indian_Fire_God_%28The_Going_of_the_Medicine-Horse%29_-_43.53_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Frederic_Remington_-_Indian_Fire_God_%28The_Going_of_the_Medicine-Horse%29_-_43.53_-_Museum_of_Fine_Arts.jpg",
-        "width": 2158,
-        "height": 3200,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston",
+        "Series": "native-american"
+      },
+      "extras": {
+        "qid": "Q28094610",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 68.6,
+          "width_cm": 101.6
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -832,33 +823,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/44124\">https://www.mfah.org/art/detail/44124</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094722",
-      "qid": "Q28094722",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Flight",
       "year": "1895",
-      "dimensions": {
-        "height_cm": 58.4,
-        "width_cm": 84.3
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Frederic_Remington_-_The_Flight_-_43.8_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Flight_-_43.8_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/71/Frederic_Remington_-_The_Flight_-_43.8_-_Museum_of_Fine_Arts.jpg",
+      "width": 3200,
+      "height": 1989,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Frederic_Remington_-_The_Flight_-_43.8_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Flight_-_43.8_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/7/71/Frederic_Remington_-_The_Flight_-_43.8_-_Museum_of_Fine_Arts.jpg",
-        "width": 3200,
-        "height": 1989,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094722",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 58.4,
+          "width_cm": 84.3
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -866,30 +857,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/45607\">https://www.mfah.org/art/detail/45607</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q49246246",
-      "qid": "Q49246246",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "What an Unbranded Cow Has Cost",
       "year": "1895",
-      "dimensions": null,
-      "collection": "Yale University Art Gallery",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/What_an_Unbranded_Cow_Has_Cost_by_Frederic_Remington_1895.jpeg/960px-What_an_Unbranded_Cow_Has_Cost_by_Frederic_Remington_1895.jpeg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/39/What_an_Unbranded_Cow_Has_Cost_by_Frederic_Remington_1895.jpeg",
+      "width": 3000,
+      "height": 1971,
+      "tags": [],
       "popularity": {
         "score": 26.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 13
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/What_an_Unbranded_Cow_Has_Cost_by_Frederic_Remington_1895.jpeg/960px-What_an_Unbranded_Cow_Has_Cost_by_Frederic_Remington_1895.jpeg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/3/39/What_an_Unbranded_Cow_Has_Cost_by_Frederic_Remington_1895.jpeg",
-        "width": 3000,
-        "height": 1971,
+      "meta": {
+        "Collection": "Yale University Art Gallery"
+      },
+      "extras": {
+        "qid": "Q49246246",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -897,33 +887,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://ecatalogue.art.yale.edu/detail.htm?objectId=24069\">Yale University Art Gallery</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094699",
-      "qid": "Q28094699",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Blanket Signal",
       "year": "1896",
-      "dimensions": {
-        "height_cm": 68.6,
-        "width_cm": 55.9
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Frederic_Remington_-_The_Blanket_Signal_-_43.16_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Blanket_Signal_-_43.16_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Frederic_Remington_-_The_Blanket_Signal_-_43.16_-_Museum_of_Fine_Arts.jpg",
+      "width": 2603,
+      "height": 3200,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Frederic_Remington_-_The_Blanket_Signal_-_43.16_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Blanket_Signal_-_43.16_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Frederic_Remington_-_The_Blanket_Signal_-_43.16_-_Museum_of_Fine_Arts.jpg",
-        "width": 2603,
-        "height": 3200,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094699",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 68.6,
+          "width_cm": 55.9
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -931,30 +921,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/45617\">https://www.mfah.org/art/detail/45617</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094602",
-      "qid": "Q28094602",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Last Stand",
       "year": "1896",
-      "dimensions": null,
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Frederic_Remington_-_The_Last_Stand_-_43.57_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Last_Stand_-_43.57_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Frederic_Remington_-_The_Last_Stand_-_43.57_-_Museum_of_Fine_Arts.jpg",
+      "width": 3200,
+      "height": 2262,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Frederic_Remington_-_The_Last_Stand_-_43.57_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Last_Stand_-_43.57_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Frederic_Remington_-_The_Last_Stand_-_43.57_-_Museum_of_Fine_Arts.jpg",
-        "width": 3200,
-        "height": 2262,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094602",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -962,33 +951,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/44128\">https://www.mfah.org/art/detail/44128</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094704",
-      "qid": "Q28094704",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Mier Expedition: The Drawing of the Black Bean",
       "year": "1896",
-      "dimensions": {
-        "height_cm": 27.175,
-        "width_cm": 40
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Frederic_Remington_-_The_Mier_Expedition-_The_Drawing_of_the_Black_Bean_-_Google_Art_Project.jpg/960px-Frederic_Remington_-_The_Mier_Expedition-_The_Drawing_of_the_Black_Bean_-_Google_Art_Project.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/77/Frederic_Remington_-_The_Mier_Expedition-_The_Drawing_of_the_Black_Bean_-_Google_Art_Project.jpg",
+      "width": 7992,
+      "height": 5429,
+      "tags": [],
       "popularity": {
         "score": 37.4,
         "pageviews_365d": 0,
         "sitelinks": 1,
         "globalusage": 20
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Frederic_Remington_-_The_Mier_Expedition-_The_Drawing_of_the_Black_Bean_-_Google_Art_Project.jpg/960px-Frederic_Remington_-_The_Mier_Expedition-_The_Drawing_of_the_Black_Bean_-_Google_Art_Project.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/7/77/Frederic_Remington_-_The_Mier_Expedition-_The_Drawing_of_the_Black_Bean_-_Google_Art_Project.jpg",
-        "width": 7992,
-        "height": 5429,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094704",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 27.175,
+          "width_cm": 40
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -996,30 +985,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/LwH5dekxUkVCXQ\">LwH5dekxUkVCXQ at Google Cultural Institute</a> maximum zoom level",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20267428",
-      "qid": "Q20267428",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Paddling the Wounded British Officer",
       "year": "1897",
-      "dimensions": null,
-      "collection": "Art Institute of Chicago",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Frederic_Remington_-_Paddling_the_Wounded_British_Officer_-_1982.790_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_Paddling_the_Wounded_British_Officer_-_1982.790_-_Art_Institute_of_Chicago.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Frederic_Remington_-_Paddling_the_Wounded_British_Officer_-_1982.790_-_Art_Institute_of_Chicago.jpg",
+      "width": 3000,
+      "height": 2032,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Frederic_Remington_-_Paddling_the_Wounded_British_Officer_-_1982.790_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_Paddling_the_Wounded_British_Officer_-_1982.790_-_Art_Institute_of_Chicago.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Frederic_Remington_-_Paddling_the_Wounded_British_Officer_-_1982.790_-_Art_Institute_of_Chicago.jpg",
-        "width": 3000,
-        "height": 2032,
+      "meta": {
+        "Collection": "Art Institute of Chicago"
+      },
+      "extras": {
+        "qid": "Q20267428",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1027,33 +1015,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/97898\">https://www.artic.edu/artworks/97898</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q49246391",
-      "qid": "Q49246391",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Scream of Shrapnel at San Juan Hill",
       "year": "1898",
-      "dimensions": {
-        "height_cm": 89.5,
-        "width_cm": 154.3
-      },
-      "collection": "Yale University Art Gallery",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/The_Scream_of_Shrapnel_at_San_Juan_Hill_by_Frederic_Remington_1898.jpeg/960px-The_Scream_of_Shrapnel_at_San_Juan_Hill_by_Frederic_Remington_1898.jpeg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/04/The_Scream_of_Shrapnel_at_San_Juan_Hill_by_Frederic_Remington_1898.jpeg",
+      "width": 3000,
+      "height": 1736,
+      "tags": [],
       "popularity": {
         "score": 23,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 9
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/The_Scream_of_Shrapnel_at_San_Juan_Hill_by_Frederic_Remington_1898.jpeg/960px-The_Scream_of_Shrapnel_at_San_Juan_Hill_by_Frederic_Remington_1898.jpeg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/0/04/The_Scream_of_Shrapnel_at_San_Juan_Hill_by_Frederic_Remington_1898.jpeg",
-        "width": 3000,
-        "height": 1736,
+      "meta": {
+        "Collection": "Yale University Art Gallery"
+      },
+      "extras": {
+        "qid": "Q49246391",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 89.5,
+          "width_cm": 154.3
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1061,30 +1049,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://ecatalogue.art.yale.edu/detail.htm?objectId=546\">Yale University Art Gallery</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20267419",
-      "qid": "Q20267419",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "This Was a Fatal Embarkation",
       "year": "1898",
-      "dimensions": null,
-      "collection": "Art Institute of Chicago",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Frederic_Remington_-_This_Was_a_Fatal_Embarkation_-_1982.785_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_This_Was_a_Fatal_Embarkation_-_1982.785_-_Art_Institute_of_Chicago.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Frederic_Remington_-_This_Was_a_Fatal_Embarkation_-_1982.785_-_Art_Institute_of_Chicago.jpg",
+      "width": 3000,
+      "height": 2008,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Frederic_Remington_-_This_Was_a_Fatal_Embarkation_-_1982.785_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_This_Was_a_Fatal_Embarkation_-_1982.785_-_Art_Institute_of_Chicago.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Frederic_Remington_-_This_Was_a_Fatal_Embarkation_-_1982.785_-_Art_Institute_of_Chicago.jpg",
-        "width": 3000,
-        "height": 2008,
+      "meta": {
+        "Collection": "Art Institute of Chicago"
+      },
+      "extras": {
+        "qid": "Q20267419",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1092,33 +1079,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/97893\">https://www.artic.edu/artworks/97893</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094634",
-      "qid": "Q28094634",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Disbanding Gomez' Army",
       "year": "1899",
-      "dimensions": {
-        "height_cm": 68.6,
-        "width_cm": 101.6
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Frederic_Remington_-_Disbanding_Gomez%27_Army_-_43.44_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_Disbanding_Gomez%27_Army_-_43.44_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Frederic_Remington_-_Disbanding_Gomez%27_Army_-_43.44_-_Museum_of_Fine_Arts.jpg",
+      "width": 3200,
+      "height": 2177,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Frederic_Remington_-_Disbanding_Gomez%27_Army_-_43.44_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_Disbanding_Gomez%27_Army_-_43.44_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Frederic_Remington_-_Disbanding_Gomez%27_Army_-_43.44_-_Museum_of_Fine_Arts.jpg",
-        "width": 3200,
-        "height": 2177,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094634",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 68.6,
+          "width_cm": 101.6
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1126,30 +1113,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/44114\">https://www.mfah.org/art/detail/44114</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20266875",
-      "qid": "Q20266875",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "How the Horses Died for Their Country at Santiago",
       "year": "1899",
-      "dimensions": null,
-      "collection": "Art Institute of Chicago",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Frederic_Remington_-_How_the_Horses_Died_for_Their_Country_at_Santiago_-_1982.794_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_How_the_Horses_Died_for_Their_Country_at_Santiago_-_1982.794_-_Art_Institute_of_Chicago.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/24/Frederic_Remington_-_How_the_Horses_Died_for_Their_Country_at_Santiago_-_1982.794_-_Art_Institute_of_Chicago.jpg",
+      "width": 3000,
+      "height": 2020,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Frederic_Remington_-_How_the_Horses_Died_for_Their_Country_at_Santiago_-_1982.794_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_How_the_Horses_Died_for_Their_Country_at_Santiago_-_1982.794_-_Art_Institute_of_Chicago.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/2/24/Frederic_Remington_-_How_the_Horses_Died_for_Their_Country_at_Santiago_-_1982.794_-_Art_Institute_of_Chicago.jpg",
-        "width": 3000,
-        "height": 2020,
+      "meta": {
+        "Collection": "Art Institute of Chicago"
+      },
+      "extras": {
+        "qid": "Q20266875",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1157,33 +1143,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/97902\">https://www.artic.edu/artworks/97902</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094638",
-      "qid": "Q28094638",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "One of Gomez' Men",
       "year": "1899",
-      "dimensions": {
-        "height_cm": 91.4,
-        "width_cm": 61
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Frederic_Remington_-_One_of_Gomez%27_Men_-_43.42_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_One_of_Gomez%27_Men_-_43.42_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Frederic_Remington_-_One_of_Gomez%27_Men_-_43.42_-_Museum_of_Fine_Arts.jpg",
+      "width": 2129,
+      "height": 3200,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Frederic_Remington_-_One_of_Gomez%27_Men_-_43.42_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_One_of_Gomez%27_Men_-_43.42_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Frederic_Remington_-_One_of_Gomez%27_Men_-_43.42_-_Museum_of_Fine_Arts.jpg",
-        "width": 2129,
-        "height": 3200,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094638",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 91.4,
+          "width_cm": 61
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1191,33 +1177,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/44112\">https://www.mfah.org/art/detail/44112</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094657",
-      "qid": "Q28094657",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Dry Leaves Lasted Longer Than She",
       "year": "1899",
-      "dimensions": {
-        "height_cm": 44.8,
-        "width_cm": 61
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Frederic_Remington_-_The_Dry_Leaves_Lasted_Longer_Than_She_-_43.32_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Dry_Leaves_Lasted_Longer_Than_She_-_43.32_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Frederic_Remington_-_The_Dry_Leaves_Lasted_Longer_Than_She_-_43.32_-_Museum_of_Fine_Arts.jpg",
+      "width": 3200,
+      "height": 2378,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Frederic_Remington_-_The_Dry_Leaves_Lasted_Longer_Than_She_-_43.32_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Dry_Leaves_Lasted_Longer_Than_She_-_43.32_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Frederic_Remington_-_The_Dry_Leaves_Lasted_Longer_Than_She_-_43.32_-_Museum_of_Fine_Arts.jpg",
-        "width": 3200,
-        "height": 2378,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094657",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 44.8,
+          "width_cm": 61
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1225,33 +1211,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/45634\">https://www.mfah.org/art/detail/45634</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094646",
-      "qid": "Q28094646",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Return of Gomez to Havana",
       "year": "1899",
-      "dimensions": {
-        "height_cm": 68.6,
-        "width_cm": 101.6
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Frederic_Remington_-_The_Return_of_Gomez_to_Havana_-_43.38_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Return_of_Gomez_to_Havana_-_43.38_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Frederic_Remington_-_The_Return_of_Gomez_to_Havana_-_43.38_-_Museum_of_Fine_Arts.jpg",
+      "width": 3200,
+      "height": 2170,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Frederic_Remington_-_The_Return_of_Gomez_to_Havana_-_43.38_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Return_of_Gomez_to_Havana_-_43.38_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Frederic_Remington_-_The_Return_of_Gomez_to_Havana_-_43.38_-_Museum_of_Fine_Arts.jpg",
-        "width": 3200,
-        "height": 2170,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094646",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 68.6,
+          "width_cm": 101.6
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1259,33 +1245,34 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/44108\">https://www.mfah.org/art/detail/44108</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094640",
-      "qid": "Q28094640",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "U. S. Soldier, Spanish-American War",
       "year": "1899",
-      "dimensions": {
-        "height_cm": 91.4,
-        "width_cm": 61
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": "cavalry",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Frederic_Remington_-_U._S._Soldier%2C_Spanish-American_War_-_43.41_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_U._S._Soldier%2C_Spanish-American_War_-_43.41_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Frederic_Remington_-_U._S._Soldier%2C_Spanish-American_War_-_43.41_-_Museum_of_Fine_Arts.jpg",
+      "width": 2099,
+      "height": 3200,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Frederic_Remington_-_U._S._Soldier%2C_Spanish-American_War_-_43.41_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_U._S._Soldier%2C_Spanish-American_War_-_43.41_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Frederic_Remington_-_U._S._Soldier%2C_Spanish-American_War_-_43.41_-_Museum_of_Fine_Arts.jpg",
-        "width": 2099,
-        "height": 3200,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston",
+        "Series": "cavalry"
+      },
+      "extras": {
+        "qid": "Q28094640",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 91.4,
+          "width_cm": 61
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1293,30 +1280,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/44111\">https://www.mfah.org/art/detail/44111</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20268702",
-      "qid": "Q20268702",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Ceremony of the Fastest Horse",
       "year": "1900",
-      "dimensions": null,
-      "collection": "Art Institute of Chicago",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Frederic_Remington_-_Ceremony_of_the_Fastest_Horse_-_1982.782_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_Ceremony_of_the_Fastest_Horse_-_1982.782_-_Art_Institute_of_Chicago.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/96/Frederic_Remington_-_Ceremony_of_the_Fastest_Horse_-_1982.782_-_Art_Institute_of_Chicago.jpg",
+      "width": 3000,
+      "height": 2034,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Frederic_Remington_-_Ceremony_of_the_Fastest_Horse_-_1982.782_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_Ceremony_of_the_Fastest_Horse_-_1982.782_-_Art_Institute_of_Chicago.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/96/Frederic_Remington_-_Ceremony_of_the_Fastest_Horse_-_1982.782_-_Art_Institute_of_Chicago.jpg",
-        "width": 3000,
-        "height": 2034,
+      "meta": {
+        "Collection": "Art Institute of Chicago"
+      },
+      "extras": {
+        "qid": "Q20268702",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1324,30 +1310,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/97890\">https://www.artic.edu/artworks/97890</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20267423",
-      "qid": "Q20267423",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Fire-Eater Raised His Arms",
       "year": "1900",
-      "dimensions": null,
-      "collection": "Art Institute of Chicago",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Frederic_Remington_-_The_Fire_Eater_Raised_His_Arms_to_the_Thunder_Bird_-_1982.787_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_The_Fire_Eater_Raised_His_Arms_to_the_Thunder_Bird_-_1982.787_-_Art_Institute_of_Chicago.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/86/Frederic_Remington_-_The_Fire_Eater_Raised_His_Arms_to_the_Thunder_Bird_-_1982.787_-_Art_Institute_of_Chicago.jpg",
+      "width": 1922,
+      "height": 3000,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Frederic_Remington_-_The_Fire_Eater_Raised_His_Arms_to_the_Thunder_Bird_-_1982.787_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_The_Fire_Eater_Raised_His_Arms_to_the_Thunder_Bird_-_1982.787_-_Art_Institute_of_Chicago.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/8/86/Frederic_Remington_-_The_Fire_Eater_Raised_His_Arms_to_the_Thunder_Bird_-_1982.787_-_Art_Institute_of_Chicago.jpg",
-        "width": 1922,
-        "height": 3000,
+      "meta": {
+        "Collection": "Art Institute of Chicago"
+      },
+      "extras": {
+        "qid": "Q20267423",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1355,30 +1340,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/97895\">https://www.artic.edu/artworks/97895</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20268241",
-      "qid": "Q20268241",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "I Will Tell the White Man",
       "year": "1900",
-      "dimensions": null,
-      "collection": "Art Institute of Chicago",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Frederic_Remington_-_I_Will_Tell_the_White_Man_-_1982.783_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_I_Will_Tell_the_White_Man_-_1982.783_-_Art_Institute_of_Chicago.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Frederic_Remington_-_I_Will_Tell_the_White_Man_-_1982.783_-_Art_Institute_of_Chicago.jpg",
+      "width": 3000,
+      "height": 2005,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Frederic_Remington_-_I_Will_Tell_the_White_Man_-_1982.783_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_I_Will_Tell_the_White_Man_-_1982.783_-_Art_Institute_of_Chicago.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Frederic_Remington_-_I_Will_Tell_the_White_Man_-_1982.783_-_Art_Institute_of_Chicago.jpg",
-        "width": 3000,
-        "height": 2005,
+      "meta": {
+        "Collection": "Art Institute of Chicago"
+      },
+      "extras": {
+        "qid": "Q20268241",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1386,30 +1370,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/97891\">https://www.artic.edu/artworks/97891</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20266874",
-      "qid": "Q20266874",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Nothing But Cheerful Looks Followed the Bat",
       "year": "1900",
-      "dimensions": null,
-      "collection": "Art Institute of Chicago",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Frederic_Remington_-_Nothing_But_Cheerful_Looks_Followed_the_Bat_-_1982.784_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_Nothing_But_Cheerful_Looks_Followed_the_Bat_-_1982.784_-_Art_Institute_of_Chicago.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Frederic_Remington_-_Nothing_But_Cheerful_Looks_Followed_the_Bat_-_1982.784_-_Art_Institute_of_Chicago.jpg",
+      "width": 3000,
+      "height": 2027,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Frederic_Remington_-_Nothing_But_Cheerful_Looks_Followed_the_Bat_-_1982.784_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_Nothing_But_Cheerful_Looks_Followed_the_Bat_-_1982.784_-_Art_Institute_of_Chicago.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Frederic_Remington_-_Nothing_But_Cheerful_Looks_Followed_the_Bat_-_1982.784_-_Art_Institute_of_Chicago.jpg",
-        "width": 3000,
-        "height": 2027,
+      "meta": {
+        "Collection": "Art Institute of Chicago"
+      },
+      "extras": {
+        "qid": "Q20266874",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1417,30 +1400,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/97892\">https://www.artic.edu/artworks/97892</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20267421",
-      "qid": "Q20267421",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Rushing Red Lodges Passed through the Line",
       "year": "1900",
-      "dimensions": null,
-      "collection": "Art Institute of Chicago",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Frederic_Remington_-_Rushing_Red_Lodges_Passed_through_the_Line_-_1982.786_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_Rushing_Red_Lodges_Passed_through_the_Line_-_1982.786_-_Art_Institute_of_Chicago.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Frederic_Remington_-_Rushing_Red_Lodges_Passed_through_the_Line_-_1982.786_-_Art_Institute_of_Chicago.jpg",
+      "width": 3000,
+      "height": 2013,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Frederic_Remington_-_Rushing_Red_Lodges_Passed_through_the_Line_-_1982.786_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_Rushing_Red_Lodges_Passed_through_the_Line_-_1982.786_-_Art_Institute_of_Chicago.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Frederic_Remington_-_Rushing_Red_Lodges_Passed_through_the_Line_-_1982.786_-_Art_Institute_of_Chicago.jpg",
-        "width": 3000,
-        "height": 2013,
+      "meta": {
+        "Collection": "Art Institute of Chicago"
+      },
+      "extras": {
+        "qid": "Q20267421",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1448,30 +1430,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/97894\">https://www.artic.edu/artworks/97894</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20267426",
-      "qid": "Q20267426",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Fire-Eater Slung His Victim Across His Pony",
       "year": "1900",
-      "dimensions": null,
-      "collection": "Art Institute of Chicago",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Frederic_Remington_-_The_Fire-Eater_Slung_His_Victim_Across_His_Pony_-_1982.789_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_The_Fire-Eater_Slung_His_Victim_Across_His_Pony_-_1982.789_-_Art_Institute_of_Chicago.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/28/Frederic_Remington_-_The_Fire-Eater_Slung_His_Victim_Across_His_Pony_-_1982.789_-_Art_Institute_of_Chicago.jpg",
+      "width": 1510,
+      "height": 2250,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Frederic_Remington_-_The_Fire-Eater_Slung_His_Victim_Across_His_Pony_-_1982.789_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_The_Fire-Eater_Slung_His_Victim_Across_His_Pony_-_1982.789_-_Art_Institute_of_Chicago.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/2/28/Frederic_Remington_-_The_Fire-Eater_Slung_His_Victim_Across_His_Pony_-_1982.789_-_Art_Institute_of_Chicago.jpg",
-        "width": 1510,
-        "height": 2250,
+      "meta": {
+        "Collection": "Art Institute of Chicago"
+      },
+      "extras": {
+        "qid": "Q20267426",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1479,30 +1460,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/97897\">https://www.artic.edu/artworks/97897</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20267445",
-      "qid": "Q20267445",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Interpreter Waved at the Youth",
       "year": "1900",
-      "dimensions": null,
-      "collection": "Art Institute of Chicago",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Frederic_Remington_-_The_Interpreter_Waved_at_the_Youth_-_1982.779_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_The_Interpreter_Waved_at_the_Youth_-_1982.779_-_Art_Institute_of_Chicago.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/47/Frederic_Remington_-_The_Interpreter_Waved_at_the_Youth_-_1982.779_-_Art_Institute_of_Chicago.jpg",
+      "width": 3000,
+      "height": 2008,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Frederic_Remington_-_The_Interpreter_Waved_at_the_Youth_-_1982.779_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Remington_-_The_Interpreter_Waved_at_the_Youth_-_1982.779_-_Art_Institute_of_Chicago.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/4/47/Frederic_Remington_-_The_Interpreter_Waved_at_the_Youth_-_1982.779_-_Art_Institute_of_Chicago.jpg",
-        "width": 3000,
-        "height": 2008,
+      "meta": {
+        "Collection": "Art Institute of Chicago"
+      },
+      "extras": {
+        "qid": "Q20267445",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1510,33 +1490,34 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/97887\">https://www.artic.edu/artworks/97887</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094643",
-      "qid": "Q28094643",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "French Explorer's Council with the Indians",
       "year": "1901",
-      "dimensions": {
-        "height_cm": 48.3,
-        "width_cm": 73.7
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": "native-american",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Frederic_Remington_-_French_Explorer%27s_Council_with_the_Indians_-_43.40_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_French_Explorer%27s_Council_with_the_Indians_-_43.40_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Frederic_Remington_-_French_Explorer%27s_Council_with_the_Indians_-_43.40_-_Museum_of_Fine_Arts.jpg",
+      "width": 3200,
+      "height": 2106,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Frederic_Remington_-_French_Explorer%27s_Council_with_the_Indians_-_43.40_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_French_Explorer%27s_Council_with_the_Indians_-_43.40_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Frederic_Remington_-_French_Explorer%27s_Council_with_the_Indians_-_43.40_-_Museum_of_Fine_Arts.jpg",
-        "width": 3200,
-        "height": 2106,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston",
+        "Series": "native-american"
+      },
+      "extras": {
+        "qid": "Q28094643",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 48.3,
+          "width_cm": 73.7
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1544,33 +1525,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/44110\">https://www.mfah.org/art/detail/44110</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094651",
-      "qid": "Q28094651",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Defeat of Crazy Horse",
       "year": "1901",
-      "dimensions": {
-        "height_cm": 68.6,
-        "width_cm": 101.6
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Frederic_Remington_-_The_Defeat_of_Crazy_Horse_-_43.35_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Defeat_of_Crazy_Horse_-_43.35_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/86/Frederic_Remington_-_The_Defeat_of_Crazy_Horse_-_43.35_-_Museum_of_Fine_Arts.jpg",
+      "width": 3200,
+      "height": 2142,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Frederic_Remington_-_The_Defeat_of_Crazy_Horse_-_43.35_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Defeat_of_Crazy_Horse_-_43.35_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/8/86/Frederic_Remington_-_The_Defeat_of_Crazy_Horse_-_43.35_-_Museum_of_Fine_Arts.jpg",
-        "width": 3200,
-        "height": 2142,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094651",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 68.6,
+          "width_cm": 101.6
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1578,33 +1559,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/44104\">https://www.mfah.org/art/detail/44104</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094604",
-      "qid": "Q28094604",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Mule Pack",
       "year": "1901",
-      "dimensions": {
-        "height_cm": 68.6,
-        "width_cm": 101.9
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Frederic_Remington_-_The_Mule_Pack_-_43.56_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Mule_Pack_-_43.56_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Frederic_Remington_-_The_Mule_Pack_-_43.56_-_Museum_of_Fine_Arts.jpg",
+      "width": 3200,
+      "height": 2194,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Frederic_Remington_-_The_Mule_Pack_-_43.56_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Mule_Pack_-_43.56_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Frederic_Remington_-_The_Mule_Pack_-_43.56_-_Museum_of_Fine_Arts.jpg",
-        "width": 3200,
-        "height": 2194,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094604",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 68.6,
+          "width_cm": 101.9
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1612,30 +1593,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/44127\">https://www.mfah.org/art/detail/44127</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q104413127",
-      "qid": "Q104413127",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "A Reconnaissance",
       "year": "1902",
-      "dimensions": null,
-      "collection": "Metropolitan Museum of Art",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/A_Reconnaissance_MET_DP-19024-001.jpg/960px-A_Reconnaissance_MET_DP-19024-001.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/98/A_Reconnaissance_MET_DP-19024-001.jpg",
+      "width": 4000,
+      "height": 2748,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/A_Reconnaissance_MET_DP-19024-001.jpg/960px-A_Reconnaissance_MET_DP-19024-001.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/98/A_Reconnaissance_MET_DP-19024-001.jpg",
-        "width": 4000,
-        "height": 2748,
+      "meta": {
+        "Collection": "Metropolitan Museum of Art"
+      },
+      "extras": {
+        "qid": "Q104413127",
+        "source": "wikidata",
         "license": {
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
@@ -1643,33 +1623,33 @@
           "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094623",
-      "qid": "Q28094623",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Days on the Range (\"Hands Up!\")",
       "year": "1902",
-      "dimensions": {
-        "height_cm": 101.6,
-        "width_cm": 68.6
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Frederic_Remington_-_Days_on_the_Range_%28%22Hands_Up%21%22%29_-_Google_Art_Project.jpg/960px-Frederic_Remington_-_Days_on_the_Range_%28%22Hands_Up%21%22%29_-_Google_Art_Project.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Frederic_Remington_-_Days_on_the_Range_%28%22Hands_Up%21%22%29_-_Google_Art_Project.jpg",
+      "width": 1632,
+      "height": 2400,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Frederic_Remington_-_Days_on_the_Range_%28%22Hands_Up%21%22%29_-_Google_Art_Project.jpg/960px-Frederic_Remington_-_Days_on_the_Range_%28%22Hands_Up%21%22%29_-_Google_Art_Project.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Frederic_Remington_-_Days_on_the_Range_%28%22Hands_Up%21%22%29_-_Google_Art_Project.jpg",
-        "width": 1632,
-        "height": 2400,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094623",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 101.6,
+          "width_cm": 68.6
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1677,30 +1657,30 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/MAEByR4efqm0_w\">MAEByR4efqm0_w at Google Cultural Institute</a>, zoom level maximum",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28035935",
-      "qid": "Q28035935",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Scout",
       "year": "1902",
-      "dimensions": null,
-      "collection": "Museum of Fine Arts, Houston",
-      "series": "cavalry",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Frederic_Remington_-_The_Scout_-_2013.653_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Scout_-_2013.653_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Frederic_Remington_-_The_Scout_-_2013.653_-_Museum_of_Fine_Arts.jpg",
+      "width": 2197,
+      "height": 3200,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Frederic_Remington_-_The_Scout_-_2013.653_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Scout_-_2013.653_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Frederic_Remington_-_The_Scout_-_2013.653_-_Museum_of_Fine_Arts.jpg",
-        "width": 2197,
-        "height": 3200,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston",
+        "Series": "cavalry"
+      },
+      "extras": {
+        "qid": "Q28035935",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1708,33 +1688,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/120179\">https://www.mfah.org/art/detail/120179</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094715",
-      "qid": "Q28094715",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "A New Year on the Cimarron",
       "year": "1903",
-      "dimensions": {
-        "height_cm": 692.15,
-        "width_cm": 1022.35
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Frederic_Remington_-_A_New_Year_on_the_Cimarron_-_43.10_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_A_New_Year_on_the_Cimarron_-_43.10_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/74/Frederic_Remington_-_A_New_Year_on_the_Cimarron_-_43.10_-_Museum_of_Fine_Arts.jpg",
+      "width": 3200,
+      "height": 2141,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Frederic_Remington_-_A_New_Year_on_the_Cimarron_-_43.10_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_A_New_Year_on_the_Cimarron_-_43.10_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/7/74/Frederic_Remington_-_A_New_Year_on_the_Cimarron_-_43.10_-_Museum_of_Fine_Arts.jpg",
-        "width": 3200,
-        "height": 2141,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094715",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 692.15,
+          "width_cm": 1022.35
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1742,33 +1722,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/45609\">https://www.mfah.org/art/detail/45609</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094695",
-      "qid": "Q28094695",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Change of Ownership (The Stampede; Horse Thieves)",
       "year": "1903",
-      "dimensions": {
-        "height_cm": 70.2,
-        "width_cm": 102.2
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Frederic_Remington_-_Change_of_Ownership_%28The_Stampede%2C_Horse_Thieves%29_-_43.17_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_Change_of_Ownership_%28The_Stampede%2C_Horse_Thieves%29_-_43.17_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Frederic_Remington_-_Change_of_Ownership_%28The_Stampede%2C_Horse_Thieves%29_-_43.17_-_Museum_of_Fine_Arts.jpg",
+      "width": 3200,
+      "height": 2157,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Frederic_Remington_-_Change_of_Ownership_%28The_Stampede%2C_Horse_Thieves%29_-_43.17_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_Change_of_Ownership_%28The_Stampede%2C_Horse_Thieves%29_-_43.17_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Frederic_Remington_-_Change_of_Ownership_%28The_Stampede%2C_Horse_Thieves%29_-_43.17_-_Museum_of_Fine_Arts.jpg",
-        "width": 3200,
-        "height": 2157,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094695",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 70.2,
+          "width_cm": 102.2
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1776,33 +1756,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/45618\">https://www.mfah.org/art/detail/45618</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094673",
-      "qid": "Q28094673",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Fight for the Waterhole",
       "year": "1903",
-      "dimensions": {
-        "height_cm": 692.15,
-        "width_cm": 1019.302
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Frederic_Remington_-_Fight_for_the_Waterhole_-_43.25_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_Fight_for_the_Waterhole_-_43.25_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Frederic_Remington_-_Fight_for_the_Waterhole_-_43.25_-_Museum_of_Fine_Arts.jpg",
+      "width": 3200,
+      "height": 2161,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Frederic_Remington_-_Fight_for_the_Waterhole_-_43.25_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_Fight_for_the_Waterhole_-_43.25_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Frederic_Remington_-_Fight_for_the_Waterhole_-_43.25_-_Museum_of_Fine_Arts.jpg",
-        "width": 3200,
-        "height": 2161,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094673",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 692.15,
+          "width_cm": 1019.302
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1810,30 +1790,30 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/45626\">https://www.mfah.org/art/detail/45626</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q104773634",
-      "qid": "Q104773634",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Friends or Foes? (The Scout)",
       "year": "1903",
-      "dimensions": null,
-      "collection": "Clark Art Institute",
-      "series": "cavalry",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Frederic_Remington_-_Friends_or_Foes%5E_%28The_Scout%29_-_1955.12_-_Clark_Art_Institute.tiff/lossy-page1-960px-Frederic_Remington_-_Friends_or_Foes%5E_%28The_Scout%29_-_1955.12_-_Clark_Art_Institute.tiff.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/85/Frederic_Remington_-_Friends_or_Foes%5E_%28The_Scout%29_-_1955.12_-_Clark_Art_Institute.tiff",
+      "width": 6923,
+      "height": 4462,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Frederic_Remington_-_Friends_or_Foes%5E_%28The_Scout%29_-_1955.12_-_Clark_Art_Institute.tiff/lossy-page1-960px-Frederic_Remington_-_Friends_or_Foes%5E_%28The_Scout%29_-_1955.12_-_Clark_Art_Institute.tiff.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/8/85/Frederic_Remington_-_Friends_or_Foes%5E_%28The_Scout%29_-_1955.12_-_Clark_Art_Institute.tiff",
-        "width": 6923,
-        "height": 4462,
+      "meta": {
+        "Collection": "Clark Art Institute",
+        "Series": "cavalry"
+      },
+      "extras": {
+        "qid": "Q104773634",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1841,33 +1821,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.clarkart.edu/ArtPiece/Detail/Friends-or-Foes-(The-Scout)\">Clark Art Institute</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094682",
-      "qid": "Q28094682",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Parley",
       "year": "1903",
-      "dimensions": {
-        "height_cm": 76.5,
-        "width_cm": 129.9
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Frederic_Remington_-_The_Parley_-_43.21_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Parley_-_43.21_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/41/Frederic_Remington_-_The_Parley_-_43.21_-_Museum_of_Fine_Arts.jpg",
+      "width": 3200,
+      "height": 1882,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Frederic_Remington_-_The_Parley_-_43.21_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Parley_-_43.21_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/4/41/Frederic_Remington_-_The_Parley_-_43.21_-_Museum_of_Fine_Arts.jpg",
-        "width": 3200,
-        "height": 1882,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094682",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 76.5,
+          "width_cm": 129.9
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1875,33 +1855,34 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/45622\">https://www.mfah.org/art/detail/45622</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q21712312",
-      "qid": "Q21712312",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Apache Fire Signal",
       "year": "1904",
-      "dimensions": {
-        "height_cm": 102,
-        "width_cm": 68.5
-      },
-      "collection": "Thyssen-Bornemisza Museum",
-      "series": "native-american",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Frederic_Remington_-_Apache_fire_signal.jpg/960px-Frederic_Remington_-_Apache_fire_signal.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Frederic_Remington_-_Apache_fire_signal.jpg",
+      "width": 1856,
+      "height": 2750,
+      "tags": [],
       "popularity": {
         "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 6
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Frederic_Remington_-_Apache_fire_signal.jpg/960px-Frederic_Remington_-_Apache_fire_signal.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Frederic_Remington_-_Apache_fire_signal.jpg",
-        "width": 1856,
-        "height": 2750,
+      "meta": {
+        "Collection": "Thyssen-Bornemisza Museum",
+        "Series": "native-american"
+      },
+      "extras": {
+        "qid": "Q21712312",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 102,
+          "width_cm": 68.5
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1909,33 +1890,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.museothyssen.org/en/thyssen/ficha_obra/760\">Museo Thyssen-Bornemisza, Madrid</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20087517",
-      "qid": "Q20087517",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Cold Morning on the Range",
       "year": "1904",
-      "dimensions": {
-        "height_cm": 68.9,
-        "width_cm": 101.92
-      },
-      "collection": "American Museum of Western Art – The Anschutz Collection",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Frederic_Remington_A_Cold_Morning_on_the_Range.jpg/960px-Frederic_Remington_A_Cold_Morning_on_the_Range.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/19/Frederic_Remington_A_Cold_Morning_on_the_Range.jpg",
+      "width": 1260,
+      "height": 840,
+      "tags": [],
       "popularity": {
         "score": 225.2,
         "pageviews_365d": 2372,
         "sitelinks": 1,
         "globalusage": 10
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Frederic_Remington_A_Cold_Morning_on_the_Range.jpg/960px-Frederic_Remington_A_Cold_Morning_on_the_Range.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/1/19/Frederic_Remington_A_Cold_Morning_on_the_Range.jpg",
-        "width": 1260,
-        "height": 840,
+      "meta": {
+        "Collection": "American Museum of Western Art – The Anschutz Collection"
+      },
+      "extras": {
+        "qid": "Q20087517",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 68.9,
+          "width_cm": 101.92
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1943,33 +1924,34 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/full.php?ID=48339\">http://www.the-athenaeum.org/art/full.php?ID=48339</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q108042062",
-      "qid": "Q108042062",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Moonlight, Wolf",
       "year": "1904",
-      "dimensions": {
-        "height_cm": 50.96,
-        "width_cm": 66.04
-      },
-      "collection": "Addison Gallery of American Art",
-      "series": "night",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Frederic_Remington_-_Moonlight%2C_Wolf.jpg/960px-Frederic_Remington_-_Moonlight%2C_Wolf.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/72/Frederic_Remington_-_Moonlight%2C_Wolf.jpg",
+      "width": 4987,
+      "height": 3822,
+      "tags": [],
       "popularity": {
         "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 7
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Frederic_Remington_-_Moonlight%2C_Wolf.jpg/960px-Frederic_Remington_-_Moonlight%2C_Wolf.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/7/72/Frederic_Remington_-_Moonlight%2C_Wolf.jpg",
-        "width": 4987,
-        "height": 3822,
+      "meta": {
+        "Collection": "Addison Gallery of American Art",
+        "Series": "night"
+      },
+      "extras": {
+        "qid": "Q108042062",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 50.96,
+          "width_cm": 66.04
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1977,33 +1959,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://accessaddison.andover.edu/Obj4094?sid=22488&amp;x=340650\">Addison Gallery of American Art</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094702",
-      "qid": "Q28094702",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Emigrants",
       "year": "1904",
-      "dimensions": {
-        "height_cm": 77.2,
-        "width_cm": 115.3
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Frederic_Remington_-_The_Emigrants_-_43.15_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Emigrants_-_43.15_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/67/Frederic_Remington_-_The_Emigrants_-_43.15_-_Museum_of_Fine_Arts.jpg",
+      "width": 3200,
+      "height": 2145,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Frederic_Remington_-_The_Emigrants_-_43.15_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Emigrants_-_43.15_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/6/67/Frederic_Remington_-_The_Emigrants_-_43.15_-_Museum_of_Fine_Arts.jpg",
-        "width": 3200,
-        "height": 2145,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094702",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 77.2,
+          "width_cm": 115.3
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2011,33 +1993,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/45614\">https://www.mfah.org/art/detail/45614</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094675",
-      "qid": "Q28094675",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Herd Boy",
       "year": "1905",
-      "dimensions": {
-        "height_cm": 689.102,
-        "width_cm": 1149.35
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Frederic_Remington_-_The_Herd_Boy_-_43.24_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Herd_Boy_-_43.24_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/84/Frederic_Remington_-_The_Herd_Boy_-_43.24_-_Museum_of_Fine_Arts.jpg",
+      "width": 3200,
+      "height": 1911,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Frederic_Remington_-_The_Herd_Boy_-_43.24_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Herd_Boy_-_43.24_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/8/84/Frederic_Remington_-_The_Herd_Boy_-_43.24_-_Museum_of_Fine_Arts.jpg",
-        "width": 3200,
-        "height": 1911,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094675",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 689.102,
+          "width_cm": 1149.35
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2045,33 +2027,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/45625\">https://www.mfah.org/art/detail/45625</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q46964633",
-      "qid": "Q46964633",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Map in the Sand",
       "year": "1905",
-      "dimensions": {
-        "height_cm": 67.9,
-        "width_cm": 124.5
-      },
-      "collection": "Cincinnati Art Museum",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/%27A_Map_in_the_Sand%27_by_Frederic_Remington%2C_Cincinnati_Art_Museum.JPG/960px-%27A_Map_in_the_Sand%27_by_Frederic_Remington%2C_Cincinnati_Art_Museum.JPG",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/13/%27A_Map_in_the_Sand%27_by_Frederic_Remington%2C_Cincinnati_Art_Museum.JPG",
+      "width": 3270,
+      "height": 2195,
+      "tags": [],
       "popularity": {
         "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 10
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/%27A_Map_in_the_Sand%27_by_Frederic_Remington%2C_Cincinnati_Art_Museum.JPG/960px-%27A_Map_in_the_Sand%27_by_Frederic_Remington%2C_Cincinnati_Art_Museum.JPG",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/1/13/%27A_Map_in_the_Sand%27_by_Frederic_Remington%2C_Cincinnati_Art_Museum.JPG",
-        "width": 3270,
-        "height": 2195,
+      "meta": {
+        "Collection": "Cincinnati Art Museum"
+      },
+      "extras": {
+        "qid": "Q46964633",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 67.9,
+          "width_cm": 124.5
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2079,33 +2061,33 @@
           "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q124051497",
-      "qid": "Q124051497",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "A Taint on the Wind",
       "year": "1906",
-      "dimensions": {
-        "height_cm": 27.125,
-        "width_cm": 40
-      },
-      "collection": "Sid Richardson Museum",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/9b/A_Taint_on_the_Wind.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/9b/A_Taint_on_the_Wind.jpg",
+      "width": 600,
+      "height": 402,
+      "tags": [],
       "popularity": {
         "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 6
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/9b/A_Taint_on_the_Wind.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/9b/A_Taint_on_the_Wind.jpg",
-        "width": 600,
-        "height": 402,
+      "meta": {
+        "Collection": "Sid Richardson Museum"
+      },
+      "extras": {
+        "qid": "Q124051497",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 27.125,
+          "width_cm": 40
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2113,33 +2095,33 @@
           "credit": "Sid Richardson Museum, Fort Worth, Texas",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q103967333",
-      "qid": "Q103967333",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Cowpuncher's Lullaby",
       "year": "1906",
-      "dimensions": {
-        "height_cm": 76.2,
-        "width_cm": 53.3
-      },
-      "collection": "Crystal Bridges Museum of American Art",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/15/Frederic_Remington_-_Cowpuncher%27s_Lullaby_-_2007.180_-_Crystal_Bridges_Museum_of_American_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/15/Frederic_Remington_-_Cowpuncher%27s_Lullaby_-_2007.180_-_Crystal_Bridges_Museum_of_American_Art.jpg",
+      "width": 756,
+      "height": 1080,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/15/Frederic_Remington_-_Cowpuncher%27s_Lullaby_-_2007.180_-_Crystal_Bridges_Museum_of_American_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/1/15/Frederic_Remington_-_Cowpuncher%27s_Lullaby_-_2007.180_-_Crystal_Bridges_Museum_of_American_Art.jpg",
-        "width": 756,
-        "height": 1080,
+      "meta": {
+        "Collection": "Crystal Bridges Museum of American Art"
+      },
+      "extras": {
+        "qid": "Q103967333",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 76.2,
+          "width_cm": 53.3
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2147,30 +2129,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://collection.crystalbridges.org/objects/587/cowpunchers-lullaby\">Crystal Bridges Museum of American Art</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q138311082",
-      "qid": "Q138311082",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Cavalry Charge on the Southern Plains",
       "year": "1907",
-      "dimensions": null,
-      "collection": null,
-      "series": "cavalry",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cavalry_Charge_on_the_Southern_Plains.jpg/960px-Cavalry_Charge_on_the_Southern_Plains.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/44/Cavalry_Charge_on_the_Southern_Plains.jpg",
+      "width": 3811,
+      "height": 2270,
+      "tags": [],
       "popularity": {
         "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 6
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cavalry_Charge_on_the_Southern_Plains.jpg/960px-Cavalry_Charge_on_the_Southern_Plains.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/4/44/Cavalry_Charge_on_the_Southern_Plains.jpg",
-        "width": 3811,
-        "height": 2270,
+      "meta": {
+        "Series": "cavalry"
+      },
+      "extras": {
+        "qid": "Q138311082",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2178,33 +2159,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.metmuseum.org/toah/works-of-art/11.192\">Metropolitan Museum</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20502653",
-      "qid": "Q20502653",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Fired On",
       "year": "1907",
-      "dimensions": {
-        "height_cm": 68.8,
-        "width_cm": 101.6
-      },
-      "collection": "Smithsonian American Art Museum",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Frederic_Remington_-_Fired_On_-_Google_Art_Project.jpg/960px-Frederic_Remington_-_Fired_On_-_Google_Art_Project.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Frederic_Remington_-_Fired_On_-_Google_Art_Project.jpg",
+      "width": 4001,
+      "height": 2696,
+      "tags": [],
       "popularity": {
         "score": 222.5,
         "pageviews_365d": 2053,
         "sitelinks": 1,
         "globalusage": 11
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Frederic_Remington_-_Fired_On_-_Google_Art_Project.jpg/960px-Frederic_Remington_-_Fired_On_-_Google_Art_Project.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Frederic_Remington_-_Fired_On_-_Google_Art_Project.jpg",
-        "width": 4001,
-        "height": 2696,
+      "meta": {
+        "Collection": "Smithsonian American Art Museum"
+      },
+      "extras": {
+        "qid": "Q20502653",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 68.8,
+          "width_cm": 101.6
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2212,33 +2193,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/qAF7om9DK7fUMA\">qAF7om9DK7fUMA at Google Cultural Institute</a> maximum zoom level",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20170317",
-      "qid": "Q20170317",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "On the Southern Plains",
       "year": "1907",
-      "dimensions": {
-        "height_cm": 76.5,
-        "width_cm": 129.9
-      },
-      "collection": "Metropolitan Museum of Art",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/On_the_Southern_Plains_MET_DT379.jpg/960px-On_the_Southern_Plains_MET_DT379.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/98/On_the_Southern_Plains_MET_DT379.jpg",
+      "width": 3811,
+      "height": 2270,
+      "tags": [],
       "popularity": {
         "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 5
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/On_the_Southern_Plains_MET_DT379.jpg/960px-On_the_Southern_Plains_MET_DT379.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/98/On_the_Southern_Plains_MET_DT379.jpg",
-        "width": 3811,
-        "height": 2270,
+      "meta": {
+        "Collection": "Metropolitan Museum of Art"
+      },
+      "extras": {
+        "qid": "Q20170317",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 76.5,
+          "width_cm": 129.9
+        },
         "license": {
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
@@ -2246,33 +2227,34 @@
           "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q106769398",
-      "qid": "Q106769398",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Trail of the Shod Horse",
       "year": "1907",
-      "dimensions": {
-        "height_cm": 68.8,
-        "width_cm": 101.5
-      },
-      "collection": "Princeton Art Museum",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Frederic_Remington_-_The_Trail_of_the_Shod_Horse_-_L.1992.34_-_Princeton_University_Art_Museum.jpg/960px-Frederic_Remington_-_The_Trail_of_the_Shod_Horse_-_L.1992.34_-_Princeton_University_Art_Museum.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Frederic_Remington_-_The_Trail_of_the_Shod_Horse_-_L.1992.34_-_Princeton_University_Art_Museum.jpg",
+      "width": 2000,
+      "height": 1359,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Frederic_Remington_-_The_Trail_of_the_Shod_Horse_-_L.1992.34_-_Princeton_University_Art_Museum.jpg/960px-Frederic_Remington_-_The_Trail_of_the_Shod_Horse_-_L.1992.34_-_Princeton_University_Art_Museum.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Frederic_Remington_-_The_Trail_of_the_Shod_Horse_-_L.1992.34_-_Princeton_University_Art_Museum.jpg",
-        "width": 2000,
-        "height": 1359,
+      "meta": {
+        "Collection": "Princeton Art Museum"
+      },
+      "extras": {
+        "qid": "Q106769398",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 68.8,
+          "width_cm": 101.5
+        },
+        "iiif": "https://data.artmuseum.princeton.edu/iiif/objects/42174",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2280,33 +2262,34 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://artmuseum.princeton.edu/collections/objects/42174\">Princeton Art Museum</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": "https://data.artmuseum.princeton.edu/iiif/objects/42174"
+      }
     },
     {
       "id": "wd-Q28794218",
-      "qid": "Q28794218",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Indians Simulating Buffalo",
       "year": "1908",
-      "dimensions": {
-        "height_cm": 684,
-        "width_cm": 1019
-      },
-      "collection": "Toledo Museum of Art",
-      "series": "native-american",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Frederic_Remington_-_Indians_Simulating_Buffalo_-_Google_Art_Project.jpg/960px-Frederic_Remington_-_Indians_Simulating_Buffalo_-_Google_Art_Project.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/95/Frederic_Remington_-_Indians_Simulating_Buffalo_-_Google_Art_Project.jpg",
+      "width": 5550,
+      "height": 3709,
+      "tags": [],
       "popularity": {
         "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 10
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Frederic_Remington_-_Indians_Simulating_Buffalo_-_Google_Art_Project.jpg/960px-Frederic_Remington_-_Indians_Simulating_Buffalo_-_Google_Art_Project.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/95/Frederic_Remington_-_Indians_Simulating_Buffalo_-_Google_Art_Project.jpg",
-        "width": 5550,
-        "height": 3709,
+      "meta": {
+        "Collection": "Toledo Museum of Art",
+        "Series": "native-american"
+      },
+      "extras": {
+        "qid": "Q28794218",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 684,
+          "width_cm": 1019
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2314,33 +2297,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/rAEt78QjxQKf2Q\">rAEt78QjxQKf2Q at Google Cultural Institute</a> maximum zoom level",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q138680415",
-      "qid": "Q138680415",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Shotgun Hospitality",
       "year": "1908",
-      "dimensions": {
-        "height_cm": 68.6,
-        "width_cm": 101.6
-      },
-      "collection": "Hood Museum of Art",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Shotgun_hospitality.jpg/960px-Shotgun_hospitality.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Shotgun_hospitality.jpg",
+      "width": 7828,
+      "height": 5307,
+      "tags": [],
       "popularity": {
         "score": 34.3,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 30
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Shotgun_hospitality.jpg/960px-Shotgun_hospitality.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Shotgun_hospitality.jpg",
-        "width": 7828,
-        "height": 5307,
+      "meta": {
+        "Collection": "Hood Museum of Art"
+      },
+      "extras": {
+        "qid": "Q138680415",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 68.6,
+          "width_cm": 101.6
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2348,33 +2331,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hoodmuseum.dartmouth.edu/objects/p.909.2\">Hood Museum</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094718",
-      "qid": "Q28094718",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Call for Help",
       "year": "1908",
-      "dimensions": {
-        "height_cm": 692.15,
-        "width_cm": 1019.302
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Frederic_Remington_-_The_Call_for_Help_-_43.9_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Call_for_Help_-_43.9_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Frederic_Remington_-_The_Call_for_Help_-_43.9_-_Museum_of_Fine_Arts.jpg",
+      "width": 3200,
+      "height": 2162,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Frederic_Remington_-_The_Call_for_Help_-_43.9_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Call_for_Help_-_43.9_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Frederic_Remington_-_The_Call_for_Help_-_43.9_-_Museum_of_Fine_Arts.jpg",
-        "width": 3200,
-        "height": 2162,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094718",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 692.15,
+          "width_cm": 1019.302
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2382,33 +2365,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/45608\">https://www.mfah.org/art/detail/45608</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q49246493",
-      "qid": "Q49246493",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Last of His Race (The Vanishing American)",
       "year": "1908",
-      "dimensions": {
-        "height_cm": 45.7,
-        "width_cm": 31.5
-      },
-      "collection": "Yale University Art Gallery",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Frederic_Remington_-_The_Last_of_His_Race_%28The_Vanishing_American%29_-_1976.1_-_Yale_University_Art_Gallery.jpg/960px-Frederic_Remington_-_The_Last_of_His_Race_%28The_Vanishing_American%29_-_1976.1_-_Yale_University_Art_Gallery.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/07/Frederic_Remington_-_The_Last_of_His_Race_%28The_Vanishing_American%29_-_1976.1_-_Yale_University_Art_Gallery.jpg",
+      "width": 1296,
+      "height": 1920,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Frederic_Remington_-_The_Last_of_His_Race_%28The_Vanishing_American%29_-_1976.1_-_Yale_University_Art_Gallery.jpg/960px-Frederic_Remington_-_The_Last_of_His_Race_%28The_Vanishing_American%29_-_1976.1_-_Yale_University_Art_Gallery.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/0/07/Frederic_Remington_-_The_Last_of_His_Race_%28The_Vanishing_American%29_-_1976.1_-_Yale_University_Art_Gallery.jpg",
-        "width": 1296,
-        "height": 1920,
+      "meta": {
+        "Collection": "Yale University Art Gallery"
+      },
+      "extras": {
+        "qid": "Q49246493",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 45.7,
+          "width_cm": 31.5
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2416,33 +2399,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://artgallery.yale.edu/collections/objects/16783\">https://artgallery.yale.edu/collections/objects/16783</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q111578294",
-      "qid": "Q111578294",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Buffalo Runners - Big Horn Basin",
       "year": "1909",
-      "dimensions": {
-        "height_cm": 30.125,
-        "width_cm": 51.125
-      },
-      "collection": "Sid Richardson Museum",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Buffalo_Runners-Big_Horn_Basin.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Buffalo_Runners-Big_Horn_Basin.jpg",
+      "width": 600,
+      "height": 353,
+      "tags": [],
       "popularity": {
         "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 8
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Buffalo_Runners-Big_Horn_Basin.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Buffalo_Runners-Big_Horn_Basin.jpg",
-        "width": 600,
-        "height": 353,
+      "meta": {
+        "Collection": "Sid Richardson Museum"
+      },
+      "extras": {
+        "qid": "Q111578294",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 30.125,
+          "width_cm": 51.125
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2450,30 +2433,27 @@
           "credit": "Sid Richardson Museum, Fort Worth, Texas",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q138412990",
-      "qid": "Q138412990",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Charge of the Rough Riders at San Juan Hill",
       "year": "1909",
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Charge_of_the_Rough_Riders_at_San_Juan_Hill.JPG/960px-Charge_of_the_Rough_Riders_at_San_Juan_Hill.JPG",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Charge_of_the_Rough_Riders_at_San_Juan_Hill.JPG",
+      "width": 1564,
+      "height": 843,
+      "tags": [],
       "popularity": {
         "score": 44.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 87
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Charge_of_the_Rough_Riders_at_San_Juan_Hill.JPG/960px-Charge_of_the_Rough_Riders_at_San_Juan_Hill.JPG",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Charge_of_the_Rough_Riders_at_San_Juan_Hill.JPG",
-        "width": 1564,
-        "height": 843,
+      "meta": {},
+      "extras": {
+        "qid": "Q138412990",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2481,33 +2461,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.loc.gov/resource/ppmsca.37596/\">https://www.loc.gov/resource/ppmsca.37596/</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28094679",
-      "qid": "Q28094679",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Episode of the Buffalo Gun",
       "year": "1909",
-      "dimensions": {
-        "height_cm": 68.9,
-        "width_cm": 102.2
-      },
-      "collection": "Museum of Fine Arts, Houston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Frederic_Remington_-_Episode_of_the_Buffalo_Gun_-_43.22_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_Episode_of_the_Buffalo_Gun_-_43.22_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Frederic_Remington_-_Episode_of_the_Buffalo_Gun_-_43.22_-_Museum_of_Fine_Arts.jpg",
+      "width": 3200,
+      "height": 2147,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Frederic_Remington_-_Episode_of_the_Buffalo_Gun_-_43.22_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_Episode_of_the_Buffalo_Gun_-_43.22_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Frederic_Remington_-_Episode_of_the_Buffalo_Gun_-_43.22_-_Museum_of_Fine_Arts.jpg",
-        "width": 3200,
-        "height": 2147,
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q28094679",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 68.9,
+          "width_cm": 102.2
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2515,30 +2495,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/45623\">https://www.mfah.org/art/detail/45623</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q117599360",
-      "qid": "Q117599360",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Holding Up the Pay Escort",
       "year": "1909",
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/78/Holding_Up_the_Pay_Escort_Remington.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/78/Holding_Up_the_Pay_Escort_Remington.jpg",
+      "width": 500,
+      "height": 375,
+      "tags": [],
       "popularity": {
         "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 8
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/78/Holding_Up_the_Pay_Escort_Remington.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/7/78/Holding_Up_the_Pay_Escort_Remington.jpg",
-        "width": 500,
-        "height": 375,
+      "meta": {},
+      "extras": {
+        "qid": "Q117599360",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2546,33 +2523,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.legendsofamerica.com/photos-oldwest/Holding%20up%20the%20Pay%20Escort,%20Frederick%20Remington.jpg\">http://www.legendsofamerica.com/photos-oldwest/Holding%20up%20the%20Pay%20Escort,%20Frederick%20Remington.jpg</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20789729",
-      "qid": "Q20789729",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Blanket Signal",
       "year": "1909",
-      "dimensions": {
-        "height_cm": 68.58,
-        "width_cm": 101.6
-      },
-      "collection": "Museum of Fine Arts Boston",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Frederic_Remington_-_The_Blanket_Signal_-_1993.554_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Blanket_Signal_-_1993.554_-_Museum_of_Fine_Arts.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/04/Frederic_Remington_-_The_Blanket_Signal_-_1993.554_-_Museum_of_Fine_Arts.jpg",
+      "width": 1600,
+      "height": 1093,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Frederic_Remington_-_The_Blanket_Signal_-_1993.554_-_Museum_of_Fine_Arts.jpg/960px-Frederic_Remington_-_The_Blanket_Signal_-_1993.554_-_Museum_of_Fine_Arts.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/0/04/Frederic_Remington_-_The_Blanket_Signal_-_1993.554_-_Museum_of_Fine_Arts.jpg",
-        "width": 1600,
-        "height": 1093,
+      "meta": {
+        "Collection": "Museum of Fine Arts Boston"
+      },
+      "extras": {
+        "qid": "Q20789729",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 68.58,
+          "width_cm": 101.6
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2580,33 +2557,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfa.org/collections/object/the-blanket-signal-35583\">https://www.mfa.org/collections/object/the-blanket-signal-35583</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q28794216",
-      "qid": "Q28794216",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Outlier",
       "year": "1909",
-      "dimensions": {
-        "height_cm": 101.6,
-        "width_cm": 68.8
-      },
-      "collection": "Brooklyn Museum",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Frederic_Sackrider_Remington_-_The_Outlier_-_Google_Art_Project.jpg/960px-Frederic_Sackrider_Remington_-_The_Outlier_-_Google_Art_Project.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/79/Frederic_Sackrider_Remington_-_The_Outlier_-_Google_Art_Project.jpg",
+      "width": 4145,
+      "height": 6073,
+      "tags": [],
       "popularity": {
         "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 6
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Frederic_Sackrider_Remington_-_The_Outlier_-_Google_Art_Project.jpg/960px-Frederic_Sackrider_Remington_-_The_Outlier_-_Google_Art_Project.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/7/79/Frederic_Sackrider_Remington_-_The_Outlier_-_Google_Art_Project.jpg",
-        "width": 4145,
-        "height": 6073,
+      "meta": {
+        "Collection": "Brooklyn Museum"
+      },
+      "extras": {
+        "qid": "Q28794216",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 101.6,
+          "width_cm": 68.8
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2614,30 +2591,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/ZAGSDvnrgUyX4g\">ZAGSDvnrgUyX4g at Google Cultural Institute</a> maximum zoom level",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20178591",
-      "qid": "Q20178591",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Sergeant",
       "year": "1921",
-      "dimensions": null,
-      "collection": "Metropolitan Museum of Art",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/The_Sergeant_MET_39.65.52a%2Cb.jpg/960px-The_Sergeant_MET_39.65.52a%2Cb.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/6e/The_Sergeant_MET_39.65.52a%2Cb.jpg",
+      "width": 1176,
+      "height": 1524,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/The_Sergeant_MET_39.65.52a%2Cb.jpg/960px-The_Sergeant_MET_39.65.52a%2Cb.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/6/6e/The_Sergeant_MET_39.65.52a%2Cb.jpg",
-        "width": 1176,
-        "height": 1524,
+      "meta": {
+        "Collection": "Metropolitan Museum of Art"
+      },
+      "extras": {
+        "qid": "Q20178591",
+        "source": "wikidata",
         "license": {
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
@@ -2645,30 +2621,27 @@
           "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q139574699",
-      "qid": "Q139574699",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Coronado sets out to the north",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Coronado-Remington.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Coronado-Remington.jpg",
+      "width": 768,
+      "height": 500,
+      "tags": [],
       "popularity": {
         "score": 46.2,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 101
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Coronado-Remington.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Coronado-Remington.jpg",
-        "width": 768,
-        "height": 500,
+      "meta": {},
+      "extras": {
+        "qid": "Q139574699",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2676,8 +2649,22 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.frederic-remington.org/Coronado-sets-out-to-the-north.html\">http://www.frederic-remington.org/Coronado-sets-out-to-the-north.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Frederic_Remington\" class=\"extiw\" title=\"w:en:Frederic Remington\"><span title=\"American painter and sculptor (1861-1909)\">Frederic Remington</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     }
-  ]
+  ],
+  "source": {
+    "generator": "pipelines-paintings",
+    "generated": "2026-05-25T23:28:48.293Z",
+    "artist": {
+      "qid": "Q560787",
+      "name": "Frederic Remington",
+      "slug": "remington"
+    },
+    "work": {
+      "qid": "Q3305213",
+      "label": "paintings",
+      "manifestKey": "paintings"
+    },
+    "count": 81
+  }
 }

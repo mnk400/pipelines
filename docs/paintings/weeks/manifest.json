@@ -1,41 +1,32 @@
 {
-  "generated": "2026-05-25T23:34:27.019Z",
-  "artist": {
-    "qid": "Q3735411",
-    "name": "Edwin Lord Weeks",
-    "slug": "weeks"
-  },
-  "work": {
-    "qid": "Q3305213",
-    "label": "paintings",
-    "manifestKey": "paintings"
-  },
-  "count": 84,
-  "paintings": [
+  "version": 1,
+  "name": "Edwin Lord Weeks",
+  "items": [
     {
       "id": "wd-Q78632982",
-      "qid": "Q78632982",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Moorish Guard",
       "year": "1878",
-      "dimensions": {
-        "height_cm": 58.4,
-        "width_cm": 31.8
-      },
-      "collection": "Metropolitan Museum of Art",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/57/Edwin_Lord_Weeks_-_Moorish_Guard_-_2017.202.14_-_Metropolitan_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/57/Edwin_Lord_Weeks_-_Moorish_Guard_-_2017.202.14_-_Metropolitan_Museum_of_Art.jpg",
+      "width": 741,
+      "height": 1479,
+      "tags": [],
       "popularity": {
         "score": 11,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 2
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/57/Edwin_Lord_Weeks_-_Moorish_Guard_-_2017.202.14_-_Metropolitan_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/5/57/Edwin_Lord_Weeks_-_Moorish_Guard_-_2017.202.14_-_Metropolitan_Museum_of_Art.jpg",
-        "width": 741,
-        "height": 1479,
+      "meta": {
+        "Collection": "Metropolitan Museum of Art"
+      },
+      "extras": {
+        "qid": "Q78632982",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 58.4,
+          "width_cm": 31.8
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -43,33 +34,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.metmuseum.org/art/collection/search/441370\">Metropolitan Museum of Art</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058467",
-      "qid": "Q20058467",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Study of a Moor in Blue",
       "year": "1878",
-      "dimensions": {
-        "height_cm": 49.6,
-        "width_cm": 32.1
-      },
-      "collection": "Brooklyn Museum",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/57/Brooklyn_Museum_-_Study_of_a_Moor_in_Blue_-_Edwin_Lord_Weeks_-_overall.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/57/Brooklyn_Museum_-_Study_of_a_Moor_in_Blue_-_Edwin_Lord_Weeks_-_overall.jpg",
+      "width": 507,
+      "height": 768,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/57/Brooklyn_Museum_-_Study_of_a_Moor_in_Blue_-_Edwin_Lord_Weeks_-_overall.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/5/57/Brooklyn_Museum_-_Study_of_a_Moor_in_Blue_-_Edwin_Lord_Weeks_-_overall.jpg",
-        "width": 507,
-        "height": 768,
+      "meta": {
+        "Collection": "Brooklyn Museum"
+      },
+      "extras": {
+        "qid": "Q20058467",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 49.6,
+          "width_cm": 32.1
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -77,33 +68,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.brooklynmuseum.org/opencollection/objects/1465/Study_of_a_Moor_in_Blue\">Online Collection</a> of <a href=\"https://en.wikipedia.org/wiki/Brooklyn_Museum\" class=\"extiw\" title=\"w:Brooklyn Museum\">Brooklyn Museum</a>; Photo: Brooklyn Museum, 2004, 71.200.5.jpg",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q78633054",
-      "qid": "Q78633054",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Study of Two Figures",
       "year": "1878",
-      "dimensions": {
-        "height_cm": 33,
-        "width_cm": 40
-      },
-      "collection": "Metropolitan Museum of Art",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Edwin_Lord_Weeks_-_Study_of_Two_Figures_-_2017.202.13_-_Metropolitan_Museum_of_Art.jpg/960px-Edwin_Lord_Weeks_-_Study_of_Two_Figures_-_2017.202.13_-_Metropolitan_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Edwin_Lord_Weeks_-_Study_of_Two_Figures_-_2017.202.13_-_Metropolitan_Museum_of_Art.jpg",
+      "width": 1581,
+      "height": 1296,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Edwin_Lord_Weeks_-_Study_of_Two_Figures_-_2017.202.13_-_Metropolitan_Museum_of_Art.jpg/960px-Edwin_Lord_Weeks_-_Study_of_Two_Figures_-_2017.202.13_-_Metropolitan_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Edwin_Lord_Weeks_-_Study_of_Two_Figures_-_2017.202.13_-_Metropolitan_Museum_of_Art.jpg",
-        "width": 1581,
-        "height": 1296,
+      "meta": {
+        "Collection": "Metropolitan Museum of Art"
+      },
+      "extras": {
+        "qid": "Q78633054",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 33,
+          "width_cm": 40
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -111,30 +102,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.metmuseum.org/art/collection/search/441369\">Metropolitan Museum of Art</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058468",
-      "qid": "Q20058468",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Tangier",
       "year": "1878",
-      "dimensions": null,
-      "collection": null,
-      "series": "morocco",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Weeks_Edwin_Lord_Tangiers.jpg/960px-Weeks_Edwin_Lord_Tangiers.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/90/Weeks_Edwin_Lord_Tangiers.jpg",
+      "width": 1000,
+      "height": 663,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Weeks_Edwin_Lord_Tangiers.jpg/960px-Weeks_Edwin_Lord_Tangiers.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/90/Weeks_Edwin_Lord_Tangiers.jpg",
-        "width": 1000,
-        "height": 663,
+      "meta": {
+        "Series": "morocco"
+      },
+      "extras": {
+        "qid": "Q20058468",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -142,30 +132,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21595\">http://www.the-athenaeum.org/art/detail.php?ID=21595</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058459",
-      "qid": "Q20058459",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Scene at Sale Morocco",
       "year": "1879",
-      "dimensions": null,
-      "collection": null,
-      "series": "morocco",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Weeks_Edwin_Lord_Scene_at_Sale_Morocco.jpg/960px-Weeks_Edwin_Lord_Scene_at_Sale_Morocco.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/27/Weeks_Edwin_Lord_Scene_at_Sale_Morocco.jpg",
+      "width": 1092,
+      "height": 734,
+      "tags": [],
       "popularity": {
         "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 10
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Weeks_Edwin_Lord_Scene_at_Sale_Morocco.jpg/960px-Weeks_Edwin_Lord_Scene_at_Sale_Morocco.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/2/27/Weeks_Edwin_Lord_Scene_at_Sale_Morocco.jpg",
-        "width": 1092,
-        "height": 734,
+      "meta": {
+        "Series": "morocco"
+      },
+      "extras": {
+        "qid": "Q20058459",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -173,33 +162,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=19442\">http://www.the-athenaeum.org/art/detail.php?ID=19442</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058402",
-      "qid": "Q20058402",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Along the Ghats, Mathura",
       "year": "1880",
-      "dimensions": {
-        "height_cm": 78.74,
-        "width_cm": 99.06
-      },
-      "collection": "Los Angeles County Museum of Art",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Edwin_Lord_Weeks_-_Along_the_Ghats%2C_Mathura.jpg/960px-Edwin_Lord_Weeks_-_Along_the_Ghats%2C_Mathura.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/76/Edwin_Lord_Weeks_-_Along_the_Ghats%2C_Mathura.jpg",
+      "width": 5443,
+      "height": 3990,
+      "tags": [],
       "popularity": {
         "score": 35,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 32
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Edwin_Lord_Weeks_-_Along_the_Ghats%2C_Mathura.jpg/960px-Edwin_Lord_Weeks_-_Along_the_Ghats%2C_Mathura.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/7/76/Edwin_Lord_Weeks_-_Along_the_Ghats%2C_Mathura.jpg",
-        "width": 5443,
-        "height": 3990,
+      "meta": {
+        "Collection": "Los Angeles County Museum of Art"
+      },
+      "extras": {
+        "qid": "Q20058402",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 78.74,
+          "width_cm": 99.06
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -207,33 +196,33 @@
           "credit": "Image: Museum Associates/LACMA",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058415",
-      "qid": "Q20058415",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Camels Beside a Cistern",
       "year": "1880",
-      "dimensions": {
-        "height_cm": 100.3,
-        "width_cm": 195.6
-      },
-      "collection": null,
-      "series": "caravan",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Edwin_Lord_Weeks_-_Camels_beside_a_cistern.jpg/960px-Edwin_Lord_Weeks_-_Camels_beside_a_cistern.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Edwin_Lord_Weeks_-_Camels_beside_a_cistern.jpg",
+      "width": 4485,
+      "height": 2242,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Edwin_Lord_Weeks_-_Camels_beside_a_cistern.jpg/960px-Edwin_Lord_Weeks_-_Camels_beside_a_cistern.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Edwin_Lord_Weeks_-_Camels_beside_a_cistern.jpg",
-        "width": 4485,
-        "height": 2242,
+      "meta": {
+        "Series": "caravan"
+      },
+      "extras": {
+        "qid": "Q20058415",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 100.3,
+          "width_cm": 195.6
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -241,30 +230,29 @@
           "credit": "<a href=\"https://en.wikipedia.org/wiki/Christie%27s\" class=\"extiw\" title=\"en:Christie's\">Christie's</a>, LotFinder:  entry  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.christies.com/LotFinder/lot_details.aspx?intObjectID=5403390\">5403390</a> (sale 2415, lot 59, New York, 26 January 2011)",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058432",
-      "qid": "Q20058432",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Girl in a Moorish Courtyard",
       "year": "1880",
-      "dimensions": null,
-      "collection": null,
-      "series": "interior",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Weeks_Edwin_Lord_Girl_in_a_Moorish_Courtyard.jpg/960px-Weeks_Edwin_Lord_Girl_in_a_Moorish_Courtyard.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Weeks_Edwin_Lord_Girl_in_a_Moorish_Courtyard.jpg",
+      "width": 1131,
+      "height": 815,
+      "tags": [],
       "popularity": {
         "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 6
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Weeks_Edwin_Lord_Girl_in_a_Moorish_Courtyard.jpg/960px-Weeks_Edwin_Lord_Girl_in_a_Moorish_Courtyard.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Weeks_Edwin_Lord_Girl_in_a_Moorish_Courtyard.jpg",
-        "width": 1131,
-        "height": 815,
+      "meta": {
+        "Series": "interior"
+      },
+      "extras": {
+        "qid": "Q20058432",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -272,33 +260,34 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=14582\">http://www.the-athenaeum.org/art/detail.php?ID=14582</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q18748468",
-      "qid": "Q18748468",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Interior of a Mosque at Cordova",
       "year": "1880",
-      "dimensions": {
-        "height_cm": 142.2,
-        "width_cm": 184.3
-      },
-      "collection": "Walters Art Museum",
-      "series": "interior",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Edwin_Lord_Weeks_-_Interior_of_a_Mosque_at_Cordova_-_Walters_37169.jpg/960px-Edwin_Lord_Weeks_-_Interior_of_a_Mosque_at_Cordova_-_Walters_37169.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Edwin_Lord_Weeks_-_Interior_of_a_Mosque_at_Cordova_-_Walters_37169.jpg",
+      "width": 1026,
+      "height": 785,
+      "tags": [],
       "popularity": {
         "score": 31.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 23
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Edwin_Lord_Weeks_-_Interior_of_a_Mosque_at_Cordova_-_Walters_37169.jpg/960px-Edwin_Lord_Weeks_-_Interior_of_a_Mosque_at_Cordova_-_Walters_37169.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Edwin_Lord_Weeks_-_Interior_of_a_Mosque_at_Cordova_-_Walters_37169.jpg",
-        "width": 1026,
-        "height": 785,
+      "meta": {
+        "Collection": "Walters Art Museum",
+        "Series": "interior"
+      },
+      "extras": {
+        "qid": "Q18748468",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 142.2,
+          "width_cm": 184.3
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -306,30 +295,29 @@
           "credit": "<a href=\"https://en.wikipedia.org/wiki/en:Walters_Art_Museum\" class=\"extiw\" title=\"w:en:Walters Art Museum\"><span title=\"art museum in Baltimore, Maryland, US\">Walters Art Museum</span></a>: <span typeof=\"mw:File\"><a href=\"https://thewalters.org/\" rel=\"nofollow\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nuvola_filesystems_folder_home.svg/20px-Nuvola_filesystems_folder_home.svg.png\" decoding=\"async\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nuvola_filesystems_folder_home.svg/40px-Nuvola_filesystems_folder_home.svg.png 2x\" data-file-width=\"128\" data-file-height=\"128\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://thewalters.org/\">Home page</a> <span typeof=\"mw:File\"><a href=\"https://art.thewalters.org/detail/22767\" rel=\"nofollow\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/20px-Information_icon.svg.png\" decoding=\"async\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/40px-Information_icon.svg.png 2x\" data-file-width=\"620\" data-file-height=\"620\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://art.thewalters.org/detail/22767\">Info about artwork</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058445",
-      "qid": "Q20058445",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Market Square in Front of the Sacristy and Doorway of the Cathedral, Granada",
       "year": "1880",
-      "dimensions": null,
-      "collection": null,
-      "series": "market",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Weeks_Edwin_Lord_Market_Square_in_Front_of_the_Sacristy_and_Doorway_of_the_Cathedral_Granada.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Weeks_Edwin_Lord_Market_Square_in_Front_of_the_Sacristy_and_Doorway_of_the_Cathedral_Granada.jpg",
+      "width": 957,
+      "height": 545,
+      "tags": [],
       "popularity": {
         "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 8
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Weeks_Edwin_Lord_Market_Square_in_Front_of_the_Sacristy_and_Doorway_of_the_Cathedral_Granada.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Weeks_Edwin_Lord_Market_Square_in_Front_of_the_Sacristy_and_Doorway_of_the_Cathedral_Granada.jpg",
-        "width": 957,
-        "height": 545,
+      "meta": {
+        "Series": "market"
+      },
+      "extras": {
+        "qid": "Q20058445",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -337,30 +325,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21659\">http://www.the-athenaeum.org/art/detail.php?ID=21659</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058446",
-      "qid": "Q20058446",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Open Market, Morocco",
       "year": "1880",
-      "dimensions": null,
-      "collection": null,
-      "series": "morocco",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Weeks_Edwin_Moroccan_Market_Rabat.jpg/960px-Weeks_Edwin_Moroccan_Market_Rabat.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Weeks_Edwin_Moroccan_Market_Rabat.jpg",
+      "width": 1000,
+      "height": 601,
+      "tags": [],
       "popularity": {
         "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 8
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Weeks_Edwin_Moroccan_Market_Rabat.jpg/960px-Weeks_Edwin_Moroccan_Market_Rabat.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Weeks_Edwin_Moroccan_Market_Rabat.jpg",
-        "width": 1000,
-        "height": 601,
+      "meta": {
+        "Series": "morocco"
+      },
+      "extras": {
+        "qid": "Q20058446",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -368,30 +355,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=20196\">http://www.the-athenaeum.org/art/detail.php?ID=20196</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058455",
-      "qid": "Q20058455",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Powder Play City of Morocco outside the Walls",
       "year": "1880",
-      "dimensions": null,
-      "collection": null,
-      "series": "morocco",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Weeks_Edwin_Lord_Powder_Play_City_of_Morocco_outside_the_Walls.jpg/960px-Weeks_Edwin_Lord_Powder_Play_City_of_Morocco_outside_the_Walls.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/29/Weeks_Edwin_Lord_Powder_Play_City_of_Morocco_outside_the_Walls.jpg",
+      "width": 1129,
+      "height": 645,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Weeks_Edwin_Lord_Powder_Play_City_of_Morocco_outside_the_Walls.jpg/960px-Weeks_Edwin_Lord_Powder_Play_City_of_Morocco_outside_the_Walls.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/2/29/Weeks_Edwin_Lord_Powder_Play_City_of_Morocco_outside_the_Walls.jpg",
-        "width": 1129,
-        "height": 645,
+      "meta": {
+        "Series": "morocco"
+      },
+      "extras": {
+        "qid": "Q20058455",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -399,33 +385,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=6895\">http://www.the-athenaeum.org/art/detail.php?ID=6895</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058456",
-      "qid": "Q20058456",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Promenade on an Indian Street",
       "year": "1880",
-      "dimensions": {
-        "height_cm": 60.9,
-        "width_cm": 47
-      },
-      "collection": null,
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Edwin_Lord_Weeks_Promenade_on_an_Indian_Street.jpg/960px-Edwin_Lord_Weeks_Promenade_on_an_Indian_Street.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Edwin_Lord_Weeks_Promenade_on_an_Indian_Street.jpg",
+      "width": 2658,
+      "height": 3580,
+      "tags": [],
       "popularity": {
         "score": 25.6,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 12
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Edwin_Lord_Weeks_Promenade_on_an_Indian_Street.jpg/960px-Edwin_Lord_Weeks_Promenade_on_an_Indian_Street.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Edwin_Lord_Weeks_Promenade_on_an_Indian_Street.jpg",
-        "width": 2658,
-        "height": 3580,
+      "meta": {
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q20058456",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 60.9,
+          "width_cm": 47
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -433,30 +419,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.is/RWwYs\">https://archive.is/RWwYs</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058471",
-      "qid": "Q20058471",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Departure of a Caravan from the Gate of Shelah, Morocco",
       "year": "1880",
-      "dimensions": null,
-      "collection": null,
-      "series": "morocco",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Weeks_Edwin_Lord_Gate_of_Shehal_Morocco.jpg/960px-Weeks_Edwin_Lord_Gate_of_Shehal_Morocco.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Weeks_Edwin_Lord_Gate_of_Shehal_Morocco.jpg",
+      "width": 1060,
+      "height": 592,
+      "tags": [],
       "popularity": {
         "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 6
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Weeks_Edwin_Lord_Gate_of_Shehal_Morocco.jpg/960px-Weeks_Edwin_Lord_Gate_of_Shehal_Morocco.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Weeks_Edwin_Lord_Gate_of_Shehal_Morocco.jpg",
-        "width": 1060,
-        "height": 592,
+      "meta": {
+        "Series": "morocco"
+      },
+      "extras": {
+        "qid": "Q20058471",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -464,30 +449,30 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=20199\">http://www.the-athenaeum.org/art/detail.php?ID=20199</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058437",
-      "qid": "Q20058437",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Indian Prince, Palace of Agra",
       "year": "1883",
-      "dimensions": null,
-      "collection": "Berkshire Museum",
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Edwin_Lord_Weeks_-_Indian_Prince%2C_Palace_of_Agra_-_Google_Art_Project.jpg/960px-Edwin_Lord_Weeks_-_Indian_Prince%2C_Palace_of_Agra_-_Google_Art_Project.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/07/Edwin_Lord_Weeks_-_Indian_Prince%2C_Palace_of_Agra_-_Google_Art_Project.jpg",
+      "width": 3556,
+      "height": 4298,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Edwin_Lord_Weeks_-_Indian_Prince%2C_Palace_of_Agra_-_Google_Art_Project.jpg/960px-Edwin_Lord_Weeks_-_Indian_Prince%2C_Palace_of_Agra_-_Google_Art_Project.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/0/07/Edwin_Lord_Weeks_-_Indian_Prince%2C_Palace_of_Agra_-_Google_Art_Project.jpg",
-        "width": 3556,
-        "height": 4298,
+      "meta": {
+        "Collection": "Berkshire Museum",
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q20058437",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -495,30 +480,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/TgFEdjxup-BPNA\">TgFEdjxup-BPNA at Google Cultural Institute</a>, zoom level maximum",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058430",
-      "qid": "Q20058430",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "On The River Benares",
       "year": "1883",
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Weeks_Edwin_On_The_River_Benares.jpg/960px-Weeks_Edwin_On_The_River_Benares.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Weeks_Edwin_On_The_River_Benares.jpg",
+      "width": 1000,
+      "height": 754,
+      "tags": [],
       "popularity": {
         "score": 11,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 2
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Weeks_Edwin_On_The_River_Benares.jpg/960px-Weeks_Edwin_On_The_River_Benares.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Weeks_Edwin_On_The_River_Benares.jpg",
-        "width": 1000,
-        "height": 754,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058430",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -526,33 +508,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21598\">http://www.the-athenaeum.org/art/detail.php?ID=21598</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058469",
-      "qid": "Q20058469",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Temples and Bathing Ghat at Benares",
       "year": "1883",
-      "dimensions": {
-        "height_cm": 50.6,
-        "width_cm": 76
-      },
-      "collection": "Brooklyn Museum",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/21/Brooklyn_Museum_-_Temples_and_Bathing_Ghat_at_Benares_-_Edwin_Lord_Weeks_-_overall.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/21/Brooklyn_Museum_-_Temples_and_Bathing_Ghat_at_Benares_-_Edwin_Lord_Weeks_-_overall.jpg",
+      "width": 733,
+      "height": 496,
+      "tags": [],
       "popularity": {
         "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 5
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/21/Brooklyn_Museum_-_Temples_and_Bathing_Ghat_at_Benares_-_Edwin_Lord_Weeks_-_overall.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/2/21/Brooklyn_Museum_-_Temples_and_Bathing_Ghat_at_Benares_-_Edwin_Lord_Weeks_-_overall.jpg",
-        "width": 733,
-        "height": 496,
+      "meta": {
+        "Collection": "Brooklyn Museum"
+      },
+      "extras": {
+        "qid": "Q20058469",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 50.6,
+          "width_cm": 76
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -560,30 +542,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.brooklynmuseum.org/opencollection/objects/1578/Temples_and_Bathing_Ghat_at_Benares\">Online Collection</a> of <a href=\"https://en.wikipedia.org/wiki/Brooklyn_Museum\" class=\"extiw\" title=\"w:Brooklyn Museum\">Brooklyn Museum</a>; Photo: Brooklyn Museum, 2009, 77.150.1_PS1.jpg",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058470",
-      "qid": "Q20058470",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Barge of the Maharaja of Benares",
       "year": "1883",
-      "dimensions": null,
-      "collection": null,
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Weeks_Edwin_The_Barge_Of_The_Maharaja_Of_Benares.jpg/960px-Weeks_Edwin_The_Barge_Of_The_Maharaja_Of_Benares.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Weeks_Edwin_The_Barge_Of_The_Maharaja_Of_Benares.jpg",
+      "width": 1000,
+      "height": 683,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Weeks_Edwin_The_Barge_Of_The_Maharaja_Of_Benares.jpg/960px-Weeks_Edwin_The_Barge_Of_The_Maharaja_Of_Benares.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Weeks_Edwin_The_Barge_Of_The_Maharaja_Of_Benares.jpg",
-        "width": 1000,
-        "height": 683,
+      "meta": {
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q20058470",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -591,30 +572,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21600\">http://www.the-athenaeum.org/art/detail.php?ID=21600</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058427",
-      "qid": "Q20058427",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "White Marble Tomb at Suittitor Skiri",
       "year": "1883",
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/36/Weeks_Edwin_Lord_White_Marble_Tomb_at_Suittitor_Skiri.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/36/Weeks_Edwin_Lord_White_Marble_Tomb_at_Suittitor_Skiri.jpg",
+      "width": 890,
+      "height": 1137,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/36/Weeks_Edwin_Lord_White_Marble_Tomb_at_Suittitor_Skiri.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/3/36/Weeks_Edwin_Lord_White_Marble_Tomb_at_Suittitor_Skiri.jpg",
-        "width": 890,
-        "height": 1137,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058427",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -622,30 +600,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=20195\">http://www.the-athenaeum.org/art/detail.php?ID=20195</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058479",
-      "qid": "Q20058479",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Temples and Tank of Walkeshwar at Bombay",
       "year": "1884",
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Weeks_Edwin_The_Temple_And_Tank_Of_Walkeshwar_At_Bombay.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Weeks_Edwin_The_Temple_And_Tank_Of_Walkeshwar_At_Bombay.jpg",
+      "width": 695,
+      "height": 1000,
+      "tags": [],
       "popularity": {
         "score": 27.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 14
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Weeks_Edwin_The_Temple_And_Tank_Of_Walkeshwar_At_Bombay.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Weeks_Edwin_The_Temple_And_Tank_Of_Walkeshwar_At_Bombay.jpg",
-        "width": 695,
-        "height": 1000,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058479",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -653,30 +628,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=17571\">http://www.the-athenaeum.org/art/detail.php?ID=17571</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058388",
-      "qid": "Q20058388",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "A Marketplace In Ispahan",
       "year": "1885",
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Weeks_Edwin_Lord_A_Marketplace_In_Ispahan.jpg/960px-Weeks_Edwin_Lord_A_Marketplace_In_Ispahan.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/26/Weeks_Edwin_Lord_A_Marketplace_In_Ispahan.jpg",
+      "width": 1000,
+      "height": 836,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Weeks_Edwin_Lord_A_Marketplace_In_Ispahan.jpg/960px-Weeks_Edwin_Lord_A_Marketplace_In_Ispahan.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/2/26/Weeks_Edwin_Lord_A_Marketplace_In_Ispahan.jpg",
-        "width": 1000,
-        "height": 836,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058388",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -684,33 +656,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html\">http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058400",
-      "qid": "Q20058400",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "A Meeting at a Temple Gateway in Mathura",
       "year": "1885",
-      "dimensions": {
-        "height_cm": 71.1,
-        "width_cm": 57.2
-      },
-      "collection": null,
-      "series": "caravan",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/ca/A_meeting_at_a_temple_gateway_in_Mathura.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/ca/A_meeting_at_a_temple_gateway_in_Mathura.jpg",
+      "width": 512,
+      "height": 648,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/ca/A_meeting_at_a_temple_gateway_in_Mathura.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/c/ca/A_meeting_at_a_temple_gateway_in_Mathura.jpg",
-        "width": 512,
-        "height": 648,
+      "meta": {
+        "Series": "caravan"
+      },
+      "extras": {
+        "qid": "Q20058400",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 71.1,
+          "width_cm": 57.2
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -718,30 +690,27 @@
           "credit": "<p><a href=\"https://en.wikipedia.org/wiki/Christie%27s\" class=\"extiw\" title=\"en:Christie's\">Christie's</a>, LotFinder:  entry  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.christies.com/LotFinder/lot_details.aspx?intObjectID=4695952\">4695952</a>\n</p>\n <a rel=\"nofollow\" class=\"external free\" href=\"http://www.columbia.edu/itc/mealac/pritchett/00routesdata/1400_1499/krishnabhakti/mathura/mathura.html\">http://www.columbia.edu/itc/mealac/pritchett/00routesdata/1400_1499/krishnabhakti/mathura/mathura.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058419",
-      "qid": "Q20058419",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Craftsman Selling Cases by a Teak Wood Building, Ahmedabad",
       "year": "1885",
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/65/Weeks_Edwin_Craftsman_Selling_Cases_By_A_Teak_Wood_Building_Ahmedabad.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/65/Weeks_Edwin_Craftsman_Selling_Cases_By_A_Teak_Wood_Building_Ahmedabad.jpg",
+      "width": 726,
+      "height": 1000,
+      "tags": [],
       "popularity": {
         "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 7
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/65/Weeks_Edwin_Craftsman_Selling_Cases_By_A_Teak_Wood_Building_Ahmedabad.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/6/65/Weeks_Edwin_Craftsman_Selling_Cases_By_A_Teak_Wood_Building_Ahmedabad.jpg",
-        "width": 726,
-        "height": 1000,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058419",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -749,30 +718,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21614\">http://www.the-athenaeum.org/art/detail.php?ID=21614</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058425",
-      "qid": "Q20058425",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Departure for the Hunt",
       "year": "1885",
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Weeks_Edwin_Departure_For_The_Hunt.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Weeks_Edwin_Departure_For_The_Hunt.jpg",
+      "width": 712,
+      "height": 1000,
+      "tags": [],
       "popularity": {
         "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 7
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Weeks_Edwin_Departure_For_The_Hunt.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Weeks_Edwin_Departure_For_The_Hunt.jpg",
-        "width": 712,
-        "height": 1000,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058425",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -780,30 +746,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=6896\">http://www.the-athenaeum.org/art/detail.php?ID=6896</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058426",
-      "qid": "Q20058426",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Entering the Mosque",
       "year": "1885",
-      "dimensions": null,
-      "collection": null,
-      "series": "interior",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Weeks_Edwin_Entering_The_Mosque_1885.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Weeks_Edwin_Entering_The_Mosque_1885.jpg",
+      "width": 799,
+      "height": 1000,
+      "tags": [],
       "popularity": {
         "score": 29.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 18
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Weeks_Edwin_Entering_The_Mosque_1885.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Weeks_Edwin_Entering_The_Mosque_1885.jpg",
-        "width": 799,
-        "height": 1000,
+      "meta": {
+        "Series": "interior"
+      },
+      "extras": {
+        "qid": "Q20058426",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -811,30 +776,27 @@
           "credit": "<ol><li>(Originally uploaded on en.wikipedia - Transferred by <a href=\"//commons.wikimedia.org/wiki/User:Sridhar1000\" title=\"User:Sridhar1000\">sridhar1000</a>)</li>\n<li>the Black Sea through Persia and India</li>\n<li><a rel=\"nofollow\" class=\"external free\" href=\"http://artgalleryartist.com/old-india-paintings/imagepages/image46.htm\">http://artgalleryartist.com/old-india-paintings/imagepages/image46.htm</a></li></ol>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058429",
-      "qid": "Q20058429",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Festival at Fatehpur Sikri",
       "year": "1885",
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Weeks_Edwin_Festival_At_Fatehpur_Sikri.jpg/960px-Weeks_Edwin_Festival_At_Fatehpur_Sikri.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/23/Weeks_Edwin_Festival_At_Fatehpur_Sikri.jpg",
+      "width": 1000,
+      "height": 817,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Weeks_Edwin_Festival_At_Fatehpur_Sikri.jpg/960px-Weeks_Edwin_Festival_At_Fatehpur_Sikri.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/2/23/Weeks_Edwin_Festival_At_Fatehpur_Sikri.jpg",
-        "width": 1000,
-        "height": 817,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058429",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -842,33 +804,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21625\">http://www.the-athenaeum.org/art/detail.php?ID=21625</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058434",
-      "qid": "Q20058434",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Hindu Merchants",
       "year": "1885",
-      "dimensions": {
-        "height_cm": 72.0725,
-        "width_cm": 58.1025
-      },
-      "collection": "Smithsonian American Art Museum",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Weeks_Edwin_Lord_Hindu_Merchants.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Weeks_Edwin_Lord_Hindu_Merchants.jpg",
+      "width": 801,
+      "height": 993,
+      "tags": [],
       "popularity": {
         "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 5
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Weeks_Edwin_Lord_Hindu_Merchants.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Weeks_Edwin_Lord_Hindu_Merchants.jpg",
-        "width": 801,
-        "height": 993,
+      "meta": {
+        "Collection": "Smithsonian American Art Museum"
+      },
+      "extras": {
+        "qid": "Q20058434",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 72.0725,
+          "width_cm": 58.1025
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -876,33 +838,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21610\">http://www.the-athenaeum.org/art/detail.php?ID=21610</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058444",
-      "qid": "Q20058444",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Man in Armor (preparatory sketch for Entering the Mosque)",
       "year": "1885",
-      "dimensions": {
-        "height_cm": 46.4,
-        "width_cm": 31.8
-      },
-      "collection": null,
-      "series": "interior",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/99/Man_in_Armor_%28preparatory_sketch_for_Entering_the_Mosque%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/99/Man_in_Armor_%28preparatory_sketch_for_Entering_the_Mosque%29.jpg",
+      "width": 882,
+      "height": 1274,
+      "tags": [],
       "popularity": {
         "score": 25.6,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 12
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/99/Man_in_Armor_%28preparatory_sketch_for_Entering_the_Mosque%29.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/99/Man_in_Armor_%28preparatory_sketch_for_Entering_the_Mosque%29.jpg",
-        "width": 882,
-        "height": 1274,
+      "meta": {
+        "Series": "interior"
+      },
+      "extras": {
+        "qid": "Q20058444",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 46.4,
+          "width_cm": 31.8
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -910,30 +872,29 @@
           "credit": "<ul><li><a href=\"https://en.wikipedia.org/wiki/Christie%27s\" class=\"extiw\" title=\"en:Christie's\">Christie's</a>, LotFinder:  entry  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.christies.com/LotFinder/lot_details.aspx?intObjectID=4693755\">4693755</a></li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"http://www.columbia.edu/itc/mealac/pritchett/00routesdata/1700_1799/localrulers/weapons/weapons.html\">A study of a (recreated) Mughal horseman, by Edwin Lord Weeks, 1882</a></li></ul>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058438",
-      "qid": "Q20058438",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Outside An Indian Dye House",
       "year": "1885",
-      "dimensions": null,
-      "collection": null,
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Weeks_Edwin_Outside_An_Indian_Dye_House.jpg/960px-Weeks_Edwin_Outside_An_Indian_Dye_House.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/55/Weeks_Edwin_Outside_An_Indian_Dye_House.jpg",
+      "width": 1000,
+      "height": 837,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Weeks_Edwin_Outside_An_Indian_Dye_House.jpg/960px-Weeks_Edwin_Outside_An_Indian_Dye_House.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/5/55/Weeks_Edwin_Outside_An_Indian_Dye_House.jpg",
-        "width": 1000,
-        "height": 837,
+      "meta": {
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q20058438",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -941,30 +902,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21609\">http://www.the-athenaeum.org/art/detail.php?ID=21609</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q108698436",
-      "qid": "Q108698436",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Partial View of Building at Futtehpore-Sikri (Fatehpur-Sikri)",
       "year": "1885",
-      "dimensions": null,
-      "collection": "New York Historical",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Partial_View_of_Building_at_Futtehpore-Sikri_%28Fatehpur-Sikri%29_1949_108.jpeg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Partial_View_of_Building_at_Futtehpore-Sikri_%28Fatehpur-Sikri%29_1949_108.jpeg",
+      "width": 327,
+      "height": 500,
+      "tags": [],
       "popularity": {
         "score": 11,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 2
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Partial_View_of_Building_at_Futtehpore-Sikri_%28Fatehpur-Sikri%29_1949_108.jpeg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Partial_View_of_Building_at_Futtehpore-Sikri_%28Fatehpur-Sikri%29_1949_108.jpeg",
-        "width": 327,
-        "height": 500,
+      "meta": {
+        "Collection": "New York Historical"
+      },
+      "extras": {
+        "qid": "Q108698436",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -972,30 +932,30 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://emuseum.nyhistory.org/objects/17020/partial-view-of-building-at-futtehporesikri-fatehpursikri\">https://emuseum.nyhistory.org/objects/17020/partial-view-of-building-at-futtehporesikri-fatehpursikri</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058463",
-      "qid": "Q20058463",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Street Scene in Bombay",
       "year": "1885",
-      "dimensions": null,
-      "collection": "Smithsonian American Art Museum",
-      "series": "market",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Weeks_Edwin_Street_Scene_In_India.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Weeks_Edwin_Street_Scene_In_India.jpg",
+      "width": 787,
+      "height": 1000,
+      "tags": [],
       "popularity": {
         "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 5
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Weeks_Edwin_Street_Scene_In_India.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Weeks_Edwin_Street_Scene_In_India.jpg",
-        "width": 787,
-        "height": 1000,
+      "meta": {
+        "Collection": "Smithsonian American Art Museum",
+        "Series": "market"
+      },
+      "extras": {
+        "qid": "Q20058463",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1003,30 +963,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=240871\">http://www.the-athenaeum.org/art/detail.php?ID=240871</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058465",
-      "qid": "Q20058465",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Street scene in Bombay, India",
       "year": "1885",
-      "dimensions": null,
-      "collection": null,
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/05/Weeks_Edwin_Lord_Street_Scene_Bombay.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/05/Weeks_Edwin_Lord_Street_Scene_Bombay.jpg",
+      "width": 717,
+      "height": 911,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/05/Weeks_Edwin_Lord_Street_Scene_Bombay.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/0/05/Weeks_Edwin_Lord_Street_Scene_Bombay.jpg",
-        "width": 717,
-        "height": 911,
+      "meta": {
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q20058465",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1034,33 +993,34 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=19443\">http://www.the-athenaeum.org/art/detail.php?ID=19443</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058464",
-      "qid": "Q20058464",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Street Scene in India",
       "year": "1885",
-      "dimensions": {
-        "height_cm": 73.3,
-        "width_cm": 60.2
-      },
-      "collection": "Renwick Gallery",
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Edwin_Lord_Weeks_-_Street_Scene_in_India_-_1906.9.19_-_Smithsonian_American_Art_Museum.jpg/960px-Edwin_Lord_Weeks_-_Street_Scene_in_India_-_1906.9.19_-_Smithsonian_American_Art_Museum.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Edwin_Lord_Weeks_-_Street_Scene_in_India_-_1906.9.19_-_Smithsonian_American_Art_Museum.jpg",
+      "width": 1150,
+      "height": 1400,
+      "tags": [],
       "popularity": {
         "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 5
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Edwin_Lord_Weeks_-_Street_Scene_in_India_-_1906.9.19_-_Smithsonian_American_Art_Museum.jpg/960px-Edwin_Lord_Weeks_-_Street_Scene_in_India_-_1906.9.19_-_Smithsonian_American_Art_Museum.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Edwin_Lord_Weeks_-_Street_Scene_in_India_-_1906.9.19_-_Smithsonian_American_Art_Museum.jpg",
-        "width": 1150,
-        "height": 1400,
+      "meta": {
+        "Collection": "Renwick Gallery",
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q20058464",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 73.3,
+          "width_cm": 60.2
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1068,33 +1028,34 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://americanart.si.edu/collections/search/artwork/?id=27287\">http://americanart.si.edu/collections/search/artwork/?id=27287</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058414",
-      "qid": "Q20058414",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Old Blue-Tiled Mosque outside Delhi",
       "year": "1885",
-      "dimensions": {
-        "height_cm": 79.6,
-        "width_cm": 64.8
-      },
-      "collection": "Brooklyn Museum",
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/83/Weeks_Edwin_Old_Blue_Tiled_Mosque_Outside_Of_Delhi_India.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/83/Weeks_Edwin_Old_Blue_Tiled_Mosque_Outside_Of_Delhi_India.jpg",
+      "width": 798,
+      "height": 1000,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/83/Weeks_Edwin_Old_Blue_Tiled_Mosque_Outside_Of_Delhi_India.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/8/83/Weeks_Edwin_Old_Blue_Tiled_Mosque_Outside_Of_Delhi_India.jpg",
-        "width": 798,
-        "height": 1000,
+      "meta": {
+        "Collection": "Brooklyn Museum",
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q20058414",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 79.6,
+          "width_cm": 64.8
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1102,30 +1063,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21596\">http://www.the-athenaeum.org/art/detail.php?ID=21596</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q79172212",
-      "qid": "Q79172212",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Water Carriers of the Ganges",
       "year": "1885",
-      "dimensions": null,
-      "collection": "Dallas Museum of Art",
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Edwin_Lord_Weeks_-_Water_Carriers_of_the_Ganges_-_1907.2_-_Dallas_Museum_of_Art.jpg/960px-Edwin_Lord_Weeks_-_Water_Carriers_of_the_Ganges_-_1907.2_-_Dallas_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/31/Edwin_Lord_Weeks_-_Water_Carriers_of_the_Ganges_-_1907.2_-_Dallas_Museum_of_Art.jpg",
+      "width": 10230,
+      "height": 6818,
+      "tags": [],
       "popularity": {
         "score": 11,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 2
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Edwin_Lord_Weeks_-_Water_Carriers_of_the_Ganges_-_1907.2_-_Dallas_Museum_of_Art.jpg/960px-Edwin_Lord_Weeks_-_Water_Carriers_of_the_Ganges_-_1907.2_-_Dallas_Museum_of_Art.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/3/31/Edwin_Lord_Weeks_-_Water_Carriers_of_the_Ganges_-_1907.2_-_Dallas_Museum_of_Art.jpg",
-        "width": 10230,
-        "height": 6818,
+      "meta": {
+        "Collection": "Dallas Museum of Art"
+      },
+      "extras": {
+        "qid": "Q79172212",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1133,30 +1093,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://collections.dma.org/artwork/3210866\">Dallas Museum of Art</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058386",
-      "qid": "Q20058386",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "A Maratha Hunting Party",
       "year": "1887",
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/db/An_Indian_Hunting_Party.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/db/An_Indian_Hunting_Party.jpg",
+      "width": 560,
+      "height": 458,
+      "tags": [],
       "popularity": {
         "score": 28.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 17
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/db/An_Indian_Hunting_Party.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/d/db/An_Indian_Hunting_Party.jpg",
-        "width": 560,
-        "height": 458,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058386",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1164,33 +1121,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hoocher.com/Edwin_Lord_Weeks/Edwin_Lord_Weeks.htm\">http://hoocher.com/Edwin_Lord_Weeks/Edwin_Lord_Weeks.htm</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058392",
-      "qid": "Q20058392",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "A Street Market Scene, India",
       "year": "1887",
-      "dimensions": {
-        "height_cm": 74,
-        "width_cm": 60.5
-      },
-      "collection": null,
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Weeks_Edwin_Lord_A_Street_Market_Scene_India_1887_Oil_On_Canvas.jpg/960px-Weeks_Edwin_Lord_A_Street_Market_Scene_India_1887_Oil_On_Canvas.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/62/Weeks_Edwin_Lord_A_Street_Market_Scene_India_1887_Oil_On_Canvas.jpg",
+      "width": 3000,
+      "height": 2448,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Weeks_Edwin_Lord_A_Street_Market_Scene_India_1887_Oil_On_Canvas.jpg/960px-Weeks_Edwin_Lord_A_Street_Market_Scene_India_1887_Oil_On_Canvas.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/6/62/Weeks_Edwin_Lord_A_Street_Market_Scene_India_1887_Oil_On_Canvas.jpg",
-        "width": 3000,
-        "height": 2448,
+      "meta": {
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q20058392",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 74,
+          "width_cm": 60.5
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1198,30 +1155,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.artrenewal.org/Artwork/Index/32250\">Art Renewal Center</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058441",
-      "qid": "Q20058441",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Leaving for the Hunt at Gwalior",
       "year": "1887",
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Weeks_Edwin_Leaving_For_The_Hunt_At_Gwalior_1887.jpg/960px-Weeks_Edwin_Leaving_For_The_Hunt_At_Gwalior_1887.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Weeks_Edwin_Leaving_For_The_Hunt_At_Gwalior_1887.jpg",
+      "width": 1000,
+      "height": 671,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Weeks_Edwin_Leaving_For_The_Hunt_At_Gwalior_1887.jpg/960px-Weeks_Edwin_Leaving_For_The_Hunt_At_Gwalior_1887.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Weeks_Edwin_Leaving_For_The_Hunt_At_Gwalior_1887.jpg",
-        "width": 1000,
-        "height": 671,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058441",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1229,33 +1183,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21622\">http://www.the-athenaeum.org/art/detail.php?ID=21622</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058410",
-      "qid": "Q20058410",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Rajasthani Street Scene",
       "year": "1887",
-      "dimensions": {
-        "height_cm": 60.5,
-        "width_cm": 74
-      },
-      "collection": null,
-      "series": "market",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Another_Rajasthani_street_scene_by_Edwin_Lord_Weeks.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Another_Rajasthani_street_scene_by_Edwin_Lord_Weeks.jpg",
+      "width": 512,
+      "height": 418,
+      "tags": [],
       "popularity": {
         "score": 11,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 2
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Another_Rajasthani_street_scene_by_Edwin_Lord_Weeks.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Another_Rajasthani_street_scene_by_Edwin_Lord_Weeks.jpg",
-        "width": 512,
-        "height": 418,
+      "meta": {
+        "Series": "market"
+      },
+      "extras": {
+        "qid": "Q20058410",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 60.5,
+          "width_cm": 74
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1263,30 +1217,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.columbia.edu/itc/mealac/pritchett/00routesdata/1800_1899/women/balconies/balconies.html\">http://www.columbia.edu/itc/mealac/pritchett/00routesdata/1800_1899/women/balconies/balconies.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058442",
-      "qid": "Q20058442",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Maharahaj of Gwalior Before His Palace",
       "year": "1887",
-      "dimensions": null,
-      "collection": null,
-      "series": "interior",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/43/Weeks_Edwin_Lord_The_Maharahaj_of_Gwalior_Before_His_Palace.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/43/Weeks_Edwin_Lord_The_Maharahaj_of_Gwalior_Before_His_Palace.jpg",
+      "width": 706,
+      "height": 1086,
+      "tags": [],
       "popularity": {
         "score": 24.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 11
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/43/Weeks_Edwin_Lord_The_Maharahaj_of_Gwalior_Before_His_Palace.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/4/43/Weeks_Edwin_Lord_The_Maharahaj_of_Gwalior_Before_His_Palace.jpg",
-        "width": 706,
-        "height": 1086,
+      "meta": {
+        "Series": "interior"
+      },
+      "extras": {
+        "qid": "Q20058442",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1294,30 +1247,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21618\">http://www.the-athenaeum.org/art/detail.php?ID=21618</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058404",
-      "qid": "Q20058404",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Arrival Of Prince Humbert The Rajah At The Palace Of Amber",
       "year": "1888",
-      "dimensions": null,
-      "collection": null,
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Weeks_Edwin_Arrival_Of_Prince_Humbert_The_Rajah_At_The_Palace_Of_Amber.jpg/960px-Weeks_Edwin_Arrival_Of_Prince_Humbert_The_Rajah_At_The_Palace_Of_Amber.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Weeks_Edwin_Arrival_Of_Prince_Humbert_The_Rajah_At_The_Palace_Of_Amber.jpg",
+      "width": 1000,
+      "height": 749,
+      "tags": [],
       "popularity": {
         "score": 11,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 2
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Weeks_Edwin_Arrival_Of_Prince_Humbert_The_Rajah_At_The_Palace_Of_Amber.jpg/960px-Weeks_Edwin_Arrival_Of_Prince_Humbert_The_Rajah_At_The_Palace_Of_Amber.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Weeks_Edwin_Arrival_Of_Prince_Humbert_The_Rajah_At_The_Palace_Of_Amber.jpg",
-        "width": 1000,
-        "height": 749,
+      "meta": {
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q20058404",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1325,30 +1277,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21620\">http://www.the-athenaeum.org/art/detail.php?ID=21620</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058457",
-      "qid": "Q20058457",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Raja of Jodhpur",
       "year": "1888",
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Weeks_Edwin_A_Rajah_Of_Jodhpur.jpg/960px-Weeks_Edwin_A_Rajah_Of_Jodhpur.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Weeks_Edwin_A_Rajah_Of_Jodhpur.jpg",
+      "width": 1000,
+      "height": 754,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Weeks_Edwin_A_Rajah_Of_Jodhpur.jpg/960px-Weeks_Edwin_A_Rajah_Of_Jodhpur.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Weeks_Edwin_A_Rajah_Of_Jodhpur.jpg",
-        "width": 1000,
-        "height": 754,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058457",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1356,33 +1305,34 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21619\">http://www.the-athenaeum.org/art/detail.php?ID=21619</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q30274787",
-      "qid": "Q30274787",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Hour of Prayer at the Pearl Mosque, Agra",
       "year": "1888",
-      "dimensions": {
-        "height_cm": 252.73,
-        "width_cm": 347.98
-      },
-      "collection": "Virginia Museum of Fine Arts",
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/VMFA_2008-40_v1_KW_x-1024x748.jpg/960px-VMFA_2008-40_v1_KW_x-1024x748.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c3/VMFA_2008-40_v1_KW_x-1024x748.jpg",
+      "width": 1024,
+      "height": 748,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/VMFA_2008-40_v1_KW_x-1024x748.jpg/960px-VMFA_2008-40_v1_KW_x-1024x748.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/c/c3/VMFA_2008-40_v1_KW_x-1024x748.jpg",
-        "width": 1024,
-        "height": 748,
+      "meta": {
+        "Collection": "Virginia Museum of Fine Arts",
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q30274787",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 252.73,
+          "width_cm": 347.98
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1390,33 +1340,31 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://vmfa.museum/collections/art/hour-prayer-pearl-mosque-agra_2008-40/\">https://vmfa.museum/collections/art/hour-prayer-pearl-mosque-agra_2008-40/</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058409",
-      "qid": "Q20058409",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "An Open-Air Restaurant, Lahore",
       "year": "1889",
-      "dimensions": {
-        "height_cm": 245.7,
-        "width_cm": 157.5
-      },
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Weeks_Edwin_Lord_An_Open-Air_Restaurant_Lahore.jpg/960px-Weeks_Edwin_Lord_An_Open-Air_Restaurant_Lahore.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Weeks_Edwin_Lord_An_Open-Air_Restaurant_Lahore.jpg",
+      "width": 2000,
+      "height": 1322,
+      "tags": [],
       "popularity": {
         "score": 36.6,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 38
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Weeks_Edwin_Lord_An_Open-Air_Restaurant_Lahore.jpg/960px-Weeks_Edwin_Lord_An_Open-Air_Restaurant_Lahore.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Weeks_Edwin_Lord_An_Open-Air_Restaurant_Lahore.jpg",
-        "width": 2000,
-        "height": 1322,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058409",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 245.7,
+          "width_cm": 157.5
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1424,33 +1372,34 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.artrenewal.org/Artwork/Index/3444\">Art Renewal Center</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q135409601",
-      "qid": "Q135409601",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Curiously Wrought Red Sandstone Arches, Fort Agra, India",
       "year": "1890",
-      "dimensions": {
-        "height_cm": 48.9,
-        "width_cm": 33
-      },
-      "collection": "Brooklyn Museum",
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Brooklyn_Museum_-_Curiously_Wrought_Red_Sandstone_Arches%2C_Fort_Agra%2C_India_-_Edwin_Lord_Weeks_-_overall.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Brooklyn_Museum_-_Curiously_Wrought_Red_Sandstone_Arches%2C_Fort_Agra%2C_India_-_Edwin_Lord_Weeks_-_overall.jpg",
+      "width": 524,
+      "height": 768,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Brooklyn_Museum_-_Curiously_Wrought_Red_Sandstone_Arches%2C_Fort_Agra%2C_India_-_Edwin_Lord_Weeks_-_overall.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Brooklyn_Museum_-_Curiously_Wrought_Red_Sandstone_Arches%2C_Fort_Agra%2C_India_-_Edwin_Lord_Weeks_-_overall.jpg",
-        "width": 524,
-        "height": 768,
+      "meta": {
+        "Collection": "Brooklyn Museum",
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q135409601",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 48.9,
+          "width_cm": 33
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1458,30 +1407,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.brooklynmuseum.org/opencollection/objects/1466/Curiously_Wrought_Red_Sandstone_Arches_Fort_Agra_India\">Online Collection</a> of <a href=\"https://en.wikipedia.org/wiki/Brooklyn_Museum\" class=\"extiw\" title=\"w:Brooklyn Museum\">Brooklyn Museum</a>; Photo: Brooklyn Museum, 71.200.6_SL1.jpg",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058472",
-      "qid": "Q20058472",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Golden Temple, Amritsar",
       "year": "1890",
-      "dimensions": null,
-      "collection": null,
-      "series": "interior",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Weeks_Edwin_The_Golden_Temple_Amritsar_1890.jpg/960px-Weeks_Edwin_The_Golden_Temple_Amritsar_1890.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/08/Weeks_Edwin_The_Golden_Temple_Amritsar_1890.jpg",
+      "width": 1000,
+      "height": 669,
+      "tags": [],
       "popularity": {
         "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 5
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Weeks_Edwin_The_Golden_Temple_Amritsar_1890.jpg/960px-Weeks_Edwin_The_Golden_Temple_Amritsar_1890.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/0/08/Weeks_Edwin_The_Golden_Temple_Amritsar_1890.jpg",
-        "width": 1000,
-        "height": 669,
+      "meta": {
+        "Series": "interior"
+      },
+      "extras": {
+        "qid": "Q20058472",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1489,33 +1437,34 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21627\">http://www.the-athenaeum.org/art/detail.php?ID=21627</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q19924464",
-      "qid": "Q19924464",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Rajah Starting on a Hunt",
       "year": "1892",
-      "dimensions": {
-        "height_cm": 100.5,
-        "width_cm": 81.3
-      },
-      "collection": "Metropolitan Museum of Art",
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_Rajah_Starting_on_a_Hunt_MET_ADA3826.jpg/960px-The_Rajah_Starting_on_a_Hunt_MET_ADA3826.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/74/The_Rajah_Starting_on_a_Hunt_MET_ADA3826.jpg",
+      "width": 1712,
+      "height": 2092,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_Rajah_Starting_on_a_Hunt_MET_ADA3826.jpg/960px-The_Rajah_Starting_on_a_Hunt_MET_ADA3826.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/7/74/The_Rajah_Starting_on_a_Hunt_MET_ADA3826.jpg",
-        "width": 1712,
-        "height": 2092,
+      "meta": {
+        "Collection": "Metropolitan Museum of Art",
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q19924464",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 100.5,
+          "width_cm": 81.3
+        },
         "license": {
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
@@ -1523,30 +1472,27 @@
           "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058428",
-      "qid": "Q20058428",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Feeding the Sacred Pigeons",
       "year": "1894",
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Weeks_Edwin_Feeding_The_Sacred_Pigeons_Jaipur.jpg/960px-Weeks_Edwin_Feeding_The_Sacred_Pigeons_Jaipur.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/94/Weeks_Edwin_Feeding_The_Sacred_Pigeons_Jaipur.jpg",
+      "width": 1000,
+      "height": 818,
+      "tags": [],
       "popularity": {
         "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 5
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Weeks_Edwin_Feeding_The_Sacred_Pigeons_Jaipur.jpg/960px-Weeks_Edwin_Feeding_The_Sacred_Pigeons_Jaipur.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/94/Weeks_Edwin_Feeding_The_Sacred_Pigeons_Jaipur.jpg",
-        "width": 1000,
-        "height": 818,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058428",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1554,33 +1500,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21346\">http://www.the-athenaeum.org/art/detail.php?ID=21346</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q111484628",
-      "qid": "Q111484628",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Indian Horsemen at the Gateway of Alah-ou-din, Old Delhi",
       "year": "1895",
-      "dimensions": {
-        "height_cm": 38,
-        "width_cm": 28
-      },
-      "collection": null,
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Alaiweeks.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Alaiweeks.jpg",
+      "width": 512,
+      "height": 705,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Alaiweeks.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Alaiweeks.jpg",
-        "width": 512,
-        "height": 705,
+      "meta": {
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q111484628",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 38,
+          "width_cm": 28
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1588,33 +1534,33 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.columbia.edu/itc/mealac/pritchett/00routesdata/1200_1299/qutbminar/alaidarvazah/alaidarvazah.html\">http://www.columbia.edu/itc/mealac/pritchett/00routesdata/1200_1299/qutbminar/alaidarvazah/alaidarvazah.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058458",
-      "qid": "Q20058458",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Royal Elephant at the Gateway to the Jami Masjid, Mathura",
       "year": "1895",
-      "dimensions": {
-        "height_cm": 34,
-        "width_cm": 53.5
-      },
-      "collection": null,
-      "series": "caravan",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Weeks_Edwin_Lord_Royal_Elephant.jpg/960px-Weeks_Edwin_Lord_Royal_Elephant.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Weeks_Edwin_Lord_Royal_Elephant.jpg",
+      "width": 2061,
+      "height": 3242,
+      "tags": [],
       "popularity": {
         "score": 27.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 14
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Weeks_Edwin_Lord_Royal_Elephant.jpg/960px-Weeks_Edwin_Lord_Royal_Elephant.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Weeks_Edwin_Lord_Royal_Elephant.jpg",
-        "width": 2061,
-        "height": 3242,
+      "meta": {
+        "Series": "caravan"
+      },
+      "extras": {
+        "qid": "Q20058458",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 34,
+          "width_cm": 53.5
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1622,30 +1568,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.artrenewal.org/Artwork/Index/5807\">Art Renewal Center</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058477",
-      "qid": "Q20058477",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Traveling in Persia",
       "year": "1895",
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Weeks_Edwin_Lord_Traveling_in_Persia.jpg/960px-Weeks_Edwin_Lord_Traveling_in_Persia.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/63/Weeks_Edwin_Lord_Traveling_in_Persia.jpg",
+      "width": 970,
+      "height": 1226,
+      "tags": [],
       "popularity": {
         "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 6
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Weeks_Edwin_Lord_Traveling_in_Persia.jpg/960px-Weeks_Edwin_Lord_Traveling_in_Persia.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/6/63/Weeks_Edwin_Lord_Traveling_in_Persia.jpg",
-        "width": 970,
-        "height": 1226,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058477",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1653,30 +1596,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=14115\">http://www.the-athenaeum.org/art/detail.php?ID=14115</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058406",
-      "qid": "Q20058406",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Standing Arab Woman",
       "year": "1903",
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/db/Weeks_Edwin_Lord_Standing_Arab_Woman.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/db/Weeks_Edwin_Lord_Standing_Arab_Woman.jpg",
+      "width": 607,
+      "height": 1000,
+      "tags": [],
       "popularity": {
         "score": 11,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 2
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/db/Weeks_Edwin_Lord_Standing_Arab_Woman.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/d/db/Weeks_Edwin_Lord_Standing_Arab_Woman.jpg",
-        "width": 607,
-        "height": 1000,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058406",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1684,30 +1624,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=74710\">http://www.the-athenaeum.org/art/detail.php?ID=74710</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058383",
-      "qid": "Q20058383",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "A Court in the Alhambra in the Time of the Moors",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors.jpg/960px-Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors.jpg",
+      "width": 3000,
+      "height": 1940,
+      "tags": [],
       "popularity": {
         "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 6
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors.jpg/960px-Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors.jpg",
-        "width": 3000,
-        "height": 1940,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058383",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1715,30 +1652,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html\">http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058390",
-      "qid": "Q20058390",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "A Persian Cafe",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Weeks_Edwin_Lord_A_Persian_Cafe.jpg/960px-Weeks_Edwin_Lord_A_Persian_Cafe.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Weeks_Edwin_Lord_A_Persian_Cafe.jpg",
+      "width": 1042,
+      "height": 723,
+      "tags": [],
       "popularity": {
         "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 6
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Weeks_Edwin_Lord_A_Persian_Cafe.jpg/960px-Weeks_Edwin_Lord_A_Persian_Cafe.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Weeks_Edwin_Lord_A_Persian_Cafe.jpg",
-        "width": 1042,
-        "height": 723,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058390",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1746,30 +1680,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html\">http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058401",
-      "qid": "Q20058401",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Agra Palace",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Weeks_Edwin_Indian_Prince_Palace_Of_Agra.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Weeks_Edwin_Indian_Prince_Palace_Of_Agra.jpg",
+      "width": 796,
+      "height": 1000,
+      "tags": [],
       "popularity": {
         "score": 11,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 2
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Weeks_Edwin_Indian_Prince_Palace_Of_Agra.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Weeks_Edwin_Indian_Prince_Palace_Of_Agra.jpg",
-        "width": 796,
-        "height": 1000,
+      "meta": {
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q20058401",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1777,30 +1710,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html\">http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058403",
-      "qid": "Q20058403",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Along the Nile",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Weeks_Edwin_Lord_Along_The_Nile.jpg/960px-Weeks_Edwin_Lord_Along_The_Nile.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Weeks_Edwin_Lord_Along_The_Nile.jpg",
+      "width": 1000,
+      "height": 594,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Weeks_Edwin_Lord_Along_The_Nile.jpg/960px-Weeks_Edwin_Lord_Along_The_Nile.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Weeks_Edwin_Lord_Along_The_Nile.jpg",
-        "width": 1000,
-        "height": 594,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058403",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1808,30 +1738,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html\">http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058408",
-      "qid": "Q20058408",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "An Indian Gharry",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Weeks_Edwin_Lord_An_Indian_Gharry.jpg/960px-Weeks_Edwin_Lord_An_Indian_Gharry.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/38/Weeks_Edwin_Lord_An_Indian_Gharry.jpg",
+      "width": 1000,
+      "height": 829,
+      "tags": [],
       "popularity": {
         "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 5
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Weeks_Edwin_Lord_An_Indian_Gharry.jpg/960px-Weeks_Edwin_Lord_An_Indian_Gharry.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/3/38/Weeks_Edwin_Lord_An_Indian_Gharry.jpg",
-        "width": 1000,
-        "height": 829,
+      "meta": {
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q20058408",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1839,30 +1768,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=74706\">http://www.the-athenaeum.org/art/detail.php?ID=74706</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058407",
-      "qid": "Q20058407",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "An Indian Hunting Party",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Weeks_Edwin_Lord_An_Indian_Hunting_Party.jpg/960px-Weeks_Edwin_Lord_An_Indian_Hunting_Party.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Weeks_Edwin_Lord_An_Indian_Hunting_Party.jpg",
+      "width": 1000,
+      "height": 817,
+      "tags": [],
       "popularity": {
         "score": 11,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 2
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Weeks_Edwin_Lord_An_Indian_Hunting_Party.jpg/960px-Weeks_Edwin_Lord_An_Indian_Hunting_Party.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Weeks_Edwin_Lord_An_Indian_Hunting_Party.jpg",
-        "width": 1000,
-        "height": 817,
+      "meta": {
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q20058407",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1870,33 +1798,34 @@
           "credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=74707\">http://www.the-athenaeum.org/art/detail.php?ID=74707</a>\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html\">http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q119832919",
-      "qid": "Q119832919",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "An Indian Messenger",
       "year": null,
-      "dimensions": {
-        "height_cm": 42,
-        "width_cm": 41.3
-      },
-      "collection": "Sheffield Galleries and Museums Trust",
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/99/Edwin_Lord_Weeks_%281849-1903%29_-_An_Indian_Messenger_-_VIS.599_-_Sheffield_Galleries_and_Museums_Trust.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/99/Edwin_Lord_Weeks_%281849-1903%29_-_An_Indian_Messenger_-_VIS.599_-_Sheffield_Galleries_and_Museums_Trust.jpg",
+      "width": 670,
+      "height": 685,
+      "tags": [],
       "popularity": {
         "score": 11,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 2
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/99/Edwin_Lord_Weeks_%281849-1903%29_-_An_Indian_Messenger_-_VIS.599_-_Sheffield_Galleries_and_Museums_Trust.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/99/Edwin_Lord_Weeks_%281849-1903%29_-_An_Indian_Messenger_-_VIS.599_-_Sheffield_Galleries_and_Museums_Trust.jpg",
-        "width": 670,
-        "height": 685,
+      "meta": {
+        "Collection": "Sheffield Galleries and Museums Trust",
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q119832919",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 42,
+          "width_cm": 41.3
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1904,30 +1833,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://artuk.org/discover/artworks/an-indian-messenger-71714\">Art UK</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q105378205",
-      "qid": "Q105378205",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Before the Hunt",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/df/BEFORE_THE_HUNT%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/df/BEFORE_THE_HUNT%29.jpg",
+      "width": 800,
+      "height": 956,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/df/BEFORE_THE_HUNT%29.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/d/df/BEFORE_THE_HUNT%29.jpg",
-        "width": 800,
-        "height": 956,
+      "meta": {},
+      "extras": {
+        "qid": "Q105378205",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1935,30 +1861,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sothebys.com/en/buy/auction/2020/19th-century-european-art-2/edwin-lord-weeks-before-the-hunt\">https://www.sothebys.com/en/buy/auction/2020/19th-century-european-art-2/edwin-lord-weeks-before-the-hunt</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058413",
-      "qid": "Q20058413",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Blacksmith Shop at Tangiers",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "market",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Weeks_Edwin_Lord_Blacksmith_Shop_at_Tangiers.jpg/960px-Weeks_Edwin_Lord_Blacksmith_Shop_at_Tangiers.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Weeks_Edwin_Lord_Blacksmith_Shop_at_Tangiers.jpg",
+      "width": 1042,
+      "height": 683,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Weeks_Edwin_Lord_Blacksmith_Shop_at_Tangiers.jpg/960px-Weeks_Edwin_Lord_Blacksmith_Shop_at_Tangiers.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Weeks_Edwin_Lord_Blacksmith_Shop_at_Tangiers.jpg",
-        "width": 1042,
-        "height": 683,
+      "meta": {
+        "Series": "market"
+      },
+      "extras": {
+        "qid": "Q20058413",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1966,30 +1891,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html\">http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058418",
-      "qid": "Q20058418",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Courtyard in Morocco",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "morocco",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/52/Weeks_Edwin_Lord_Courtyard_in_Morocco.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/52/Weeks_Edwin_Lord_Courtyard_in_Morocco.jpg",
+      "width": 700,
+      "height": 542,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/52/Weeks_Edwin_Lord_Courtyard_in_Morocco.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/5/52/Weeks_Edwin_Lord_Courtyard_in_Morocco.jpg",
-        "width": 700,
-        "height": 542,
+      "meta": {
+        "Series": "morocco"
+      },
+      "extras": {
+        "qid": "Q20058418",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1997,30 +1921,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=18334\">http://www.the-athenaeum.org/art/detail.php?ID=18334</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058431",
-      "qid": "Q20058431",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Ganges, Varanasi",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Weeks_Edwin_Lord_The_Last_Voyage.jpg/960px-Weeks_Edwin_Lord_The_Last_Voyage.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/48/Weeks_Edwin_Lord_The_Last_Voyage.jpg",
+      "width": 1088,
+      "height": 720,
+      "tags": [],
       "popularity": {
         "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 7
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Weeks_Edwin_Lord_The_Last_Voyage.jpg/960px-Weeks_Edwin_Lord_The_Last_Voyage.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/4/48/Weeks_Edwin_Lord_The_Last_Voyage.jpg",
-        "width": 1088,
-        "height": 720,
+      "meta": {
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q20058431",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2028,30 +1951,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html\">http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058435",
-      "qid": "Q20058435",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Indian Barbers, Saharanpore",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Weeks_Edwin_Lord_Indian_Barbers_Saharanpore.jpg/960px-Weeks_Edwin_Lord_Indian_Barbers_Saharanpore.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Weeks_Edwin_Lord_Indian_Barbers_Saharanpore.jpg",
+      "width": 1000,
+      "height": 738,
+      "tags": [],
       "popularity": {
         "score": 26.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 13
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Weeks_Edwin_Lord_Indian_Barbers_Saharanpore.jpg/960px-Weeks_Edwin_Lord_Indian_Barbers_Saharanpore.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Weeks_Edwin_Lord_Indian_Barbers_Saharanpore.jpg",
-        "width": 1000,
-        "height": 738,
+      "meta": {
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q20058435",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2059,30 +1981,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html\">http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058436",
-      "qid": "Q20058436",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Indian Prince and Parade Ceremony",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/30/Weeks_Edwin_Indian_Prince_And_Parade_Ceremony.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/30/Weeks_Edwin_Indian_Prince_And_Parade_Ceremony.jpg",
+      "width": 691,
+      "height": 1000,
+      "tags": [],
       "popularity": {
         "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 10
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/30/Weeks_Edwin_Indian_Prince_And_Parade_Ceremony.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/3/30/Weeks_Edwin_Indian_Prince_And_Parade_Ceremony.jpg",
-        "width": 691,
-        "height": 1000,
+      "meta": {
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q20058436",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2090,30 +2011,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21615\">http://www.the-athenaeum.org/art/detail.php?ID=21615</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058440",
-      "qid": "Q20058440",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Leaving for the Hunt",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Weeks_Edwin_Leaving_For_The_Hunt.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Weeks_Edwin_Leaving_For_The_Hunt.jpg",
+      "width": 713,
+      "height": 1000,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Weeks_Edwin_Leaving_For_The_Hunt.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Weeks_Edwin_Leaving_For_The_Hunt.jpg",
-        "width": 713,
-        "height": 1000,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058440",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2121,30 +2039,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21624\">http://www.the-athenaeum.org/art/detail.php?ID=21624</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058443",
-      "qid": "Q20058443",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Man Leading a Camel",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "caravan",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Weeks_Edwin_Lord_Man_Leading_a_Camel.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Weeks_Edwin_Lord_Man_Leading_a_Camel.jpg",
+      "width": 764,
+      "height": 1064,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Weeks_Edwin_Lord_Man_Leading_a_Camel.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Weeks_Edwin_Lord_Man_Leading_a_Camel.jpg",
-        "width": 764,
-        "height": 1064,
+      "meta": {
+        "Series": "caravan"
+      },
+      "extras": {
+        "qid": "Q20058443",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2152,30 +2069,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21608\">http://www.the-athenaeum.org/art/detail.php?ID=21608</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058447",
-      "qid": "Q20058447",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Mathura Ghats",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Weeks_Edwin_Along_The_Ghats_Mathura.jpg/960px-Weeks_Edwin_Along_The_Ghats_Mathura.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Weeks_Edwin_Along_The_Ghats_Mathura.jpg",
+      "width": 1000,
+      "height": 809,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Weeks_Edwin_Along_The_Ghats_Mathura.jpg/960px-Weeks_Edwin_Along_The_Ghats_Mathura.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Weeks_Edwin_Along_The_Ghats_Mathura.jpg",
-        "width": 1000,
-        "height": 809,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058447",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2183,30 +2097,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html\">http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058448",
-      "qid": "Q20058448",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Metalsmith's Shop",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "market",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/45/Weeks_Edwin_The_Metalsmiths_Shop.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/45/Weeks_Edwin_The_Metalsmiths_Shop.jpg",
+      "width": 723,
+      "height": 1000,
+      "tags": [],
       "popularity": {
         "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 8
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/45/Weeks_Edwin_The_Metalsmiths_Shop.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/4/45/Weeks_Edwin_The_Metalsmiths_Shop.jpg",
-        "width": 723,
-        "height": 1000,
+      "meta": {
+        "Series": "market"
+      },
+      "extras": {
+        "qid": "Q20058448",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2214,30 +2127,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html\">http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058449",
-      "qid": "Q20058449",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Moorish Girl Lying on a Couch",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Weeks_Edwin_Lord_Moorish_Girl_Lying_On_A_Couch.jpg/960px-Weeks_Edwin_Lord_Moorish_Girl_Lying_On_A_Couch.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Weeks_Edwin_Lord_Moorish_Girl_Lying_On_A_Couch.jpg",
+      "width": 1000,
+      "height": 657,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Weeks_Edwin_Lord_Moorish_Girl_Lying_On_A_Couch.jpg/960px-Weeks_Edwin_Lord_Moorish_Girl_Lying_On_A_Couch.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Weeks_Edwin_Lord_Moorish_Girl_Lying_On_A_Couch.jpg",
-        "width": 1000,
-        "height": 657,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058449",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2245,30 +2155,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=74709\">http://www.the-athenaeum.org/art/detail.php?ID=74709</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058450",
-      "qid": "Q20058450",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Moorish Guard",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Weeks_Edwin_Moorish_Guard.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Weeks_Edwin_Moorish_Guard.jpg",
+      "width": 515,
+      "height": 1000,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Weeks_Edwin_Moorish_Guard.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Weeks_Edwin_Moorish_Guard.jpg",
-        "width": 515,
-        "height": 1000,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058450",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2276,30 +2183,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21594\">http://www.the-athenaeum.org/art/detail.php?ID=21594</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058451",
-      "qid": "Q20058451",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Mughal Elephant",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Weeks_Edwin_Moguls_Elephant.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Weeks_Edwin_Moguls_Elephant.jpg",
+      "width": 699,
+      "height": 1000,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Weeks_Edwin_Moguls_Elephant.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Weeks_Edwin_Moguls_Elephant.jpg",
-        "width": 699,
-        "height": 1000,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058451",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2307,30 +2211,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html\">http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q105477275",
-      "qid": "Q105477275",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Native Gharry, or Cart",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Edwin_lord_weeks_native_gharry_or_cart_110019%29.jpg/960px-Edwin_lord_weeks_native_gharry_or_cart_110019%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Edwin_lord_weeks_native_gharry_or_cart_110019%29.jpg",
+      "width": 3200,
+      "height": 2148,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Edwin_lord_weeks_native_gharry_or_cart_110019%29.jpg/960px-Edwin_lord_weeks_native_gharry_or_cart_110019%29.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Edwin_lord_weeks_native_gharry_or_cart_110019%29.jpg",
-        "width": 3200,
-        "height": 2148,
+      "meta": {},
+      "extras": {
+        "qid": "Q105477275",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2338,30 +2239,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://onlineonly.christies.com/s/european-art/edwin-lord-weeks-american-1849-1903-59/87476\">https://onlineonly.christies.com/s/european-art/edwin-lord-weeks-american-1849-1903-59/87476</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q105447618",
-      "qid": "Q105447618",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Dance",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Edwin_Lord_Weeks_-_The_Dance%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Edwin_Lord_Weeks_-_The_Dance%29.jpg",
+      "width": 800,
+      "height": 575,
+      "tags": [],
       "popularity": {
         "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 1
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Edwin_Lord_Weeks_-_The_Dance%29.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Edwin_Lord_Weeks_-_The_Dance%29.jpg",
-        "width": 800,
-        "height": 575,
+      "meta": {},
+      "extras": {
+        "qid": "Q105447618",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2369,30 +2267,30 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sothebys.com/en/buy/auction/2020/european-british-art/the-dance\">https://www.sothebys.com/en/buy/auction/2020/european-british-art/the-dance</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058433",
-      "qid": "Q20058433",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Great Mogul and His Court Returning from the Great Mosque at Delhi",
       "year": null,
-      "dimensions": null,
-      "collection": "L. D. M. Sweat Memorial Galleries",
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Great_Mogul_And_His_Court_Returning_From_The_Great_Mosque_At_Delhi_India_-_Oil_Painting_by_American_Artist_Edwin_Lord_Weeks.jpg/960px-Great_Mogul_And_His_Court_Returning_From_The_Great_Mosque_At_Delhi_India_-_Oil_Painting_by_American_Artist_Edwin_Lord_Weeks.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/08/Great_Mogul_And_His_Court_Returning_From_The_Great_Mosque_At_Delhi_India_-_Oil_Painting_by_American_Artist_Edwin_Lord_Weeks.jpg",
+      "width": 1024,
+      "height": 630,
+      "tags": [],
       "popularity": {
         "score": 31.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 22
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Great_Mogul_And_His_Court_Returning_From_The_Great_Mosque_At_Delhi_India_-_Oil_Painting_by_American_Artist_Edwin_Lord_Weeks.jpg/960px-Great_Mogul_And_His_Court_Returning_From_The_Great_Mosque_At_Delhi_India_-_Oil_Painting_by_American_Artist_Edwin_Lord_Weeks.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/0/08/Great_Mogul_And_His_Court_Returning_From_The_Great_Mosque_At_Delhi_India_-_Oil_Painting_by_American_Artist_Edwin_Lord_Weeks.jpg",
-        "width": 1024,
-        "height": 630,
+      "meta": {
+        "Collection": "L. D. M. Sweat Memorial Galleries",
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q20058433",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2400,30 +2298,29 @@
           "credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.portlandmuseum.org/Content/4130.shtml\">http://www.portlandmuseum.org/Content/4130.shtml</a>; <a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/piedmont_fossil/6093348672/,;http://www.oldindianarts.in/2012/01/great-mogul-and-his-court-returning.html\">https://www.flickr.com/photos/piedmont_fossil/6093348672/,;http://www.oldindianarts.in/2012/01/great-mogul-and-his-court-returning.html</a>\n</p>\n<ul><li><bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//te.wikipedia.org\" href=\"https://te.wikipedia.org\">te.wikipedia</a></span> to Commons by <a href=\"//commons.wikimedia.org/wiki/User:Fatbuu\" title=\"User:Fatbuu\">Fatbuu</a> using <a href=\"https://iw.toolforge.org/commonshelper/\" class=\"extiw\" title=\"toollabs:commonshelper/\">CommonsHelper</a>.</bdi></li></ul>",
           "artist": "<div class=\"fn value\">\nEdwin Lord Weeks (American, 1849-1903)</div>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058474",
-      "qid": "Q20058474",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Moorish Bazaar",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "market",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/3c/The_Moorish.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/3c/The_Moorish.jpg",
+      "width": 300,
+      "height": 411,
+      "tags": [],
       "popularity": {
         "score": 29.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 18
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/3c/The_Moorish.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/3/3c/The_Moorish.jpg",
-        "width": 300,
-        "height": 411,
+      "meta": {
+        "Series": "market"
+      },
+      "extras": {
+        "qid": "Q20058474",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2431,30 +2328,29 @@
           "credit": "Edwin Lord Weeks",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058439",
-      "qid": "Q20058439",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Return Of The Imperial Court From The Great Mosque At Delhi",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "india",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Weeks_Edwin_The_Return_Of_The_Imperial_Court_From_The_Great_Mosque_At_Delhi.jpg/960px-Weeks_Edwin_The_Return_Of_The_Imperial_Court_From_The_Great_Mosque_At_Delhi.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Weeks_Edwin_The_Return_Of_The_Imperial_Court_From_The_Great_Mosque_At_Delhi.jpg",
+      "width": 1000,
+      "height": 647,
+      "tags": [],
       "popularity": {
         "score": 24.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 11
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Weeks_Edwin_The_Return_Of_The_Imperial_Court_From_The_Great_Mosque_At_Delhi.jpg/960px-Weeks_Edwin_The_Return_Of_The_Imperial_Court_From_The_Great_Mosque_At_Delhi.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Weeks_Edwin_The_Return_Of_The_Imperial_Court_From_The_Great_Mosque_At_Delhi.jpg",
-        "width": 1000,
-        "height": 647,
+      "meta": {
+        "Series": "india"
+      },
+      "extras": {
+        "qid": "Q20058439",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2462,30 +2358,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21616\">http://www.the-athenaeum.org/art/detail.php?ID=21616</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058475",
-      "qid": "Q20058475",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Rider",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/93/Weeks_Edwin_Lord_The_Rider.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/93/Weeks_Edwin_Lord_The_Rider.jpg",
+      "width": 540,
+      "height": 901,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/93/Weeks_Edwin_Lord_The_Rider.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/9/93/Weeks_Edwin_Lord_The_Rider.jpg",
-        "width": 540,
-        "height": 901,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058475",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2493,30 +2386,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=18332\">http://www.the-athenaeum.org/art/detail.php?ID=18332</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058476",
-      "qid": "Q20058476",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Silk Merchants",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Weeks_Edwin_The_Silk_Merchants.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Weeks_Edwin_The_Silk_Merchants.jpg",
+      "width": 689,
+      "height": 1000,
+      "tags": [],
       "popularity": {
         "score": 23,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 9
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Weeks_Edwin_The_Silk_Merchants.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Weeks_Edwin_The_Silk_Merchants.jpg",
-        "width": 689,
-        "height": 1000,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058476",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2524,30 +2414,27 @@
           "credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21613\">http://www.the-athenaeum.org/art/detail.php?ID=21613</a>\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html\">http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058460",
-      "qid": "Q20058460",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "The Snake Charmers Bombay",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Weeks_Edwin_The_Snake_Charmers_Bombay.jpg/960px-Weeks_Edwin_The_Snake_Charmers_Bombay.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Weeks_Edwin_The_Snake_Charmers_Bombay.jpg",
+      "width": 1000,
+      "height": 828,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Weeks_Edwin_The_Snake_Charmers_Bombay.jpg/960px-Weeks_Edwin_The_Snake_Charmers_Bombay.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Weeks_Edwin_The_Snake_Charmers_Bombay.jpg",
-        "width": 1000,
-        "height": 828,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058460",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2555,30 +2442,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21603\">http://www.the-athenaeum.org/art/detail.php?ID=21603</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058452",
-      "qid": "Q20058452",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Two Nautch Girls",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/88/Weeks_Edwin_Sketch_Two_Nautch_Girls.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/88/Weeks_Edwin_Sketch_Two_Nautch_Girls.jpg",
+      "width": 772,
+      "height": 1000,
+      "tags": [],
       "popularity": {
         "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 4
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/88/Weeks_Edwin_Sketch_Two_Nautch_Girls.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/8/88/Weeks_Edwin_Sketch_Two_Nautch_Girls.jpg",
-        "width": 772,
-        "height": 1000,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058452",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2586,30 +2470,29 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21602\">http://www.the-athenaeum.org/art/detail.php?ID=21602</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058478",
-      "qid": "Q20058478",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Village in Atlas Mountains, Morocco",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": "morocco",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Weeks_Edwin_Lord_Village_in_Atlas_Mountains_Morocco.jpg/960px-Weeks_Edwin_Lord_Village_in_Atlas_Mountains_Morocco.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/06/Weeks_Edwin_Lord_Village_in_Atlas_Mountains_Morocco.jpg",
+      "width": 1001,
+      "height": 573,
+      "tags": [],
       "popularity": {
         "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 7
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Weeks_Edwin_Lord_Village_in_Atlas_Mountains_Morocco.jpg/960px-Weeks_Edwin_Lord_Village_in_Atlas_Mountains_Morocco.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/0/06/Weeks_Edwin_Lord_Village_in_Atlas_Mountains_Morocco.jpg",
-        "width": 1001,
-        "height": 573,
+      "meta": {
+        "Series": "morocco"
+      },
+      "extras": {
+        "qid": "Q20058478",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2617,30 +2500,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=18333\">http://www.the-athenaeum.org/art/detail.php?ID=18333</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058480",
-      "qid": "Q20058480",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Water Carriers of the Ganges",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Weeks_Edwin_Water_Carriers_Of_The_Ganges.jpg/960px-Weeks_Edwin_Water_Carriers_Of_The_Ganges.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/11/Weeks_Edwin_Water_Carriers_Of_The_Ganges.jpg",
+      "width": 1000,
+      "height": 652,
+      "tags": [],
       "popularity": {
         "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 7
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Weeks_Edwin_Water_Carriers_Of_The_Ganges.jpg/960px-Weeks_Edwin_Water_Carriers_Of_The_Ganges.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/1/11/Weeks_Edwin_Water_Carriers_Of_The_Ganges.jpg",
-        "width": 1000,
-        "height": 652,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058480",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2648,30 +2528,27 @@
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html\">http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     },
     {
       "id": "wd-Q20058481",
-      "qid": "Q20058481",
-      "catalog_number": null,
-      "source": "wikidata",
       "title": "Wedding Procession, Jodhpur",
       "year": null,
-      "dimensions": null,
-      "collection": null,
-      "series": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Weeks_Edwin_Wedding_Procession_Jodhpur.jpg/960px-Weeks_Edwin_Wedding_Procession_Jodhpur.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Weeks_Edwin_Wedding_Procession_Jodhpur.jpg",
+      "width": 1000,
+      "height": 669,
+      "tags": [],
       "popularity": {
         "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
         "globalusage": 3
       },
-      "image": {
-        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Weeks_Edwin_Wedding_Procession_Jodhpur.jpg/960px-Weeks_Edwin_Wedding_Procession_Jodhpur.jpg",
-        "full": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Weeks_Edwin_Wedding_Procession_Jodhpur.jpg",
-        "width": 1000,
-        "height": 669,
+      "meta": {},
+      "extras": {
+        "qid": "Q20058481",
+        "source": "wikidata",
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -2679,8 +2556,22 @@
           "credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html\">http://www.filestube.com/6Gveb6baIsdLxqLvPb4QJo/105-Old-India-in-Paintings-Wallpapers-Collection-zip.html</a>\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=21626\">http://www.the-athenaeum.org/art/detail.php?ID=21626</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
-      },
-      "iiif": null
+      }
     }
-  ]
+  ],
+  "source": {
+    "generator": "pipelines-paintings",
+    "generated": "2026-05-25T23:34:27.019Z",
+    "artist": {
+      "qid": "Q3735411",
+      "name": "Edwin Lord Weeks",
+      "slug": "weeks"
+    },
+    "work": {
+      "qid": "Q3305213",
+      "label": "paintings",
+      "manifestKey": "paintings"
+    },
+    "count": 84
+  }
 }

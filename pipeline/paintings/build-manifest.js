@@ -185,12 +185,47 @@ if (collisions.length) {
   for (const c of collisions) console.warn(`  ${c.catalog_number} → ${c.qid}`);
 }
 
+function toV1Item(p) {
+  const meta = {};
+  if (p.collection) meta.Collection = p.collection;
+  if (p.series) meta.Series = p.series;
+
+  const extras = {};
+  if (p.qid) extras.qid = p.qid;
+  if (p.catalog_number) extras.catalog_number = p.catalog_number;
+  if (p.wildenstein) extras.wildenstein = p.wildenstein;
+  if (p.source) extras.source = p.source;
+  if (p.dimensions) extras.dimensions = p.dimensions;
+  if (p.iiif) extras.iiif = p.iiif;
+  if (p.image?.license) extras.license = p.image.license;
+  if (p.aliases) extras.aliases = p.aliases;
+
+  return {
+    id: p.id,
+    title: p.title,
+    year: p.year,
+    thumb: p.image.thumb,
+    full: p.image.full,
+    width: p.image.width,
+    height: p.image.height,
+    tags: [],
+    popularity: p.popularity,
+    meta,
+    extras,
+  };
+}
+
 const manifest = {
-  generated: new Date().toISOString(),
-  artist: config.artist,
-  work: config.work,
-  count: dedupedPaintings.length,
-  [config.work.manifestKey]: dedupedPaintings,
+  version: 1,
+  name: config.artist.name,
+  items: dedupedPaintings.map(toV1Item),
+  source: {
+    generator: "pipelines-paintings",
+    generated: new Date().toISOString(),
+    artist: config.artist,
+    work: config.work,
+    count: dedupedPaintings.length,
+  },
 };
 
 mkdirSync(OUT_DIR, { recursive: true });
