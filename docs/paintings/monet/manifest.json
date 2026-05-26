@@ -1884,43 +1884,6 @@
       }
     },
     {
-      "id": "w-80",
-      "title": "Road toward the Farm Saint-Siméon, Honfleur",
-      "year": "1866",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg/960px-Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/3/33/Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg",
-      "width": 2400,
-      "height": 1655,
-      "tags": [],
-      "popularity": {
-        "score": 27.1,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 14
-      },
-      "meta": {
-        "Collection": "Fogg Museum"
-      },
-      "extras": {
-        "qid": "Q70781190",
-        "catalog_number": "80",
-        "wildenstein": "80",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 56,
-          "width_cm": 81
-        },
-        "iiif": "https://iiif.harvardartmuseums.org/manifests/object/299844",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.harvardartmuseums.org/collections/object/299844?position=4\">https://www.harvardartmuseums.org/collections/object/299844?position=4</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "w-86",
       "title": "Seascape, Storm",
       "year": "1866",
@@ -2305,6 +2268,43 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.metmuseum.org/Collections/search-the-collections/437136?rpp=20&amp;pg=1&amp;ao=on&amp;ft=monet&amp;pos=4\">The Metropolitan Museum of Art</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "w-80",
+      "title": "Road toward the Farm Saint-Siméon, Honfleur",
+      "year": "1867",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg/960px-Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/33/Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg",
+      "width": 2400,
+      "height": 1655,
+      "tags": [],
+      "popularity": {
+        "score": 27.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 14
+      },
+      "meta": {
+        "Collection": "Harvard Art Museums"
+      },
+      "extras": {
+        "qid": "Q70781190",
+        "catalog_number": "80",
+        "wildenstein": "80",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 56,
+          "width_cm": 79.5
+        },
+        "iiif": "https://iiif.harvardartmuseums.org/manifests/object/299844",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.harvardartmuseums.org/collections/object/299844?position=4\">https://www.harvardartmuseums.org/collections/object/299844?position=4</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -4061,7 +4061,7 @@
         "globalusage": 19
       },
       "meta": {
-        "Collection": "Musée des Beaux-Arts d'Angers"
+        "Collection": "Musées Nationaux Récupération"
       },
       "extras": {
         "qid": "Q17495907",
@@ -7668,7 +7668,7 @@
       }
     },
     {
-      "id": "w-294",
+      "id": "wd-Q90913879",
       "title": "Le Bassin du Commerce, Le Havre",
       "year": "1874",
       "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/HavreMonet.jpg/960px-HavreMonet.jpg",
@@ -8262,7 +8262,7 @@
         "globalusage": 9
       },
       "meta": {
-        "Collection": "Q117802356"
+        "Collection": "National Gallery of Art"
       },
       "extras": {
         "qid": "Q20188770",
@@ -11005,7 +11005,7 @@
         "globalusage": 11
       },
       "meta": {
-        "Collection": "Fogg Museum"
+        "Collection": "Harvard Art Museums"
       },
       "extras": {
         "qid": "Q49985258",
@@ -15083,7 +15083,7 @@
         "globalusage": 9
       },
       "meta": {
-        "Collection": "Impressionism: The Hasso Plattner Collection"
+        "Collection": "Paul G. Allen Collection"
       },
       "extras": {
         "qid": "Q108479167",
@@ -15225,7 +15225,7 @@
         "globalusage": 8
       },
       "meta": {
-        "Collection": "Impressionism: The Hasso Plattner Collection"
+        "Collection": "Museum Barberini"
       },
       "extras": {
         "qid": "Q108479168",
@@ -17621,7 +17621,7 @@
       }
     },
     {
-      "id": "wd-Q117712263",
+      "id": "w-294",
       "title": "The Church of Varengeville, Sunset",
       "year": "1882",
       "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Claude_Monet_-_L%27%C3%89glise_de_Varengeville%2C_soleil_couchant_%281882%29.jpg/960px-Claude_Monet_-_L%27%C3%89glise_de_Varengeville%2C_soleil_couchant_%281882%29.jpg",
@@ -19997,8 +19997,8 @@
         "wildenstein": "857a",
         "source": "wikidata",
         "dimensions": {
-          "height_cm": 60,
-          "width_cm": 73
+          "height_cm": 61,
+          "width_cm": 74
         },
         "license": {
           "short_name": "Public domain",
@@ -22131,7 +22131,7 @@
         "globalusage": 5
       },
       "meta": {
-        "Collection": "National Museum of Art, Architecture and Design"
+        "Collection": "National Gallery of Norway"
       },
       "extras": {
         "qid": "Q22205297",
@@ -23018,7 +23018,7 @@
         "score": 397.5,
         "pageviews_365d": 270346,
         "sitelinks": 23,
-        "globalusage": 201
+        "globalusage": 200
       },
       "meta": {
         "Collection": "National Gallery of Art"
@@ -39731,7 +39731,7 @@
       }
     },
     {
-      "id": "w-1965",
+      "id": "w-1964",
       "title": "Le Bassin aux nymphéas, le soir",
       "year": "1918",
       "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Claude_Monet_-_Le_Bassin_aux_nymph%C3%A9as%2C_le_soir_-_1952-0064_-_Kunsthaus_Z%C3%BCrich.jpg/960px-Claude_Monet_-_Le_Bassin_aux_nymph%C3%A9as%2C_le_soir_-_1952-0064_-_Kunsthaus_Z%C3%BCrich.jpg",
@@ -39751,8 +39751,8 @@
       },
       "extras": {
         "qid": "Q124250959",
-        "catalog_number": "1965",
-        "wildenstein": "1965",
+        "catalog_number": "1964",
+        "wildenstein": "1964",
         "source": "wikidata",
         "dimensions": {
           "height_cm": 200,
@@ -40539,7 +40539,7 @@
         "Collection": "Musée Marmottan Monet"
       },
       "extras": {
-        "qid": "Q63952039",
+        "qid": "Q105099615",
         "catalog_number": "1903",
         "wildenstein": "1903",
         "source": "wikidata",
@@ -40556,8 +40556,8 @@
         },
         "aliases": [
           {
-            "id": "wd-Q105099615",
-            "qid": "Q105099615",
+            "id": "wd-Q63952039",
+            "qid": "Q63952039",
             "catalog_number": "1903",
             "wildenstein": "1903",
             "source": "wikidata",
@@ -68228,7 +68228,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-05-25T23:22:17.137Z",
+    "generated": "2026-05-26T01:11:25.656Z",
     "artist": {
       "qid": "Q296",
       "name": "Claude Monet",

@@ -3334,10 +3334,10 @@
       "height": 3086,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 5
       },
       "meta": {
         "Collection": "Museo Soumaya"
@@ -7817,7 +7817,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-05-25T23:33:33.021Z",
+    "generated": "2026-05-26T01:24:20.984Z",
     "artist": {
       "qid": "Q82445",
       "name": "Henri de Toulouse-Lautrec",

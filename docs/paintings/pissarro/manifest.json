@@ -19625,10 +19625,10 @@
       "height": 9494,
       "tags": [],
       "popularity": {
-        "score": 174.3,
+        "score": 174.6,
         "pageviews_365d": 190,
         "sitelinks": 1,
-        "globalusage": 36
+        "globalusage": 37
       },
       "meta": {
         "Collection": "Dallas Museum of Art"
@@ -22136,10 +22136,10 @@
       "height": 3028,
       "tags": [],
       "popularity": {
-        "score": 252.6,
+        "score": 254.8,
         "pageviews_365d": 3436,
-        "sitelinks": 4,
-        "globalusage": 26
+        "sitelinks": 5,
+        "globalusage": 27
       },
       "meta": {
         "Collection": "Metropolitan Museum of Art"
@@ -23555,10 +23555,10 @@
       "height": 2189,
       "tags": [],
       "popularity": {
-        "score": 34,
+        "score": 33.3,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 14
+        "globalusage": 13
       },
       "meta": {
         "Collection": "Museo Soumaya"
@@ -25857,7 +25857,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-05-25T23:27:37.765Z",
+    "generated": "2026-05-26T01:17:34.622Z",
     "artist": {
       "qid": "Q134741",
       "name": "Camille Pissarro",
