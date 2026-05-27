@@ -1,0 +1,38 @@
+{
+  "artist": {
+    "qid": "Q380706",
+    "name": "Vilhelm Hammershøi",
+    "slug": "hammershoi"
+  },
+  "work": {
+    "qid": "Q3305213",
+    "label": "paintings",
+    "manifestKey": "paintings"
+  },
+  "seriesRules": [
+    {
+      "name": "interior",
+      "pattern": "\\b(interior|room|stue|strandgade|easel|piano|reading|door|window)\\b"
+    },
+    {
+      "name": "copenhagen",
+      "pattern": "\\b(copenhagen|københavn|christiansborg|amalienborg|strandgade|palace church)\\b"
+    },
+    {
+      "name": "ida",
+      "pattern": "\\b(ida|ilsted|wife)\\b"
+    },
+    {
+      "name": "portrait",
+      "pattern": "\\b(portrait|self-portrait|artist's mother|mother)\\b"
+    },
+    {
+      "name": "landscape",
+      "pattern": "\\b(landscape|lejre|trees|forest|garden|country)\\b"
+    },
+    {
+      "name": "sunlight",
+      "pattern": "\\b(sun|sunlight|sunbeams|dust motes|light)\\b"
+    }
+  ]
+}
