@@ -747,7 +747,7 @@
         "score": 473.8,
         "pageviews_365d": 2398650,
         "sitelinks": 70,
-        "globalusage": 594
+        "globalusage": 593
       },
       "meta": {
         "Collection": "Mauritshuis",
@@ -1292,7 +1292,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-05-27T01:37:43.228Z",
+    "generated": "2026-05-27T07:20:56.075Z",
     "artist": {
       "qid": "Q41264",
       "name": "Johannes Vermeer",

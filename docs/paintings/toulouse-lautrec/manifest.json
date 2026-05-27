@@ -631,10 +631,10 @@
       "height": 4161,
       "tags": [],
       "popularity": {
-        "score": 30.9,
+        "score": 31.8,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 10
+        "globalusage": 11
       },
       "meta": {
         "Collection": "São Paulo Museum of Art"
@@ -5693,10 +5693,10 @@
       "height": 6027,
       "tags": [],
       "popularity": {
-        "score": 305.7,
+        "score": 305.6,
         "pageviews_365d": 14098,
         "sitelinks": 8,
-        "globalusage": 88
+        "globalusage": 87
       },
       "meta": {
         "Collection": "Musée Toulouse-Lautrec",
@@ -7362,10 +7362,10 @@
       "height": 2368,
       "tags": [],
       "popularity": {
-        "score": 26.4,
+        "score": 27.7,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Collection": "São Paulo Museum of Art"
@@ -7396,10 +7396,10 @@
       "height": 3547,
       "tags": [],
       "popularity": {
-        "score": 202.7,
+        "score": 203.4,
         "pageviews_365d": 745,
         "sitelinks": 2,
-        "globalusage": 13
+        "globalusage": 14
       },
       "meta": {
         "Collection": "São Paulo Museum of Art"
@@ -7817,7 +7817,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-05-26T02:28:10.682Z",
+    "generated": "2026-05-27T07:15:58.640Z",
     "artist": {
       "qid": "Q82445",
       "name": "Henri de Toulouse-Lautrec",

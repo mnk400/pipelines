@@ -227,7 +227,7 @@
         "globalusage": 17
       },
       "meta": {
-        "Collection": "Munich Central Collecting Point"
+        "Collection": "Musées Nationaux Récupération"
       },
       "extras": {
         "qid": "Q17494428",
@@ -1335,53 +1335,6 @@
       }
     },
     {
-      "id": "w-63.2",
-      "title": "Le Déjeuner sur l'herbe",
-      "year": "1865",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Claude_Monet_-_Le_dejeurner_sur_l%27herbe_%28left_panel%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Claude_Monet_-_Le_dejeurner_sur_l%27herbe_%28left_panel%29.jpg",
-      "width": 538,
-      "height": 1020,
-      "tags": [],
-      "popularity": {
-        "score": 353.8,
-        "pageviews_365d": 107442,
-        "sitelinks": 17,
-        "globalusage": 33
-      },
-      "meta": {
-        "Collection": "Musée d'Orsay"
-      },
-      "extras": {
-        "qid": "Q1167912",
-        "catalog_number": "63.2",
-        "wildenstein": "63.2",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 418,
-          "width_cm": 150
-        },
-        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!25651/manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.musee-orsay.fr/\">http://www.musee-orsay.fr/</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        },
-        "aliases": [
-          {
-            "id": "w-63 a",
-            "qid": "Q17492904",
-            "catalog_number": "63 a",
-            "wildenstein": "63 a",
-            "source": "wikidata",
-            "title": "Le Déjeuner sur l'herbe"
-          }
-        ]
-      }
-    },
-    {
       "id": "w-56",
       "title": "Le Pavé de Chailly",
       "year": "1865",
@@ -1812,6 +1765,53 @@
       }
     },
     {
+      "id": "w-63.2",
+      "title": "Le Déjeuner sur l'herbe",
+      "year": "1866",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Claude_Monet_-_Le_dejeurner_sur_l%27herbe_%28left_panel%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Claude_Monet_-_Le_dejeurner_sur_l%27herbe_%28left_panel%29.jpg",
+      "width": 538,
+      "height": 1020,
+      "tags": [],
+      "popularity": {
+        "score": 353.8,
+        "pageviews_365d": 107442,
+        "sitelinks": 17,
+        "globalusage": 33
+      },
+      "meta": {
+        "Collection": "Musée d'Orsay"
+      },
+      "extras": {
+        "qid": "Q1167912",
+        "catalog_number": "63.2",
+        "wildenstein": "63.2",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 418,
+          "width_cm": 217
+        },
+        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!25651/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.musee-orsay.fr/\">http://www.musee-orsay.fr/</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        },
+        "aliases": [
+          {
+            "id": "w-63 a",
+            "qid": "Q17492904",
+            "catalog_number": "63 a",
+            "wildenstein": "63 a",
+            "source": "wikidata",
+            "title": "Le Déjeuner sur l'herbe"
+          }
+        ]
+      }
+    },
+    {
       "id": "w-62",
       "title": "Luncheon on the Grass (study for № 63)",
       "year": "1866",
@@ -1879,43 +1879,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/jacquemartandre/status/930485753200726023\">twitter musée Jacquemard-André</a> <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://pbs.twimg.com/media/DOm_guXWkAAFpkO.jpg:large\">[1]</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "w-80",
-      "title": "Road toward the Farm Saint-Siméon, Honfleur",
-      "year": "1866",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg/960px-Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/3/33/Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg",
-      "width": 2400,
-      "height": 1655,
-      "tags": [],
-      "popularity": {
-        "score": 27.1,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 14
-      },
-      "meta": {
-        "Collection": "Fogg Museum"
-      },
-      "extras": {
-        "qid": "Q70781190",
-        "catalog_number": "80",
-        "wildenstein": "80",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 56,
-          "width_cm": 81
-        },
-        "iiif": "https://iiif.harvardartmuseums.org/manifests/object/299844",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.harvardartmuseums.org/collections/object/299844?position=4\">https://www.harvardartmuseums.org/collections/object/299844?position=4</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -2310,6 +2273,43 @@
       }
     },
     {
+      "id": "w-80",
+      "title": "Road toward the Farm Saint-Siméon, Honfleur",
+      "year": "1867",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg/960px-Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/33/Monet_-_Road_toward_the_Farm_Saint-Sim%C3%A9on%2C_Honfleur%2C_1867.jpg",
+      "width": 2400,
+      "height": 1655,
+      "tags": [],
+      "popularity": {
+        "score": 27.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 14
+      },
+      "meta": {
+        "Collection": "Harvard Art Museums"
+      },
+      "extras": {
+        "qid": "Q70781190",
+        "catalog_number": "80",
+        "wildenstein": "80",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 54.5,
+          "width_cm": 81
+        },
+        "iiif": "https://iiif.harvardartmuseums.org/manifests/object/299844",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.harvardartmuseums.org/collections/object/299844?position=4\">https://www.harvardartmuseums.org/collections/object/299844?position=4</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "w-93",
       "title": "Sainte-Adresse",
       "year": "1867",
@@ -2356,10 +2356,10 @@
       "height": 2961,
       "tags": [],
       "popularity": {
-        "score": 221.7,
+        "score": 220.2,
         "pageviews_365d": 1872,
         "sitelinks": 3,
-        "globalusage": 6
+        "globalusage": 5
       },
       "meta": {
         "Collection": "Alte Nationalgalerie"
@@ -4061,7 +4061,7 @@
         "globalusage": 19
       },
       "meta": {
-        "Collection": "Musées Nationaux Récupération"
+        "Collection": "Musée des Beaux-Arts d'Angers"
       },
       "extras": {
         "qid": "Q17495907",
@@ -7668,7 +7668,7 @@
       }
     },
     {
-      "id": "w-294",
+      "id": "wd-Q90913879",
       "title": "Le Bassin du Commerce, Le Havre",
       "year": "1874",
       "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/HavreMonet.jpg/960px-HavreMonet.jpg",
@@ -8186,10 +8186,10 @@
       "height": 2736,
       "tags": [],
       "popularity": {
-        "score": 226.6,
+        "score": 225.7,
         "pageviews_365d": 1903,
         "sitelinks": 3,
-        "globalusage": 10
+        "globalusage": 9
       },
       "meta": {
         "Collection": "Alte Nationalgalerie"
@@ -14543,10 +14543,10 @@
       "height": 1881,
       "tags": [],
       "popularity": {
-        "score": 242.6,
+        "score": 242,
         "pageviews_365d": 3027,
         "sitelinks": 3,
-        "globalusage": 16
+        "globalusage": 15
       },
       "meta": {
         "Collection": "Alte Nationalgalerie"
@@ -15189,7 +15189,7 @@
         "globalusage": 8
       },
       "meta": {
-        "Collection": "Impressionism: The Hasso Plattner Collection"
+        "Collection": "Museum Barberini"
       },
       "extras": {
         "qid": "Q108479166",
@@ -15225,7 +15225,7 @@
         "globalusage": 8
       },
       "meta": {
-        "Collection": "Museum Barberini"
+        "Collection": "Impressionism: The Hasso Plattner Collection"
       },
       "extras": {
         "qid": "Q108479168",
@@ -17621,7 +17621,7 @@
       }
     },
     {
-      "id": "wd-Q117712263",
+      "id": "w-294",
       "title": "The Church of Varengeville, Sunset",
       "year": "1882",
       "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Claude_Monet_-_L%27%C3%89glise_de_Varengeville%2C_soleil_couchant_%281882%29.jpg/960px-Claude_Monet_-_L%27%C3%89glise_de_Varengeville%2C_soleil_couchant_%281882%29.jpg",
@@ -23015,10 +23015,10 @@
       "height": 7455,
       "tags": [],
       "popularity": {
-        "score": 397.5,
+        "score": 397.6,
         "pageviews_365d": 270346,
         "sitelinks": 23,
-        "globalusage": 200
+        "globalusage": 202
       },
       "meta": {
         "Collection": "National Gallery of Art"
@@ -27658,10 +27658,10 @@
       "height": 2395,
       "tags": [],
       "popularity": {
-        "score": 55.8,
+        "score": 55.7,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 131
+        "globalusage": 130
       },
       "meta": {
         "Collection": "National Gallery of Art",
@@ -32805,7 +32805,7 @@
         "globalusage": 14
       },
       "meta": {
-        "Collection": "collection Jean Planque"
+        "Collection": "Fondation Jean et Suzanne Planque"
       },
       "extras": {
         "qid": "Q60389924",
@@ -40539,7 +40539,7 @@
         "Collection": "Musée Marmottan Monet"
       },
       "extras": {
-        "qid": "Q63952039",
+        "qid": "Q105099615",
         "catalog_number": "1903",
         "wildenstein": "1903",
         "source": "wikidata",
@@ -40556,8 +40556,8 @@
         },
         "aliases": [
           {
-            "id": "wd-Q105099615",
-            "qid": "Q105099615",
+            "id": "wd-Q63952039",
+            "qid": "Q63952039",
             "catalog_number": "1903",
             "wildenstein": "1903",
             "source": "wikidata",
@@ -40861,10 +40861,10 @@
       "height": 3493,
       "tags": [],
       "popularity": {
-        "score": 30.4,
+        "score": 30.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 20
+        "globalusage": 21
       },
       "meta": {
         "Collection": "São Paulo Museum of Art"
@@ -68228,7 +68228,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-05-26T02:13:00.188Z",
+    "generated": "2026-05-27T06:56:32.749Z",
     "artist": {
       "qid": "Q296",
       "name": "Claude Monet",
