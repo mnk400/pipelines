@@ -1,0 +1,38 @@
+{
+  "artist": {
+    "qid": "Q41264",
+    "name": "Johannes Vermeer",
+    "slug": "vermeer"
+  },
+  "work": {
+    "qid": "Q3305213",
+    "label": "paintings",
+    "manifestKey": "paintings"
+  },
+  "seriesRules": [
+    {
+      "name": "interior",
+      "pattern": "\\b(interior|room|window|maid|servant|lady|woman|girl|mistress)\\b"
+    },
+    {
+      "name": "music",
+      "pattern": "\\b(music|concert|guitar|virginal|lute|piano|lesson)\\b"
+    },
+    {
+      "name": "letter",
+      "pattern": "\\b(letter|writing|write|reading)\\b"
+    },
+    {
+      "name": "delft",
+      "pattern": "\\b(delft|view of delft|little street)\\b"
+    },
+    {
+      "name": "portrait",
+      "pattern": "\\b(portrait|girl with|woman with|head of)\\b"
+    },
+    {
+      "name": "religious",
+      "pattern": "\\b(christ|mary|martha|diana|faith|saint|religion)\\b"
+    }
+  ]
+}
