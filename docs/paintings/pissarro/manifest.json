@@ -3,64 +3,6 @@
   "name": "Camille Pissarro",
   "items": [
     {
-      "id": "wd-Q21281161",
-      "title": "Market scene at the Plaza Mayor, Caracas",
-      "year": "1850",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/65/Plaza_Mayor%2C_Caracas_-_Camille_Pissarro.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/6/65/Plaza_Mayor%2C_Caracas_-_Camille_Pissarro.jpg",
-      "width": 900,
-      "height": 1110,
-      "tags": [],
-      "popularity": {
-        "score": 168.2,
-        "pageviews_365d": 183,
-        "sitelinks": 1,
-        "globalusage": 21
-      },
-      "meta": {
-        "Collection": "La Casona"
-      },
-      "extras": {
-        "qid": "Q21281161",
-        "source": "wikidata",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "“Enciclopedia Salvat de Venezuela”, 1986",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q117834363",
-      "title": "Seaside View",
-      "year": "1850",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/17/Pissarro_-_Pissarro_and_Durand-Ruel_Snollaerts%2C_11.png",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/1/17/Pissarro_-_Pissarro_and_Durand-Ruel_Snollaerts%2C_11.png",
-      "width": 600,
-      "height": 330,
-      "tags": [],
-      "popularity": {
-        "score": 16.1,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 4
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q117834363",
-        "source": "wikidata",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://view.publitas.com/wildenstein-plattner-institute-ol46yv9z6qv6/c-r_camille_pissarro_volume_ii_wildenstein_institute/page/58-59\">https://view.publitas.com/wildenstein-plattner-institute-ol46yv9z6qv6/c-r_camille_pissarro_volume_ii_wildenstein_institute/page/58-59</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q70130092",
       "title": "Three Riders Galopping across a Plain in Venezuela",
       "year": "1850",
@@ -88,70 +30,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.sothebys.com/en/auctions/ecatalogue/2011/impressionist-modern-art-day-sale-n08851/lot.141.html\">www.sothebys.com</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q21240779",
-      "title": "Village at the Foot of a Hill",
-      "year": "1850",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Camille_Pissarro_-_Village_au_pied_d%27une.jpg/960px-Camille_Pissarro_-_Village_au_pied_d%27une.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/3/38/Camille_Pissarro_-_Village_au_pied_d%27une.jpg",
-      "width": 3200,
-      "height": 2454,
-      "tags": [],
-      "popularity": {
-        "score": 174.4,
-        "pageviews_365d": 227,
-        "sitelinks": 1,
-        "globalusage": 23
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q21240779",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 24.1,
-          "width_cm": 20.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a href=\"https://en.wikipedia.org/wiki/Christie%27s\" class=\"extiw\" title=\"en:Christie's\">Christie's</a>, LotFinder:  entry  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.christies.com/LotFinder/lot_details.aspx?intObjectID=5554032\">5554032</a> (sale 2556, lot 314, New York, 2 May 2012)",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q62054746",
-      "title": "Village Scene",
-      "year": "1850",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Camille_Pissarro_-_Sc%C3%A8ne_villageoise_%281854-55%29.jpg/960px-Camille_Pissarro_-_Sc%C3%A8ne_villageoise_%281854-55%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Camille_Pissarro_-_Sc%C3%A8ne_villageoise_%281854-55%29.jpg",
-      "width": 3000,
-      "height": 2403,
-      "tags": [],
-      "popularity": {
-        "score": 173.1,
-        "pageviews_365d": 223,
-        "sitelinks": 1,
-        "globalusage": 21
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q62054746",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 23.5,
-          "width_cm": 30.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.kollerauktionen.ch/de/asp/fullCatalogue.asp?salelot=Z37+++++3207+&amp;refno=++503236&amp;saletype=\">Koller Auktionen, Zürich, 25 December 2014, Auktion Z37, Los 3207</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -186,40 +64,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://prolog.museum-barberini.de/de/20593/mit-offenem-blick\">https://prolog.museum-barberini.de/de/20593/mit-offenem-blick</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q57585934",
-      "title": "Portrait of a boy",
-      "year": "1853",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Camille_Pissarro%2C_Portr%C3%A6t_af_en_dreng%2C_1852-1855.jpg/960px-Camille_Pissarro%2C_Portr%C3%A6t_af_en_dreng%2C_1852-1855.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Camille_Pissarro%2C_Portr%C3%A6t_af_en_dreng%2C_1852-1855.jpg",
-      "width": 5267,
-      "height": 6449,
-      "tags": [],
-      "popularity": {
-        "score": 228.5,
-        "pageviews_365d": 1980,
-        "sitelinks": 3,
-        "globalusage": 11
-      },
-      "meta": {
-        "Collection": "Ordrupgaard"
-      },
-      "extras": {
-        "qid": "Q57585934",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 37,
-          "width_cm": 30
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.mynewsdesk.com/dk/bruun-rasmussen-kunstauktioner/images/camille-pissarro-portraet-af-en-dreng-1305614\">http://www.mynewsdesk.com/dk/bruun-rasmussen-kunstauktioner/images/camille-pissarro-portraet-af-en-dreng-1305614</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -495,8 +339,8 @@
       "height": 2090,
       "tags": [],
       "popularity": {
-        "score": 169.6,
-        "pageviews_365d": 220,
+        "score": 169.7,
+        "pageviews_365d": 221,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -663,8 +507,8 @@
       "height": 195,
       "tags": [],
       "popularity": {
-        "score": 176.6,
-        "pageviews_365d": 226,
+        "score": 176.7,
+        "pageviews_365d": 227,
         "sitelinks": 1,
         "globalusage": 29
       },
@@ -728,7 +572,7 @@
       "tags": [],
       "popularity": {
         "score": 258.7,
-        "pageviews_365d": 3055,
+        "pageviews_365d": 3059,
         "sitelinks": 3,
         "globalusage": 82
       },
@@ -825,7 +669,7 @@
     {
       "id": "wd-Q21484438",
       "title": "Donkey in Front of a Farm, Montmorency",
-      "year": "1858",
+      "year": "1859",
       "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Camille_Pissarro_Paysage_%C3%A0_Montmorency.jpg",
       "full": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Camille_Pissarro_Paysage_%C3%A0_Montmorency.jpg",
       "width": 689,
@@ -919,40 +763,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://artuk.org/discover/artworks/mme-pissarro-sewing-142508/view_as/grid/search/keyword:ashmolean--makers:camille-pissarro-18301903/page/1\">https://artuk.org/discover/artworks/mme-pissarro-sewing-142508/view_as/grid/search/keyword:ashmolean--makers:camille-pissarro-18301903/page/1</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q18683347",
-      "title": "The Marne at Chennevières",
-      "year": "1860",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Camille_Pissarro_-_The_Marne_at_Chennevi%C3%A8res_-_Google_Art_Project.jpg/960px-Camille_Pissarro_-_The_Marne_at_Chennevi%C3%A8res_-_Google_Art_Project.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Camille_Pissarro_-_The_Marne_at_Chennevi%C3%A8res_-_Google_Art_Project.jpg",
-      "width": 4001,
-      "height": 2495,
-      "tags": [],
-      "popularity": {
-        "score": 173.9,
-        "pageviews_365d": 168,
-        "sitelinks": 2,
-        "globalusage": 31
-      },
-      "meta": {
-        "Collection": "National Galleries Scotland"
-      },
-      "extras": {
-        "qid": "Q18683347",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 91.5,
-          "width_cm": 145.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a href=\"https://en.wikipedia.org/wiki/en:Google_Arts_%26_Culture\" class=\"extiw\" title=\"w:en:Google Arts &amp; Culture\"><span title=\"app and website exploring partner museums\">Google Arts &amp; Culture</span></a>  — <a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/OwFrXWN_Z1gVvg\">OwFrXWN_Z1gVvg</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -1097,8 +907,8 @@
       "height": 801,
       "tags": [],
       "popularity": {
-        "score": 160.1,
-        "pageviews_365d": 143,
+        "score": 160.3,
+        "pageviews_365d": 144,
         "sitelinks": 1,
         "globalusage": 17
       },
@@ -1159,8 +969,8 @@
       "height": 219,
       "tags": [],
       "popularity": {
-        "score": 163.5,
-        "pageviews_365d": 172,
+        "score": 163.6,
+        "pageviews_365d": 173,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -1454,8 +1264,8 @@
       "height": 2247,
       "tags": [],
       "popularity": {
-        "score": 166.2,
-        "pageviews_365d": 187,
+        "score": 166.3,
+        "pageviews_365d": 188,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -1520,8 +1330,8 @@
       "height": 139,
       "tags": [],
       "popularity": {
-        "score": 165.5,
-        "pageviews_365d": 145,
+        "score": 165.7,
+        "pageviews_365d": 146,
         "sitelinks": 1,
         "globalusage": 29
       },
@@ -1538,6 +1348,40 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.wikiart.org/en/camille-pissarro\">https://www.wikiart.org/en/camille-pissarro</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q18683347",
+      "title": "The Marne at Chennevières",
+      "year": "1865",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Camille_Pissarro_-_The_Marne_at_Chennevi%C3%A8res_-_Google_Art_Project.jpg/960px-Camille_Pissarro_-_The_Marne_at_Chennevi%C3%A8res_-_Google_Art_Project.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Camille_Pissarro_-_The_Marne_at_Chennevi%C3%A8res_-_Google_Art_Project.jpg",
+      "width": 4001,
+      "height": 2495,
+      "tags": [],
+      "popularity": {
+        "score": 174,
+        "pageviews_365d": 169,
+        "sitelinks": 2,
+        "globalusage": 31
+      },
+      "meta": {
+        "Collection": "National Galleries Scotland"
+      },
+      "extras": {
+        "qid": "Q18683347",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 91.5,
+          "width_cm": 145.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a href=\"https://en.wikipedia.org/wiki/en:Google_Arts_%26_Culture\" class=\"extiw\" title=\"w:en:Google Arts &amp; Culture\"><span title=\"app and website exploring partner museums\">Google Arts &amp; Culture</span></a>  — <a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/OwFrXWN_Z1gVvg\">OwFrXWN_Z1gVvg</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -1587,8 +1431,8 @@
       "height": 865,
       "tags": [],
       "popularity": {
-        "score": 171.3,
-        "pageviews_365d": 349,
+        "score": 171.4,
+        "pageviews_365d": 350,
         "sitelinks": 1,
         "globalusage": 5
       },
@@ -1689,8 +1533,8 @@
       "height": 1817,
       "tags": [],
       "popularity": {
-        "score": 171.5,
-        "pageviews_365d": 184,
+        "score": 171.6,
+        "pageviews_365d": 185,
         "sitelinks": 1,
         "globalusage": 29
       },
@@ -1758,8 +1602,8 @@
       "height": 2816,
       "tags": [],
       "popularity": {
-        "score": 204.4,
-        "pageviews_365d": 486,
+        "score": 204.5,
+        "pageviews_365d": 487,
         "sitelinks": 3,
         "globalusage": 35
       },
@@ -1793,8 +1637,8 @@
       "height": 2944,
       "tags": [],
       "popularity": {
-        "score": 180.8,
-        "pageviews_365d": 241,
+        "score": 180.9,
+        "pageviews_365d": 242,
         "sitelinks": 2,
         "globalusage": 25
       },
@@ -1828,8 +1672,8 @@
       "height": 1450,
       "tags": [],
       "popularity": {
-        "score": 180.6,
-        "pageviews_365d": 269,
+        "score": 180.7,
+        "pageviews_365d": 270,
         "sitelinks": 1,
         "globalusage": 28
       },
@@ -1863,8 +1707,8 @@
       "height": 4195,
       "tags": [],
       "popularity": {
-        "score": 164.9,
-        "pageviews_365d": 170,
+        "score": 165.1,
+        "pageviews_365d": 171,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -1932,10 +1776,10 @@
       "height": 1498,
       "tags": [],
       "popularity": {
-        "score": 182.1,
-        "pageviews_365d": 221,
+        "score": 182.4,
+        "pageviews_365d": 222,
         "sitelinks": 1,
-        "globalusage": 54
+        "globalusage": 55
       },
       "meta": {
         "Collection": "Solomon R. Guggenheim Museum",
@@ -2002,8 +1846,8 @@
       "height": 1630,
       "tags": [],
       "popularity": {
-        "score": 166.1,
-        "pageviews_365d": 165,
+        "score": 166.2,
+        "pageviews_365d": 166,
         "sitelinks": 1,
         "globalusage": 22
       },
@@ -2072,8 +1916,8 @@
       "height": 909,
       "tags": [],
       "popularity": {
-        "score": 165.1,
-        "pageviews_365d": 151,
+        "score": 165.3,
+        "pageviews_365d": 152,
         "sitelinks": 1,
         "globalusage": 25
       },
@@ -2143,8 +1987,8 @@
       "height": 3285,
       "tags": [],
       "popularity": {
-        "score": 241.6,
-        "pageviews_365d": 2509,
+        "score": 241.7,
+        "pageviews_365d": 2520,
         "sitelinks": 6,
         "globalusage": 13
       },
@@ -2202,42 +2046,6 @@
       }
     },
     {
-      "id": "wd-Q17490677",
-      "title": "Allée de la Tour-du-Jongleur and the House of M. Musy, Louveciennes",
-      "year": "1869",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Pissarro_-_Paysage%2C_Louveciennes%2C_dit_autrefois_Paysage%2C_Pontoise%2C_1875_vers.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Pissarro_-_Paysage%2C_Louveciennes%2C_dit_autrefois_Paysage%2C_Pontoise%2C_1875_vers.jpg",
-      "width": 758,
-      "height": 486,
-      "tags": [],
-      "popularity": {
-        "score": 19.5,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 6
-      },
-      "meta": {
-        "Collection": "Musée d'Orsay",
-        "Series": "louveciennes"
-      },
-      "extras": {
-        "qid": "Q17490677",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 52,
-          "width_cm": 81
-        },
-        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!397/manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.pop.culture.gouv.fr/notice/joconde/000PE004038\">https://www.pop.culture.gouv.fr/notice/joconde/000PE004038</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q21328571",
       "title": "Route to Versailles, Louveciennes",
       "year": "1869",
@@ -2247,8 +2055,8 @@
       "height": 1497,
       "tags": [],
       "popularity": {
-        "score": 172.4,
-        "pageviews_365d": 167,
+        "score": 172.6,
+        "pageviews_365d": 168,
         "sitelinks": 1,
         "globalusage": 41
       },
@@ -2305,41 +2113,6 @@
       }
     },
     {
-      "id": "wd-Q21369256",
-      "title": "View from Louveciennes",
-      "year": "1869",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Camille_Pissarro_-_View_from_Louveciennes_-_National_Gallery_London.jpg/960px-Camille_Pissarro_-_View_from_Louveciennes_-_National_Gallery_London.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Camille_Pissarro_-_View_from_Louveciennes_-_National_Gallery_London.jpg",
-      "width": 6607,
-      "height": 4226,
-      "tags": [],
-      "popularity": {
-        "score": 168,
-        "pageviews_365d": 158,
-        "sitelinks": 1,
-        "globalusage": 30
-      },
-      "meta": {
-        "Collection": "National Gallery",
-        "Series": "louveciennes"
-      },
-      "extras": {
-        "qid": "Q21369256",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 52.7,
-          "width_cm": 81.9
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "2. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.nationalgallery.org.uk/paintings/camille-pissarro-view-from-louveciennes\">National Gallery, London - online catalogue</a>.<br> 1. <cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q21348758",
       "title": "Apple Trees in Bloom",
       "year": "1870",
@@ -2383,8 +2156,8 @@
       "height": 2592,
       "tags": [],
       "popularity": {
-        "score": 165.7,
-        "pageviews_365d": 193,
+        "score": 166.2,
+        "pageviews_365d": 197,
         "sitelinks": 2,
         "globalusage": 9
       },
@@ -2418,8 +2191,8 @@
       "height": 4226,
       "tags": [],
       "popularity": {
-        "score": 183.9,
-        "pageviews_365d": 261,
+        "score": 184,
+        "pageviews_365d": 262,
         "sitelinks": 2,
         "globalusage": 28
       },
@@ -2488,8 +2261,8 @@
       "height": 6974,
       "tags": [],
       "popularity": {
-        "score": 179.6,
-        "pageviews_365d": 241,
+        "score": 179.8,
+        "pageviews_365d": 243,
         "sitelinks": 2,
         "globalusage": 22
       },
@@ -2627,8 +2400,8 @@
       "height": 4912,
       "tags": [],
       "popularity": {
-        "score": 155.1,
-        "pageviews_365d": 182,
+        "score": 155.5,
+        "pageviews_365d": 185,
         "sitelinks": 1,
         "globalusage": 5
       },
@@ -2658,8 +2431,8 @@
       "height": 227,
       "tags": [],
       "popularity": {
-        "score": 169.5,
-        "pageviews_365d": 209,
+        "score": 169.7,
+        "pageviews_365d": 211,
         "sitelinks": 1,
         "globalusage": 17
       },
@@ -2754,8 +2527,8 @@
       "height": 1975,
       "tags": [],
       "popularity": {
-        "score": 167.1,
-        "pageviews_365d": 169,
+        "score": 167.3,
+        "pageviews_365d": 170,
         "sitelinks": 1,
         "globalusage": 23
       },
@@ -2789,8 +2562,8 @@
       "height": 1152,
       "tags": [],
       "popularity": {
-        "score": 173.4,
-        "pageviews_365d": 221,
+        "score": 173.5,
+        "pageviews_365d": 222,
         "sitelinks": 1,
         "globalusage": 22
       },
@@ -2859,8 +2632,8 @@
       "height": 1200,
       "tags": [],
       "popularity": {
-        "score": 153.3,
-        "pageviews_365d": 199,
+        "score": 153.6,
+        "pageviews_365d": 202,
         "sitelinks": 1,
         "globalusage": 3
       },
@@ -2894,8 +2667,8 @@
       "height": 1021,
       "tags": [],
       "popularity": {
-        "score": 181.2,
-        "pageviews_365d": 320,
+        "score": 181.3,
+        "pageviews_365d": 321,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -2929,7 +2702,7 @@
       "tags": [],
       "popularity": {
         "score": 180.9,
-        "pageviews_365d": 316,
+        "pageviews_365d": 317,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -3089,6 +2862,41 @@
       }
     },
     {
+      "id": "wd-Q21369256",
+      "title": "View from Louveciennes",
+      "year": "1870",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Camille_Pissarro_-_View_from_Louveciennes_-_National_Gallery_London.jpg/960px-Camille_Pissarro_-_View_from_Louveciennes_-_National_Gallery_London.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Camille_Pissarro_-_View_from_Louveciennes_-_National_Gallery_London.jpg",
+      "width": 6607,
+      "height": 4226,
+      "tags": [],
+      "popularity": {
+        "score": 168.3,
+        "pageviews_365d": 160,
+        "sitelinks": 1,
+        "globalusage": 30
+      },
+      "meta": {
+        "Collection": "National Gallery",
+        "Series": "louveciennes"
+      },
+      "extras": {
+        "qid": "Q21369256",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 52.7,
+          "width_cm": 81.9
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "2. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.nationalgallery.org.uk/paintings/camille-pissarro-view-from-louveciennes\">National Gallery, London - online catalogue</a>.<br> 1. <cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q64174090",
       "title": "View of the Village of Marly-le-Roi",
       "year": "1870",
@@ -3119,42 +2927,6 @@
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://collection.kunsthaus.ch/en/collection/item/604979/\">Kunsthaus Zürich</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q17494832",
-      "title": "Winter Landscape at Louveciennes",
-      "year": "1870",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Camille_pissarro%2C_paesaggio_invernale_a_louveciennes%2C_1870_ca.JPG/960px-Camille_pissarro%2C_paesaggio_invernale_a_louveciennes%2C_1870_ca.JPG",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Camille_pissarro%2C_paesaggio_invernale_a_louveciennes%2C_1870_ca.JPG",
-      "width": 2372,
-      "height": 2064,
-      "tags": [],
-      "popularity": {
-        "score": 17.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 5
-      },
-      "meta": {
-        "Collection": "Musée d'Orsay",
-        "Series": "louveciennes"
-      },
-      "extras": {
-        "qid": "Q17494832",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 37,
-          "width_cm": 46
-        },
-        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!395/manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
-          "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>"
         }
       }
     },
@@ -3336,8 +3108,8 @@
       "height": 1145,
       "tags": [],
       "popularity": {
-        "score": 170.6,
-        "pageviews_365d": 173,
+        "score": 170.7,
+        "pageviews_365d": 174,
         "sitelinks": 1,
         "globalusage": 31
       },
@@ -3368,8 +3140,8 @@
       "height": 5051,
       "tags": [],
       "popularity": {
-        "score": 164.1,
-        "pageviews_365d": 145,
+        "score": 164.3,
+        "pageviews_365d": 146,
         "sitelinks": 1,
         "globalusage": 25
       },
@@ -3403,8 +3175,8 @@
       "height": 4210,
       "tags": [],
       "popularity": {
-        "score": 194.4,
-        "pageviews_365d": 360,
+        "score": 194.5,
+        "pageviews_365d": 361,
         "sitelinks": 3,
         "globalusage": 27
       },
@@ -3437,8 +3209,8 @@
       "height": 573,
       "tags": [],
       "popularity": {
-        "score": 183.6,
-        "pageviews_365d": 333,
+        "score": 183.8,
+        "pageviews_365d": 336,
         "sitelinks": 1,
         "globalusage": 22
       },
@@ -3469,8 +3241,8 @@
       "height": 4601,
       "tags": [],
       "popularity": {
-        "score": 251.2,
-        "pageviews_365d": 2652,
+        "score": 251.4,
+        "pageviews_365d": 2669,
         "sitelinks": 3,
         "globalusage": 55
       },
@@ -3538,8 +3310,8 @@
       "height": 3649,
       "tags": [],
       "popularity": {
-        "score": 181.5,
-        "pageviews_365d": 252,
+        "score": 181.6,
+        "pageviews_365d": 253,
         "sitelinks": 2,
         "globalusage": 24
       },
@@ -3703,8 +3475,8 @@
       "height": 2266,
       "tags": [],
       "popularity": {
-        "score": 180.9,
-        "pageviews_365d": 294,
+        "score": 181.1,
+        "pageviews_365d": 296,
         "sitelinks": 1,
         "globalusage": 23
       },
@@ -3771,8 +3543,8 @@
       "height": 4226,
       "tags": [],
       "popularity": {
-        "score": 181.7,
-        "pageviews_365d": 243,
+        "score": 181.9,
+        "pageviews_365d": 245,
         "sitelinks": 2,
         "globalusage": 27
       },
@@ -3805,8 +3577,8 @@
       "height": 1898,
       "tags": [],
       "popularity": {
-        "score": 242.2,
-        "pageviews_365d": 2632,
+        "score": 242.3,
+        "pageviews_365d": 2640,
         "sitelinks": 2,
         "globalusage": 30
       },
@@ -3908,8 +3680,8 @@
       "height": 3184,
       "tags": [],
       "popularity": {
-        "score": 174.3,
-        "pageviews_365d": 206,
+        "score": 174.4,
+        "pageviews_365d": 207,
         "sitelinks": 2,
         "globalusage": 19
       },
@@ -3928,6 +3700,42 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.metmuseum.org/collection/the-collection-online/search/437317\">www.metmuseum.org</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q17490677",
+      "title": "Allée de la Tour-du-Jongleur and the House of M. Musy, Louveciennes",
+      "year": "1872",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Pissarro_-_Paysage%2C_Louveciennes%2C_dit_autrefois_Paysage%2C_Pontoise%2C_1875_vers.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Pissarro_-_Paysage%2C_Louveciennes%2C_dit_autrefois_Paysage%2C_Pontoise%2C_1875_vers.jpg",
+      "width": 758,
+      "height": 486,
+      "tags": [],
+      "popularity": {
+        "score": 19.5,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 6
+      },
+      "meta": {
+        "Collection": "Musée d'Orsay",
+        "Series": "louveciennes"
+      },
+      "extras": {
+        "qid": "Q17490677",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 52,
+          "width_cm": 81
+        },
+        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!397/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.pop.culture.gouv.fr/notice/joconde/000PE004038\">https://www.pop.culture.gouv.fr/notice/joconde/000PE004038</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -4045,8 +3853,8 @@
       "height": 4328,
       "tags": [],
       "popularity": {
-        "score": 165.7,
-        "pageviews_365d": 157,
+        "score": 165.8,
+        "pageviews_365d": 158,
         "sitelinks": 1,
         "globalusage": 24
       },
@@ -4080,8 +3888,8 @@
       "height": 6588,
       "tags": [],
       "popularity": {
-        "score": 174.9,
-        "pageviews_365d": 239,
+        "score": 175,
+        "pageviews_365d": 240,
         "sitelinks": 1,
         "globalusage": 21
       },
@@ -4107,6 +3915,42 @@
       }
     },
     {
+      "id": "wd-Q17491020",
+      "title": "Chestnut Trees at Louveciennes",
+      "year": "1872",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Camille_Pissarro_-_Ch%C3%A2taigniers_%C3%A0_Louveciennes_-_1879.jpg/960px-Camille_Pissarro_-_Ch%C3%A2taigniers_%C3%A0_Louveciennes_-_1879.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Camille_Pissarro_-_Ch%C3%A2taigniers_%C3%A0_Louveciennes_-_1879.jpg",
+      "width": 3161,
+      "height": 2295,
+      "tags": [],
+      "popularity": {
+        "score": 174.5,
+        "pageviews_365d": 182,
+        "sitelinks": 2,
+        "globalusage": 27
+      },
+      "meta": {
+        "Collection": "Musée d'Orsay",
+        "Series": "louveciennes"
+      },
+      "extras": {
+        "qid": "Q17491020",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 40,
+          "width_cm": 54
+        },
+        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!1300/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "Unknown source<span style=\"display: none;\">Unknown source</span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q17491336",
       "title": "Entrance to Voisins",
       "year": "1872",
@@ -4117,7 +3961,7 @@
       "tags": [],
       "popularity": {
         "score": 241.9,
-        "pageviews_365d": 1636,
+        "pageviews_365d": 1638,
         "sitelinks": 4,
         "globalusage": 58
       },
@@ -4421,8 +4265,8 @@
       "height": 785,
       "tags": [],
       "popularity": {
-        "score": 184.2,
-        "pageviews_365d": 423,
+        "score": 184.3,
+        "pageviews_365d": 424,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -4589,8 +4433,8 @@
       "height": 976,
       "tags": [],
       "popularity": {
-        "score": 169.5,
-        "pageviews_365d": 175,
+        "score": 169.7,
+        "pageviews_365d": 176,
         "sitelinks": 1,
         "globalusage": 27
       },
@@ -4895,8 +4739,8 @@
       "height": 2109,
       "tags": [],
       "popularity": {
-        "score": 174.1,
-        "pageviews_365d": 217,
+        "score": 174.4,
+        "pageviews_365d": 219,
         "sitelinks": 1,
         "globalusage": 25
       },
@@ -5135,8 +4979,8 @@
       "height": 2085,
       "tags": [],
       "popularity": {
-        "score": 221,
-        "pageviews_365d": 967,
+        "score": 221.1,
+        "pageviews_365d": 971,
         "sitelinks": 3,
         "globalusage": 33
       },
@@ -5372,8 +5216,8 @@
       "height": 1498,
       "tags": [],
       "popularity": {
-        "score": 175,
-        "pageviews_365d": 215,
+        "score": 175.1,
+        "pageviews_365d": 216,
         "sitelinks": 1,
         "globalusage": 28
       },
@@ -5505,8 +5349,8 @@
       "height": 4096,
       "tags": [],
       "popularity": {
-        "score": 168.6,
-        "pageviews_365d": 197,
+        "score": 168.7,
+        "pageviews_365d": 198,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -5601,8 +5445,8 @@
       "height": 3504,
       "tags": [],
       "popularity": {
-        "score": 241.1,
-        "pageviews_365d": 2624,
+        "score": 241.2,
+        "pageviews_365d": 2632,
         "sitelinks": 3,
         "globalusage": 20
       },
@@ -5636,8 +5480,8 @@
       "height": 1582,
       "tags": [],
       "popularity": {
-        "score": 175.3,
-        "pageviews_365d": 215,
+        "score": 175.4,
+        "pageviews_365d": 216,
         "sitelinks": 1,
         "globalusage": 29
       },
@@ -5760,41 +5604,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://wpi.art/2019/01/08/pissarro/\">https://wpi.art/2019/01/08/pissarro/</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q21730598",
-      "title": "Pissarro Rue de l Hermitage Pontoise DMA",
-      "year": "1873",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pissarro_Rue_de_l_Hermitage_Pontoise_DMA.jpg/960px-Pissarro_Rue_de_l_Hermitage_Pontoise_DMA.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Pissarro_Rue_de_l_Hermitage_Pontoise_DMA.jpg",
-      "width": 2000,
-      "height": 1467,
-      "tags": [],
-      "popularity": {
-        "score": 19.5,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 6
-      },
-      "meta": {
-        "Collection": "Dallas Museum of Art",
-        "Series": "pontoise"
-      },
-      "extras": {
-        "qid": "Q21730598",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 29,
-          "width_cm": 35
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://collections.dma.org/artwork/4099012\">https://collections.dma.org/artwork/4099012</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -5948,8 +5757,8 @@
       "height": 2810,
       "tags": [],
       "popularity": {
-        "score": 264.1,
-        "pageviews_365d": 4071,
+        "score": 264.3,
+        "pageviews_365d": 4090,
         "sitelinks": 7,
         "globalusage": 34
       },
@@ -6052,8 +5861,8 @@
       "height": 1544,
       "tags": [],
       "popularity": {
-        "score": 223.6,
-        "pageviews_365d": 1251,
+        "score": 223.8,
+        "pageviews_365d": 1258,
         "sitelinks": 2,
         "globalusage": 30
       },
@@ -6121,8 +5930,8 @@
       "height": 3814,
       "tags": [],
       "popularity": {
-        "score": 179.9,
-        "pageviews_365d": 419,
+        "score": 180,
+        "pageviews_365d": 421,
         "sitelinks": 2,
         "globalusage": 5
       },
@@ -6146,40 +5955,6 @@
       }
     },
     {
-      "id": "wd-Q21498712",
-      "title": "The Railway Crossing at Les Pâtis near Pontoise",
-      "year": "1873",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Camille_Pissarro_-_La_Barri%C3%A8re_du_chemin_de_fer_aux_P%C3%A2tis_pr%C3%A8s_Pontoise_-_1873-74.jpg/960px-Camille_Pissarro_-_La_Barri%C3%A8re_du_chemin_de_fer_aux_P%C3%A2tis_pr%C3%A8s_Pontoise_-_1873-74.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Camille_Pissarro_-_La_Barri%C3%A8re_du_chemin_de_fer_aux_P%C3%A2tis_pr%C3%A8s_Pontoise_-_1873-74.jpg",
-      "width": 4982,
-      "height": 3988,
-      "tags": [],
-      "popularity": {
-        "score": 22,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 8
-      },
-      "meta": {
-        "Series": "pontoise"
-      },
-      "extras": {
-        "qid": "Q21498712",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 65,
-          "width_cm": 81
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "Unknown source<span style=\"display: none;\">Unknown source</span>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q84243024",
       "title": "The Red House",
       "year": "1873",
@@ -6189,8 +5964,8 @@
       "height": 734,
       "tags": [],
       "popularity": {
-        "score": 188.8,
-        "pageviews_365d": 453,
+        "score": 188.9,
+        "pageviews_365d": 455,
         "sitelinks": 1,
         "globalusage": 17
       },
@@ -6463,7 +6238,7 @@
       "tags": [],
       "popularity": {
         "score": 264.5,
-        "pageviews_365d": 3429,
+        "pageviews_365d": 3437,
         "sitelinks": 5,
         "globalusage": 73
       },
@@ -6655,8 +6430,8 @@
       "height": 4024,
       "tags": [],
       "popularity": {
-        "score": 172.4,
-        "pageviews_365d": 325,
+        "score": 172.5,
+        "pageviews_365d": 326,
         "sitelinks": 1,
         "globalusage": 7
       },
@@ -6826,8 +6601,8 @@
       "height": 3980,
       "tags": [],
       "popularity": {
-        "score": 159.9,
-        "pageviews_365d": 208,
+        "score": 160.1,
+        "pageviews_365d": 209,
         "sitelinks": 1,
         "globalusage": 6
       },
@@ -7124,8 +6899,8 @@
       "height": 3949,
       "tags": [],
       "popularity": {
-        "score": 237.1,
-        "pageviews_365d": 2746,
+        "score": 237.2,
+        "pageviews_365d": 2755,
         "sitelinks": 4,
         "globalusage": 9
       },
@@ -7190,8 +6965,8 @@
       "height": 6000,
       "tags": [],
       "popularity": {
-        "score": 192,
-        "pageviews_365d": 431,
+        "score": 192.3,
+        "pageviews_365d": 437,
         "sitelinks": 3,
         "globalusage": 13
       },
@@ -7224,8 +6999,8 @@
       "height": 4992,
       "tags": [],
       "popularity": {
-        "score": 159.9,
-        "pageviews_365d": 180,
+        "score": 160.1,
+        "pageviews_365d": 181,
         "sitelinks": 1,
         "globalusage": 9
       },
@@ -7527,6 +7302,40 @@
       }
     },
     {
+      "id": "wd-Q21498712",
+      "title": "The Railway Crossing at Les Pâtis near Pontoise",
+      "year": "1874",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Camille_Pissarro_-_La_Barri%C3%A8re_du_chemin_de_fer_aux_P%C3%A2tis_pr%C3%A8s_Pontoise_-_1873-74.jpg/960px-Camille_Pissarro_-_La_Barri%C3%A8re_du_chemin_de_fer_aux_P%C3%A2tis_pr%C3%A8s_Pontoise_-_1873-74.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Camille_Pissarro_-_La_Barri%C3%A8re_du_chemin_de_fer_aux_P%C3%A2tis_pr%C3%A8s_Pontoise_-_1873-74.jpg",
+      "width": 4982,
+      "height": 3988,
+      "tags": [],
+      "popularity": {
+        "score": 22,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 8
+      },
+      "meta": {
+        "Series": "pontoise"
+      },
+      "extras": {
+        "qid": "Q21498712",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 65,
+          "width_cm": 81
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "Unknown source<span style=\"display: none;\">Unknown source</span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q46942564",
       "title": "Cabbage Patch Near the Village",
       "year": "1875",
@@ -7591,40 +7400,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "Unknown source<span style=\"display: none;\">Unknown source</span>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q91350176",
-      "title": "Farm at Montfoucault in Snow",
-      "year": "1875",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Camille_Pissarro_-_Ferme_%C3%A0_Montfoucault%2C_effet_de_neige_%281875-76%29.jpg/960px-Camille_Pissarro_-_Ferme_%C3%A0_Montfoucault%2C_effet_de_neige_%281875-76%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/9/97/Camille_Pissarro_-_Ferme_%C3%A0_Montfoucault%2C_effet_de_neige_%281875-76%29.jpg",
-      "width": 4825,
-      "height": 3945,
-      "tags": [],
-      "popularity": {
-        "score": 17.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 5
-      },
-      "meta": {
-        "Collection": "Ashmolean Museum"
-      },
-      "extras": {
-        "qid": "Q91350176",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 46,
-          "width_cm": 55
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://collections.ashmolean.org/object/373342\">Ashmolean Museum</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -7871,6 +7646,41 @@
       }
     },
     {
+      "id": "wd-Q21730598",
+      "title": "Pissarro Rue de l Hermitage Pontoise DMA",
+      "year": "1875",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pissarro_Rue_de_l_Hermitage_Pontoise_DMA.jpg/960px-Pissarro_Rue_de_l_Hermitage_Pontoise_DMA.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Pissarro_Rue_de_l_Hermitage_Pontoise_DMA.jpg",
+      "width": 2000,
+      "height": 1467,
+      "tags": [],
+      "popularity": {
+        "score": 19.5,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 6
+      },
+      "meta": {
+        "Collection": "Dallas Museum of Art",
+        "Series": "pontoise"
+      },
+      "extras": {
+        "qid": "Q21730598",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 29,
+          "width_cm": 35
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://collections.dma.org/artwork/4099012\">https://collections.dma.org/artwork/4099012</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q21748523",
       "title": "Rue de L´Hermitage, Pontoise",
       "year": "1875",
@@ -7936,40 +7746,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "Unknown source<span style=\"display: none;\">Unknown source</span>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q21684306",
-      "title": "The Goose Girl at Montfoucault (White Frost)",
-      "year": "1875",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Camille_Pissarro_-_The_Goose_Girl_at_Montfoucault_%28White_Frost%29_-_Google_Art_Project.jpg/960px-Camille_Pissarro_-_The_Goose_Girl_at_Montfoucault_%28White_Frost%29_-_Google_Art_Project.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/1/11/Camille_Pissarro_-_The_Goose_Girl_at_Montfoucault_%28White_Frost%29_-_Google_Art_Project.jpg",
-      "width": 4000,
-      "height": 3293,
-      "tags": [],
-      "popularity": {
-        "score": 23,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 9
-      },
-      "meta": {
-        "Collection": "Museum of Fine Arts, Houston"
-      },
-      "extras": {
-        "qid": "Q21684306",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 57.8,
-          "width_cm": 73
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "1. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.google.com/culturalinstitute/asset-viewer/the-goose-girl-at-montfoucault-white-frost/OwHH2uiTD3Bxwg\">Google Cultural Institute</a><br>2. <a rel=\"nofollow\" class=\"external text\" href=\"https://collections.mfah.org/art/detail/43864\">Museum of Fine Arts, Houston, online collection</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -8325,8 +8101,8 @@
       "height": 3788,
       "tags": [],
       "popularity": {
-        "score": 181.1,
-        "pageviews_365d": 219,
+        "score": 181.2,
+        "pageviews_365d": 220,
         "sitelinks": 2,
         "globalusage": 33
       },
@@ -8822,6 +8598,40 @@
       }
     },
     {
+      "id": "wd-Q21684306",
+      "title": "The Goose Girl at Montfoucault (White Frost)",
+      "year": "1876",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Camille_Pissarro_-_The_Goose_Girl_at_Montfoucault_%28White_Frost%29_-_Google_Art_Project.jpg/960px-Camille_Pissarro_-_The_Goose_Girl_at_Montfoucault_%28White_Frost%29_-_Google_Art_Project.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/11/Camille_Pissarro_-_The_Goose_Girl_at_Montfoucault_%28White_Frost%29_-_Google_Art_Project.jpg",
+      "width": 4000,
+      "height": 3293,
+      "tags": [],
+      "popularity": {
+        "score": 23,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 9
+      },
+      "meta": {
+        "Collection": "Museum of Fine Arts, Houston"
+      },
+      "extras": {
+        "qid": "Q21684306",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 57.8,
+          "width_cm": 73
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "1. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.google.com/culturalinstitute/asset-viewer/the-goose-girl-at-montfoucault-white-frost/OwHH2uiTD3Bxwg\">Google Cultural Institute</a><br>2. <a rel=\"nofollow\" class=\"external text\" href=\"https://collections.mfah.org/art/detail/43864\">Museum of Fine Arts, Houston, online collection</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q19928681",
       "title": "The Oise near Pontoise in Grey Weather",
       "year": "1876",
@@ -9266,40 +9076,6 @@
       }
     },
     {
-      "id": "wd-Q21758937",
-      "title": "Festival at L'Hermitage",
-      "year": "1877",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Camille_Pissarro_-_Festival_at_L%27Hermitage.jpg/960px-Camille_Pissarro_-_Festival_at_L%27Hermitage.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/7/75/Camille_Pissarro_-_Festival_at_L%27Hermitage.jpg",
-      "width": 8124,
-      "height": 6858,
-      "tags": [],
-      "popularity": {
-        "score": 22,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 8
-      },
-      "meta": {
-        "Collection": "Courtauld Institute of Art"
-      },
-      "extras": {
-        "qid": "Q21758937",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 46.1,
-          "width_cm": 55.1
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://gallerycollections.courtauld.ac.uk/object-p-1978-pg-318\">Courtauld Gallery</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q21757939",
       "title": "Garden at L'Hermitage, the 'Red House', Pontoise",
       "year": "1877",
@@ -9515,8 +9291,8 @@
       "height": 734,
       "tags": [],
       "popularity": {
-        "score": 178.1,
-        "pageviews_365d": 306,
+        "score": 178.2,
+        "pageviews_365d": 307,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -9826,7 +9602,7 @@
       "tags": [],
       "popularity": {
         "score": 272.2,
-        "pageviews_365d": 5121,
+        "pageviews_365d": 5129,
         "sitelinks": 7,
         "globalusage": 43
       },
@@ -9965,8 +9741,8 @@
       "height": 2107,
       "tags": [],
       "popularity": {
-        "score": 281.7,
-        "pageviews_365d": 8130,
+        "score": 281.8,
+        "pageviews_365d": 8158,
         "sitelinks": 8,
         "globalusage": 31
       },
@@ -10098,40 +9874,6 @@
       }
     },
     {
-      "id": "wd-Q19912301",
-      "title": "Fan Mount: The Cabbage Gatherers",
-      "year": "1878",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Camille_Pissaro%2C_1878c_-_The_Cabbage_Gatherers.jpg/960px-Camille_Pissaro%2C_1878c_-_The_Cabbage_Gatherers.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/9/95/Camille_Pissaro%2C_1878c_-_The_Cabbage_Gatherers.jpg",
-      "width": 3811,
-      "height": 1930,
-      "tags": [],
-      "popularity": {
-        "score": 17.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 5
-      },
-      "meta": {
-        "Collection": "Metropolitan Museum of Art"
-      },
-      "extras": {
-        "qid": "Q19912301",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 16.5,
-          "width_cm": 52.1
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a href=\"https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art\" class=\"extiw\" title=\"en:Metropolitan Museum of Art\">Metropolitan Museum of Art</a>:  entry  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.metmuseum.org/art/collection/search/437315\">437315</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q21741578",
       "title": "Flower Bouquet: Peonies and Mock-Orange",
       "year": "1878",
@@ -10175,8 +9917,8 @@
       "height": 550,
       "tags": [],
       "popularity": {
-        "score": 192.6,
-        "pageviews_365d": 622,
+        "score": 192.7,
+        "pageviews_365d": 624,
         "sitelinks": 1,
         "globalusage": 11
       },
@@ -10574,8 +10316,8 @@
       "height": 2547,
       "tags": [],
       "popularity": {
-        "score": 186.6,
-        "pageviews_365d": 380,
+        "score": 186.8,
+        "pageviews_365d": 383,
         "sitelinks": 2,
         "globalusage": 14
       },
@@ -10808,42 +10550,6 @@
       }
     },
     {
-      "id": "wd-Q17491020",
-      "title": "Chestnut Trees at Louveciennes",
-      "year": "1879",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Camille_Pissarro_-_Ch%C3%A2taigniers_%C3%A0_Louveciennes_-_1879.jpg/960px-Camille_Pissarro_-_Ch%C3%A2taigniers_%C3%A0_Louveciennes_-_1879.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Camille_Pissarro_-_Ch%C3%A2taigniers_%C3%A0_Louveciennes_-_1879.jpg",
-      "width": 3161,
-      "height": 2295,
-      "tags": [],
-      "popularity": {
-        "score": 174.5,
-        "pageviews_365d": 182,
-        "sitelinks": 2,
-        "globalusage": 27
-      },
-      "meta": {
-        "Collection": "Musée d'Orsay",
-        "Series": "louveciennes"
-      },
-      "extras": {
-        "qid": "Q17491020",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 40,
-          "width_cm": 54
-        },
-        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!1300/manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "Unknown source<span style=\"display: none;\">Unknown source</span>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q63986323",
       "title": "De ydre boulevarder i snevejr 1879",
       "year": "1879",
@@ -10908,6 +10614,40 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://clevelandart.org/art/1951.356\">https://clevelandart.org/art/1951.356</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/clevelandart-1951.356-edge-of-the-woods-ne\">IA</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q19912301",
+      "title": "Fan Mount: The Cabbage Gatherers",
+      "year": "1879",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Camille_Pissaro%2C_1878c_-_The_Cabbage_Gatherers.jpg/960px-Camille_Pissaro%2C_1878c_-_The_Cabbage_Gatherers.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/95/Camille_Pissaro%2C_1878c_-_The_Cabbage_Gatherers.jpg",
+      "width": 3811,
+      "height": 1930,
+      "tags": [],
+      "popularity": {
+        "score": 17.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 5
+      },
+      "meta": {
+        "Collection": "Metropolitan Museum of Art"
+      },
+      "extras": {
+        "qid": "Q19912301",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 16.5,
+          "width_cm": 52.1
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a href=\"https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art\" class=\"extiw\" title=\"en:Metropolitan Museum of Art\">Metropolitan Museum of Art</a>:  entry  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.metmuseum.org/art/collection/search/437315\">437315</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -11126,8 +10866,8 @@
       "height": 2250,
       "tags": [],
       "popularity": {
-        "score": 168.9,
-        "pageviews_365d": 185,
+        "score": 169.9,
+        "pageviews_365d": 192,
         "sitelinks": 1,
         "globalusage": 22
       },
@@ -11744,8 +11484,8 @@
       "height": 4603,
       "tags": [],
       "popularity": {
-        "score": 178.1,
-        "pageviews_365d": 237,
+        "score": 178.2,
+        "pageviews_365d": 238,
         "sitelinks": 1,
         "globalusage": 30
       },
@@ -11840,8 +11580,8 @@
       "height": 6000,
       "tags": [],
       "popularity": {
-        "score": 199.9,
-        "pageviews_365d": 415,
+        "score": 200,
+        "pageviews_365d": 416,
         "sitelinks": 3,
         "globalusage": 33
       },
@@ -11975,8 +11715,8 @@
       "height": 9065,
       "tags": [],
       "popularity": {
-        "score": 157.6,
-        "pageviews_365d": 171,
+        "score": 157.7,
+        "pageviews_365d": 172,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -12210,8 +11950,8 @@
       "height": 3789,
       "tags": [],
       "popularity": {
-        "score": 174.1,
-        "pageviews_365d": 188,
+        "score": 174.2,
+        "pageviews_365d": 189,
         "sitelinks": 1,
         "globalusage": 36
       },
@@ -12244,8 +11984,8 @@
       "height": 3050,
       "tags": [],
       "popularity": {
-        "score": 172,
-        "pageviews_365d": 181,
+        "score": 172.1,
+        "pageviews_365d": 182,
         "sitelinks": 1,
         "globalusage": 32
       },
@@ -12276,8 +12016,8 @@
       "height": 2958,
       "tags": [],
       "popularity": {
-        "score": 267.7,
-        "pageviews_365d": 4191,
+        "score": 267.8,
+        "pageviews_365d": 4210,
         "sitelinks": 6,
         "globalusage": 52
       },
@@ -12346,8 +12086,8 @@
       "height": 2250,
       "tags": [],
       "popularity": {
-        "score": 169,
-        "pageviews_365d": 157,
+        "score": 169.2,
+        "pageviews_365d": 158,
         "sitelinks": 1,
         "globalusage": 34
       },
@@ -12618,8 +12358,8 @@
       "height": 2055,
       "tags": [],
       "popularity": {
-        "score": 223.3,
-        "pageviews_365d": 1152,
+        "score": 223.4,
+        "pageviews_365d": 1154,
         "sitelinks": 2,
         "globalusage": 36
       },
@@ -12820,8 +12560,8 @@
       "height": 528,
       "tags": [],
       "popularity": {
-        "score": 180.8,
-        "pageviews_365d": 409,
+        "score": 181,
+        "pageviews_365d": 411,
         "sitelinks": 2,
         "globalusage": 6
       },
@@ -12957,8 +12697,8 @@
       "height": 2582,
       "tags": [],
       "popularity": {
-        "score": 240.6,
-        "pageviews_365d": 1800,
+        "score": 240.7,
+        "pageviews_365d": 1806,
         "sitelinks": 4,
         "globalusage": 40
       },
@@ -13061,8 +12801,8 @@
       "height": 6000,
       "tags": [],
       "popularity": {
-        "score": 168.2,
-        "pageviews_365d": 233,
+        "score": 168.3,
+        "pageviews_365d": 234,
         "sitelinks": 1,
         "globalusage": 11
       },
@@ -13465,8 +13205,8 @@
       "height": 699,
       "tags": [],
       "popularity": {
-        "score": 161.1,
-        "pageviews_365d": 232,
+        "score": 161.2,
+        "pageviews_365d": 233,
         "sitelinks": 1,
         "globalusage": 5
       },
@@ -13528,7 +13268,7 @@
       "tags": [],
       "popularity": {
         "score": 190.9,
-        "pageviews_365d": 439,
+        "pageviews_365d": 440,
         "sitelinks": 2,
         "globalusage": 15
       },
@@ -13729,8 +13469,8 @@
       "height": 1536,
       "tags": [],
       "popularity": {
-        "score": 214.2,
-        "pageviews_365d": 934,
+        "score": 214.3,
+        "pageviews_365d": 937,
         "sitelinks": 2,
         "globalusage": 24
       },
@@ -13861,8 +13601,8 @@
       "height": 833,
       "tags": [],
       "popularity": {
-        "score": 152.3,
-        "pageviews_365d": 163,
+        "score": 152.5,
+        "pageviews_365d": 164,
         "sitelinks": 1,
         "globalusage": 5
       },
@@ -13895,8 +13635,8 @@
       "height": 3055,
       "tags": [],
       "popularity": {
-        "score": 173.6,
-        "pageviews_365d": 258,
+        "score": 173.8,
+        "pageviews_365d": 260,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -14063,8 +13803,8 @@
       "height": 3571,
       "tags": [],
       "popularity": {
-        "score": 167.3,
-        "pageviews_365d": 187,
+        "score": 167.4,
+        "pageviews_365d": 188,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -14335,8 +14075,8 @@
       "height": 1698,
       "tags": [],
       "popularity": {
-        "score": 166.2,
-        "pageviews_365d": 192,
+        "score": 166.4,
+        "pageviews_365d": 193,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -14693,40 +14433,6 @@
       }
     },
     {
-      "id": "wd-Q22132754",
-      "title": "Pissaro - Heumahd",
-      "year": "1885",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Pissaro_-_Heumahd.jpeg/960px-Pissaro_-_Heumahd.jpeg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Pissaro_-_Heumahd.jpeg",
-      "width": 4110,
-      "height": 3210,
-      "tags": [],
-      "popularity": {
-        "score": 6.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 1
-      },
-      "meta": {
-        "Collection": "Albertina"
-      },
-      "extras": {
-        "qid": "Q22132754",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 17.7,
-          "width_cm": 25.2
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "repro from artbook",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q20538488",
       "title": "Poultry Market at Gisors",
       "year": "1885",
@@ -14964,8 +14670,8 @@
       "height": 4632,
       "tags": [],
       "popularity": {
-        "score": 170,
-        "pageviews_365d": 218,
+        "score": 170.1,
+        "pageviews_365d": 219,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -15203,8 +14909,8 @@
       "height": 640,
       "tags": [],
       "popularity": {
-        "score": 270,
-        "pageviews_365d": 4430,
+        "score": 270.1,
+        "pageviews_365d": 4444,
         "sitelinks": 6,
         "globalusage": 57
       },
@@ -15304,8 +15010,8 @@
       "height": 3240,
       "tags": [],
       "popularity": {
-        "score": 272.3,
-        "pageviews_365d": 4703,
+        "score": 272.4,
+        "pageviews_365d": 4726,
         "sitelinks": 7,
         "globalusage": 54
       },
@@ -15435,7 +15141,7 @@
       "tags": [],
       "popularity": {
         "score": 192.8,
-        "pageviews_365d": 673,
+        "pageviews_365d": 674,
         "sitelinks": 1,
         "globalusage": 9
       },
@@ -15466,8 +15172,8 @@
       "height": 5508,
       "tags": [],
       "popularity": {
-        "score": 200.7,
-        "pageviews_365d": 544,
+        "score": 200.9,
+        "pageviews_365d": 548,
         "sitelinks": 2,
         "globalusage": 24
       },
@@ -15534,8 +15240,8 @@
       "height": 4021,
       "tags": [],
       "popularity": {
-        "score": 184.3,
-        "pageviews_365d": 290,
+        "score": 184.5,
+        "pageviews_365d": 292,
         "sitelinks": 1,
         "globalusage": 34
       },
@@ -15560,41 +15266,6 @@
       }
     },
     {
-      "id": "wd-Q20809804",
-      "title": "Summer Landscape, Eragny",
-      "year": "1887",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Summer_Landscape%2C_Eragny.jpg/960px-Summer_Landscape%2C_Eragny.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Summer_Landscape%2C_Eragny.jpg",
-      "width": 1500,
-      "height": 1238,
-      "tags": [],
-      "popularity": {
-        "score": 22,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 8
-      },
-      "meta": {
-        "Collection": "Philadelphia Museum of Art",
-        "Series": "eragny"
-      },
-      "extras": {
-        "qid": "Q20809804",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 55.9,
-          "width_cm": 66
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.philamuseum.org/collections/permanent/58453.html\">www.philamuseum.org</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q29842733",
       "title": "The pea harvest",
       "year": "1887",
@@ -15605,7 +15276,7 @@
       "tags": [],
       "popularity": {
         "score": 178.7,
-        "pageviews_365d": 334,
+        "pageviews_365d": 335,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -15624,40 +15295,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "Google Images",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q42894185",
-      "title": "View from my Window",
-      "year": "1887",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Camille_Pissarro_-_View_from_my_Window%2C_%C3%89ragny-sur-Epte_%281888%29.jpg/960px-Camille_Pissarro_-_View_from_my_Window%2C_%C3%89ragny-sur-Epte_%281888%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Camille_Pissarro_-_View_from_my_Window%2C_%C3%89ragny-sur-Epte_%281888%29.jpg",
-      "width": 5904,
-      "height": 4704,
-      "tags": [],
-      "popularity": {
-        "score": 23,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 9
-      },
-      "meta": {
-        "Collection": "Ashmolean Museum"
-      },
-      "extras": {
-        "qid": "Q42894185",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 65,
-          "width_cm": 81
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.ashmolean.org/education/resources/resources2011/resource/index.php?id=71\">Ashmolean Museum, web site</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -15739,8 +15376,8 @@
       "height": 6960,
       "tags": [],
       "popularity": {
-        "score": 182.8,
-        "pageviews_365d": 210,
+        "score": 183,
+        "pageviews_365d": 211,
         "sitelinks": 2,
         "globalusage": 44
       },
@@ -15807,8 +15444,8 @@
       "height": 3300,
       "tags": [],
       "popularity": {
-        "score": 157.6,
-        "pageviews_365d": 158,
+        "score": 157.8,
+        "pageviews_365d": 159,
         "sitelinks": 1,
         "globalusage": 10
       },
@@ -15841,8 +15478,8 @@
       "height": 1836,
       "tags": [],
       "popularity": {
-        "score": 165.9,
-        "pageviews_365d": 185,
+        "score": 166,
+        "pageviews_365d": 186,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -15898,6 +15535,40 @@
       }
     },
     {
+      "id": "wd-Q22132754",
+      "title": "Pissaro - Heumahd",
+      "year": "1889",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Pissaro_-_Heumahd.jpeg/960px-Pissaro_-_Heumahd.jpeg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Pissaro_-_Heumahd.jpeg",
+      "width": 4110,
+      "height": 3210,
+      "tags": [],
+      "popularity": {
+        "score": 6.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 1
+      },
+      "meta": {
+        "Collection": "Albertina"
+      },
+      "extras": {
+        "qid": "Q22132754",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 17.7,
+          "width_cm": 25.2
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "repro from artbook",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q124172715",
       "title": "Pruniers en fleur, Pontoise - Himeji City Museum of Art (PD 865)",
       "year": "1889",
@@ -15942,8 +15613,8 @@
       "height": 1321,
       "tags": [],
       "popularity": {
-        "score": 190,
-        "pageviews_365d": 373,
+        "score": 190.1,
+        "pageviews_365d": 374,
         "sitelinks": 1,
         "globalusage": 32
       },
@@ -15976,8 +15647,8 @@
       "height": 2009,
       "tags": [],
       "popularity": {
-        "score": 159.4,
-        "pageviews_365d": 176,
+        "score": 159.5,
+        "pageviews_365d": 177,
         "sitelinks": 1,
         "globalusage": 9
       },
@@ -16078,8 +15749,8 @@
       "height": 736,
       "tags": [],
       "popularity": {
-        "score": 179.4,
-        "pageviews_365d": 247,
+        "score": 179.5,
+        "pageviews_365d": 248,
         "sitelinks": 1,
         "globalusage": 31
       },
@@ -16112,8 +15783,8 @@
       "height": 2596,
       "tags": [],
       "popularity": {
-        "score": 190.8,
-        "pageviews_365d": 390,
+        "score": 191.1,
+        "pageviews_365d": 394,
         "sitelinks": 1,
         "globalusage": 31
       },
@@ -16199,6 +15870,41 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com/lot/lot-camille-pissarro-1830-1903-femme-poussant-une-brouette-5775888/\">https://www.christies.com/lot/lot-camille-pissarro-1830-1903-femme-poussant-une-brouette-5775888/</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q20190255",
+      "title": "Hampton Court Green",
+      "year": "1890",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Camille_Pissarro%2C_Hampton_Court_Green%2C_1891%2C_NGA_52197.jpg/960px-Camille_Pissarro%2C_Hampton_Court_Green%2C_1891%2C_NGA_52197.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/11/Camille_Pissarro%2C_Hampton_Court_Green%2C_1891%2C_NGA_52197.jpg",
+      "width": 4000,
+      "height": 2943,
+      "tags": [],
+      "popularity": {
+        "score": 22,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 8
+      },
+      "meta": {
+        "Collection": "National Gallery of Art"
+      },
+      "extras": {
+        "qid": "Q20190255",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 54.3,
+          "width_cm": 73
+        },
+        "iiif": "https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=52197",
+        "license": {
+          "short_name": "CC0",
+          "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "usage_terms": "Creative Commons Zero, Public Domain Dedication",
+          "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -16401,38 +16107,6 @@
       }
     },
     {
-      "id": "wd-Q135968432",
-      "title": "PAYSAGE",
-      "year": "1890",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/08/Camille_Pissarro-_PAYSAGE.PNG",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/0/08/Camille_Pissarro-_PAYSAGE.PNG",
-      "width": 942,
-      "height": 384,
-      "tags": [],
-      "popularity": {
-        "score": 13.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 3
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q135968432",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 4.25,
-          "width_cm": 10.125
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.sothebys.com/en/auctions/ecatalogue/2017/impressionist-modern-art-day-sale-n09741/lot.436.html\">http://www.sothebys.com/en/auctions/ecatalogue/2017/impressionist-modern-art-day-sale-n09741/lot.436.html</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q77468545",
       "title": "Peasants in the Fields, Éragny",
       "year": "1890",
@@ -16472,8 +16146,8 @@
       "height": 3613,
       "tags": [],
       "popularity": {
-        "score": 170.5,
-        "pageviews_365d": 241,
+        "score": 170.6,
+        "pageviews_365d": 242,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -16524,40 +16198,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "Longview Museum of Fine Arts",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q19911649",
-      "title": "Two Young Peasant Women",
-      "year": "1890",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Camille_Pissarro_Two_Young_Peasant_Women_The_Metropolitan_Museum_of_Art.jpg/960px-Camille_Pissarro_Two_Young_Peasant_Women_The_Metropolitan_Museum_of_Art.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Camille_Pissarro_Two_Young_Peasant_Women_The_Metropolitan_Museum_of_Art.jpg",
-      "width": 5952,
-      "height": 4581,
-      "tags": [],
-      "popularity": {
-        "score": 168.2,
-        "pageviews_365d": 166,
-        "sitelinks": 1,
-        "globalusage": 27
-      },
-      "meta": {
-        "Collection": "Metropolitan Museum of Art"
-      },
-      "extras": {
-        "qid": "Q19911649",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 89.5,
-          "width_cm": 116.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://metmuseum.org/collection/the-collection-online/search/437304?=&amp;imgNo=0&amp;tabName=object-information\">Metropolitan Museum of Art</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -16641,8 +16281,8 @@
       "height": 628,
       "tags": [],
       "popularity": {
-        "score": 172.6,
-        "pageviews_365d": 262,
+        "score": 172.7,
+        "pageviews_365d": 263,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -16657,41 +16297,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com/lotfinder/lot_details.aspx?intObjectID=4654131&amp;lid=1\">https://www.christies.com/lotfinder/lot_details.aspx?intObjectID=4654131&amp;lid=1</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q20190255",
-      "title": "Hampton Court Green",
-      "year": "1891",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Camille_Pissarro%2C_Hampton_Court_Green%2C_1891%2C_NGA_52197.jpg/960px-Camille_Pissarro%2C_Hampton_Court_Green%2C_1891%2C_NGA_52197.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/1/11/Camille_Pissarro%2C_Hampton_Court_Green%2C_1891%2C_NGA_52197.jpg",
-      "width": 4000,
-      "height": 2943,
-      "tags": [],
-      "popularity": {
-        "score": 22,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 8
-      },
-      "meta": {
-        "Collection": "National Gallery of Art"
-      },
-      "extras": {
-        "qid": "Q20190255",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 54.3,
-          "width_cm": 73
-        },
-        "iiif": "https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=52197",
-        "license": {
-          "short_name": "CC0",
-          "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "usage_terms": "Creative Commons Zero, Public Domain Dedication",
-          "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -17541,8 +17146,8 @@
       "height": 4551,
       "tags": [],
       "popularity": {
-        "score": 161.7,
-        "pageviews_365d": 174,
+        "score": 161.8,
+        "pageviews_365d": 175,
         "sitelinks": 1,
         "globalusage": 12
       },
@@ -17974,8 +17579,8 @@
       "height": 1989,
       "tags": [],
       "popularity": {
-        "score": 137.6,
-        "pageviews_365d": 62,
+        "score": 138.4,
+        "pageviews_365d": 64,
         "sitelinks": 2,
         "globalusage": 9
       },
@@ -18278,7 +17883,7 @@
       "tags": [],
       "popularity": {
         "score": 195,
-        "pageviews_365d": 734,
+        "pageviews_365d": 735,
         "sitelinks": 1,
         "globalusage": 9
       },
@@ -18411,8 +18016,8 @@
       "height": 600,
       "tags": [],
       "popularity": {
-        "score": 164,
-        "pageviews_365d": 171,
+        "score": 164.1,
+        "pageviews_365d": 172,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -18602,40 +18207,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://wpi.art/2019/01/08/pissarro/\">https://wpi.art/2019/01/08/pissarro/</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q20271014",
-      "title": "Woman Bathing Her Feet in a Brook",
-      "year": "1894",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Fodbad.jpg/960px-Fodbad.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Fodbad.jpg",
-      "width": 2877,
-      "height": 2250,
-      "tags": [],
-      "popularity": {
-        "score": 165.5,
-        "pageviews_365d": 182,
-        "sitelinks": 1,
-        "globalusage": 16
-      },
-      "meta": {
-        "Collection": "Art Institute of Chicago"
-      },
-      "extras": {
-        "qid": "Q20271014",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 73,
-          "width_cm": 92
-        },
-        "license": {
-          "short_name": "CC0",
-          "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "usage_terms": "Creative Commons Zero, Public Domain Dedication",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.artic.edu/aic/collections/artwork/153799\">http://www.artic.edu/aic/collections/artwork/153799</a> 2. upload: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/153799/woman-bathing-her-feet-in-a-brook?q=camille+Pissarro\">https://www.artic.edu/artworks/153799/woman-bathing-her-feet-in-a-brook?q=camille+Pissarro</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -19054,8 +18625,8 @@
       "height": 3722,
       "tags": [],
       "popularity": {
-        "score": 211.3,
-        "pageviews_365d": 829,
+        "score": 211.4,
+        "pageviews_365d": 830,
         "sitelinks": 1,
         "globalusage": 37
       },
@@ -19395,7 +18966,7 @@
       "tags": [],
       "popularity": {
         "score": 259.9,
-        "pageviews_365d": 3273,
+        "pageviews_365d": 3282,
         "sitelinks": 6,
         "globalusage": 44
       },
@@ -19491,7 +19062,7 @@
       "tags": [],
       "popularity": {
         "score": 287.1,
-        "pageviews_365d": 7278,
+        "pageviews_365d": 7301,
         "sitelinks": 11,
         "globalusage": 53
       },
@@ -19524,8 +19095,8 @@
       "height": 773,
       "tags": [],
       "popularity": {
-        "score": 194.3,
-        "pageviews_365d": 391,
+        "score": 194.4,
+        "pageviews_365d": 393,
         "sitelinks": 2,
         "globalusage": 29
       },
@@ -19659,8 +19230,8 @@
       "height": 1464,
       "tags": [],
       "popularity": {
-        "score": 171.7,
-        "pageviews_365d": 181,
+        "score": 172,
+        "pageviews_365d": 183,
         "sitelinks": 1,
         "globalusage": 31
       },
@@ -19691,8 +19262,8 @@
       "height": 3186,
       "tags": [],
       "popularity": {
-        "score": 258.2,
-        "pageviews_365d": 3501,
+        "score": 258.3,
+        "pageviews_365d": 3513,
         "sitelinks": 8,
         "globalusage": 24
       },
@@ -19931,7 +19502,7 @@
       "tags": [],
       "popularity": {
         "score": 228.1,
-        "pageviews_365d": 2014,
+        "pageviews_365d": 2018,
         "sitelinks": 1,
         "globalusage": 21
       },
@@ -20031,8 +19602,8 @@
       "height": 5085,
       "tags": [],
       "popularity": {
-        "score": 275.4,
-        "pageviews_365d": 6895,
+        "score": 275.5,
+        "pageviews_365d": 6916,
         "sitelinks": 7,
         "globalusage": 28
       },
@@ -20102,8 +19673,8 @@
       "height": 2697,
       "tags": [],
       "popularity": {
-        "score": 268.1,
-        "pageviews_365d": 3187,
+        "score": 268.3,
+        "pageviews_365d": 3213,
         "sitelinks": 6,
         "globalusage": 108
       },
@@ -20171,8 +19742,8 @@
       "height": 3383,
       "tags": [],
       "popularity": {
-        "score": 222.8,
-        "pageviews_365d": 1180,
+        "score": 222.9,
+        "pageviews_365d": 1183,
         "sitelinks": 2,
         "globalusage": 32
       },
@@ -20518,8 +20089,8 @@
       "height": 3000,
       "tags": [],
       "popularity": {
-        "score": 259.7,
-        "pageviews_365d": 3199,
+        "score": 259.8,
+        "pageviews_365d": 3212,
         "sitelinks": 7,
         "globalusage": 40
       },
@@ -20587,7 +20158,7 @@
       "tags": [],
       "popularity": {
         "score": 239.6,
-        "pageviews_365d": 2734,
+        "pageviews_365d": 2738,
         "sitelinks": 4,
         "globalusage": 12
       },
@@ -20620,10 +20191,10 @@
       "height": 4931,
       "tags": [],
       "popularity": {
-        "score": 292.7,
-        "pageviews_365d": 13862,
+        "score": 292.5,
+        "pageviews_365d": 13888,
         "sitelinks": 5,
-        "globalusage": 37
+        "globalusage": 36
       },
       "meta": {
         "Collection": "National Gallery",
@@ -20655,8 +20226,8 @@
       "height": 3042,
       "tags": [],
       "popularity": {
-        "score": 285.9,
-        "pageviews_365d": 7797,
+        "score": 286,
+        "pageviews_365d": 7833,
         "sitelinks": 5,
         "globalusage": 80
       },
@@ -20959,8 +20530,8 @@
       "height": 5142,
       "tags": [],
       "popularity": {
-        "score": 249.2,
-        "pageviews_365d": 4235,
+        "score": 249.3,
+        "pageviews_365d": 4254,
         "sitelinks": 2,
         "globalusage": 18
       },
@@ -21194,7 +20765,7 @@
       "tags": [],
       "popularity": {
         "score": 243,
-        "pageviews_365d": 2071,
+        "pageviews_365d": 2073,
         "sitelinks": 2,
         "globalusage": 60
       },
@@ -21227,8 +20798,8 @@
       "height": 6030,
       "tags": [],
       "popularity": {
-        "score": 244.8,
-        "pageviews_365d": 2540,
+        "score": 244.9,
+        "pageviews_365d": 2545,
         "sitelinks": 5,
         "globalusage": 21
       },
@@ -21428,7 +20999,7 @@
       "tags": [],
       "popularity": {
         "score": 260.5,
-        "pageviews_365d": 3772,
+        "pageviews_365d": 3777,
         "sitelinks": 4,
         "globalusage": 46
       },
@@ -22069,7 +21640,7 @@
       "tags": [],
       "popularity": {
         "score": 194.2,
-        "pageviews_365d": 317,
+        "pageviews_365d": 318,
         "sitelinks": 2,
         "globalusage": 49
       },
@@ -22136,8 +21707,8 @@
       "height": 3028,
       "tags": [],
       "popularity": {
-        "score": 254.4,
-        "pageviews_365d": 3338,
+        "score": 254.5,
+        "pageviews_365d": 3349,
         "sitelinks": 5,
         "globalusage": 28
       },
@@ -22736,41 +22307,6 @@
       }
     },
     {
-      "id": "wd-Q20189613",
-      "title": "The Gardener - Old Peasant with Cabbage",
-      "year": "1900",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/The_Gardener_-_Old_Peasant_with_Cabbage.jpg/960px-The_Gardener_-_Old_Peasant_with_Cabbage.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/3/36/The_Gardener_-_Old_Peasant_with_Cabbage.jpg",
-      "width": 3189,
-      "height": 4000,
-      "tags": [],
-      "popularity": {
-        "score": 23,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 9
-      },
-      "meta": {
-        "Collection": "National Gallery of Art"
-      },
-      "extras": {
-        "qid": "Q20189613",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 81.5,
-          "width_cm": 65
-        },
-        "iiif": "https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=89683",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.nga.gov/content/ngaweb/Collection/art-object-page.89683.html\">www.nga.gov</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q17493008",
       "title": "The laundry Bazincourt",
       "year": "1900",
@@ -23018,8 +22554,8 @@
       "height": 349,
       "tags": [],
       "popularity": {
-        "score": 163.5,
-        "pageviews_365d": 172,
+        "score": 163.6,
+        "pageviews_365d": 173,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -23180,8 +22716,8 @@
       "height": 815,
       "tags": [],
       "popularity": {
-        "score": 178.7,
-        "pageviews_365d": 339,
+        "score": 178.8,
+        "pageviews_365d": 341,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -23283,7 +22819,7 @@
       "tags": [],
       "popularity": {
         "score": 284.4,
-        "pageviews_365d": 6871,
+        "pageviews_365d": 6892,
         "sitelinks": 10,
         "globalusage": 51
       },
@@ -23486,8 +23022,8 @@
       "height": 585,
       "tags": [],
       "popularity": {
-        "score": 165,
-        "pageviews_365d": 158,
+        "score": 165.2,
+        "pageviews_365d": 159,
         "sitelinks": 1,
         "globalusage": 22
       },
@@ -23521,8 +23057,8 @@
       "height": 2017,
       "tags": [],
       "popularity": {
-        "score": 177.3,
-        "pageviews_365d": 308,
+        "score": 177.6,
+        "pageviews_365d": 311,
         "sitelinks": 2,
         "globalusage": 9
       },
@@ -23621,8 +23157,8 @@
       "height": 637,
       "tags": [],
       "popularity": {
-        "score": 229.2,
-        "pageviews_365d": 2109,
+        "score": 229.4,
+        "pageviews_365d": 2122,
         "sitelinks": 1,
         "globalusage": 21
       },
@@ -23757,8 +23293,8 @@
       "height": 1043,
       "tags": [],
       "popularity": {
-        "score": 155.8,
-        "pageviews_365d": 167,
+        "score": 156,
+        "pageviews_365d": 168,
         "sitelinks": 1,
         "globalusage": 7
       },
@@ -23822,7 +23358,7 @@
       "tags": [],
       "popularity": {
         "score": 211.1,
-        "pageviews_365d": 1106,
+        "pageviews_365d": 1109,
         "sitelinks": 2,
         "globalusage": 11
       },
@@ -24158,8 +23694,8 @@
       "height": 2543,
       "tags": [],
       "popularity": {
-        "score": 164.5,
-        "pageviews_365d": 184,
+        "score": 164.7,
+        "pageviews_365d": 185,
         "sitelinks": 1,
         "globalusage": 14
       },
@@ -24340,6 +23876,41 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://wpi.art/2019/01/08/pissarro/\">https://wpi.art/2019/01/08/pissarro/</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q20809804",
+      "title": "Summer Landscape, Eragny",
+      "year": "1902",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Summer_Landscape%2C_Eragny.jpg/960px-Summer_Landscape%2C_Eragny.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Summer_Landscape%2C_Eragny.jpg",
+      "width": 1500,
+      "height": 1238,
+      "tags": [],
+      "popularity": {
+        "score": 22,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 8
+      },
+      "meta": {
+        "Collection": "Philadelphia Museum of Art",
+        "Series": "eragny"
+      },
+      "extras": {
+        "qid": "Q20809804",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 55.9,
+          "width_cm": 66
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.philamuseum.org/collections/permanent/58453.html\">www.philamuseum.org</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -24726,8 +24297,8 @@
       "height": 4966,
       "tags": [],
       "popularity": {
-        "score": 204.8,
-        "pageviews_365d": 455,
+        "score": 204.9,
+        "pageviews_365d": 458,
         "sitelinks": 3,
         "globalusage": 43
       },
@@ -24794,8 +24365,8 @@
       "height": 3456,
       "tags": [],
       "popularity": {
-        "score": 156.5,
-        "pageviews_365d": 176,
+        "score": 156.9,
+        "pageviews_365d": 179,
         "sitelinks": 2,
         "globalusage": 4
       },
@@ -24931,8 +24502,8 @@
       "height": 1580,
       "tags": [],
       "popularity": {
-        "score": 192.1,
-        "pageviews_365d": 518,
+        "score": 192.2,
+        "pageviews_365d": 519,
         "sitelinks": 2,
         "globalusage": 11
       },
@@ -25203,8 +24774,8 @@
       "height": 1668,
       "tags": [],
       "popularity": {
-        "score": 221.1,
-        "pageviews_365d": 1781,
+        "score": 221.2,
+        "pageviews_365d": 1782,
         "sitelinks": 1,
         "globalusage": 14
       },
@@ -25236,7 +24807,7 @@
       "tags": [],
       "popularity": {
         "score": 197.1,
-        "pageviews_365d": 834,
+        "pageviews_365d": 836,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -25291,34 +24862,6 @@
           "usage_terms": "Public domain",
           "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
           "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q135971363",
-      "title": "Threshing Machine",
-      "year": "1903",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/59/Camille-Pissarro-The-Threshing-Machine-.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/5/59/Camille-Pissarro-The-Threshing-Machine-.jpg",
-      "width": 492,
-      "height": 400,
-      "tags": [],
-      "popularity": {
-        "score": 19.5,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 6
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q135971363",
-        "source": "wikidata",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.wholesaleoilpainting.com/cgi-bin/enlarge3.cgi?cat=oil_artist_p&amp;ProductName=Camille+Pissarro+The+Threshing+Machine+&amp;ProductID=Camille-Pissarro-The-Threshing-Machine-&amp;Artist\">http://www.wholesaleoilpainting.com/cgi-bin/enlarge3.cgi?cat=oil_artist_p&amp;ProductName=Camille+Pissarro+The+Threshing+Machine+&amp;ProductID=Camille-Pissarro-The-Threshing-Machine-&amp;Artist</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
     },
@@ -25451,6 +24994,40 @@
       }
     },
     {
+      "id": "wd-Q91350176",
+      "title": "Farm at Montfoucault in Snow",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Camille_Pissarro_-_Ferme_%C3%A0_Montfoucault%2C_effet_de_neige_%281875-76%29.jpg/960px-Camille_Pissarro_-_Ferme_%C3%A0_Montfoucault%2C_effet_de_neige_%281875-76%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/97/Camille_Pissarro_-_Ferme_%C3%A0_Montfoucault%2C_effet_de_neige_%281875-76%29.jpg",
+      "width": 4825,
+      "height": 3945,
+      "tags": [],
+      "popularity": {
+        "score": 17.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 5
+      },
+      "meta": {
+        "Collection": "Ashmolean Museum"
+      },
+      "extras": {
+        "qid": "Q91350176",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 46,
+          "width_cm": 55
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://collections.ashmolean.org/object/373342\">Ashmolean Museum</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q128333433",
       "title": "Farmyard",
       "year": null,
@@ -25461,7 +25038,7 @@
       "tags": [],
       "popularity": {
         "score": 186.2,
-        "pageviews_365d": 391,
+        "pageviews_365d": 392,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -25474,6 +25051,40 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.wikiart.org/en/camille-pissarro\">https://www.wikiart.org/en/camille-pissarro</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q21758937",
+      "title": "Festival at L'Hermitage",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Camille_Pissarro_-_Festival_at_L%27Hermitage.jpg/960px-Camille_Pissarro_-_Festival_at_L%27Hermitage.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/75/Camille_Pissarro_-_Festival_at_L%27Hermitage.jpg",
+      "width": 8124,
+      "height": 6858,
+      "tags": [],
+      "popularity": {
+        "score": 22,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 8
+      },
+      "meta": {
+        "Collection": "Courtauld Institute of Art"
+      },
+      "extras": {
+        "qid": "Q21758937",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 46.1,
+          "width_cm": 55.1
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://gallerycollections.courtauld.ac.uk/object-p-1978-pg-318\">Courtauld Gallery</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -25586,8 +25197,8 @@
       "height": 3200,
       "tags": [],
       "popularity": {
-        "score": 170.7,
-        "pageviews_365d": 210,
+        "score": 170.9,
+        "pageviews_365d": 212,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -25600,6 +25211,36 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com/lotfinder/lot_details.aspx?intObjectID=5971808&amp;lid=1&amp;From=searchresults&amp;sid=2819d702-7a7f-4d36-8df9-c0b0136d197e\">https://www.christies.com/lotfinder/lot_details.aspx?intObjectID=5971808&amp;lid=1&amp;From=searchresults&amp;sid=2819d702-7a7f-4d36-8df9-c0b0136d197e</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q21281161",
+      "title": "Market scene at the Plaza Mayor, Caracas",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/65/Plaza_Mayor%2C_Caracas_-_Camille_Pissarro.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/65/Plaza_Mayor%2C_Caracas_-_Camille_Pissarro.jpg",
+      "width": 900,
+      "height": 1110,
+      "tags": [],
+      "popularity": {
+        "score": 168.4,
+        "pageviews_365d": 184,
+        "sitelinks": 1,
+        "globalusage": 21
+      },
+      "meta": {
+        "Collection": "La Casona"
+      },
+      "extras": {
+        "qid": "Q21281161",
+        "source": "wikidata",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "“Enciclopedia Salvat de Venezuela”, 1986",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -25630,6 +25271,38 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://wpi.art/2019/01/08/pissarro/\">https://wpi.art/2019/01/08/pissarro/</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q135968432",
+      "title": "PAYSAGE",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/08/Camille_Pissarro-_PAYSAGE.PNG",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/08/Camille_Pissarro-_PAYSAGE.PNG",
+      "width": 942,
+      "height": 384,
+      "tags": [],
+      "popularity": {
+        "score": 13.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 3
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q135968432",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 4.25,
+          "width_cm": 10.125
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.sothebys.com/en/auctions/ecatalogue/2017/impressionist-modern-art-day-sale-n09741/lot.436.html\">http://www.sothebys.com/en/auctions/ecatalogue/2017/impressionist-modern-art-day-sale-n09741/lot.436.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -25692,6 +25365,40 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.wikiart.org/en/camille-pissarro\">https://www.wikiart.org/en/camille-pissarro</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q57585934",
+      "title": "Portrait of a boy",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Camille_Pissarro%2C_Portr%C3%A6t_af_en_dreng%2C_1852-1855.jpg/960px-Camille_Pissarro%2C_Portr%C3%A6t_af_en_dreng%2C_1852-1855.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Camille_Pissarro%2C_Portr%C3%A6t_af_en_dreng%2C_1852-1855.jpg",
+      "width": 5267,
+      "height": 6449,
+      "tags": [],
+      "popularity": {
+        "score": 228.5,
+        "pageviews_365d": 1983,
+        "sitelinks": 3,
+        "globalusage": 11
+      },
+      "meta": {
+        "Collection": "Ordrupgaard"
+      },
+      "extras": {
+        "qid": "Q57585934",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 37,
+          "width_cm": 30
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.mynewsdesk.com/dk/bruun-rasmussen-kunstauktioner/images/camille-pissarro-portraet-af-en-dreng-1305614\">http://www.mynewsdesk.com/dk/bruun-rasmussen-kunstauktioner/images/camille-pissarro-portraet-af-en-dreng-1305614</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -25789,6 +25496,34 @@
       }
     },
     {
+      "id": "wd-Q117834363",
+      "title": "Seaside View",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/17/Pissarro_-_Pissarro_and_Durand-Ruel_Snollaerts%2C_11.png",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/17/Pissarro_-_Pissarro_and_Durand-Ruel_Snollaerts%2C_11.png",
+      "width": 600,
+      "height": 330,
+      "tags": [],
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q117834363",
+        "source": "wikidata",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://view.publitas.com/wildenstein-plattner-institute-ol46yv9z6qv6/c-r_camille_pissarro_volume_ii_wildenstein_institute/page/58-59\">https://view.publitas.com/wildenstein-plattner-institute-ol46yv9z6qv6/c-r_camille_pissarro_volume_ii_wildenstein_institute/page/58-59</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q105417702",
       "title": "Sitting farmer",
       "year": null,
@@ -25816,6 +25551,103 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com/lotfinder/lot_details.aspx?intObjectID=6283416\">https://www.christies.com/lotfinder/lot_details.aspx?intObjectID=6283416</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q20189613",
+      "title": "The Gardener - Old Peasant with Cabbage",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/The_Gardener_-_Old_Peasant_with_Cabbage.jpg/960px-The_Gardener_-_Old_Peasant_with_Cabbage.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/36/The_Gardener_-_Old_Peasant_with_Cabbage.jpg",
+      "width": 3189,
+      "height": 4000,
+      "tags": [],
+      "popularity": {
+        "score": 23,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 9
+      },
+      "meta": {
+        "Collection": "National Gallery of Art"
+      },
+      "extras": {
+        "qid": "Q20189613",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 81.5,
+          "width_cm": 65
+        },
+        "iiif": "https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=89683",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.nga.gov/content/ngaweb/Collection/art-object-page.89683.html\">www.nga.gov</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q135971363",
+      "title": "Threshing Machine",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/59/Camille-Pissarro-The-Threshing-Machine-.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/59/Camille-Pissarro-The-Threshing-Machine-.jpg",
+      "width": 492,
+      "height": 400,
+      "tags": [],
+      "popularity": {
+        "score": 19.5,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 6
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q135971363",
+        "source": "wikidata",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.wholesaleoilpainting.com/cgi-bin/enlarge3.cgi?cat=oil_artist_p&amp;ProductName=Camille+Pissarro+The+Threshing+Machine+&amp;ProductID=Camille-Pissarro-The-Threshing-Machine-&amp;Artist\">http://www.wholesaleoilpainting.com/cgi-bin/enlarge3.cgi?cat=oil_artist_p&amp;ProductName=Camille+Pissarro+The+Threshing+Machine+&amp;ProductID=Camille-Pissarro-The-Threshing-Machine-&amp;Artist</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q19911649",
+      "title": "Two Young Peasant Women",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Camille_Pissarro_Two_Young_Peasant_Women_The_Metropolitan_Museum_of_Art.jpg/960px-Camille_Pissarro_Two_Young_Peasant_Women_The_Metropolitan_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Camille_Pissarro_Two_Young_Peasant_Women_The_Metropolitan_Museum_of_Art.jpg",
+      "width": 5952,
+      "height": 4581,
+      "tags": [],
+      "popularity": {
+        "score": 168.4,
+        "pageviews_365d": 167,
+        "sitelinks": 1,
+        "globalusage": 27
+      },
+      "meta": {
+        "Collection": "Metropolitan Museum of Art"
+      },
+      "extras": {
+        "qid": "Q19911649",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 89.5,
+          "width_cm": 116.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://metmuseum.org/collection/the-collection-online/search/437304?=&amp;imgNo=0&amp;tabName=object-information\">Metropolitan Museum of Art</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -25853,11 +25685,179 @@
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
+    },
+    {
+      "id": "wd-Q42894185",
+      "title": "View from my Window",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Camille_Pissarro_-_View_from_my_Window%2C_%C3%89ragny-sur-Epte_%281888%29.jpg/960px-Camille_Pissarro_-_View_from_my_Window%2C_%C3%89ragny-sur-Epte_%281888%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Camille_Pissarro_-_View_from_my_Window%2C_%C3%89ragny-sur-Epte_%281888%29.jpg",
+      "width": 5904,
+      "height": 4704,
+      "tags": [],
+      "popularity": {
+        "score": 23,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 9
+      },
+      "meta": {
+        "Collection": "Ashmolean Museum"
+      },
+      "extras": {
+        "qid": "Q42894185",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 65,
+          "width_cm": 81
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.ashmolean.org/education/resources/resources2011/resource/index.php?id=71\">Ashmolean Museum, web site</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q21240779",
+      "title": "Village at the Foot of a Hill",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Camille_Pissarro_-_Village_au_pied_d%27une.jpg/960px-Camille_Pissarro_-_Village_au_pied_d%27une.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/38/Camille_Pissarro_-_Village_au_pied_d%27une.jpg",
+      "width": 3200,
+      "height": 2454,
+      "tags": [],
+      "popularity": {
+        "score": 174.4,
+        "pageviews_365d": 227,
+        "sitelinks": 1,
+        "globalusage": 23
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q21240779",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 24.1,
+          "width_cm": 20.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a href=\"https://en.wikipedia.org/wiki/Christie%27s\" class=\"extiw\" title=\"en:Christie's\">Christie's</a>, LotFinder:  entry  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.christies.com/LotFinder/lot_details.aspx?intObjectID=5554032\">5554032</a> (sale 2556, lot 314, New York, 2 May 2012)",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q62054746",
+      "title": "Village Scene",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Camille_Pissarro_-_Sc%C3%A8ne_villageoise_%281854-55%29.jpg/960px-Camille_Pissarro_-_Sc%C3%A8ne_villageoise_%281854-55%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Camille_Pissarro_-_Sc%C3%A8ne_villageoise_%281854-55%29.jpg",
+      "width": 3000,
+      "height": 2403,
+      "tags": [],
+      "popularity": {
+        "score": 173.1,
+        "pageviews_365d": 223,
+        "sitelinks": 1,
+        "globalusage": 21
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q62054746",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 23.5,
+          "width_cm": 30.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.kollerauktionen.ch/de/asp/fullCatalogue.asp?salelot=Z37+++++3207+&amp;refno=++503236&amp;saletype=\">Koller Auktionen, Zürich, 25 December 2014, Auktion Z37, Los 3207</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q17494832",
+      "title": "Winter Landscape at Louveciennes",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Camille_pissarro%2C_paesaggio_invernale_a_louveciennes%2C_1870_ca.JPG/960px-Camille_pissarro%2C_paesaggio_invernale_a_louveciennes%2C_1870_ca.JPG",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Camille_pissarro%2C_paesaggio_invernale_a_louveciennes%2C_1870_ca.JPG",
+      "width": 2372,
+      "height": 2064,
+      "tags": [],
+      "popularity": {
+        "score": 17.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 5
+      },
+      "meta": {
+        "Collection": "Musée d'Orsay",
+        "Series": "louveciennes"
+      },
+      "extras": {
+        "qid": "Q17494832",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 37,
+          "width_cm": 46
+        },
+        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!395/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q20271014",
+      "title": "Woman Bathing Her Feet in a Brook",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Fodbad.jpg/960px-Fodbad.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Fodbad.jpg",
+      "width": 2877,
+      "height": 2250,
+      "tags": [],
+      "popularity": {
+        "score": 165.6,
+        "pageviews_365d": 183,
+        "sitelinks": 1,
+        "globalusage": 16
+      },
+      "meta": {
+        "Collection": "Art Institute of Chicago"
+      },
+      "extras": {
+        "qid": "Q20271014",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 73,
+          "width_cm": 92
+        },
+        "license": {
+          "short_name": "CC0",
+          "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "usage_terms": "Creative Commons Zero, Public Domain Dedication",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.artic.edu/aic/collections/artwork/153799\">http://www.artic.edu/aic/collections/artwork/153799</a> 2. upload: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/153799/woman-bathing-her-feet-in-a-brook?q=camille+Pissarro\">https://www.artic.edu/artworks/153799/woman-bathing-her-feet-in-a-brook?q=camille+Pissarro</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
     }
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-06-01T11:30:08.768Z",
+    "generated": "2026-06-03T06:20:29.804Z",
     "artist": {
       "qid": "Q134741",
       "name": "Camille Pissarro",

@@ -373,8 +373,8 @@
       "height": 3888,
       "tags": [],
       "popularity": {
-        "score": 208.1,
-        "pageviews_365d": 1120,
+        "score": 208.3,
+        "pageviews_365d": 1126,
         "sitelinks": 1,
         "globalusage": 12
       },
@@ -1537,38 +1537,6 @@
       }
     },
     {
-      "id": "wd-Q19968488",
-      "title": "The Embrace",
-      "year": "1885",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Anders_Zorn_-_The_Embrace_1882-83.jpg/960px-Anders_Zorn_-_The_Embrace_1882-83.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/6/61/Anders_Zorn_-_The_Embrace_1882-83.jpg",
-      "width": 3000,
-      "height": 2198,
-      "tags": [],
-      "popularity": {
-        "score": 19.5,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 6
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q19968488",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 13,
-          "width_cm": 18
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.bukowskis.com/?locale=en\">Bukowskis</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q18720372",
       "title": "The Love Nymph",
       "year": "1885",
@@ -1911,8 +1879,8 @@
       "height": 3077,
       "tags": [],
       "popularity": {
-        "score": 200.4,
-        "pageviews_365d": 679,
+        "score": 200.5,
+        "pageviews_365d": 681,
         "sitelinks": 2,
         "globalusage": 13
       },
@@ -1980,8 +1948,8 @@
       "height": 1902,
       "tags": [],
       "popularity": {
-        "score": 302,
-        "pageviews_365d": 13439,
+        "score": 302.1,
+        "pageviews_365d": 13490,
         "sitelinks": 7,
         "globalusage": 77
       },
@@ -2047,8 +2015,8 @@
       "height": 2371,
       "tags": [],
       "popularity": {
-        "score": 186.4,
-        "pageviews_365d": 426,
+        "score": 186.5,
+        "pageviews_365d": 428,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -2068,38 +2036,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=24167&amp;viewType=detailView\"> Nationalmuseum</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q19962520",
-      "title": "Alameda de Apodaca (Street) in Cádiz",
-      "year": "1887",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anders_Zorn_-_Alamedan_i_C%C3%A1diz_1887.jpg/960px-Anders_Zorn_-_Alamedan_i_C%C3%A1diz_1887.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Anders_Zorn_-_Alamedan_i_C%C3%A1diz_1887.jpg",
-      "width": 1944,
-      "height": 2500,
-      "tags": [],
-      "popularity": {
-        "score": 16.1,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 4
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q19962520",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 26,
-          "width_cm": 20.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://auktionsverket.com/\">Stockholms Auktionsverk</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
         }
       }
@@ -2208,8 +2144,8 @@
       "height": 652,
       "tags": [],
       "popularity": {
-        "score": 186.7,
-        "pageviews_365d": 591,
+        "score": 186.8,
+        "pageviews_365d": 593,
         "sitelinks": 2,
         "globalusage": 4
       },
@@ -2489,7 +2425,7 @@
       "tags": [],
       "popularity": {
         "score": 205.8,
-        "pageviews_365d": 1089,
+        "pageviews_365d": 1090,
         "sitelinks": 1,
         "globalusage": 10
       },
@@ -2613,7 +2549,7 @@
       "tags": [],
       "popularity": {
         "score": 261.1,
-        "pageviews_365d": 4116,
+        "pageviews_365d": 4127,
         "sitelinks": 4,
         "globalusage": 39
       },
@@ -3062,8 +2998,8 @@
       "height": 1585,
       "tags": [],
       "popularity": {
-        "score": 194.6,
-        "pageviews_365d": 632,
+        "score": 194.7,
+        "pageviews_365d": 634,
         "sitelinks": 3,
         "globalusage": 6
       },
@@ -3161,7 +3097,7 @@
       "tags": [],
       "popularity": {
         "score": 203.5,
-        "pageviews_365d": 817,
+        "pageviews_365d": 818,
         "sitelinks": 3,
         "globalusage": 8
       },
@@ -3249,36 +3185,6 @@
       }
     },
     {
-      "id": "wd-Q19961810",
-      "title": "The Bathers",
-      "year": "1889",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Anders_Zorn_-_Les_baigneuses..jpg/960px-Anders_Zorn_-_Les_baigneuses..jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Anders_Zorn_-_Les_baigneuses..jpg",
-      "width": 995,
-      "height": 1484,
-      "tags": [],
-      "popularity": {
-        "score": 17.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 5
-      },
-      "meta": {
-        "Collection": "Zorn Collections"
-      },
-      "extras": {
-        "qid": "Q19961810",
-        "source": "wikidata",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "Unknown source<span style=\"display: none;\">Unknown source</span>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q133864275",
       "title": "The Schwartz Girls drawing",
       "year": "1889",
@@ -3308,37 +3214,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.musee-orsay.fr/en/artworks/les-demoiselles-schwartz-dessinant-201337\">Musée d'Orsay</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q106369274",
-      "title": "A Fan With the Salomon Sisters",
-      "year": "1890",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Anders_Zorn_-_A_Fan_With_the_Salomon_Sisters_-_NMB_1954_-_Nationalmuseum.jpg/960px-Anders_Zorn_-_A_Fan_With_the_Salomon_Sisters_-_NMB_1954_-_Nationalmuseum.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/0/00/Anders_Zorn_-_A_Fan_With_the_Salomon_Sisters_-_NMB_1954_-_Nationalmuseum.jpg",
-      "width": 1000,
-      "height": 525,
-      "tags": [],
-      "popularity": {
-        "score": 17.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 5
-      },
-      "meta": {
-        "Collection": "Nationalmuseum"
-      },
-      "extras": {
-        "qid": "Q106369274",
-        "source": "wikidata",
-        "iiif": "http://nationalmuseumse.iiifhosting.com/iiif/ed3323aa9fbcf1f0c63762bb9d2a100b70d96f27071232aa0cb900de80caf15//manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=25899&amp;viewType=detailView\">Nationalmuseum</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
         }
       }
@@ -3452,7 +3327,7 @@
       "tags": [],
       "popularity": {
         "score": 218.7,
-        "pageviews_365d": 1500,
+        "pageviews_365d": 1503,
         "sitelinks": 2,
         "globalusage": 11
       },
@@ -3988,7 +3863,7 @@
       "tags": [],
       "popularity": {
         "score": 251,
-        "pageviews_365d": 4750,
+        "pageviews_365d": 4756,
         "sitelinks": 2,
         "globalusage": 16
       },
@@ -4021,8 +3896,8 @@
       "height": 1557,
       "tags": [],
       "popularity": {
-        "score": 209.2,
-        "pageviews_365d": 1250,
+        "score": 209.3,
+        "pageviews_365d": 1254,
         "sitelinks": 1,
         "globalusage": 10
       },
@@ -4116,41 +3991,6 @@
       }
     },
     {
-      "id": "wd-Q18601560",
-      "title": "Omnibus",
-      "year": "1891",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Anders_Zorn_Omnibus.jpg/960px-Anders_Zorn_Omnibus.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Anders_Zorn_Omnibus.jpg",
-      "width": 2351,
-      "height": 3556,
-      "tags": [],
-      "popularity": {
-        "score": 271.5,
-        "pageviews_365d": 6164,
-        "sitelinks": 7,
-        "globalusage": 25
-      },
-      "meta": {
-        "Collection": "Nationalmuseum"
-      },
-      "extras": {
-        "qid": "Q18601560",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 99.5,
-          "width_cm": 66
-        },
-        "iiif": "http://nationalmuseumse.iiifhosting.com/iiif/d67147ae98861af1fcfa5d94fe09e05ee1ccb307690eb0a3f7084690257dea5a/manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.artefakt-berlin.de/aktuelle-projekte/anders-zorn.html#pressematerial\">http://www.artefakt-berlin.de/aktuelle-projekte/anders-zorn.html#pressematerial</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q38232836",
       "title": "Opal",
       "year": "1891",
@@ -4191,7 +4031,7 @@
       "tags": [],
       "popularity": {
         "score": 233.4,
-        "pageviews_365d": 2590,
+        "pageviews_365d": 2592,
         "sitelinks": 3,
         "globalusage": 9
       },
@@ -4251,42 +4091,6 @@
       }
     },
     {
-      "id": "wd-Q18601366",
-      "title": "Study of a Nude",
-      "year": "1891",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Study_of_a_Nude_%28Anders_Zorn%29_-_Nationalmuseum_-_23725.tif/lossy-page1-960px-Study_of_a_Nude_%28Anders_Zorn%29_-_Nationalmuseum_-_23725.tif.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/2/22/Study_of_a_Nude_%28Anders_Zorn%29_-_Nationalmuseum_-_23725.tif",
-      "width": 3568,
-      "height": 2776,
-      "tags": [],
-      "popularity": {
-        "score": 22,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 8
-      },
-      "meta": {
-        "Collection": "Nationalmuseum",
-        "Series": "bathing"
-      },
-      "extras": {
-        "qid": "Q18601366",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 24.5,
-          "width_cm": 31
-        },
-        "iiif": "http://nationalmuseumse.iiifhosting.com/iiif/4fe353b9bca8934f5f3f0ed53d3e48153cdf69bc336c78b2b68d181e704142bd/manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=23725&amp;viewType=detailView\">  Erik Cornelius / Nationalmuseum</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q110064351",
       "title": "Sunday morning",
       "year": "1891",
@@ -4296,8 +4100,8 @@
       "height": 6963,
       "tags": [],
       "popularity": {
-        "score": 221.7,
-        "pageviews_365d": 2340,
+        "score": 221.8,
+        "pageviews_365d": 2349,
         "sitelinks": 1,
         "globalusage": 7
       },
@@ -4360,8 +4164,8 @@
       "height": 2500,
       "tags": [],
       "popularity": {
-        "score": 256.2,
-        "pageviews_365d": 4475,
+        "score": 256.3,
+        "pageviews_365d": 4486,
         "sitelinks": 4,
         "globalusage": 19
       },
@@ -4425,8 +4229,8 @@
       "height": 3000,
       "tags": [],
       "popularity": {
-        "score": 203.3,
-        "pageviews_365d": 704,
+        "score": 203.4,
+        "pageviews_365d": 708,
         "sitelinks": 2,
         "globalusage": 16
       },
@@ -4499,6 +4303,41 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "Illustrated catalogue of the art and literary collections of Miss Emilie Grigsby of New York City",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q18601560",
+      "title": "Omnibus",
+      "year": "1892",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Anders_Zorn_Omnibus.jpg/960px-Anders_Zorn_Omnibus.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Anders_Zorn_Omnibus.jpg",
+      "width": 2351,
+      "height": 3556,
+      "tags": [],
+      "popularity": {
+        "score": 271.6,
+        "pageviews_365d": 6177,
+        "sitelinks": 7,
+        "globalusage": 25
+      },
+      "meta": {
+        "Collection": "Nationalmuseum"
+      },
+      "extras": {
+        "qid": "Q18601560",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 99.5,
+          "width_cm": 66
+        },
+        "iiif": "http://nationalmuseumse.iiifhosting.com/iiif/d67147ae98861af1fcfa5d94fe09e05ee1ccb307690eb0a3f7084690257dea5a/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.artefakt-berlin.de/aktuelle-projekte/anders-zorn.html#pressematerial\">http://www.artefakt-berlin.de/aktuelle-projekte/anders-zorn.html#pressematerial</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
         }
       }
@@ -4611,8 +4450,8 @@
       "height": 1381,
       "tags": [],
       "popularity": {
-        "score": 198.1,
-        "pageviews_365d": 962,
+        "score": 198.2,
+        "pageviews_365d": 963,
         "sitelinks": 1,
         "globalusage": 6
       },
@@ -4796,40 +4635,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "Elizabeth Anne McCauley: Gondola days",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q78673166",
-      "title": "Halsey Cooley Ives",
-      "year": "1894",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Anders_Leonard_Zorn_-_Halsey_Cooley_Ives_-_1828-1981_-_Saint_Louis_Art_Museum.jpg/960px-Anders_Leonard_Zorn_-_Halsey_Cooley_Ives_-_1828-1981_-_Saint_Louis_Art_Museum.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/4/44/Anders_Leonard_Zorn_-_Halsey_Cooley_Ives_-_1828-1981_-_Saint_Louis_Art_Museum.jpg",
-      "width": 3056,
-      "height": 3784,
-      "tags": [],
-      "popularity": {
-        "score": 24.8,
-        "pageviews_365d": 0,
-        "sitelinks": 1,
-        "globalusage": 5
-      },
-      "meta": {
-        "Collection": "Saint Louis Art Museum"
-      },
-      "extras": {
-        "qid": "Q78673166",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 32,
-          "width_cm": 26
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.slam.org/collection/objects/11596/\">https://www.slam.org/collection/objects/11596/</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
         }
       }
@@ -5039,10 +4844,10 @@
       "height": 3000,
       "tags": [],
       "popularity": {
-        "score": 22,
+        "score": 23,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 8
+        "globalusage": 9
       },
       "meta": {
         "Collection": "Art Institute of Chicago"
@@ -5339,7 +5144,7 @@
       "tags": [],
       "popularity": {
         "score": 278,
-        "pageviews_365d": 9928,
+        "pageviews_365d": 9965,
         "sitelinks": 5,
         "globalusage": 19
       },
@@ -5724,8 +5529,8 @@
       "height": 5849,
       "tags": [],
       "popularity": {
-        "score": 227.2,
-        "pageviews_365d": 1407,
+        "score": 227.3,
+        "pageviews_365d": 1411,
         "sitelinks": 2,
         "globalusage": 32
       },
@@ -6504,8 +6309,8 @@
       "height": 1056,
       "tags": [],
       "popularity": {
-        "score": 249.4,
-        "pageviews_365d": 3081,
+        "score": 249.5,
+        "pageviews_365d": 3085,
         "sitelinks": 2,
         "globalusage": 42
       },
@@ -6754,38 +6559,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://kokoelmat.fng.fi/app?si=A+II+817\">http://kokoelmat.fng.fi/app?si=A+II+817</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q19961791",
-      "title": "In Gopsmor",
-      "year": "1905",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Zorn_In_Gopsmor_1905.jpg/960px-Zorn_In_Gopsmor_1905.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/d/de/Zorn_In_Gopsmor_1905.jpg",
-      "width": 3215,
-      "height": 4172,
-      "tags": [],
-      "popularity": {
-        "score": 19.5,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 6
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q19961791",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 108,
-          "width_cm": 84
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.uppsalaauktion.se/objekt107332/anders_zorn.html\">http://www.uppsalaauktion.se/objekt107332/anders_zorn.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
         }
       }
@@ -7616,7 +7389,7 @@
       "tags": [],
       "popularity": {
         "score": 230.3,
-        "pageviews_365d": 1359,
+        "pageviews_365d": 1360,
         "sitelinks": 2,
         "globalusage": 48
       },
@@ -7873,8 +7646,8 @@
       "height": 1600,
       "tags": [],
       "popularity": {
-        "score": 193.4,
-        "pageviews_365d": 586,
+        "score": 193.6,
+        "pageviews_365d": 590,
         "sitelinks": 2,
         "globalusage": 9
       },
@@ -7995,8 +7768,8 @@
       "height": 5064,
       "tags": [],
       "popularity": {
-        "score": 231.3,
-        "pageviews_365d": 1826,
+        "score": 231.5,
+        "pageviews_365d": 1839,
         "sitelinks": 2,
         "globalusage": 25
       },
@@ -8295,7 +8068,7 @@
       "tags": [],
       "popularity": {
         "score": 210.5,
-        "pageviews_365d": 987,
+        "pageviews_365d": 989,
         "sitelinks": 2,
         "globalusage": 14
       },
@@ -8310,38 +8083,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.artefakt-berlin.de/aktuelle-projekte/anders-zorn.html#pressematerial\">http://www.artefakt-berlin.de/aktuelle-projekte/anders-zorn.html#pressematerial</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q19961803",
-      "title": "red stocking",
-      "year": "1914",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Anders_Zorn_-_R%C3%B6d_strumpa.jpg/960px-Anders_Zorn_-_R%C3%B6d_strumpa.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Anders_Zorn_-_R%C3%B6d_strumpa.jpg",
-      "width": 2097,
-      "height": 2815,
-      "tags": [],
-      "popularity": {
-        "score": 26.4,
-        "pageviews_365d": 0,
-        "sitelinks": 1,
-        "globalusage": 6
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q19961803",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 120.5,
-          "width_cm": 90
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.bukowskis.com/auctions/568/90-anders-zorn-rod-strumpa\">Bukowskis</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
         }
       }
@@ -9462,66 +9203,6 @@
       }
     },
     {
-      "id": "wd-Q125546401",
-      "title": "I Top Capu",
-      "year": "1920",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/29/Anders_Zorn_-_I_Top_Capu.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/2/29/Anders_Zorn_-_I_Top_Capu.jpg",
-      "width": 380,
-      "height": 725,
-      "tags": [],
-      "popularity": {
-        "score": 16.1,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 4
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q125546401",
-        "source": "wikidata",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://en.wahooart.com/A55A04/w.nsf/OPRA/BRUE-8BWMVQ\">http://en.wahooart.com/A55A04/w.nsf/OPRA/BRUE-8BWMVQ</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q110788291",
-      "title": "Mrs. Symons",
-      "year": "1920",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/83/Anders_Zorn_-_Mrs._Symons.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/8/83/Anders_Zorn_-_Mrs._Symons.jpg",
-      "width": 635,
-      "height": 800,
-      "tags": [],
-      "popularity": {
-        "score": 26.4,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 13
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q110788291",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 315,
-          "width_cm": 248.9
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://en.wahooart.com/A55A04/w.nsf/OPRA/BRUE-8BWMWJ\">http://en.wahooart.com/A55A04/w.nsf/OPRA/BRUE-8BWMWJ</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q125546924",
       "title": "Peeling potatoes",
       "year": "1920",
@@ -9554,41 +9235,13 @@
       }
     },
     {
-      "id": "wd-Q125547479",
-      "title": "Spetssöm",
-      "year": "1920",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Anders_Zorn_-_Spetss%C3%B6m.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Anders_Zorn_-_Spetss%C3%B6m.jpg",
-      "width": 928,
-      "height": 800,
-      "tags": [],
-      "popularity": {
-        "score": 13.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 3
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q125547479",
-        "source": "wikidata",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://en.wahooart.com/A55A04/w.nsf/OPRA/BRUE-8BWMX4\">http://en.wahooart.com/A55A04/w.nsf/OPRA/BRUE-8BWMX4</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q125547508",
-      "title": "Vita liljor",
-      "year": "1920",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Anders_Zorn_-_Vita_liljor.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Anders_Zorn_-_Vita_liljor.jpg",
-      "width": 550,
-      "height": 800,
+      "id": "wd-Q106369274",
+      "title": "A Fan With the Salomon Sisters",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Anders_Zorn_-_A_Fan_With_the_Salomon_Sisters_-_NMB_1954_-_Nationalmuseum.jpg/960px-Anders_Zorn_-_A_Fan_With_the_Salomon_Sisters_-_NMB_1954_-_Nationalmuseum.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/00/Anders_Zorn_-_A_Fan_With_the_Salomon_Sisters_-_NMB_1954_-_Nationalmuseum.jpg",
+      "width": 1000,
+      "height": 525,
       "tags": [],
       "popularity": {
         "score": 17.9,
@@ -9596,15 +9249,50 @@
         "sitelinks": 0,
         "globalusage": 5
       },
-      "meta": {},
+      "meta": {
+        "Collection": "Nationalmuseum"
+      },
       "extras": {
-        "qid": "Q125547508",
+        "qid": "Q106369274",
         "source": "wikidata",
+        "iiif": "http://nationalmuseumse.iiifhosting.com/iiif/ed3323aa9fbcf1f0c63762bb9d2a100b70d96f27071232aa0cb900de80caf15//manifest.json",
         "license": {
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://en.wahooart.com/A55A04/w.nsf/OPRA/BRUE-8BWMXB\">http://en.wahooart.com/A55A04/w.nsf/OPRA/BRUE-8BWMXB</a>",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=25899&amp;viewType=detailView\">Nationalmuseum</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q19962520",
+      "title": "Alameda de Apodaca (Street) in Cádiz",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anders_Zorn_-_Alamedan_i_C%C3%A1diz_1887.jpg/960px-Anders_Zorn_-_Alamedan_i_C%C3%A1diz_1887.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Anders_Zorn_-_Alamedan_i_C%C3%A1diz_1887.jpg",
+      "width": 1944,
+      "height": 2500,
+      "tags": [],
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q19962520",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 26,
+          "width_cm": 20.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://auktionsverket.com/\">Stockholms Auktionsverk</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
         }
       }
@@ -9720,6 +9408,100 @@
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sothebys.com/en/buy/auction/2020/european-british-art/girl-from-mora-skiing\">https://www.sothebys.com/en/buy/auction/2020/european-british-art/girl-from-mora-skiing</a>",
           "artist": "<div class=\"fn value\">\nAnders Zorn</div>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q78673166",
+      "title": "Halsey Cooley Ives",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Anders_Leonard_Zorn_-_Halsey_Cooley_Ives_-_1828-1981_-_Saint_Louis_Art_Museum.jpg/960px-Anders_Leonard_Zorn_-_Halsey_Cooley_Ives_-_1828-1981_-_Saint_Louis_Art_Museum.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/44/Anders_Leonard_Zorn_-_Halsey_Cooley_Ives_-_1828-1981_-_Saint_Louis_Art_Museum.jpg",
+      "width": 3056,
+      "height": 3784,
+      "tags": [],
+      "popularity": {
+        "score": 24.8,
+        "pageviews_365d": 0,
+        "sitelinks": 1,
+        "globalusage": 5
+      },
+      "meta": {
+        "Collection": "Saint Louis Art Museum"
+      },
+      "extras": {
+        "qid": "Q78673166",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 32,
+          "width_cm": 26
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.slam.org/collection/objects/11596/\">https://www.slam.org/collection/objects/11596/</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q125546401",
+      "title": "I Top Capu",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/29/Anders_Zorn_-_I_Top_Capu.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/29/Anders_Zorn_-_I_Top_Capu.jpg",
+      "width": 380,
+      "height": 725,
+      "tags": [],
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q125546401",
+        "source": "wikidata",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://en.wahooart.com/A55A04/w.nsf/OPRA/BRUE-8BWMVQ\">http://en.wahooart.com/A55A04/w.nsf/OPRA/BRUE-8BWMVQ</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q19961791",
+      "title": "In Gopsmor",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Zorn_In_Gopsmor_1905.jpg/960px-Zorn_In_Gopsmor_1905.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/de/Zorn_In_Gopsmor_1905.jpg",
+      "width": 3215,
+      "height": 4172,
+      "tags": [],
+      "popularity": {
+        "score": 19.5,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 6
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q19961791",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 108,
+          "width_cm": 84
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.uppsalaauktion.se/objekt107332/anders_zorn.html\">http://www.uppsalaauktion.se/objekt107332/anders_zorn.html</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
         }
       }
     },
@@ -9901,6 +9683,38 @@
       }
     },
     {
+      "id": "wd-Q110788291",
+      "title": "Mrs. Symons",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/83/Anders_Zorn_-_Mrs._Symons.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/83/Anders_Zorn_-_Mrs._Symons.jpg",
+      "width": 635,
+      "height": 800,
+      "tags": [],
+      "popularity": {
+        "score": 26.4,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 13
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q110788291",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 315,
+          "width_cm": 248.9
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://en.wahooart.com/A55A04/w.nsf/OPRA/BRUE-8BWMWJ\">http://en.wahooart.com/A55A04/w.nsf/OPRA/BRUE-8BWMWJ</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q111182804",
       "title": "Nude",
       "year": null,
@@ -9958,6 +9772,38 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfa.org/collections/object/richard-teller-crane-576716\">https://www.mfa.org/collections/object/richard-teller-crane-576716</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q19961803",
+      "title": "red stocking",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Anders_Zorn_-_R%C3%B6d_strumpa.jpg/960px-Anders_Zorn_-_R%C3%B6d_strumpa.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Anders_Zorn_-_R%C3%B6d_strumpa.jpg",
+      "width": 2097,
+      "height": 2815,
+      "tags": [],
+      "popularity": {
+        "score": 26.4,
+        "pageviews_365d": 0,
+        "sitelinks": 1,
+        "globalusage": 6
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q19961803",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 120.5,
+          "width_cm": 90
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.bukowskis.com/auctions/568/90-anders-zorn-rod-strumpa\">Bukowskis</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
         }
       }
@@ -10025,11 +9871,165 @@
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
         }
       }
+    },
+    {
+      "id": "wd-Q125547479",
+      "title": "Spetssöm",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Anders_Zorn_-_Spetss%C3%B6m.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Anders_Zorn_-_Spetss%C3%B6m.jpg",
+      "width": 928,
+      "height": 800,
+      "tags": [],
+      "popularity": {
+        "score": 13.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 3
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q125547479",
+        "source": "wikidata",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://en.wahooart.com/A55A04/w.nsf/OPRA/BRUE-8BWMX4\">http://en.wahooart.com/A55A04/w.nsf/OPRA/BRUE-8BWMX4</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q18601366",
+      "title": "Study of a Nude",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Study_of_a_Nude_%28Anders_Zorn%29_-_Nationalmuseum_-_23725.tif/lossy-page1-960px-Study_of_a_Nude_%28Anders_Zorn%29_-_Nationalmuseum_-_23725.tif.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/22/Study_of_a_Nude_%28Anders_Zorn%29_-_Nationalmuseum_-_23725.tif",
+      "width": 3568,
+      "height": 2776,
+      "tags": [],
+      "popularity": {
+        "score": 22,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 8
+      },
+      "meta": {
+        "Collection": "Nationalmuseum",
+        "Series": "bathing"
+      },
+      "extras": {
+        "qid": "Q18601366",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 24.5,
+          "width_cm": 31
+        },
+        "iiif": "http://nationalmuseumse.iiifhosting.com/iiif/4fe353b9bca8934f5f3f0ed53d3e48153cdf69bc336c78b2b68d181e704142bd/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=23725&amp;viewType=detailView\">  Erik Cornelius / Nationalmuseum</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q19961810",
+      "title": "The Bathers",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Anders_Zorn_-_Les_baigneuses..jpg/960px-Anders_Zorn_-_Les_baigneuses..jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Anders_Zorn_-_Les_baigneuses..jpg",
+      "width": 995,
+      "height": 1484,
+      "tags": [],
+      "popularity": {
+        "score": 17.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 5
+      },
+      "meta": {
+        "Collection": "Zorn Collections"
+      },
+      "extras": {
+        "qid": "Q19961810",
+        "source": "wikidata",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "Unknown source<span style=\"display: none;\">Unknown source</span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q19968488",
+      "title": "The Embrace",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Anders_Zorn_-_The_Embrace_1882-83.jpg/960px-Anders_Zorn_-_The_Embrace_1882-83.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/61/Anders_Zorn_-_The_Embrace_1882-83.jpg",
+      "width": 3000,
+      "height": 2198,
+      "tags": [],
+      "popularity": {
+        "score": 19.5,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 6
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q19968488",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 13,
+          "width_cm": 18
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.bukowskis.com/?locale=en\">Bukowskis</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q125547508",
+      "title": "Vita liljor",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Anders_Zorn_-_Vita_liljor.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Anders_Zorn_-_Vita_liljor.jpg",
+      "width": 550,
+      "height": 800,
+      "tags": [],
+      "popularity": {
+        "score": 17.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 5
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q125547508",
+        "source": "wikidata",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://en.wahooart.com/A55A04/w.nsf/OPRA/BRUE-8BWMXB\">http://en.wahooart.com/A55A04/w.nsf/OPRA/BRUE-8BWMXB</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
+        }
+      }
     }
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-06-01T11:53:42.822Z",
+    "generated": "2026-06-03T06:36:10.053Z",
     "artist": {
       "qid": "Q206820",
       "name": "Anders Zorn",

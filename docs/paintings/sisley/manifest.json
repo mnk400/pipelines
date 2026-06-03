@@ -3,40 +3,6 @@
   "name": "Alfred Sisley",
   "items": [
     {
-      "id": "wd-Q60036601",
-      "title": "Paysage - Alfred Sisley - MNP P004644",
-      "year": "1801",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Paysage_-_Alfred_Sisley_-_MNP_P004644.jpg/960px-Paysage_-_Alfred_Sisley_-_MNP_P004644.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/8/87/Paysage_-_Alfred_Sisley_-_MNP_P004644.jpg",
-      "width": 1876,
-      "height": 1337,
-      "tags": [],
-      "popularity": {
-        "score": 16.1,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 4
-      },
-      "meta": {
-        "Collection": "Museo del Prado"
-      },
-      "extras": {
-        "qid": "Q60036601",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 48,
-          "width_cm": 67
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.museodelprado.es/coleccion/obra-de-arte/paisaje/d2576082-a7d2-4e0a-9621-300ec4a888ac\">https://www.museodelprado.es/coleccion/obra-de-arte/paisaje/d2576082-a7d2-4e0a-9621-300ec4a888ac</a>",
-          "artist": "Alfred Sisley"
-        }
-      }
-    },
-    {
       "id": "wd-Q19820361",
       "title": "Avenue of Chestnut Trees in La Celle-Saint-Cloud",
       "year": "1865",
@@ -46,8 +12,8 @@
       "height": 2103,
       "tags": [],
       "popularity": {
-        "score": 276,
-        "pageviews_365d": 5368,
+        "score": 276.1,
+        "pageviews_365d": 5388,
         "sitelinks": 9,
         "globalusage": 45
       },
@@ -285,8 +251,8 @@
       "height": 3510,
       "tags": [],
       "popularity": {
-        "score": 192.6,
-        "pageviews_365d": 439,
+        "score": 192.8,
+        "pageviews_365d": 442,
         "sitelinks": 2,
         "globalusage": 18
       },
@@ -319,8 +285,8 @@
       "height": 940,
       "tags": [],
       "popularity": {
-        "score": 165.3,
-        "pageviews_365d": 183,
+        "score": 166.4,
+        "pageviews_365d": 191,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -420,7 +386,7 @@
       "tags": [],
       "popularity": {
         "score": 251.7,
-        "pageviews_365d": 3328,
+        "pageviews_365d": 3338,
         "sitelinks": 6,
         "globalusage": 18
       },
@@ -652,8 +618,8 @@
       "height": 602,
       "tags": [],
       "popularity": {
-        "score": 270,
-        "pageviews_365d": 5624,
+        "score": 270.1,
+        "pageviews_365d": 5641,
         "sitelinks": 8,
         "globalusage": 24
       },
@@ -849,7 +815,7 @@
       "tags": [],
       "popularity": {
         "score": 235.7,
-        "pageviews_365d": 2206,
+        "pageviews_365d": 2212,
         "sitelinks": 4,
         "globalusage": 14
       },
@@ -1185,8 +1151,8 @@
       "height": 1671,
       "tags": [],
       "popularity": {
-        "score": 250.1,
-        "pageviews_365d": 3200,
+        "score": 250.2,
+        "pageviews_365d": 3206,
         "sitelinks": 5,
         "globalusage": 20
       },
@@ -1325,7 +1291,7 @@
       "tags": [],
       "popularity": {
         "score": 205.6,
-        "pageviews_365d": 1011,
+        "pageviews_365d": 1012,
         "sitelinks": 1,
         "globalusage": 12
       },
@@ -1360,7 +1326,7 @@
       "tags": [],
       "popularity": {
         "score": 207.1,
-        "pageviews_365d": 869,
+        "pageviews_365d": 870,
         "sitelinks": 3,
         "globalusage": 10
       },
@@ -1428,8 +1394,8 @@
       "height": 1352,
       "tags": [],
       "popularity": {
-        "score": 255.7,
-        "pageviews_365d": 3694,
+        "score": 255.8,
+        "pageviews_365d": 3701,
         "sitelinks": 6,
         "globalusage": 21
       },
@@ -1497,8 +1463,8 @@
       "height": 4429,
       "tags": [],
       "popularity": {
-        "score": 303.9,
-        "pageviews_365d": 12911,
+        "score": 304,
+        "pageviews_365d": 12953,
         "sitelinks": 10,
         "globalusage": 75
       },
@@ -1562,8 +1528,8 @@
       "height": 757,
       "tags": [],
       "popularity": {
-        "score": 247.3,
-        "pageviews_365d": 2549,
+        "score": 247.4,
+        "pageviews_365d": 2553,
         "sitelinks": 6,
         "globalusage": 23
       },
@@ -1631,8 +1597,8 @@
       "height": 800,
       "tags": [],
       "popularity": {
-        "score": 235.1,
-        "pageviews_365d": 2359,
+        "score": 235.2,
+        "pageviews_365d": 2367,
         "sitelinks": 4,
         "globalusage": 11
       },
@@ -1733,8 +1699,8 @@
       "height": 751,
       "tags": [],
       "popularity": {
-        "score": 189.9,
-        "pageviews_365d": 490,
+        "score": 190,
+        "pageviews_365d": 493,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -1803,8 +1769,8 @@
       "height": 480,
       "tags": [],
       "popularity": {
-        "score": 245.8,
-        "pageviews_365d": 2284,
+        "score": 245.9,
+        "pageviews_365d": 2296,
         "sitelinks": 6,
         "globalusage": 26
       },
@@ -1903,8 +1869,8 @@
       "height": 2595,
       "tags": [],
       "popularity": {
-        "score": 258.4,
-        "pageviews_365d": 4786,
+        "score": 258.5,
+        "pageviews_365d": 4800,
         "sitelinks": 6,
         "globalusage": 14
       },
@@ -2067,7 +2033,7 @@
       "tags": [],
       "popularity": {
         "score": 220.8,
-        "pageviews_365d": 1077,
+        "pageviews_365d": 1078,
         "sitelinks": 2,
         "globalusage": 33
       },
@@ -2297,7 +2263,7 @@
       "tags": [],
       "popularity": {
         "score": 247.8,
-        "pageviews_365d": 4250,
+        "pageviews_365d": 4258,
         "sitelinks": 6,
         "globalusage": 6
       },
@@ -2702,8 +2668,8 @@
       "height": 1917,
       "tags": [],
       "popularity": {
-        "score": 258.7,
-        "pageviews_365d": 5644,
+        "score": 258.8,
+        "pageviews_365d": 5659,
         "sitelinks": 7,
         "globalusage": 8
       },
@@ -2790,42 +2756,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.impressionism.nl/sisley-overview-pictures/\">https://www.impressionism.nl/sisley-overview-pictures/</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q16038630",
-      "title": "Louveciennes. Sentier de la Mi-côte",
-      "year": "1873",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Louveciennes%2C_hauteurs_de_Marly%2C_Sisley.jpeg/960px-Louveciennes%2C_hauteurs_de_Marly%2C_Sisley.jpeg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/2/29/Louveciennes%2C_hauteurs_de_Marly%2C_Sisley.jpeg",
-      "width": 1179,
-      "height": 960,
-      "tags": [],
-      "popularity": {
-        "score": 197.7,
-        "pageviews_365d": 696,
-        "sitelinks": 2,
-        "globalusage": 9
-      },
-      "meta": {
-        "Collection": "Musée d'Orsay",
-        "Series": "marly"
-      },
-      "extras": {
-        "qid": "Q16038630",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 38,
-          "width_cm": 46.5
-        },
-        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!574/manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<span class=\"int-own-work\">Self-photographed</span> by <a href=\"//commons.wikimedia.org/wiki/User:R%C3%A9dacteur_Tibet\" title=\"User:Rédacteur Tibet\">Rédacteur Tibet</a>,",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
@@ -3333,8 +3263,8 @@
       "height": 494,
       "tags": [],
       "popularity": {
-        "score": 165.1,
-        "pageviews_365d": 206,
+        "score": 165.3,
+        "pageviews_365d": 208,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -3672,8 +3602,8 @@
       "height": 3902,
       "tags": [],
       "popularity": {
-        "score": 211,
-        "pageviews_365d": 900,
+        "score": 211.1,
+        "pageviews_365d": 901,
         "sitelinks": 1,
         "globalusage": 29
       },
@@ -3771,8 +3701,8 @@
       "height": 2597,
       "tags": [],
       "popularity": {
-        "score": 253.9,
-        "pageviews_365d": 3793,
+        "score": 254,
+        "pageviews_365d": 3804,
         "sitelinks": 4,
         "globalusage": 23
       },
@@ -4123,7 +4053,7 @@
         "qid": "Q23940226",
         "source": "wikidata",
         "dimensions": {
-          "height_cm": 55,
+          "height_cm": 55.88,
           "width_cm": 45.72
         },
         "license": {
@@ -4215,8 +4145,8 @@
       "height": 521,
       "tags": [],
       "popularity": {
-        "score": 196.2,
-        "pageviews_365d": 718,
+        "score": 196.3,
+        "pageviews_365d": 721,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -4314,8 +4244,8 @@
       "height": 3644,
       "tags": [],
       "popularity": {
-        "score": 244.8,
-        "pageviews_365d": 2840,
+        "score": 245.1,
+        "pageviews_365d": 2866,
         "sitelinks": 4,
         "globalusage": 19
       },
@@ -4349,8 +4279,8 @@
       "height": 635,
       "tags": [],
       "popularity": {
-        "score": 231,
-        "pageviews_365d": 2054,
+        "score": 231.1,
+        "pageviews_365d": 2065,
         "sitelinks": 3,
         "globalusage": 13
       },
@@ -4449,8 +4379,8 @@
       "height": 1805,
       "tags": [],
       "popularity": {
-        "score": 271.6,
-        "pageviews_365d": 5637,
+        "score": 271.7,
+        "pageviews_365d": 5656,
         "sitelinks": 8,
         "globalusage": 28
       },
@@ -4720,8 +4650,8 @@
       "height": 1702,
       "tags": [],
       "popularity": {
-        "score": 263.1,
-        "pageviews_365d": 3997,
+        "score": 263.2,
+        "pageviews_365d": 4013,
         "sitelinks": 7,
         "globalusage": 32
       },
@@ -4789,7 +4719,7 @@
       "tags": [],
       "popularity": {
         "score": 246,
-        "pageviews_365d": 2709,
+        "pageviews_365d": 2713,
         "sitelinks": 6,
         "globalusage": 17
       },
@@ -5191,7 +5121,7 @@
       "tags": [],
       "popularity": {
         "score": 255.9,
-        "pageviews_365d": 4568,
+        "pageviews_365d": 4577,
         "sitelinks": 3,
         "globalusage": 22
       },
@@ -5256,10 +5186,10 @@
       "height": 2590,
       "tags": [],
       "popularity": {
-        "score": 23,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 9
+        "globalusage": 8
       },
       "meta": {
         "Collection": "Art Institute of Chicago",
@@ -5419,8 +5349,8 @@
       "height": 2286,
       "tags": [],
       "popularity": {
-        "score": 260.2,
-        "pageviews_365d": 4208,
+        "score": 260.3,
+        "pageviews_365d": 4229,
         "sitelinks": 5,
         "globalusage": 28
       },
@@ -5825,8 +5755,8 @@
       "height": 219,
       "tags": [],
       "popularity": {
-        "score": 227.6,
-        "pageviews_365d": 2523,
+        "score": 227.8,
+        "pageviews_365d": 2538,
         "sitelinks": 3,
         "globalusage": 5
       },
@@ -6035,8 +5965,8 @@
       "height": 2179,
       "tags": [],
       "popularity": {
-        "score": 260,
-        "pageviews_365d": 4212,
+        "score": 260.1,
+        "pageviews_365d": 4226,
         "sitelinks": 9,
         "globalusage": 16
       },
@@ -6070,8 +6000,8 @@
       "height": 5046,
       "tags": [],
       "popularity": {
-        "score": 266.3,
-        "pageviews_365d": 4192,
+        "score": 266.4,
+        "pageviews_365d": 4207,
         "sitelinks": 6,
         "globalusage": 45
       },
@@ -6581,8 +6511,8 @@
       "height": 687,
       "tags": [],
       "popularity": {
-        "score": 221.3,
-        "pageviews_365d": 1868,
+        "score": 221.4,
+        "pageviews_365d": 1873,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -6782,7 +6712,7 @@
       "tags": [],
       "popularity": {
         "score": 281.5,
-        "pageviews_365d": 8618,
+        "pageviews_365d": 8642,
         "sitelinks": 8,
         "globalusage": 26
       },
@@ -7499,42 +7429,6 @@
       }
     },
     {
-      "id": "wd-Q17496036",
-      "title": "Street in Louveciennes",
-      "year": "1876",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Alfred_Sisley_058.jpg/960px-Alfred_Sisley_058.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/2/25/Alfred_Sisley_058.jpg",
-      "width": 1256,
-      "height": 1513,
-      "tags": [],
-      "popularity": {
-        "score": 22,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 8
-      },
-      "meta": {
-        "Collection": "Musée d'Orsay",
-        "Series": "marly"
-      },
-      "extras": {
-        "qid": "Q17496036",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 55,
-          "width_cm": 46
-        },
-        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!110454/manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q19057570",
       "title": "Street in Marly",
       "year": "1876",
@@ -7545,7 +7439,7 @@
       "tags": [],
       "popularity": {
         "score": 231,
-        "pageviews_365d": 2168,
+        "pageviews_365d": 2172,
         "sitelinks": 6,
         "globalusage": 6
       },
@@ -7820,8 +7714,8 @@
       "height": 1909,
       "tags": [],
       "popularity": {
-        "score": 265.2,
-        "pageviews_365d": 3109,
+        "score": 265.3,
+        "pageviews_365d": 3120,
         "sitelinks": 8,
         "globalusage": 67
       },
@@ -7889,8 +7783,8 @@
       "height": 410,
       "tags": [],
       "popularity": {
-        "score": 240.1,
-        "pageviews_365d": 2569,
+        "score": 240.2,
+        "pageviews_365d": 2576,
         "sitelinks": 4,
         "globalusage": 15
       },
@@ -8134,8 +8028,8 @@
       "height": 2052,
       "tags": [],
       "popularity": {
-        "score": 216.8,
-        "pageviews_365d": 1176,
+        "score": 217,
+        "pageviews_365d": 1184,
         "sitelinks": 4,
         "globalusage": 10
       },
@@ -8188,41 +8082,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.wikiart.org/ru/alfred-sisley\">https://www.wikiart.org/ru/alfred-sisley</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q19820342",
-      "title": "Boats on the Seine",
-      "year": "1877",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Sisley_-_Boats-On-The-Seine%2C-C.1877.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Sisley_-_Boats-On-The-Seine%2C-C.1877.jpg",
-      "width": 300,
-      "height": 250,
-      "tags": [],
-      "popularity": {
-        "score": 20.8,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 7
-      },
-      "meta": {
-        "Collection": "Courtauld Gallery",
-        "Series": "seine"
-      },
-      "extras": {
-        "qid": "Q19820342",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 37.2,
-          "width_cm": 44.3
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.alfredsisley.org/the-complete-works.html?ps=96&amp;pageno=9\">https://www.alfredsisley.org/the-complete-works.html?ps=96&amp;pageno=9</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
@@ -8740,8 +8599,8 @@
       "height": 2407,
       "tags": [],
       "popularity": {
-        "score": 254.7,
-        "pageviews_365d": 3403,
+        "score": 254.8,
+        "pageviews_365d": 3413,
         "sitelinks": 8,
         "globalusage": 18
       },
@@ -9385,8 +9244,8 @@
       "height": 4253,
       "tags": [],
       "popularity": {
-        "score": 249.1,
-        "pageviews_365d": 3199,
+        "score": 249.2,
+        "pageviews_365d": 3211,
         "sitelinks": 5,
         "globalusage": 18
       },
@@ -11045,41 +10904,6 @@
       }
     },
     {
-      "id": "wd-Q19820336",
-      "title": "Banks of the Seine at By",
-      "year": "1880",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alfred_Sisley_-_Banks_of_the_Seine_at_By_-_1955.534_-_Clark_Art_Institute.tiff/lossy-page1-960px-Alfred_Sisley_-_Banks_of_the_Seine_at_By_-_1955.534_-_Clark_Art_Institute.tiff.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/3/38/Alfred_Sisley_-_Banks_of_the_Seine_at_By_-_1955.534_-_Clark_Art_Institute.tiff",
-      "width": 6943,
-      "height": 4881,
-      "tags": [],
-      "popularity": {
-        "score": 11,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 2
-      },
-      "meta": {
-        "Collection": "Clark Art Institute",
-        "Series": "seine"
-      },
-      "extras": {
-        "qid": "Q19820336",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 54.3,
-          "width_cm": 73.3
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.clarkart.edu/ArtPiece/Detail/Banks-of-the-Seine-at-By\">Clark Art Institute</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q136457195",
       "title": "Catalogue de tableaux modernes aquarelles, pastels (1901) (14782171344)",
       "year": "1880",
@@ -11140,34 +10964,6 @@
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.kornfeld.ch/f365/d4101101480.html\">https://www.kornfeld.ch/f365/d4101101480.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q138290728",
-      "title": "Chemin de Veneux et les côteaux de la Celle",
-      "year": "1880",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Chemin_de_Veneux_et_les_coteaux_de_la_Celle_-_Alfred_Sisley.webp/960px-Chemin_de_Veneux_et_les_coteaux_de_la_Celle_-_Alfred_Sisley.webp.png",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Chemin_de_Veneux_et_les_coteaux_de_la_Celle_-_Alfred_Sisley.webp",
-      "width": 2880,
-      "height": 2193,
-      "tags": [],
-      "popularity": {
-        "score": 11,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 2
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q138290728",
-        "source": "wikidata",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sothebys.com/en/auctions/ecatalogue/2009/impressionist-modern-art-evening-sale-n08587/lot.40.html\">https://www.sothebys.com/en/auctions/ecatalogue/2009/impressionist-modern-art-evening-sale-n08587/lot.40.html</a>",
-          "artist": "Alfred Sisley"
         }
       }
     },
@@ -11430,41 +11226,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com/en/lot/lot-6553070\">https://www.christies.com/en/lot/lot-6553070</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q94702527",
-      "title": "La Seine à Saint Mammès",
-      "year": "1880",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/La_Seine_%C3%A0_Saint_Mamm%C3%A8s.jpg/960px-La_Seine_%C3%A0_Saint_Mamm%C3%A8s.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/e/ec/La_Seine_%C3%A0_Saint_Mamm%C3%A8s.jpg",
-      "width": 1920,
-      "height": 1465,
-      "tags": [],
-      "popularity": {
-        "score": 13.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 3
-      },
-      "meta": {
-        "Collection": "Muskegon Museum of Art",
-        "Series": "seine"
-      },
-      "extras": {
-        "qid": "Q94702527",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 50,
-          "width_cm": 63.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://muskegonartmuseum.org/art/collection/la-seine-a-st-mammes/\">https://muskegonartmuseum.org/art/collection/la-seine-a-st-mammes/</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
@@ -11802,41 +11563,6 @@
       }
     },
     {
-      "id": "wd-Q19820327",
-      "title": "Road along the Seine at Saint-Mammès",
-      "year": "1880",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Alfred_Sisley_-_Road_Along_the_Seine_at_Saint-Mammes_-_1985.R.69_-_Dallas_Museum_of_Art.jpg/960px-Alfred_Sisley_-_Road_Along_the_Seine_at_Saint-Mammes_-_1985.R.69_-_Dallas_Museum_of_Art.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Alfred_Sisley_-_Road_Along_the_Seine_at_Saint-Mammes_-_1985.R.69_-_Dallas_Museum_of_Art.jpg",
-      "width": 7093,
-      "height": 9406,
-      "tags": [],
-      "popularity": {
-        "score": 16.1,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 4
-      },
-      "meta": {
-        "Collection": "Dallas Museum of Art",
-        "Series": "seine"
-      },
-      "extras": {
-        "qid": "Q19820327",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 74,
-          "width_cm": 54
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://collections.dma.org/artwork/4240463\">Dallas Museum of Art</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q138160665",
       "title": "Saint-Mammès",
       "year": "1880",
@@ -12128,10 +11854,10 @@
       "height": 818,
       "tags": [],
       "popularity": {
-        "score": 262.1,
-        "pageviews_365d": 5257,
+        "score": 262.8,
+        "pageviews_365d": 5277,
         "sitelinks": 7,
-        "globalusage": 14
+        "globalusage": 15
       },
       "meta": {
         "Collection": "National Gallery"
@@ -12148,41 +11874,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.tate.org.uk/art/artworks/sisley-the-small-meadows-in-spring-n04843\">http://www.tate.org.uk/art/artworks/sisley-the-small-meadows-in-spring-n04843</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q17495766",
-      "title": "Snowy Weather at Veneux-Nadon",
-      "year": "1880",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Temps_de_neige_a_Veneux-Nadon.JPG/960px-Temps_de_neige_a_Veneux-Nadon.JPG",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Temps_de_neige_a_Veneux-Nadon.JPG",
-      "width": 2143,
-      "height": 1534,
-      "tags": [],
-      "popularity": {
-        "score": 23,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 9
-      },
-      "meta": {
-        "Collection": "Musée d'Orsay"
-      },
-      "extras": {
-        "qid": "Q17495766",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 83.7,
-          "width_cm": 104
-        },
-        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!611/manifest.json",
-        "license": {
-          "short_name": "CC BY-SA 4.0",
-          "url": "https://creativecommons.org/licenses/by-sa/4.0",
-          "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
-          "credit": "Orsay Museum, Paris, Bequest of Comte Isaac de Camondo",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
@@ -12323,8 +12014,8 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 215.3,
-        "pageviews_365d": 1042,
+        "score": 215.6,
+        "pageviews_365d": 1053,
         "sitelinks": 3,
         "globalusage": 15
       },
@@ -13962,8 +13653,8 @@
       "height": 1456,
       "tags": [],
       "popularity": {
-        "score": 208.9,
-        "pageviews_365d": 1191,
+        "score": 209,
+        "pageviews_365d": 1196,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -14133,7 +13824,7 @@
       "tags": [],
       "popularity": {
         "score": 203.9,
-        "pageviews_365d": 779,
+        "pageviews_365d": 781,
         "sitelinks": 2,
         "globalusage": 13
       },
@@ -14456,41 +14147,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://artuk.org/discover/artworks/the-loing-at-saint-mammes-86082\">Art UK</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q19913293",
-      "title": "The Road from Moret to Saint-Mammès",
-      "year": "1883",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Road_from_Moret_to_Saint-Mamm%C3%A8s_MET_DP323408.jpg/960px-The_Road_from_Moret_to_Saint-Mamm%C3%A8s_MET_DP323408.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/2/25/The_Road_from_Moret_to_Saint-Mamm%C3%A8s_MET_DP323408.jpg",
-      "width": 3919,
-      "height": 3198,
-      "tags": [],
-      "popularity": {
-        "score": 22,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 8
-      },
-      "meta": {
-        "Collection": "Metropolitan Museum of Art",
-        "Series": "moret"
-      },
-      "extras": {
-        "qid": "Q19913293",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 50.5,
-          "width_cm": 61.5
-        },
-        "license": {
-          "short_name": "CC0",
-          "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "usage_terms": "Creative Commons Zero, Public Domain Dedication",
-          "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
@@ -14874,16 +14530,16 @@
       "id": "wd-Q18683088",
       "title": "June Morning in Saint-Mammès",
       "year": "1884",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Alfred_Sisley_-_June_Morning_in_Saint-Mamm%C3%A8s_-_Google_Art_Project.jpg/960px-Alfred_Sisley_-_June_Morning_in_Saint-Mamm%C3%A8s_-_Google_Art_Project.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Alfred_Sisley_-_June_Morning_in_Saint-Mamm%C3%A8s_-_Google_Art_Project.jpg",
-      "width": 5001,
-      "height": 3744,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sisley_-_morning-in-june-saint-mammes-et-les-coteaux-de-la-celle-1884.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sisley_-_morning-in-june-saint-mammes-et-les-coteaux-de-la-celle-1884.jpg",
+      "width": 280,
+      "height": 210,
       "tags": [],
       "popularity": {
-        "score": 26.4,
+        "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 13
+        "globalusage": 1
       },
       "meta": {
         "Collection": "Artizon Museum"
@@ -14892,14 +14548,14 @@
         "qid": "Q18683088",
         "source": "wikidata",
         "dimensions": {
-          "height_cm": 54,
-          "width_cm": 73
+          "height_cm": 546,
+          "width_cm": 734
         },
         "license": {
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "Google Arts &amp; Culture:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.googleartproject.com/\">Home</a> - <a rel=\"nofollow\" class=\"external text\" href=\"https://artsandculture.google.com/asset/wgEU6hw2LyqX6Q\">pic</a>",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.wikiart.org/ru/alfred-sisley\">https://www.wikiart.org/ru/alfred-sisley</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
@@ -15338,8 +14994,8 @@
       "height": 1460,
       "tags": [],
       "popularity": {
-        "score": 213.4,
-        "pageviews_365d": 1259,
+        "score": 213.5,
+        "pageviews_365d": 1260,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -16509,41 +16165,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a href=\"https://en.wikipedia.org/wiki/Christie%27s\" class=\"extiw\" title=\"en:Christie's\">Christie's</a>, LotFinder:  entry  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.christies.com/LotFinder/lot_details.aspx?intObjectID=5893262\">5893262</a> (sale 3736, lot 18C, New York, 14 May 2015)",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q115158611",
-      "title": "canal du loing 224 saint-mamm232s110149)",
-      "year": "1885",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Alfred_sisley_canal_du_loing_224_saint-mamm232s110149%29.jpg/960px-Alfred_sisley_canal_du_loing_224_saint-mamm232s110149%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Alfred_sisley_canal_du_loing_224_saint-mamm232s110149%29.jpg",
-      "width": 3200,
-      "height": 2455,
-      "tags": [],
-      "popularity": {
-        "score": 13.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 3
-      },
-      "meta": {
-        "Collection": "Paul G. Allen Collection",
-        "Series": "loing"
-      },
-      "extras": {
-        "qid": "Q115158611",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 32.4,
-          "width_cm": 41.4
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com/lot/lot-6397207\">https://www.christies.com/lot/lot-6397207</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
@@ -17753,7 +17374,7 @@
         "globalusage": 6
       },
       "meta": {
-        "Collection": "Albertina",
+        "Collection": "Batliner Collection",
         "Series": "moret"
       },
       "extras": {
@@ -17761,7 +17382,7 @@
         "source": "wikidata",
         "dimensions": {
           "height_cm": 50,
-          "width_cm": 73
+          "width_cm": 74
         },
         "license": {
           "short_name": "Public domain",
@@ -18191,8 +17812,8 @@
       "height": 2132,
       "tags": [],
       "popularity": {
-        "score": 229,
-        "pageviews_365d": 2269,
+        "score": 229.1,
+        "pageviews_365d": 2273,
         "sitelinks": 3,
         "globalusage": 8
       },
@@ -18509,6 +18130,41 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://artuk.org/discover/artworks/boatyard-at-saint-mammes-86080\">Art UK</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q115158611",
+      "title": "canal du loing 224 saint-mamm232s110149)",
+      "year": "1886",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Alfred_sisley_canal_du_loing_224_saint-mamm232s110149%29.jpg/960px-Alfred_sisley_canal_du_loing_224_saint-mamm232s110149%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Alfred_sisley_canal_du_loing_224_saint-mamm232s110149%29.jpg",
+      "width": 3200,
+      "height": 2455,
+      "tags": [],
+      "popularity": {
+        "score": 13.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 3
+      },
+      "meta": {
+        "Collection": "Paul G. Allen Collection",
+        "Series": "loing"
+      },
+      "extras": {
+        "qid": "Q115158611",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 32.5,
+          "width_cm": 41.4
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com/lot/lot-6397207\">https://www.christies.com/lot/lot-6397207</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
@@ -18988,40 +18644,6 @@
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com/en/lot/lot-5402380\">https://www.christies.com/en/lot/lot-5402380</a>",
           "artist": "Alfred Sisley"
-        }
-      }
-    },
-    {
-      "id": "wd-Q19820424",
-      "title": "Moret-sur-Loing under the Rain",
-      "year": "1887",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alfred_Sisley_044.jpg/960px-Alfred_Sisley_044.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Alfred_Sisley_044.jpg",
-      "width": 2536,
-      "height": 1861,
-      "tags": [],
-      "popularity": {
-        "score": 13.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 3
-      },
-      "meta": {
-        "Series": "moret"
-      },
-      "extras": {
-        "qid": "Q19820424",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 54,
-          "width_cm": 73
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
     },
@@ -19654,6 +19276,40 @@
       }
     },
     {
+      "id": "wd-Q19820424",
+      "title": "Moret-sur-Loing under the Rain",
+      "year": "1888",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alfred_Sisley_044.jpg/960px-Alfred_Sisley_044.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Alfred_Sisley_044.jpg",
+      "width": 2536,
+      "height": 1861,
+      "tags": [],
+      "popularity": {
+        "score": 13.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 3
+      },
+      "meta": {
+        "Series": "moret"
+      },
+      "extras": {
+        "qid": "Q19820424",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 54,
+          "width_cm": 73
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q95911255",
       "title": "Moret-sur-Loing: Morning Sun",
       "year": "1888",
@@ -19781,40 +19437,6 @@
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com/en/lot/lot-5147337\">https://www.christies.com/en/lot/lot-5147337</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q121071389",
-      "title": "September Morning",
-      "year": "1888",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/%28Agen%29_Matin%C3%A9e_de_septembre%2C_vers_1887_-_Alfred_Sisley_-_Mus%C3%A9e_des_Beaux-Arts_d%27Agen.jpg/960px-%28Agen%29_Matin%C3%A9e_de_septembre%2C_vers_1887_-_Alfred_Sisley_-_Mus%C3%A9e_des_Beaux-Arts_d%27Agen.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/8/87/%28Agen%29_Matin%C3%A9e_de_septembre%2C_vers_1887_-_Alfred_Sisley_-_Mus%C3%A9e_des_Beaux-Arts_d%27Agen.jpg",
-      "width": 5407,
-      "height": 4049,
-      "tags": [],
-      "popularity": {
-        "score": 208.6,
-        "pageviews_365d": 960,
-        "sitelinks": 3,
-        "globalusage": 9
-      },
-      "meta": {
-        "Collection": "Musée des Beaux-Arts d'Agen"
-      },
-      "extras": {
-        "qid": "Q121071389",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 54,
-          "width_cm": 73
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
-          "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>"
         }
       }
     },
@@ -20853,7 +20475,7 @@
       "tags": [],
       "popularity": {
         "score": 248.9,
-        "pageviews_365d": 3186,
+        "pageviews_365d": 3194,
         "sitelinks": 6,
         "globalusage": 15
       },
@@ -21487,40 +21109,6 @@
       }
     },
     {
-      "id": "wd-Q19820422",
-      "title": "River Landscape in Moret-sur-Loing",
-      "year": "1890",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alfred_Sisley_027.jpg/960px-Alfred_Sisley_027.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/1/18/Alfred_Sisley_027.jpg",
-      "width": 3200,
-      "height": 2187,
-      "tags": [],
-      "popularity": {
-        "score": 16.1,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 4
-      },
-      "meta": {
-        "Series": "moret"
-      },
-      "extras": {
-        "qid": "Q19820422",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 39,
-          "width_cm": 55.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q138007317",
       "title": "Sablons in spring",
       "year": "1890",
@@ -21544,38 +21132,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.wikiart.org/ru/alfred-sisley\">https://www.wikiart.org/ru/alfred-sisley</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q19820451",
-      "title": "Saint-Mammès in the Morning",
-      "year": "1890",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Alfred_Sisley_051.jpg/960px-Alfred_Sisley_051.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/4/42/Alfred_Sisley_051.jpg",
-      "width": 2560,
-      "height": 1840,
-      "tags": [],
-      "popularity": {
-        "score": 16.1,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 4
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q19820451",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 65,
-          "width_cm": 92
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
@@ -22113,8 +21669,8 @@
       "height": 3126,
       "tags": [],
       "popularity": {
-        "score": 185,
-        "pageviews_365d": 458,
+        "score": 185.2,
+        "pageviews_365d": 462,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -22526,8 +22082,8 @@
       "height": 800,
       "tags": [],
       "popularity": {
-        "score": 221.4,
-        "pageviews_365d": 1327,
+        "score": 221.5,
+        "pageviews_365d": 1333,
         "sitelinks": 3,
         "globalusage": 15
       },
@@ -23402,8 +22958,8 @@
       "height": 4047,
       "tags": [],
       "popularity": {
-        "score": 264.6,
-        "pageviews_365d": 5174,
+        "score": 264.7,
+        "pageviews_365d": 5189,
         "sitelinks": 6,
         "globalusage": 22
       },
@@ -24672,41 +24228,6 @@
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.impressionism.nl/sisley-overview-pictures/\">https://www.impressionism.nl/sisley-overview-pictures/</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q110828321",
-      "title": "Rue de la Tannerie à Moret-Sur-Loing - Alfred Sisley - LAM 2001.09",
-      "year": "1895",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rue_de_la_Tannerie_%C3%A0_Moret-Sur-Loing_-_Alfred_Sisley_-_LAM_2001.09.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rue_de_la_Tannerie_%C3%A0_Moret-Sur-Loing_-_Alfred_Sisley_-_LAM_2001.09.jpg",
-      "width": 339,
-      "height": 500,
-      "tags": [],
-      "popularity": {
-        "score": 13.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 3
-      },
-      "meta": {
-        "Collection": "Lowe Art Museum",
-        "Series": "moret"
-      },
-      "extras": {
-        "qid": "Q110828321",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 53.5,
-          "width_cm": 36
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://emuseum1.as.miami.edu/objects/13501\">https://emuseum1.as.miami.edu/objects/13501</a>",
-          "artist": "Alfred Sisley"
         }
       }
     },
@@ -26010,175 +25531,6 @@
       }
     },
     {
-      "id": "wd-Q19820455",
-      "title": "Saint Mammès",
-      "year": "1898",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/14/Alfred_Sisley_-_Village_de_Saint_Mamm%C3%A8s%2C_c._1898.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/1/14/Alfred_Sisley_-_Village_de_Saint_Mamm%C3%A8s%2C_c._1898.jpg",
-      "width": 357,
-      "height": 256,
-      "tags": [],
-      "popularity": {
-        "score": 19.5,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 6
-      },
-      "meta": {
-        "Collection": "Juan B. Castagnino Fine Arts Museum"
-      },
-      "extras": {
-        "qid": "Q19820455",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 30,
-          "width_cm": 41
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.museocastagnino.org.ar/coleccion/sisley.html\">[1]</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q137558830",
-      "title": "Sisley - The-Effect-Of-Snow-At-Veneux",
-      "year": "1899",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Sisley_-_The-Effect-Of-Snow-At-Veneux.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Sisley_-_The-Effect-Of-Snow-At-Veneux.jpg",
-      "width": 300,
-      "height": 217,
-      "tags": [],
-      "popularity": {
-        "score": 11,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 2
-      },
-      "meta": {
-        "Series": "snow"
-      },
-      "extras": {
-        "qid": "Q137558830",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 22,
-          "width_cm": 30.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.alfredsisley.org/the-complete-works.html?ps=96&amp;pageno=9\">https://www.alfredsisley.org/the-complete-works.html?ps=96&amp;pageno=9</a> <a rel=\"nofollow\" class=\"external free\" href=\"https://www.artnet.com/artists/alfred-sisley/effet-de-neige-%C3%A0-veneux-114C0ZLZ2kNKVFEqFtFsDw2\">https://www.artnet.com/artists/alfred-sisley/effet-de-neige-%C3%A0-veneux-114C0ZLZ2kNKVFEqFtFsDw2</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q138016548",
-      "title": "Sisley - Vaches-Au-Paturage",
-      "year": "1899",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sisley_-_Vaches-Au-Paturage.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sisley_-_Vaches-Au-Paturage.jpg",
-      "width": 300,
-      "height": 217,
-      "tags": [],
-      "popularity": {
-        "score": 11,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 2
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q138016548",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 29.8,
-          "width_cm": 40.7
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.alfredsisley.org/the-complete-works.html?ps=96&amp;pageno=9\">https://www.alfredsisley.org/the-complete-works.html?ps=96&amp;pageno=9</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q137972216",
-      "title": "The Seine near By",
-      "year": "1899",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/10/Sisley_-_the-seine-near-by.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/1/10/Sisley_-_the-seine-near-by.jpg",
-      "width": 280,
-      "height": 235,
-      "tags": [],
-      "popularity": {
-        "score": 11,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 2
-      },
-      "meta": {
-        "Series": "seine"
-      },
-      "extras": {
-        "qid": "Q137972216",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 38,
-          "width_cm": 46
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.wikiart.org/en/alfred-sisley/the-seine-near-by\">https://www.wikiart.org/en/alfred-sisley/the-seine-near-by</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q17494881",
-      "title": "Landscape, fields of Veneux-Nadon",
-      "year": "1900",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Paysage%2C_champs%2C_plaine_de_Veneux-Nadon%2C_Alfred_Sisley%2C_Mus%C3%A9e_de_l%27Ardenne_-_1903_%28cropped%29.jpg/960px-Paysage%2C_champs%2C_plaine_de_Veneux-Nadon%2C_Alfred_Sisley%2C_Mus%C3%A9e_de_l%27Ardenne_-_1903_%28cropped%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/2/21/Paysage%2C_champs%2C_plaine_de_Veneux-Nadon%2C_Alfred_Sisley%2C_Mus%C3%A9e_de_l%27Ardenne_-_1903_%28cropped%29.jpg",
-      "width": 3606,
-      "height": 2674,
-      "tags": [],
-      "popularity": {
-        "score": 30.9,
-        "pageviews_365d": 0,
-        "sitelinks": 1,
-        "globalusage": 10
-      },
-      "meta": {
-        "Collection": "Musée d'Orsay"
-      },
-      "extras": {
-        "qid": "Q17494881",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 54,
-          "width_cm": 73
-        },
-        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!71060/manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
-          "artist": "Elke Wetzig (<a href=\"//commons.wikimedia.org/wiki/User:Elya\" title=\"User:Elya\">User:Elya</a>)"
-        }
-      }
-    },
-    {
       "id": "wd-Q136369282",
       "title": "'Maisons Au Bord De L'écluse De La Gazonne' by Alfred Sisley, pastel",
       "year": null,
@@ -26245,6 +25597,76 @@
       }
     },
     {
+      "id": "wd-Q19820336",
+      "title": "Banks of the Seine at By",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alfred_Sisley_-_Banks_of_the_Seine_at_By_-_1955.534_-_Clark_Art_Institute.tiff/lossy-page1-960px-Alfred_Sisley_-_Banks_of_the_Seine_at_By_-_1955.534_-_Clark_Art_Institute.tiff.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/38/Alfred_Sisley_-_Banks_of_the_Seine_at_By_-_1955.534_-_Clark_Art_Institute.tiff",
+      "width": 6943,
+      "height": 4881,
+      "tags": [],
+      "popularity": {
+        "score": 11,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 2
+      },
+      "meta": {
+        "Collection": "Clark Art Institute",
+        "Series": "seine"
+      },
+      "extras": {
+        "qid": "Q19820336",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 54.3,
+          "width_cm": 73.3
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.clarkart.edu/ArtPiece/Detail/Banks-of-the-Seine-at-By\">Clark Art Institute</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q19820342",
+      "title": "Boats on the Seine",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Sisley_-_Boats-On-The-Seine%2C-C.1877.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Sisley_-_Boats-On-The-Seine%2C-C.1877.jpg",
+      "width": 300,
+      "height": 250,
+      "tags": [],
+      "popularity": {
+        "score": 20.8,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 7
+      },
+      "meta": {
+        "Collection": "Courtauld Gallery",
+        "Series": "seine"
+      },
+      "extras": {
+        "qid": "Q19820342",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 37.2,
+          "width_cm": 44.3
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.alfredsisley.org/the-complete-works.html?ps=96&amp;pageno=9\">https://www.alfredsisley.org/the-complete-works.html?ps=96&amp;pageno=9</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q93629415",
       "title": "Bridge at Suresnes across the Seine",
       "year": null,
@@ -26302,6 +25724,34 @@
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.wikiart.org/ru/alfred-sisley\">https://www.wikiart.org/ru/alfred-sisley</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q138290728",
+      "title": "Chemin de Veneux et les côteaux de la Celle",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Chemin_de_Veneux_et_les_coteaux_de_la_Celle_-_Alfred_Sisley.webp/960px-Chemin_de_Veneux_et_les_coteaux_de_la_Celle_-_Alfred_Sisley.webp.png",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Chemin_de_Veneux_et_les_coteaux_de_la_Celle_-_Alfred_Sisley.webp",
+      "width": 2880,
+      "height": 2193,
+      "tags": [],
+      "popularity": {
+        "score": 11,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 2
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q138290728",
+        "source": "wikidata",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sothebys.com/en/auctions/ecatalogue/2009/impressionist-modern-art-evening-sale-n08587/lot.40.html\">https://www.sothebys.com/en/auctions/ecatalogue/2009/impressionist-modern-art-evening-sale-n08587/lot.40.html</a>",
+          "artist": "Alfred Sisley"
         }
       }
     },
@@ -26391,6 +25841,41 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.wikiart.org/ru/alfred-sisley\">https://www.wikiart.org/ru/alfred-sisley</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q94702527",
+      "title": "La Seine à Saint Mammès",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/La_Seine_%C3%A0_Saint_Mamm%C3%A8s.jpg/960px-La_Seine_%C3%A0_Saint_Mamm%C3%A8s.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/ec/La_Seine_%C3%A0_Saint_Mamm%C3%A8s.jpg",
+      "width": 1920,
+      "height": 1465,
+      "tags": [],
+      "popularity": {
+        "score": 13.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 3
+      },
+      "meta": {
+        "Collection": "Muskegon Museum of Art",
+        "Series": "seine"
+      },
+      "extras": {
+        "qid": "Q94702527",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 50,
+          "width_cm": 63.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://muskegonartmuseum.org/art/collection/la-seine-a-st-mammes/\">https://muskegonartmuseum.org/art/collection/la-seine-a-st-mammes/</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
@@ -26512,6 +25997,41 @@
       }
     },
     {
+      "id": "wd-Q17494881",
+      "title": "Landscape, fields of Veneux-Nadon",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Paysage%2C_champs%2C_plaine_de_Veneux-Nadon%2C_Alfred_Sisley%2C_Mus%C3%A9e_de_l%27Ardenne_-_1903_%28cropped%29.jpg/960px-Paysage%2C_champs%2C_plaine_de_Veneux-Nadon%2C_Alfred_Sisley%2C_Mus%C3%A9e_de_l%27Ardenne_-_1903_%28cropped%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/21/Paysage%2C_champs%2C_plaine_de_Veneux-Nadon%2C_Alfred_Sisley%2C_Mus%C3%A9e_de_l%27Ardenne_-_1903_%28cropped%29.jpg",
+      "width": 3606,
+      "height": 2674,
+      "tags": [],
+      "popularity": {
+        "score": 30.9,
+        "pageviews_365d": 0,
+        "sitelinks": 1,
+        "globalusage": 10
+      },
+      "meta": {
+        "Collection": "Musée d'Orsay"
+      },
+      "extras": {
+        "qid": "Q17494881",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 54,
+          "width_cm": 73
+        },
+        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!71060/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "artist": "Elke Wetzig (<a href=\"//commons.wikimedia.org/wiki/User:Elya\" title=\"User:Elya\">User:Elya</a>)"
+        }
+      }
+    },
+    {
       "id": "wd-Q138302503",
       "title": "Loing banks in Saint-Mammès",
       "year": null,
@@ -26538,6 +26058,42 @@
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sothebys.com/en/auctions/ecatalogue/2015/impressionist-modern-art-day-sale-l15004/lot.125.html\">https://www.sothebys.com/en/auctions/ecatalogue/2015/impressionist-modern-art-day-sale-l15004/lot.125.html</a>",
           "artist": "Alfred Sisley"
+        }
+      }
+    },
+    {
+      "id": "wd-Q16038630",
+      "title": "Louveciennes. Sentier de la Mi-côte",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Louveciennes%2C_hauteurs_de_Marly%2C_Sisley.jpeg/960px-Louveciennes%2C_hauteurs_de_Marly%2C_Sisley.jpeg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/29/Louveciennes%2C_hauteurs_de_Marly%2C_Sisley.jpeg",
+      "width": 1179,
+      "height": 960,
+      "tags": [],
+      "popularity": {
+        "score": 197.7,
+        "pageviews_365d": 697,
+        "sitelinks": 2,
+        "globalusage": 9
+      },
+      "meta": {
+        "Collection": "Musée d'Orsay",
+        "Series": "marly"
+      },
+      "extras": {
+        "qid": "Q16038630",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 38,
+          "width_cm": 46.5
+        },
+        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!574/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<span class=\"int-own-work\">Self-photographed</span> by <a href=\"//commons.wikimedia.org/wiki/User:R%C3%A9dacteur_Tibet\" title=\"User:Rédacteur Tibet\">Rédacteur Tibet</a>,",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
     },
@@ -26602,6 +26158,40 @@
       }
     },
     {
+      "id": "wd-Q60036601",
+      "title": "Paysage - Alfred Sisley - MNP P004644",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Paysage_-_Alfred_Sisley_-_MNP_P004644.jpg/960px-Paysage_-_Alfred_Sisley_-_MNP_P004644.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/87/Paysage_-_Alfred_Sisley_-_MNP_P004644.jpg",
+      "width": 1876,
+      "height": 1337,
+      "tags": [],
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "meta": {
+        "Collection": "Museo del Prado"
+      },
+      "extras": {
+        "qid": "Q60036601",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 48,
+          "width_cm": 67
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.museodelprado.es/coleccion/obra-de-arte/paisaje/d2576082-a7d2-4e0a-9621-300ec4a888ac\">https://www.museodelprado.es/coleccion/obra-de-arte/paisaje/d2576082-a7d2-4e0a-9621-300ec4a888ac</a>",
+          "artist": "Alfred Sisley"
+        }
+      }
+    },
+    {
       "id": "wd-Q138160617",
       "title": "Pommiers en fleurs",
       "year": null,
@@ -26630,6 +26220,144 @@
       }
     },
     {
+      "id": "wd-Q19820422",
+      "title": "River Landscape in Moret-sur-Loing",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alfred_Sisley_027.jpg/960px-Alfred_Sisley_027.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/18/Alfred_Sisley_027.jpg",
+      "width": 3200,
+      "height": 2187,
+      "tags": [],
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "meta": {
+        "Series": "moret"
+      },
+      "extras": {
+        "qid": "Q19820422",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 39,
+          "width_cm": 55.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q19820327",
+      "title": "Road along the Seine at Saint-Mammès",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Alfred_Sisley_-_Road_Along_the_Seine_at_Saint-Mammes_-_1985.R.69_-_Dallas_Museum_of_Art.jpg/960px-Alfred_Sisley_-_Road_Along_the_Seine_at_Saint-Mammes_-_1985.R.69_-_Dallas_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Alfred_Sisley_-_Road_Along_the_Seine_at_Saint-Mammes_-_1985.R.69_-_Dallas_Museum_of_Art.jpg",
+      "width": 7093,
+      "height": 9406,
+      "tags": [],
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "meta": {
+        "Collection": "Dallas Museum of Art",
+        "Series": "seine"
+      },
+      "extras": {
+        "qid": "Q19820327",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 74,
+          "width_cm": 54
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://collections.dma.org/artwork/4240463\">Dallas Museum of Art</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q110828321",
+      "title": "Rue de la Tannerie à Moret-Sur-Loing - Alfred Sisley - LAM 2001.09",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rue_de_la_Tannerie_%C3%A0_Moret-Sur-Loing_-_Alfred_Sisley_-_LAM_2001.09.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rue_de_la_Tannerie_%C3%A0_Moret-Sur-Loing_-_Alfred_Sisley_-_LAM_2001.09.jpg",
+      "width": 339,
+      "height": 500,
+      "tags": [],
+      "popularity": {
+        "score": 13.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 3
+      },
+      "meta": {
+        "Collection": "Lowe Art Museum",
+        "Series": "moret"
+      },
+      "extras": {
+        "qid": "Q110828321",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 53.5,
+          "width_cm": 36
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://emuseum1.as.miami.edu/objects/13501\">https://emuseum1.as.miami.edu/objects/13501</a>",
+          "artist": "Alfred Sisley"
+        }
+      }
+    },
+    {
+      "id": "wd-Q19820455",
+      "title": "Saint Mammès",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/14/Alfred_Sisley_-_Village_de_Saint_Mamm%C3%A8s%2C_c._1898.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/14/Alfred_Sisley_-_Village_de_Saint_Mamm%C3%A8s%2C_c._1898.jpg",
+      "width": 357,
+      "height": 256,
+      "tags": [],
+      "popularity": {
+        "score": 19.5,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 6
+      },
+      "meta": {
+        "Collection": "Juan B. Castagnino Fine Arts Museum"
+      },
+      "extras": {
+        "qid": "Q19820455",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 30,
+          "width_cm": 41
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.museocastagnino.org.ar/coleccion/sisley.html\">[1]</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q138302498",
       "title": "Saint-Mammès",
       "year": null,
@@ -26654,6 +26382,38 @@
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sothebys.com/en/auctions/ecatalogue/2014/impressionist-modern-art-day-sale-n09140/lot.153.html\">https://www.sothebys.com/en/auctions/ecatalogue/2014/impressionist-modern-art-day-sale-n09140/lot.153.html</a>",
           "artist": "Alfred Sisley"
+        }
+      }
+    },
+    {
+      "id": "wd-Q19820451",
+      "title": "Saint-Mammès in the Morning",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Alfred_Sisley_051.jpg/960px-Alfred_Sisley_051.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/42/Alfred_Sisley_051.jpg",
+      "width": 2560,
+      "height": 1840,
+      "tags": [],
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q19820451",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 65,
+          "width_cm": 92
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
     },
@@ -26688,6 +26448,40 @@
           "usage_terms": "Public domain",
           "credit": "<a class=\"external free\" href=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Geffroy_-_Sisley.djvu/page147-4267px-Geffroy_-_Sisley.djvu.jpg\">https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Geffroy_-_Sisley.djvu/page147-4267px-Geffroy_-_Sisley.djvu.jpg</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q121071389",
+      "title": "September Morning",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/%28Agen%29_Matin%C3%A9e_de_septembre%2C_vers_1887_-_Alfred_Sisley_-_Mus%C3%A9e_des_Beaux-Arts_d%27Agen.jpg/960px-%28Agen%29_Matin%C3%A9e_de_septembre%2C_vers_1887_-_Alfred_Sisley_-_Mus%C3%A9e_des_Beaux-Arts_d%27Agen.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/87/%28Agen%29_Matin%C3%A9e_de_septembre%2C_vers_1887_-_Alfred_Sisley_-_Mus%C3%A9e_des_Beaux-Arts_d%27Agen.jpg",
+      "width": 5407,
+      "height": 4049,
+      "tags": [],
+      "popularity": {
+        "score": 208.6,
+        "pageviews_365d": 960,
+        "sitelinks": 3,
+        "globalusage": 9
+      },
+      "meta": {
+        "Collection": "Musée des Beaux-Arts d'Agen"
+      },
+      "extras": {
+        "qid": "Q121071389",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 54,
+          "width_cm": 73
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>"
         }
       }
     },
@@ -26785,6 +26579,72 @@
       }
     },
     {
+      "id": "wd-Q137558830",
+      "title": "Sisley - The-Effect-Of-Snow-At-Veneux",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Sisley_-_The-Effect-Of-Snow-At-Veneux.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Sisley_-_The-Effect-Of-Snow-At-Veneux.jpg",
+      "width": 300,
+      "height": 217,
+      "tags": [],
+      "popularity": {
+        "score": 11,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 2
+      },
+      "meta": {
+        "Series": "snow"
+      },
+      "extras": {
+        "qid": "Q137558830",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 22,
+          "width_cm": 30.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.alfredsisley.org/the-complete-works.html?ps=96&amp;pageno=9\">https://www.alfredsisley.org/the-complete-works.html?ps=96&amp;pageno=9</a> <a rel=\"nofollow\" class=\"external free\" href=\"https://www.artnet.com/artists/alfred-sisley/effet-de-neige-%C3%A0-veneux-114C0ZLZ2kNKVFEqFtFsDw2\">https://www.artnet.com/artists/alfred-sisley/effet-de-neige-%C3%A0-veneux-114C0ZLZ2kNKVFEqFtFsDw2</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q138016548",
+      "title": "Sisley - Vaches-Au-Paturage",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sisley_-_Vaches-Au-Paturage.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sisley_-_Vaches-Au-Paturage.jpg",
+      "width": 300,
+      "height": 217,
+      "tags": [],
+      "popularity": {
+        "score": 11,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 2
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q138016548",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 29.8,
+          "width_cm": 40.7
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.alfredsisley.org/the-complete-works.html?ps=96&amp;pageno=9\">https://www.alfredsisley.org/the-complete-works.html?ps=96&amp;pageno=9</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q138008683",
       "title": "Snow effect at Veneux",
       "year": null,
@@ -26840,6 +26700,41 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.alfredsisley.org/the-complete-works.html?ps=96&amp;pageno=9\">https://www.alfredsisley.org/the-complete-works.html?ps=96&amp;pageno=9</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q17495766",
+      "title": "Snowy Weather at Veneux-Nadon",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Temps_de_neige_a_Veneux-Nadon.JPG/960px-Temps_de_neige_a_Veneux-Nadon.JPG",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Temps_de_neige_a_Veneux-Nadon.JPG",
+      "width": 2143,
+      "height": 1534,
+      "tags": [],
+      "popularity": {
+        "score": 23,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 9
+      },
+      "meta": {
+        "Collection": "Musée d'Orsay"
+      },
+      "extras": {
+        "qid": "Q17495766",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 83.7,
+          "width_cm": 104
+        },
+        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!611/manifest.json",
+        "license": {
+          "short_name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+          "credit": "Orsay Museum, Paris, Bequest of Comte Isaac de Camondo",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
@@ -26901,6 +26796,42 @@
       }
     },
     {
+      "id": "wd-Q17496036",
+      "title": "Street in Louveciennes",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Alfred_Sisley_058.jpg/960px-Alfred_Sisley_058.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/25/Alfred_Sisley_058.jpg",
+      "width": 1256,
+      "height": 1513,
+      "tags": [],
+      "popularity": {
+        "score": 22,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 8
+      },
+      "meta": {
+        "Collection": "Musée d'Orsay",
+        "Series": "marly"
+      },
+      "extras": {
+        "qid": "Q17496036",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 55,
+          "width_cm": 46
+        },
+        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!110454/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q137965335",
       "title": "The River Banks at Saint-Mammès",
       "year": null,
@@ -26924,6 +26855,75 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.alfredsisley.org/The-River-Banks-At-Saint-Mammes.html\">https://www.alfredsisley.org/The-River-Banks-At-Saint-Mammes.html</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q19913293",
+      "title": "The Road from Moret to Saint-Mammès",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Road_from_Moret_to_Saint-Mamm%C3%A8s_MET_DP323408.jpg/960px-The_Road_from_Moret_to_Saint-Mamm%C3%A8s_MET_DP323408.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/25/The_Road_from_Moret_to_Saint-Mamm%C3%A8s_MET_DP323408.jpg",
+      "width": 3919,
+      "height": 3198,
+      "tags": [],
+      "popularity": {
+        "score": 22,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 8
+      },
+      "meta": {
+        "Collection": "Metropolitan Museum of Art",
+        "Series": "moret"
+      },
+      "extras": {
+        "qid": "Q19913293",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 50.5,
+          "width_cm": 61.5
+        },
+        "license": {
+          "short_name": "CC0",
+          "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "usage_terms": "Creative Commons Zero, Public Domain Dedication",
+          "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q137972216",
+      "title": "The Seine near By",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/10/Sisley_-_the-seine-near-by.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/10/Sisley_-_the-seine-near-by.jpg",
+      "width": 280,
+      "height": 235,
+      "tags": [],
+      "popularity": {
+        "score": 11,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 2
+      },
+      "meta": {
+        "Series": "seine"
+      },
+      "extras": {
+        "qid": "Q137972216",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 38,
+          "width_cm": 46
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.wikiart.org/en/alfred-sisley/the-seine-near-by\">https://www.wikiart.org/en/alfred-sisley/the-seine-near-by</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
@@ -26991,7 +26991,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-06-01T11:38:15.707Z",
+    "generated": "2026-06-03T06:24:25.917Z",
     "artist": {
       "qid": "Q175130",
       "name": "Alfred Sisley",

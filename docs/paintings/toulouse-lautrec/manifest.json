@@ -322,7 +322,7 @@
       "tags": [],
       "popularity": {
         "score": 263.1,
-        "pageviews_365d": 4782,
+        "pageviews_365d": 4796,
         "sitelinks": 6,
         "globalusage": 23
       },
@@ -556,38 +556,6 @@
       }
     },
     {
-      "id": "wd-Q17429571",
-      "title": "La Blanchisseuse",
-      "year": "1880",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Toulouse-Lautrec_-_La_Blanchisseuse.jpg/960px-Toulouse-Lautrec_-_La_Blanchisseuse.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Toulouse-Lautrec_-_La_Blanchisseuse.jpg",
-      "width": 1600,
-      "height": 1870,
-      "tags": [],
-      "popularity": {
-        "score": 301.8,
-        "pageviews_365d": 27675,
-        "sitelinks": 9,
-        "globalusage": 9
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q17429571",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 93,
-          "width_cm": 75
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.alaintruong.com/archives/2018/12/28/36973796.html\">Alain Truong</a> <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://p1.storage.canalblog.com/13/57/119589/122324570_o.jpg\">[1]</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q79149980",
       "title": "La Gousse",
       "year": "1880",
@@ -617,40 +585,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://collections.dma.org/artwork/5288954\">Dallas Museum of Art</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q49869714",
-      "title": "Madame Countess Adèle de Toulouse-Lautrec in the Garden of Malromé",
-      "year": "1880",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Toulouse-Lautrec_-_Ad%C3%A8le_de_Toulouse-Lautrec.jpg/960px-Toulouse-Lautrec_-_Ad%C3%A8le_de_Toulouse-Lautrec.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Toulouse-Lautrec_-_Ad%C3%A8le_de_Toulouse-Lautrec.jpg",
-      "width": 3446,
-      "height": 4161,
-      "tags": [],
-      "popularity": {
-        "score": 30.9,
-        "pageviews_365d": 0,
-        "sitelinks": 1,
-        "globalusage": 10
-      },
-      "meta": {
-        "Collection": "São Paulo Museum of Art"
-      },
-      "extras": {
-        "qid": "Q49869714",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 55.5,
-          "width_cm": 47
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://masp.org.br/acervo/obra/a-condessa-adele-de-toulouse-lautrec\">https://masp.org.br/acervo/obra/a-condessa-adele-de-toulouse-lautrec</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
         }
       }
@@ -1088,7 +1022,7 @@
       "tags": [],
       "popularity": {
         "score": 216.2,
-        "pageviews_365d": 1522,
+        "pageviews_365d": 1524,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -1151,8 +1085,8 @@
       "height": 4706,
       "tags": [],
       "popularity": {
-        "score": 239.1,
-        "pageviews_365d": 2772,
+        "score": 239.2,
+        "pageviews_365d": 2781,
         "sitelinks": 4,
         "globalusage": 11
       },
@@ -1556,7 +1490,7 @@
       "tags": [],
       "popularity": {
         "score": 279.2,
-        "pageviews_365d": 5563,
+        "pageviews_365d": 5577,
         "sitelinks": 8,
         "globalusage": 63
       },
@@ -1795,41 +1729,6 @@
           "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
           "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
           "artist": "<bdi><big>José Luiz</big></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q3821901",
-      "title": "Adéle de Toulouse-Lautrec in the salon at Malromé",
-      "year": "1883",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/%28Albi%29_La_Comtesse_Ad%C3%A8le_de_Toulouse-Lautrec_dans_le_salon_du_Ch%C3%A2teau_de_Malrom%C3%A9_-_Toulouse-Lautrec_MTL.inv122.jpg/960px-%28Albi%29_La_Comtesse_Ad%C3%A8le_de_Toulouse-Lautrec_dans_le_salon_du_Ch%C3%A2teau_de_Malrom%C3%A9_-_Toulouse-Lautrec_MTL.inv122.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/2/29/%28Albi%29_La_Comtesse_Ad%C3%A8le_de_Toulouse-Lautrec_dans_le_salon_du_Ch%C3%A2teau_de_Malrom%C3%A9_-_Toulouse-Lautrec_MTL.inv122.jpg",
-      "width": 3927,
-      "height": 4770,
-      "tags": [],
-      "popularity": {
-        "score": 229.6,
-        "pageviews_365d": 1608,
-        "sitelinks": 4,
-        "globalusage": 17
-      },
-      "meta": {
-        "Collection": "Musée Toulouse-Lautrec",
-        "Series": "brothel"
-      },
-      "extras": {
-        "qid": "Q3821901",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 59,
-          "width_cm": 45
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
-          "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>"
         }
       }
     },
@@ -2297,7 +2196,7 @@
       "tags": [],
       "popularity": {
         "score": 195.5,
-        "pageviews_365d": 783,
+        "pageviews_365d": 784,
         "sitelinks": 2,
         "globalusage": 5
       },
@@ -2421,40 +2320,6 @@
       }
     },
     {
-      "id": "wd-Q3937771",
-      "title": "Émile Bernard",
-      "year": "1885",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lautrecx07.jpg/960px-Lautrecx07.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/3/37/Lautrecx07.jpg",
-      "width": 4963,
-      "height": 6000,
-      "tags": [],
-      "popularity": {
-        "score": 238.4,
-        "pageviews_365d": 1626,
-        "sitelinks": 3,
-        "globalusage": 52
-      },
-      "meta": {
-        "Collection": "Tate"
-      },
-      "extras": {
-        "qid": "Q3937771",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 54,
-          "width_cm": 44.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "Frey, Julia: Henri de Toulouse-Lautrec, BB art, Praha 1999",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q27954929",
       "title": "Portrait of Suzanne Valadon",
       "year": "1885",
@@ -2464,8 +2329,8 @@
       "height": 2105,
       "tags": [],
       "popularity": {
-        "score": 274.4,
-        "pageviews_365d": 8982,
+        "score": 274.5,
+        "pageviews_365d": 9001,
         "sitelinks": 5,
         "globalusage": 17
       },
@@ -2525,71 +2390,37 @@
       }
     },
     {
-      "id": "wd-Q66155658",
-      "title": "The Marble Polisher",
-      "year": "1885",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/1882%2C_Toulouse-Lautrec%2C_The_Marble_Polisher.jpg/960px-1882%2C_Toulouse-Lautrec%2C_The_Marble_Polisher.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f0/1882%2C_Toulouse-Lautrec%2C_The_Marble_Polisher.jpg",
-      "width": 2000,
-      "height": 1602,
-      "tags": [],
-      "popularity": {
-        "score": 24,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 10
-      },
-      "meta": {
-        "Collection": "Princeton Art Museum"
-      },
-      "extras": {
-        "qid": "Q66155658",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 65.5,
-          "width_cm": 81
-        },
-        "iiif": "https://data.artmuseum.princeton.edu/iiif/objects/33681",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a href=\"https://en.wikipedia.org/wiki/Princeton_University_Art_Museum\" class=\"extiw\" title=\"w:Princeton University Art Museum\">Princeton University Art Museum</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q28130952",
-      "title": "\"A Montrouge\"–Rosa La Rouge",
+      "id": "wd-Q3821901",
+      "title": "Adéle de Toulouse-Lautrec in the salon at Malromé",
       "year": "1886",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Henri_de_Toulouse-Lautrec_-_%22A_Montrouge%22%E2%80%93Rosa_La_Rouge_-_BF263_-_Barnes_Foundation.jpg/960px-Henri_de_Toulouse-Lautrec_-_%22A_Montrouge%22%E2%80%93Rosa_La_Rouge_-_BF263_-_Barnes_Foundation.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Henri_de_Toulouse-Lautrec_-_%22A_Montrouge%22%E2%80%93Rosa_La_Rouge_-_BF263_-_Barnes_Foundation.jpg",
-      "width": 4096,
-      "height": 6054,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/%28Albi%29_La_Comtesse_Ad%C3%A8le_de_Toulouse-Lautrec_dans_le_salon_du_Ch%C3%A2teau_de_Malrom%C3%A9_-_Toulouse-Lautrec_MTL.inv122.jpg/960px-%28Albi%29_La_Comtesse_Ad%C3%A8le_de_Toulouse-Lautrec_dans_le_salon_du_Ch%C3%A2teau_de_Malrom%C3%A9_-_Toulouse-Lautrec_MTL.inv122.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/29/%28Albi%29_La_Comtesse_Ad%C3%A8le_de_Toulouse-Lautrec_dans_le_salon_du_Ch%C3%A2teau_de_Malrom%C3%A9_-_Toulouse-Lautrec_MTL.inv122.jpg",
+      "width": 3927,
+      "height": 4770,
       "tags": [],
       "popularity": {
-        "score": 20.8,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 7
+        "score": 230.1,
+        "pageviews_365d": 1608,
+        "sitelinks": 4,
+        "globalusage": 18
       },
       "meta": {
-        "Collection": "Barnes Foundation"
+        "Collection": "Musée Toulouse-Lautrec",
+        "Series": "brothel"
       },
       "extras": {
-        "qid": "Q28130952",
+        "qid": "Q3821901",
         "source": "wikidata",
         "dimensions": {
-          "height_cm": 72.1,
-          "width_cm": 48.6
+          "height_cm": 59,
+          "width_cm": 45
         },
         "license": {
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://collection.barnesfoundation.org/objects/6865/details\">https://collection.barnesfoundation.org/objects/6865/details</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>"
         }
       }
     },
@@ -2603,8 +2434,8 @@
       "height": 645,
       "tags": [],
       "popularity": {
-        "score": 234.9,
-        "pageviews_365d": 2978,
+        "score": 235,
+        "pageviews_365d": 2982,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -2663,36 +2494,35 @@
       }
     },
     {
-      "id": "wd-Q50113232",
-      "title": "Clown",
+      "id": "wd-Q3937771",
+      "title": "Émile Bernard",
       "year": "1886",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/1886_Toulouse-Lautrec_Clown_anagoria.JPG/960px-1886_Toulouse-Lautrec_Clown_anagoria.JPG",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/6/67/1886_Toulouse-Lautrec_Clown_anagoria.JPG",
-      "width": 3168,
-      "height": 4752,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lautrecx07.jpg/960px-Lautrecx07.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/37/Lautrecx07.jpg",
+      "width": 4963,
+      "height": 6000,
       "tags": [],
       "popularity": {
-        "score": 24.8,
-        "pageviews_365d": 0,
-        "sitelinks": 1,
-        "globalusage": 5
+        "score": 238.3,
+        "pageviews_365d": 1628,
+        "sitelinks": 3,
+        "globalusage": 51
       },
       "meta": {
-        "Collection": "Alte Nationalgalerie",
-        "Series": "theater"
+        "Collection": "Tate"
       },
       "extras": {
-        "qid": "Q50113232",
+        "qid": "Q3937771",
         "source": "wikidata",
         "dimensions": {
-          "height_cm": 81.5,
-          "width_cm": 57
+          "height_cm": 54,
+          "width_cm": 44.5
         },
         "license": {
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>, <a href=\"//commons.wikimedia.org/wiki/User:Anagoria\" title=\"User:Anagoria\">anagoria</a>",
+          "credit": "Frey, Julia: Henri de Toulouse-Lautrec, BB art, Praha 1999",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
         }
       }
@@ -2879,8 +2709,8 @@
       "height": 6431,
       "tags": [],
       "popularity": {
-        "score": 287,
-        "pageviews_365d": 11732,
+        "score": 287.1,
+        "pageviews_365d": 11761,
         "sitelinks": 3,
         "globalusage": 48
       },
@@ -3209,7 +3039,7 @@
       "tags": [],
       "popularity": {
         "score": 263.5,
-        "pageviews_365d": 6240,
+        "pageviews_365d": 6255,
         "sitelinks": 8,
         "globalusage": 9
       },
@@ -3462,8 +3292,8 @@
       "height": 1159,
       "tags": [],
       "popularity": {
-        "score": 212.8,
-        "pageviews_365d": 1025,
+        "score": 212.9,
+        "pageviews_365d": 1027,
         "sitelinks": 3,
         "globalusage": 12
       },
@@ -3488,6 +3318,38 @@
       }
     },
     {
+      "id": "wd-Q17429571",
+      "title": "La Blanchisseuse",
+      "year": "1889",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Toulouse-Lautrec_-_La_Blanchisseuse.jpg/960px-Toulouse-Lautrec_-_La_Blanchisseuse.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Toulouse-Lautrec_-_La_Blanchisseuse.jpg",
+      "width": 1600,
+      "height": 1870,
+      "tags": [],
+      "popularity": {
+        "score": 301.8,
+        "pageviews_365d": 27740,
+        "sitelinks": 9,
+        "globalusage": 9
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q17429571",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 93,
+          "width_cm": 75
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.alaintruong.com/archives/2018/12/28/36973796.html\">Alain Truong</a> <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://p1.storage.canalblog.com/13/57/119589/122324570_o.jpg\">[1]</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q5967779",
       "title": "La Rousse in a White Blouse",
       "year": "1889",
@@ -3497,8 +3359,8 @@
       "height": 2421,
       "tags": [],
       "popularity": {
-        "score": 233.3,
-        "pageviews_365d": 2581,
+        "score": 233.4,
+        "pageviews_365d": 2588,
         "sitelinks": 4,
         "globalusage": 7
       },
@@ -3518,41 +3380,6 @@
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.museothyssen.org/thyssen/zoom_obra/976\">Museo Thyssen-Bornemisza, Colección Permanente</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q3824633",
-      "title": "La Toilette",
-      "year": "1889",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/%28Albi%29_Rousse_%28La_Toilette%29_-_1889_-_Henri_de_Toulouse-Lautrec_-_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg/960px-%28Albi%29_Rousse_%28La_Toilette%29_-_1889_-_Henri_de_Toulouse-Lautrec_-_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/5/55/%28Albi%29_Rousse_%28La_Toilette%29_-_1889_-_Henri_de_Toulouse-Lautrec_-_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg",
-      "width": 5425,
-      "height": 6785,
-      "tags": [],
-      "popularity": {
-        "score": 325.6,
-        "pageviews_365d": 36106,
-        "sitelinks": 9,
-        "globalusage": 55
-      },
-      "meta": {
-        "Collection": "Musée d'Orsay"
-      },
-      "extras": {
-        "qid": "Q3824633",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 670,
-          "width_cm": 540
-        },
-        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!726/manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
-          "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>"
         }
       }
     },
@@ -3600,8 +3427,8 @@
       "height": 3718,
       "tags": [],
       "popularity": {
-        "score": 220.1,
-        "pageviews_365d": 1056,
+        "score": 220.2,
+        "pageviews_365d": 1059,
         "sitelinks": 4,
         "globalusage": 19
       },
@@ -3634,8 +3461,8 @@
       "height": 2250,
       "tags": [],
       "popularity": {
-        "score": 156.9,
-        "pageviews_365d": 211,
+        "score": 157.5,
+        "pageviews_365d": 216,
         "sitelinks": 1,
         "globalusage": 4
       },
@@ -3664,8 +3491,8 @@
       "height": 2178,
       "tags": [],
       "popularity": {
-        "score": 299.7,
-        "pageviews_365d": 23914,
+        "score": 299.8,
+        "pageviews_365d": 23984,
         "sitelinks": 8,
         "globalusage": 12
       },
@@ -3795,8 +3622,8 @@
       "height": 1476,
       "tags": [],
       "popularity": {
-        "score": 237.1,
-        "pageviews_365d": 2403,
+        "score": 237.2,
+        "pageviews_365d": 2410,
         "sitelinks": 4,
         "globalusage": 13
       },
@@ -3897,8 +3724,8 @@
       "height": 4476,
       "tags": [],
       "popularity": {
-        "score": 318.1,
-        "pageviews_365d": 29656,
+        "score": 318.2,
+        "pageviews_365d": 29746,
         "sitelinks": 11,
         "globalusage": 35
       },
@@ -3918,40 +3745,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/FAENd9LSU-ylzQ\">FAENd9LSU-ylzQ at Google Cultural Institute</a> maximum zoom level",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q19913077",
-      "title": "Émilie",
-      "year": "1890",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%C3%89milie_MET_ep1974.356.35.R.jpg/960px-%C3%89milie_MET_ep1974.356.35.R.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/4/48/%C3%89milie_MET_ep1974.356.35.R.jpg",
-      "width": 1317,
-      "height": 1657,
-      "tags": [],
-      "popularity": {
-        "score": 16.1,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 4
-      },
-      "meta": {
-        "Collection": "Metropolitan Museum of Art"
-      },
-      "extras": {
-        "qid": "Q19913077",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 41.3,
-          "width_cm": 32.4
-        },
-        "license": {
-          "short_name": "CC0",
-          "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "usage_terms": "Creative Commons Zero, Public Domain Dedication",
-          "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
         }
       }
@@ -4125,74 +3918,6 @@
       }
     },
     {
-      "id": "wd-Q124282667",
-      "title": "Toulouse-Lautrec - Sous la verdure (Femme assise dans un jardin), MB 0004",
-      "year": "1890",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Toulouse-Lautrec_-_Sous_la_verdure_%28Femme_assise_dans_un_jardin%29%2C_MB_0004.jpg/960px-Toulouse-Lautrec_-_Sous_la_verdure_%28Femme_assise_dans_un_jardin%29%2C_MB_0004.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Toulouse-Lautrec_-_Sous_la_verdure_%28Femme_assise_dans_un_jardin%29%2C_MB_0004.jpg",
-      "width": 991,
-      "height": 1200,
-      "tags": [],
-      "popularity": {
-        "score": 13.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 3
-      },
-      "meta": {
-        "Collection": "Kunsthaus Zürich"
-      },
-      "extras": {
-        "qid": "Q124282667",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 55,
-          "width_cm": 46
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://collection.kunsthaus.ch/de/collection/item/759966/\">https://collection.kunsthaus.ch/de/collection/item/759966/</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q19912231",
-      "title": "Woman in the Garden of Monsieur Forest",
-      "year": "1890",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Henri_de_Toulouse-Lautrec%2C_Woman_in_the_Garden_of_Monsieur_Forest%2C_1889%E2%80%9391.jpg/960px-Henri_de_Toulouse-Lautrec%2C_Woman_in_the_Garden_of_Monsieur_Forest%2C_1889%E2%80%9391.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/4/49/Henri_de_Toulouse-Lautrec%2C_Woman_in_the_Garden_of_Monsieur_Forest%2C_1889%E2%80%9391.jpg",
-      "width": 3206,
-      "height": 3789,
-      "tags": [],
-      "popularity": {
-        "score": 13.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 3
-      },
-      "meta": {
-        "Collection": "Metropolitan Museum of Art"
-      },
-      "extras": {
-        "qid": "Q19912231",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 55.6,
-          "width_cm": 46.4
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q17491841",
       "title": "052a",
       "year": "1891",
@@ -4202,8 +3927,8 @@
       "height": 2689,
       "tags": [],
       "popularity": {
-        "score": 176.4,
-        "pageviews_365d": 403,
+        "score": 176.5,
+        "pageviews_365d": 405,
         "sitelinks": 1,
         "globalusage": 6
       },
@@ -4238,7 +3963,7 @@
       "tags": [],
       "popularity": {
         "score": 236.9,
-        "pageviews_365d": 1963,
+        "pageviews_365d": 1964,
         "sitelinks": 2,
         "globalusage": 37
       },
@@ -4257,36 +3982,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q104774084",
-      "title": "Dr. Péan Operating",
-      "year": "1891",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Henri_de_Toulouse-Lautrec_-_Dr._P%C3%A9an_Operating_-_1955.567_-_Clark_Art_Institute.tiff/lossy-page1-960px-Henri_de_Toulouse-Lautrec_-_Dr._P%C3%A9an_Operating_-_1955.567_-_Clark_Art_Institute.tiff.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Henri_de_Toulouse-Lautrec_-_Dr._P%C3%A9an_Operating_-_1955.567_-_Clark_Art_Institute.tiff",
-      "width": 4325,
-      "height": 6806,
-      "tags": [],
-      "popularity": {
-        "score": 13.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 3
-      },
-      "meta": {
-        "Collection": "Clark Art Institute"
-      },
-      "extras": {
-        "qid": "Q104774084",
-        "source": "wikidata",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.clarkart.edu/ArtPiece/Detail/Dr-Pean-Operating\">Clark Art Institute</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
         }
       }
@@ -4383,41 +4078,6 @@
           "usage_terms": "Creative Commons Attribution 3.0",
           "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
           "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q104773687",
-      "title": "Jane Avril",
-      "year": "1891",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Henri_de_Toulouse-Lautrec_-_Jane_Avril_-_1955.566_-_Clark_Art_Institute.tiff/lossy-page1-960px-Henri_de_Toulouse-Lautrec_-_Jane_Avril_-_1955.566_-_Clark_Art_Institute.tiff.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Henri_de_Toulouse-Lautrec_-_Jane_Avril_-_1955.566_-_Clark_Art_Institute.tiff",
-      "width": 4336,
-      "height": 6904,
-      "tags": [],
-      "popularity": {
-        "score": 16.1,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 4
-      },
-      "meta": {
-        "Collection": "Clark Art Institute",
-        "Series": "moulin-rouge"
-      },
-      "extras": {
-        "qid": "Q104773687",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 63.2,
-          "width_cm": 42.2
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.clarkart.edu/ArtPiece/Detail/Jane-Avril\">Clark Art Institute</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
         }
       }
     },
@@ -4555,6 +4215,40 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.mnba.org.ar/obras_autor.php?autor=354&amp;opcion=1\">[1]</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q124282667",
+      "title": "Toulouse-Lautrec - Sous la verdure (Femme assise dans un jardin), MB 0004",
+      "year": "1891",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Toulouse-Lautrec_-_Sous_la_verdure_%28Femme_assise_dans_un_jardin%29%2C_MB_0004.jpg/960px-Toulouse-Lautrec_-_Sous_la_verdure_%28Femme_assise_dans_un_jardin%29%2C_MB_0004.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Toulouse-Lautrec_-_Sous_la_verdure_%28Femme_assise_dans_un_jardin%29%2C_MB_0004.jpg",
+      "width": 991,
+      "height": 1200,
+      "tags": [],
+      "popularity": {
+        "score": 13.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 3
+      },
+      "meta": {
+        "Collection": "Kunsthaus Zürich"
+      },
+      "extras": {
+        "qid": "Q124282667",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 55,
+          "width_cm": 46
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://collection.kunsthaus.ch/de/collection/item/759966/\">https://collection.kunsthaus.ch/de/collection/item/759966/</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
         }
       }
@@ -4732,8 +4426,8 @@
       "height": 2250,
       "tags": [],
       "popularity": {
-        "score": 338.1,
-        "pageviews_365d": 68104,
+        "score": 338.2,
+        "pageviews_365d": 68288,
         "sitelinks": 18,
         "globalusage": 20
       },
@@ -4767,8 +4461,8 @@
       "height": 5000,
       "tags": [],
       "popularity": {
-        "score": 246.9,
-        "pageviews_365d": 3083,
+        "score": 247,
+        "pageviews_365d": 3091,
         "sitelinks": 4,
         "globalusage": 19
       },
@@ -4793,40 +4487,6 @@
       }
     },
     {
-      "id": "wd-Q19913268",
-      "title": "Henri-Gabriel Ibels (1867–1936)",
-      "year": "1892",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/58/Henri-Gabriel_Ibels_%281867%E2%80%931936%29_MET_EP5.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/5/58/Henri-Gabriel_Ibels_%281867%E2%80%931936%29_MET_EP5.jpg",
-      "width": 542,
-      "height": 700,
-      "tags": [],
-      "popularity": {
-        "score": 16.1,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 4
-      },
-      "meta": {
-        "Collection": "Metropolitan Museum of Art"
-      },
-      "extras": {
-        "qid": "Q19913268",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 52.1,
-          "width_cm": 39.4
-        },
-        "license": {
-          "short_name": "CC0",
-          "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "usage_terms": "Creative Commons Zero, Public Domain Dedication",
-          "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q110805652",
       "title": "In bed",
       "year": "1892",
@@ -4842,7 +4502,7 @@
         "globalusage": 1
       },
       "meta": {
-        "Collection": "Foundation E.G. Bührle Collection"
+        "Collection": "Kunsthaus Zürich"
       },
       "extras": {
         "qid": "Q110805652",
@@ -4867,7 +4527,7 @@
       "tags": [],
       "popularity": {
         "score": 274.2,
-        "pageviews_365d": 8997,
+        "pageviews_365d": 9018,
         "sitelinks": 4,
         "globalusage": 20
       },
@@ -4968,8 +4628,8 @@
       "height": 2400,
       "tags": [],
       "popularity": {
-        "score": 208.6,
-        "pageviews_365d": 795,
+        "score": 208.7,
+        "pageviews_365d": 798,
         "sitelinks": 3,
         "globalusage": 15
       },
@@ -5004,7 +4664,7 @@
       "tags": [],
       "popularity": {
         "score": 206.5,
-        "pageviews_365d": 1082,
+        "pageviews_365d": 1085,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -5024,41 +4684,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/awEEswUy3gXkdg\">awEEswUy3gXkdg at Google Cultural Institute</a> maximum zoom level",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q12015473",
-      "title": "Le Lit",
-      "year": "1892",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lautrec_in_bed_1893.jpg/960px-Lautrec_in_bed_1893.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/1/12/Lautrec_in_bed_1893.jpg",
-      "width": 2362,
-      "height": 1821,
-      "tags": [],
-      "popularity": {
-        "score": 343.6,
-        "pageviews_365d": 52179,
-        "sitelinks": 6,
-        "globalusage": 191
-      },
-      "meta": {
-        "Collection": "Musée d'Orsay"
-      },
-      "extras": {
-        "qid": "Q12015473",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 54,
-          "width_cm": 70.5
-        },
-        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!704/manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "Unknown source<span style=\"display: none;\">Unknown source</span>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
         }
       }
@@ -5109,8 +4734,8 @@
       "height": 3719,
       "tags": [],
       "popularity": {
-        "score": 257.3,
-        "pageviews_365d": 3974,
+        "score": 257.4,
+        "pageviews_365d": 3990,
         "sitelinks": 5,
         "globalusage": 24
       },
@@ -5144,8 +4769,8 @@
       "height": 599,
       "tags": [],
       "popularity": {
-        "score": 239.5,
-        "pageviews_365d": 2297,
+        "score": 239.6,
+        "pageviews_365d": 2303,
         "sitelinks": 4,
         "globalusage": 19
       },
@@ -5519,8 +5144,8 @@
       "height": 6000,
       "tags": [],
       "popularity": {
-        "score": 234.6,
-        "pageviews_365d": 2107,
+        "score": 234.7,
+        "pageviews_365d": 2111,
         "sitelinks": 3,
         "globalusage": 18
       },
@@ -5614,76 +5239,6 @@
       }
     },
     {
-      "id": "wd-Q28001998",
-      "title": "Frau im Bett - 3835 - Österreichische Galerie Belvedere",
-      "year": "1894",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Henri_de_Toulouse-Lautrec_-_Frau_im_Bett_-_3835_-_%C3%96sterreichische_Galerie_Belvedere.jpg/960px-Henri_de_Toulouse-Lautrec_-_Frau_im_Bett_-_3835_-_%C3%96sterreichische_Galerie_Belvedere.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/4/45/Henri_de_Toulouse-Lautrec_-_Frau_im_Bett_-_3835_-_%C3%96sterreichische_Galerie_Belvedere.jpg",
-      "width": 3140,
-      "height": 3508,
-      "tags": [],
-      "popularity": {
-        "score": 13.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 3
-      },
-      "meta": {
-        "Collection": "Belvedere"
-      },
-      "extras": {
-        "qid": "Q28001998",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 38.5,
-          "width_cm": 35.5
-        },
-        "iiif": "https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-2629/manifest",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://digital.belvedere.at/objects/2629/frau-im-bett\">https://digital.belvedere.at/objects/2629/frau-im-bett</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q17491481",
-      "title": "Hervé Lewandowski Femme tirant son bas by Toulouse-Lautrec",
-      "year": "1894",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Herv%C3%A9_Lewandowski_Femme_tirant_son_bas_by_Toulouse-Lautrec.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Herv%C3%A9_Lewandowski_Femme_tirant_son_bas_by_Toulouse-Lautrec.jpg",
-      "width": 495,
-      "height": 640,
-      "tags": [],
-      "popularity": {
-        "score": 20.8,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 7
-      },
-      "meta": {
-        "Collection": "Musée d'Orsay"
-      },
-      "extras": {
-        "qid": "Q17491481",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 58,
-          "width_cm": 46
-        },
-        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!722/manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.musee-orsay.fr/fr/visite/visiteurs-individuels/visites-guidees-adultes/presentation-generale.html?zoom=1&amp;tx_damzoom_pi1%5BshowUid%5D=133356&amp;cHash=67097550de\">http://www.musee-orsay.fr/fr/visite/visiteurs-individuels/visites-guidees-adultes/presentation-generale.html?zoom=1&amp;tx_damzoom_pi1%5BshowUid%5D=133356&amp;cHash=67097550de</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q3607539",
       "title": "In the Salon at the Rue des Moulins",
       "year": "1894",
@@ -5693,10 +5248,10 @@
       "height": 6027,
       "tags": [],
       "popularity": {
-        "score": 305.1,
-        "pageviews_365d": 13849,
+        "score": 305.3,
+        "pageviews_365d": 13886,
         "sitelinks": 8,
-        "globalusage": 87
+        "globalusage": 88
       },
       "meta": {
         "Collection": "Musée Toulouse-Lautrec",
@@ -5763,7 +5318,7 @@
       "tags": [],
       "popularity": {
         "score": 212.2,
-        "pageviews_365d": 1030,
+        "pageviews_365d": 1032,
         "sitelinks": 2,
         "globalusage": 15
       },
@@ -5825,40 +5380,6 @@
       }
     },
     {
-      "id": "wd-Q28797767",
-      "title": "The Ladies in the Dining Room",
-      "year": "1894",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Henri_de_Toulouse-Lautrec_-_The_Ladies_in_the_Dining_Room_-_Google_Art_Project.jpg/960px-Henri_de_Toulouse-Lautrec_-_The_Ladies_in_the_Dining_Room_-_Google_Art_Project.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Henri_de_Toulouse-Lautrec_-_The_Ladies_in_the_Dining_Room_-_Google_Art_Project.jpg",
-      "width": 5869,
-      "height": 4363,
-      "tags": [],
-      "popularity": {
-        "score": 23,
-        "pageviews_365d": 0,
-        "sitelinks": 1,
-        "globalusage": 4
-      },
-      "meta": {
-        "Collection": "Hungarian National Gallery"
-      },
-      "extras": {
-        "qid": "Q28797767",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 60.2,
-          "width_cm": 80.7
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/hAHr4U5d0VIWCA\">hAHr4U5d0VIWCA at Google Cultural Institute</a> maximum zoom level",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q19905335",
       "title": "The Sofa",
       "year": "1894",
@@ -5868,8 +5389,8 @@
       "height": 1930,
       "tags": [],
       "popularity": {
-        "score": 195.8,
-        "pageviews_365d": 441,
+        "score": 195.9,
+        "pageviews_365d": 442,
         "sitelinks": 2,
         "globalusage": 25
       },
@@ -5998,8 +5519,8 @@
       "height": 991,
       "tags": [],
       "popularity": {
-        "score": 225.7,
-        "pageviews_365d": 1416,
+        "score": 225.8,
+        "pageviews_365d": 1418,
         "sitelinks": 3,
         "globalusage": 20
       },
@@ -6168,8 +5689,8 @@
       "height": 4097,
       "tags": [],
       "popularity": {
-        "score": 237.7,
-        "pageviews_365d": 2859,
+        "score": 237.8,
+        "pageviews_365d": 2871,
         "sitelinks": 3,
         "globalusage": 11
       },
@@ -6205,7 +5726,7 @@
       "tags": [],
       "popularity": {
         "score": 250.4,
-        "pageviews_365d": 3660,
+        "pageviews_365d": 3671,
         "sitelinks": 3,
         "globalusage": 22
       },
@@ -6275,8 +5796,8 @@
       "height": 912,
       "tags": [],
       "popularity": {
-        "score": 204.2,
-        "pageviews_365d": 1466,
+        "score": 204.3,
+        "pageviews_365d": 1468,
         "sitelinks": 2,
         "globalusage": 2
       },
@@ -6379,7 +5900,7 @@
       "tags": [],
       "popularity": {
         "score": 219,
-        "pageviews_365d": 1353,
+        "pageviews_365d": 1354,
         "sitelinks": 3,
         "globalusage": 11
       },
@@ -6434,6 +5955,41 @@
           "usage_terms": "Creative Commons Attribution 3.0",
           "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
           "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q3824633",
+      "title": "La Toilette",
+      "year": "1896",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/%28Albi%29_Rousse_%28La_Toilette%29_-_1889_-_Henri_de_Toulouse-Lautrec_-_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg/960px-%28Albi%29_Rousse_%28La_Toilette%29_-_1889_-_Henri_de_Toulouse-Lautrec_-_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/55/%28Albi%29_Rousse_%28La_Toilette%29_-_1889_-_Henri_de_Toulouse-Lautrec_-_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg",
+      "width": 5425,
+      "height": 6785,
+      "tags": [],
+      "popularity": {
+        "score": 325.7,
+        "pageviews_365d": 36227,
+        "sitelinks": 9,
+        "globalusage": 55
+      },
+      "meta": {
+        "Collection": "Musée d'Orsay"
+      },
+      "extras": {
+        "qid": "Q3824633",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 670,
+          "width_cm": 540
+        },
+        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!726/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>"
         }
       }
     },
@@ -6888,8 +6444,8 @@
       "height": 2428,
       "tags": [],
       "popularity": {
-        "score": 227.9,
-        "pageviews_365d": 1899,
+        "score": 228.1,
+        "pageviews_365d": 1914,
         "sitelinks": 4,
         "globalusage": 9
       },
@@ -6990,8 +6546,8 @@
       "height": 4155,
       "tags": [],
       "popularity": {
-        "score": 247.5,
-        "pageviews_365d": 4207,
+        "score": 247.7,
+        "pageviews_365d": 4227,
         "sitelinks": 6,
         "globalusage": 6
       },
@@ -7047,40 +6603,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q29916008",
-      "title": "Bildnis eines Herrn (Georges de Villéchenon) - 8667 - Bavarian State Painting Collections",
-      "year": "1900",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Henri_de_Toulouse-Lautrec_-_Bildnis_eines_Herrn_%28Georges_de_Vill%C3%A9chenon%29_-_8667_-_Bavarian_State_Painting_Collections.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Henri_de_Toulouse-Lautrec_-_Bildnis_eines_Herrn_%28Georges_de_Vill%C3%A9chenon%29_-_8667_-_Bavarian_State_Painting_Collections.jpg",
-      "width": 768,
-      "height": 1016,
-      "tags": [],
-      "popularity": {
-        "score": 19.5,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 6
-      },
-      "meta": {
-        "Collection": "Bavarian State Painting Collections"
-      },
-      "extras": {
-        "qid": "Q29916008",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 80.3,
-          "width_cm": 62.1
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sammlung.pinakothek.de/en/bookmark/artwork/Dj4mZB7x5A\">https://www.sammlung.pinakothek.de/en/bookmark/artwork/Dj4mZB7x5A</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
         }
       }
@@ -7154,40 +6676,6 @@
       }
     },
     {
-      "id": "wd-Q64223623",
-      "title": "Messalina",
-      "year": "1900",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Henri_de_Toulouse-Lautrec_-_Messaline_-_103_-_Foundation_E.G._B%C3%BChrle_Collection.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Henri_de_Toulouse-Lautrec_-_Messaline_-_103_-_Foundation_E.G._B%C3%BChrle_Collection.jpg",
-      "width": 882,
-      "height": 1200,
-      "tags": [],
-      "popularity": {
-        "score": 6.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 1
-      },
-      "meta": {
-        "Collection": "Foundation E.G. Bührle Collection"
-      },
-      "extras": {
-        "qid": "Q64223623",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 92,
-          "width_cm": 68
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://collection.kunsthaus.ch/en/collection/item/604991/\">Kunsthaus Zürich</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q18030970",
       "title": "The modiste",
       "year": "1900",
@@ -7197,8 +6685,8 @@
       "height": 4352,
       "tags": [],
       "popularity": {
-        "score": 231.1,
-        "pageviews_365d": 1831,
+        "score": 231.2,
+        "pageviews_365d": 1836,
         "sitelinks": 3,
         "globalusage": 18
       },
@@ -7218,36 +6706,6 @@
           "usage_terms": "Public domain",
           "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
           "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q20881967",
-      "title": "The Opera 'Messalina' at Bordeaux (Messaline descend l'escalier bordé de figurants)",
-      "year": "1900",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Toulouse-Lautrec%2C_Henri_-_Messalina.jpg/960px-Toulouse-Lautrec%2C_Henri_-_Messalina.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Toulouse-Lautrec%2C_Henri_-_Messalina.jpg",
-      "width": 2132,
-      "height": 2900,
-      "tags": [],
-      "popularity": {
-        "score": 23,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 9
-      },
-      "meta": {
-        "Collection": "Los Angeles County Museum of Art"
-      },
-      "extras": {
-        "qid": "Q20881967",
-        "source": "wikidata",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
         }
       }
     },
@@ -7293,8 +6751,8 @@
       "height": 4988,
       "tags": [],
       "popularity": {
-        "score": 212.6,
-        "pageviews_365d": 827,
+        "score": 212.7,
+        "pageviews_365d": 828,
         "sitelinks": 2,
         "globalusage": 28
       },
@@ -7397,7 +6855,7 @@
       "tags": [],
       "popularity": {
         "score": 202.9,
-        "pageviews_365d": 749,
+        "pageviews_365d": 750,
         "sitelinks": 2,
         "globalusage": 13
       },
@@ -7525,6 +6983,109 @@
       }
     },
     {
+      "id": "wd-Q28130952",
+      "title": "\"A Montrouge\"–Rosa La Rouge",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Henri_de_Toulouse-Lautrec_-_%22A_Montrouge%22%E2%80%93Rosa_La_Rouge_-_BF263_-_Barnes_Foundation.jpg/960px-Henri_de_Toulouse-Lautrec_-_%22A_Montrouge%22%E2%80%93Rosa_La_Rouge_-_BF263_-_Barnes_Foundation.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Henri_de_Toulouse-Lautrec_-_%22A_Montrouge%22%E2%80%93Rosa_La_Rouge_-_BF263_-_Barnes_Foundation.jpg",
+      "width": 4096,
+      "height": 6054,
+      "tags": [],
+      "popularity": {
+        "score": 20.8,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 7
+      },
+      "meta": {
+        "Collection": "Barnes Foundation"
+      },
+      "extras": {
+        "qid": "Q28130952",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 72.1,
+          "width_cm": 48.6
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://collection.barnesfoundation.org/objects/6865/details\">https://collection.barnesfoundation.org/objects/6865/details</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q29916008",
+      "title": "Bildnis eines Herrn (Georges de Villéchenon) - 8667 - Bavarian State Painting Collections",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Henri_de_Toulouse-Lautrec_-_Bildnis_eines_Herrn_%28Georges_de_Vill%C3%A9chenon%29_-_8667_-_Bavarian_State_Painting_Collections.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Henri_de_Toulouse-Lautrec_-_Bildnis_eines_Herrn_%28Georges_de_Vill%C3%A9chenon%29_-_8667_-_Bavarian_State_Painting_Collections.jpg",
+      "width": 768,
+      "height": 1016,
+      "tags": [],
+      "popularity": {
+        "score": 19.5,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 6
+      },
+      "meta": {
+        "Collection": "Bavarian State Painting Collections"
+      },
+      "extras": {
+        "qid": "Q29916008",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 80.3,
+          "width_cm": 62.1
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sammlung.pinakothek.de/en/bookmark/artwork/Dj4mZB7x5A\">https://www.sammlung.pinakothek.de/en/bookmark/artwork/Dj4mZB7x5A</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q50113232",
+      "title": "Clown",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/1886_Toulouse-Lautrec_Clown_anagoria.JPG/960px-1886_Toulouse-Lautrec_Clown_anagoria.JPG",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/67/1886_Toulouse-Lautrec_Clown_anagoria.JPG",
+      "width": 3168,
+      "height": 4752,
+      "tags": [],
+      "popularity": {
+        "score": 24.8,
+        "pageviews_365d": 0,
+        "sitelinks": 1,
+        "globalusage": 5
+      },
+      "meta": {
+        "Collection": "Alte Nationalgalerie",
+        "Series": "theater"
+      },
+      "extras": {
+        "qid": "Q50113232",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 81.5,
+          "width_cm": 57
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>, <a href=\"//commons.wikimedia.org/wiki/User:Anagoria\" title=\"User:Anagoria\">anagoria</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q135550604",
       "title": "Das erste Trikot",
       "year": null,
@@ -7552,6 +7113,105 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "Unknown source<span style=\"display: none;\">Unknown source</span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q104774084",
+      "title": "Dr. Péan Operating",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Henri_de_Toulouse-Lautrec_-_Dr._P%C3%A9an_Operating_-_1955.567_-_Clark_Art_Institute.tiff/lossy-page1-960px-Henri_de_Toulouse-Lautrec_-_Dr._P%C3%A9an_Operating_-_1955.567_-_Clark_Art_Institute.tiff.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Henri_de_Toulouse-Lautrec_-_Dr._P%C3%A9an_Operating_-_1955.567_-_Clark_Art_Institute.tiff",
+      "width": 4325,
+      "height": 6806,
+      "tags": [],
+      "popularity": {
+        "score": 13.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 3
+      },
+      "meta": {
+        "Collection": "Clark Art Institute"
+      },
+      "extras": {
+        "qid": "Q104774084",
+        "source": "wikidata",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.clarkart.edu/ArtPiece/Detail/Dr-Pean-Operating\">Clark Art Institute</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q19913077",
+      "title": "Émilie",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%C3%89milie_MET_ep1974.356.35.R.jpg/960px-%C3%89milie_MET_ep1974.356.35.R.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/48/%C3%89milie_MET_ep1974.356.35.R.jpg",
+      "width": 1317,
+      "height": 1657,
+      "tags": [],
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "meta": {
+        "Collection": "Metropolitan Museum of Art"
+      },
+      "extras": {
+        "qid": "Q19913077",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 41.3,
+          "width_cm": 32.4
+        },
+        "license": {
+          "short_name": "CC0",
+          "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "usage_terms": "Creative Commons Zero, Public Domain Dedication",
+          "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q28001998",
+      "title": "Frau im Bett - 3835 - Österreichische Galerie Belvedere",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Henri_de_Toulouse-Lautrec_-_Frau_im_Bett_-_3835_-_%C3%96sterreichische_Galerie_Belvedere.jpg/960px-Henri_de_Toulouse-Lautrec_-_Frau_im_Bett_-_3835_-_%C3%96sterreichische_Galerie_Belvedere.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/45/Henri_de_Toulouse-Lautrec_-_Frau_im_Bett_-_3835_-_%C3%96sterreichische_Galerie_Belvedere.jpg",
+      "width": 3140,
+      "height": 3508,
+      "tags": [],
+      "popularity": {
+        "score": 13.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 3
+      },
+      "meta": {
+        "Collection": "Belvedere"
+      },
+      "extras": {
+        "qid": "Q28001998",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 38.5,
+          "width_cm": 35.5
+        },
+        "iiif": "https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-2629/manifest",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://digital.belvedere.at/objects/2629/frau-im-bett\">https://digital.belvedere.at/objects/2629/frau-im-bett</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
         }
       }
@@ -7586,6 +7246,75 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mfah.org/art/detail/47181\">https://www.mfah.org/art/detail/47181</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q19913268",
+      "title": "Henri-Gabriel Ibels (1867–1936)",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/58/Henri-Gabriel_Ibels_%281867%E2%80%931936%29_MET_EP5.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/58/Henri-Gabriel_Ibels_%281867%E2%80%931936%29_MET_EP5.jpg",
+      "width": 542,
+      "height": 700,
+      "tags": [],
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "meta": {
+        "Collection": "Metropolitan Museum of Art"
+      },
+      "extras": {
+        "qid": "Q19913268",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 52.1,
+          "width_cm": 39.4
+        },
+        "license": {
+          "short_name": "CC0",
+          "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "usage_terms": "Creative Commons Zero, Public Domain Dedication",
+          "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q17491481",
+      "title": "Hervé Lewandowski Femme tirant son bas by Toulouse-Lautrec",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Herv%C3%A9_Lewandowski_Femme_tirant_son_bas_by_Toulouse-Lautrec.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Herv%C3%A9_Lewandowski_Femme_tirant_son_bas_by_Toulouse-Lautrec.jpg",
+      "width": 495,
+      "height": 640,
+      "tags": [],
+      "popularity": {
+        "score": 20.8,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 7
+      },
+      "meta": {
+        "Collection": "Musée d'Orsay"
+      },
+      "extras": {
+        "qid": "Q17491481",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 58,
+          "width_cm": 46
+        },
+        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!722/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.musee-orsay.fr/fr/visite/visiteurs-individuels/visites-guidees-adultes/presentation-generale.html?zoom=1&amp;tx_damzoom_pi1%5BshowUid%5D=133356&amp;cHash=67097550de\">http://www.musee-orsay.fr/fr/visite/visiteurs-individuels/visites-guidees-adultes/presentation-generale.html?zoom=1&amp;tx_damzoom_pi1%5BshowUid%5D=133356&amp;cHash=67097550de</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
         }
       }
@@ -7655,6 +7384,41 @@
       }
     },
     {
+      "id": "wd-Q104773687",
+      "title": "Jane Avril",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Henri_de_Toulouse-Lautrec_-_Jane_Avril_-_1955.566_-_Clark_Art_Institute.tiff/lossy-page1-960px-Henri_de_Toulouse-Lautrec_-_Jane_Avril_-_1955.566_-_Clark_Art_Institute.tiff.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Henri_de_Toulouse-Lautrec_-_Jane_Avril_-_1955.566_-_Clark_Art_Institute.tiff",
+      "width": 4336,
+      "height": 6904,
+      "tags": [],
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "meta": {
+        "Collection": "Clark Art Institute",
+        "Series": "moulin-rouge"
+      },
+      "extras": {
+        "qid": "Q104773687",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 63.2,
+          "width_cm": 42.2
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.clarkart.edu/ArtPiece/Detail/Jane-Avril\">Clark Art Institute</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q105534215",
       "title": "Jane Avril",
       "year": null,
@@ -7695,7 +7459,7 @@
       "tags": [],
       "popularity": {
         "score": 269.5,
-        "pageviews_365d": 8397,
+        "pageviews_365d": 8415,
         "sitelinks": 5,
         "globalusage": 12
       },
@@ -7715,6 +7479,75 @@
           "url": "https://creativecommons.org/licenses/by-sa/4.0",
           "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.moma.org/collection/works/34936\">https://www.moma.org/collection/works/34936</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q12015473",
+      "title": "Le Lit",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lautrec_in_bed_1893.jpg/960px-Lautrec_in_bed_1893.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/12/Lautrec_in_bed_1893.jpg",
+      "width": 2362,
+      "height": 1821,
+      "tags": [],
+      "popularity": {
+        "score": 343.7,
+        "pageviews_365d": 52346,
+        "sitelinks": 6,
+        "globalusage": 191
+      },
+      "meta": {
+        "Collection": "Musée d'Orsay"
+      },
+      "extras": {
+        "qid": "Q12015473",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 54,
+          "width_cm": 70.5
+        },
+        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!704/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "Unknown source<span style=\"display: none;\">Unknown source</span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q49869714",
+      "title": "Madame Countess Adèle de Toulouse-Lautrec in the Garden of Malromé",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Toulouse-Lautrec_-_Ad%C3%A8le_de_Toulouse-Lautrec.jpg/960px-Toulouse-Lautrec_-_Ad%C3%A8le_de_Toulouse-Lautrec.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Toulouse-Lautrec_-_Ad%C3%A8le_de_Toulouse-Lautrec.jpg",
+      "width": 3446,
+      "height": 4161,
+      "tags": [],
+      "popularity": {
+        "score": 30.9,
+        "pageviews_365d": 0,
+        "sitelinks": 1,
+        "globalusage": 10
+      },
+      "meta": {
+        "Collection": "São Paulo Museum of Art"
+      },
+      "extras": {
+        "qid": "Q49869714",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 55.5,
+          "width_cm": 47
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://masp.org.br/acervo/obra/a-condessa-adele-de-toulouse-lautrec\">https://masp.org.br/acervo/obra/a-condessa-adele-de-toulouse-lautrec</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
         }
       }
@@ -7746,6 +7579,40 @@
           "usage_terms": "Public domain",
           "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
           "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q64223623",
+      "title": "Messalina",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Henri_de_Toulouse-Lautrec_-_Messaline_-_103_-_Foundation_E.G._B%C3%BChrle_Collection.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Henri_de_Toulouse-Lautrec_-_Messaline_-_103_-_Foundation_E.G._B%C3%BChrle_Collection.jpg",
+      "width": 882,
+      "height": 1200,
+      "tags": [],
+      "popularity": {
+        "score": 6.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 1
+      },
+      "meta": {
+        "Collection": "Foundation E.G. Bührle Collection"
+      },
+      "extras": {
+        "qid": "Q64223623",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 92,
+          "width_cm": 68
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://collection.kunsthaus.ch/en/collection/item/604991/\">Kunsthaus Zürich</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
         }
       }
     },
@@ -7813,11 +7680,144 @@
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
         }
       }
+    },
+    {
+      "id": "wd-Q28797767",
+      "title": "The Ladies in the Dining Room",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Henri_de_Toulouse-Lautrec_-_The_Ladies_in_the_Dining_Room_-_Google_Art_Project.jpg/960px-Henri_de_Toulouse-Lautrec_-_The_Ladies_in_the_Dining_Room_-_Google_Art_Project.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Henri_de_Toulouse-Lautrec_-_The_Ladies_in_the_Dining_Room_-_Google_Art_Project.jpg",
+      "width": 5869,
+      "height": 4363,
+      "tags": [],
+      "popularity": {
+        "score": 23,
+        "pageviews_365d": 0,
+        "sitelinks": 1,
+        "globalusage": 4
+      },
+      "meta": {
+        "Collection": "Hungarian National Gallery"
+      },
+      "extras": {
+        "qid": "Q28797767",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 60.2,
+          "width_cm": 80.7
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/hAHr4U5d0VIWCA\">hAHr4U5d0VIWCA at Google Cultural Institute</a> maximum zoom level",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q66155658",
+      "title": "The Marble Polisher",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/1882%2C_Toulouse-Lautrec%2C_The_Marble_Polisher.jpg/960px-1882%2C_Toulouse-Lautrec%2C_The_Marble_Polisher.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f0/1882%2C_Toulouse-Lautrec%2C_The_Marble_Polisher.jpg",
+      "width": 2000,
+      "height": 1602,
+      "tags": [],
+      "popularity": {
+        "score": 24,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 10
+      },
+      "meta": {
+        "Collection": "Princeton Art Museum"
+      },
+      "extras": {
+        "qid": "Q66155658",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 65.5,
+          "width_cm": 81
+        },
+        "iiif": "https://data.artmuseum.princeton.edu/iiif/objects/33681",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a href=\"https://en.wikipedia.org/wiki/Princeton_University_Art_Museum\" class=\"extiw\" title=\"w:Princeton University Art Museum\">Princeton University Art Museum</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q20881967",
+      "title": "The Opera 'Messalina' at Bordeaux (Messaline descend l'escalier bordé de figurants)",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Toulouse-Lautrec%2C_Henri_-_Messalina.jpg/960px-Toulouse-Lautrec%2C_Henri_-_Messalina.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Toulouse-Lautrec%2C_Henri_-_Messalina.jpg",
+      "width": 2132,
+      "height": 2900,
+      "tags": [],
+      "popularity": {
+        "score": 23,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 9
+      },
+      "meta": {
+        "Collection": "Los Angeles County Museum of Art"
+      },
+      "extras": {
+        "qid": "Q20881967",
+        "source": "wikidata",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q19912231",
+      "title": "Woman in the Garden of Monsieur Forest",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Henri_de_Toulouse-Lautrec%2C_Woman_in_the_Garden_of_Monsieur_Forest%2C_1889%E2%80%9391.jpg/960px-Henri_de_Toulouse-Lautrec%2C_Woman_in_the_Garden_of_Monsieur_Forest%2C_1889%E2%80%9391.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/49/Henri_de_Toulouse-Lautrec%2C_Woman_in_the_Garden_of_Monsieur_Forest%2C_1889%E2%80%9391.jpg",
+      "width": 3206,
+      "height": 3789,
+      "tags": [],
+      "popularity": {
+        "score": 13.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 3
+      },
+      "meta": {
+        "Collection": "Metropolitan Museum of Art"
+      },
+      "extras": {
+        "qid": "Q19912231",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 55.6,
+          "width_cm": 46.4
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec\" class=\"extiw\" title=\"w:en:Henri de Toulouse-Lautrec\"><span title=\"French painter and illustrator (1864–1901)\">Henri de Toulouse-Lautrec</span></a></bdi>"
+        }
+      }
     }
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-06-01T11:43:54.724Z",
+    "generated": "2026-06-03T06:26:43.282Z",
     "artist": {
       "qid": "Q82445",
       "name": "Henri de Toulouse-Lautrec",

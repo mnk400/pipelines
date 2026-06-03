@@ -724,7 +724,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:The_San_Diego_Museum_of_Art\" class=\"extiw\" title=\"w:en:The San Diego Museum of Art\"><span title=\"art museum in San Diego, California\">San Diego Museum of Art</span></a>\n</bdi>",
+          "credit": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:San_Diego_Museum_of_Art\" class=\"extiw\" title=\"w:en:San Diego Museum of Art\"><span title=\"art museum in San Diego, California\">San Diego Museum of Art</span></a>\n</bdi>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
       }
@@ -751,7 +751,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:The_San_Diego_Museum_of_Art\" class=\"extiw\" title=\"w:en:The San Diego Museum of Art\"><span title=\"art museum in San Diego, California\">San Diego Museum of Art</span></a>\n</bdi>",
+          "credit": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:San_Diego_Museum_of_Art\" class=\"extiw\" title=\"w:en:San Diego Museum of Art\"><span title=\"art museum in San Diego, California\">San Diego Museum of Art</span></a>\n</bdi>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
       }
@@ -915,7 +915,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:The_San_Diego_Museum_of_Art\" class=\"extiw\" title=\"w:en:The San Diego Museum of Art\"><span title=\"art museum in San Diego, California\">San Diego Museum of Art</span></a>\n</bdi>",
+          "credit": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:San_Diego_Museum_of_Art\" class=\"extiw\" title=\"w:en:San Diego Museum of Art\"><span title=\"art museum in San Diego, California\">San Diego Museum of Art</span></a>\n</bdi>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
       }
@@ -1131,7 +1131,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:The_San_Diego_Museum_of_Art\" class=\"extiw\" title=\"w:en:The San Diego Museum of Art\"><span title=\"art museum in San Diego, California\">San Diego Museum of Art</span></a>\n</bdi>",
+          "credit": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:San_Diego_Museum_of_Art\" class=\"extiw\" title=\"w:en:San Diego Museum of Art\"><span title=\"art museum in San Diego, California\">San Diego Museum of Art</span></a>\n</bdi>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
       }
@@ -1266,7 +1266,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:The_San_Diego_Museum_of_Art\" class=\"extiw\" title=\"w:en:The San Diego Museum of Art\"><span title=\"art museum in San Diego, California\">San Diego Museum of Art</span></a>\n</bdi>",
+          "credit": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:San_Diego_Museum_of_Art\" class=\"extiw\" title=\"w:en:San Diego Museum of Art\"><span title=\"art museum in San Diego, California\">San Diego Museum of Art</span></a>\n</bdi>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hiroshi_Yoshida\" class=\"extiw\" title=\"w:en:Hiroshi Yoshida\"><span title=\"Japanese artist (1876-1950)\">Hiroshi Yoshida</span></a></bdi>"
         }
       }
@@ -1706,7 +1706,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-06-01T11:51:40.395Z",
+    "generated": "2026-06-03T06:34:21.796Z",
     "artist": {
       "qid": "Q2916723",
       "name": "Hiroshi Yoshida",

@@ -3,111 +3,6 @@
   "name": "Johannes Vermeer",
   "items": [
     {
-      "id": "wd-Q927449",
-      "title": "Christ in the House of Martha and Mary",
-      "year": "1650",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg/960px-Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg",
-      "width": 3459,
-      "height": 4001,
-      "tags": [],
-      "popularity": {
-        "score": 351.5,
-        "pageviews_365d": 45110,
-        "sitelinks": 23,
-        "globalusage": 177
-      },
-      "meta": {
-        "Collection": "Scottish National Gallery",
-        "Series": "religious"
-      },
-      "extras": {
-        "qid": "Q927449",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 158.5,
-          "width_cm": 141.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a href=\"https://en.wikipedia.org/wiki/en:Google_Arts_%26_Culture\" class=\"extiw\" title=\"w:en:Google Arts &amp; Culture\"><span title=\"app and website exploring partner museums\">Google Arts &amp; Culture</span></a>  — <a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/fwE2zem7WDcSlA\">fwE2zem7WDcSlA</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q32234",
-      "title": "Diana and her Nymphs",
-      "year": "1650",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Johannes_Vermeer_-_Diana_and_her_Nymphs_-_406_-_Mauritshuis.jpg/960px-Johannes_Vermeer_-_Diana_and_her_Nymphs_-_406_-_Mauritshuis.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/6/68/Johannes_Vermeer_-_Diana_and_her_Nymphs_-_406_-_Mauritshuis.jpg",
-      "width": 6000,
-      "height": 5571,
-      "tags": [],
-      "popularity": {
-        "score": 334.5,
-        "pageviews_365d": 34890,
-        "sitelinks": 17,
-        "globalusage": 81
-      },
-      "meta": {
-        "Collection": "Mauritshuis",
-        "Series": "religious"
-      },
-      "extras": {
-        "qid": "Q32234",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 97.8,
-          "width_cm": 104.6
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.mauritshuis.nl/nl-nl/verdiep/de-collectie/kunstwerken/diana-en-haar-nimfen-406/\">Mauritshuis</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q1169874",
-      "title": "The Girl with the Wine Glass",
-      "year": "1650",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jan_Vermeer_van_Delft_006.jpg/960px-Jan_Vermeer_van_Delft_006.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Jan_Vermeer_van_Delft_006.jpg",
-      "width": 1000,
-      "height": 1137,
-      "tags": [],
-      "popularity": {
-        "score": 343,
-        "pageviews_365d": 36954,
-        "sitelinks": 21,
-        "globalusage": 135
-      },
-      "meta": {
-        "Collection": "Herzog Anton Ulrich Museum",
-        "Series": "interior"
-      },
-      "extras": {
-        "qid": "Q1169874",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 78,
-          "width_cm": 67.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q94006",
       "title": "Saint Praxedis",
       "year": "1655",
@@ -118,7 +13,7 @@
       "tags": [],
       "popularity": {
         "score": 326.5,
-        "pageviews_365d": 27526,
+        "pageviews_365d": 27599,
         "sitelinks": 15,
         "globalusage": 74
       },
@@ -153,7 +48,7 @@
       "tags": [],
       "popularity": {
         "score": 354.9,
-        "pageviews_365d": 82949,
+        "pageviews_365d": 83227,
         "sitelinks": 24,
         "globalusage": 51
       },
@@ -186,8 +81,8 @@
       "height": 3759,
       "tags": [],
       "popularity": {
-        "score": 338.1,
-        "pageviews_365d": 30029,
+        "score": 338.2,
+        "pageviews_365d": 30106,
         "sitelinks": 20,
         "globalusage": 146
       },
@@ -212,41 +107,6 @@
       }
     },
     {
-      "id": "wd-Q700251",
-      "title": "Girl Reading a Letter at an Open Window",
-      "year": "1658",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jan_Vermeer_van_Delft_-_Brieflezend_meisje_bij_het_venster_%28ca._1657-59%29.jpg/960px-Jan_Vermeer_van_Delft_-_Brieflezend_meisje_bij_het_venster_%28ca._1657-59%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jan_Vermeer_van_Delft_-_Brieflezend_meisje_bij_het_venster_%28ca._1657-59%29.jpg",
-      "width": 3303,
-      "height": 4263,
-      "tags": [],
-      "popularity": {
-        "score": 371.4,
-        "pageviews_365d": 114822,
-        "sitelinks": 27,
-        "globalusage": 107
-      },
-      "meta": {
-        "Collection": "Staatliche Kunstsammlungen Dresden",
-        "Series": "interior"
-      },
-      "extras": {
-        "qid": "Q700251",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 83,
-          "width_cm": 64.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://skd-online-collection.skd.museum/Details/Index/415429\">Staatliche Kunstsammlungen Dresden, online collection</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q467376",
       "title": "Officer and Laughing Girl",
       "year": "1658",
@@ -257,7 +117,7 @@
       "tags": [],
       "popularity": {
         "score": 347.8,
-        "pageviews_365d": 50419,
+        "pageviews_365d": 50506,
         "sitelinks": 24,
         "globalusage": 88
       },
@@ -292,7 +152,7 @@
       "tags": [],
       "popularity": {
         "score": 363,
-        "pageviews_365d": 87076,
+        "pageviews_365d": 87346,
         "sitelinks": 31,
         "globalusage": 80
       },
@@ -317,35 +177,36 @@
       }
     },
     {
-      "id": "wd-Q782639",
-      "title": "The Wine Glass",
+      "id": "wd-Q1169874",
+      "title": "The Girl with the Wine Glass",
       "year": "1659",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg/960px-Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg",
-      "width": 5333,
-      "height": 4604,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jan_Vermeer_van_Delft_006.jpg/960px-Jan_Vermeer_van_Delft_006.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Jan_Vermeer_van_Delft_006.jpg",
+      "width": 1000,
+      "height": 1137,
       "tags": [],
       "popularity": {
-        "score": 339.6,
-        "pageviews_365d": 40640,
-        "sitelinks": 19,
-        "globalusage": 83
+        "score": 343,
+        "pageviews_365d": 37061,
+        "sitelinks": 21,
+        "globalusage": 135
       },
       "meta": {
-        "Collection": "Gemäldegalerie Berlin"
+        "Collection": "Herzog Anton Ulrich Museum",
+        "Series": "interior"
       },
       "extras": {
-        "qid": "Q782639",
+        "qid": "Q1169874",
         "source": "wikidata",
         "dimensions": {
-          "height_cm": 67.7,
-          "width_cm": 79.6
+          "height_cm": 78,
+          "width_cm": 67.5
         },
         "license": {
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<a href=\"https://en.wikipedia.org/wiki/en:Google_Arts_%26_Culture\" class=\"extiw\" title=\"w:en:Google Arts &amp; Culture\"><span title=\"app and website exploring partner museums\">Google Arts &amp; Culture</span></a>  — <a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/XQEGuvWhwW_ybg\">XQEGuvWhwW_ybg</a>",
+          "credit": "<cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
         }
       }
@@ -360,8 +221,8 @@
       "height": 2850,
       "tags": [],
       "popularity": {
-        "score": 338.8,
-        "pageviews_365d": 37641,
+        "score": 338.9,
+        "pageviews_365d": 37741,
         "sitelinks": 17,
         "globalusage": 104
       },
@@ -395,8 +256,8 @@
       "height": 4485,
       "tags": [],
       "popularity": {
-        "score": 419.2,
-        "pageviews_365d": 431949,
+        "score": 419.3,
+        "pageviews_365d": 433827,
         "sitelinks": 44,
         "globalusage": 290
       },
@@ -420,41 +281,6 @@
       }
     },
     {
-      "id": "wd-Q151143",
-      "title": "Woman with a Pearl Necklace",
-      "year": "1660",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jan_Vermeer_van_Delft_-_Young_Woman_with_a_Pearl_Necklace_-_Google_Art_Project.jpg/960px-Jan_Vermeer_van_Delft_-_Young_Woman_with_a_Pearl_Necklace_-_Google_Art_Project.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Jan_Vermeer_van_Delft_-_Young_Woman_with_a_Pearl_Necklace_-_Google_Art_Project.jpg",
-      "width": 4500,
-      "height": 5236,
-      "tags": [],
-      "popularity": {
-        "score": 344.5,
-        "pageviews_365d": 55467,
-        "sitelinks": 19,
-        "globalusage": 62
-      },
-      "meta": {
-        "Collection": "Gemäldegalerie Berlin",
-        "Series": "interior"
-      },
-      "extras": {
-        "qid": "Q151143",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 55,
-          "width_cm": 45
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a href=\"https://en.wikipedia.org/wiki/en:Google_Arts_%26_Culture\" class=\"extiw\" title=\"w:en:Google Arts &amp; Culture\"><span title=\"app and website exploring partner museums\">Google Arts &amp; Culture</span></a>  — <a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/kQFMVJh6zAXoxQ\">kQFMVJh6zAXoxQ</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q386453",
       "title": "Woman with a Water Jug",
       "year": "1660",
@@ -464,8 +290,8 @@
       "height": 3722,
       "tags": [],
       "popularity": {
-        "score": 346.1,
-        "pageviews_365d": 39304,
+        "score": 346.2,
+        "pageviews_365d": 39434,
         "sitelinks": 23,
         "globalusage": 145
       },
@@ -490,41 +316,6 @@
       }
     },
     {
-      "id": "wd-Q523974",
-      "title": "View of Delft",
-      "year": "1661",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg/960px-Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg",
-      "width": 6000,
-      "height": 5002,
-      "tags": [],
-      "popularity": {
-        "score": 374,
-        "pageviews_365d": 180279,
-        "sitelinks": 40,
-        "globalusage": 30
-      },
-      "meta": {
-        "Collection": "Mauritshuis",
-        "Series": "delft"
-      },
-      "extras": {
-        "qid": "Q523974",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 96.5,
-          "width_cm": 115.7
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.mauritshuis.nl/nl-nl/verdiep/de-collectie/kunstwerken/gezicht-op-delft-92/\">Mauritshuis</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q2336984",
       "title": "The Music Lesson",
       "year": "1662",
@@ -534,8 +325,8 @@
       "height": 5014,
       "tags": [],
       "popularity": {
-        "score": 352.6,
-        "pageviews_365d": 49740,
+        "score": 352.7,
+        "pageviews_365d": 49872,
         "sitelinks": 25,
         "globalusage": 143
       },
@@ -570,7 +361,7 @@
       "tags": [],
       "popularity": {
         "score": 322.5,
-        "pageviews_365d": 19309,
+        "pageviews_365d": 19360,
         "sitelinks": 15,
         "globalusage": 121
       },
@@ -604,8 +395,8 @@
       "height": 2400,
       "tags": [],
       "popularity": {
-        "score": 374.5,
-        "pageviews_365d": 153004,
+        "score": 374.6,
+        "pageviews_365d": 153580,
         "sitelinks": 25,
         "globalusage": 76
       },
@@ -639,10 +430,10 @@
       "height": 5000,
       "tags": [],
       "popularity": {
-        "score": 384,
-        "pageviews_365d": 126840,
+        "score": 375.6,
+        "pageviews_365d": 89503,
         "sitelinks": 33,
-        "globalusage": 244
+        "globalusage": 250
       },
       "meta": {
         "Collection": "Department of Paintings of the Louvre"
@@ -674,7 +465,7 @@
       "tags": [],
       "popularity": {
         "score": 357.6,
-        "pageviews_365d": 58161,
+        "pageviews_365d": 58312,
         "sitelinks": 24,
         "globalusage": 165
       },
@@ -699,42 +490,6 @@
       }
     },
     {
-      "id": "wd-Q914984",
-      "title": "A Lady Writing a Letter",
-      "year": "1665",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/A_Lady_Writing_by_Johannes_Vermeer%2C_1665-6.png/960px-A_Lady_Writing_by_Johannes_Vermeer%2C_1665-6.png",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/7/7d/A_Lady_Writing_by_Johannes_Vermeer%2C_1665-6.png",
-      "width": 2469,
-      "height": 2789,
-      "tags": [],
-      "popularity": {
-        "score": 320.8,
-        "pageviews_365d": 24911,
-        "sitelinks": 14,
-        "globalusage": 57
-      },
-      "meta": {
-        "Collection": "National Gallery of Art",
-        "Series": "interior"
-      },
-      "extras": {
-        "qid": "Q914984",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 45,
-          "width_cm": 40
-        },
-        "iiif": "https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=46437",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "The National Gallery of Art",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q185372",
       "title": "Girl with a Pearl Earring",
       "year": "1665",
@@ -744,8 +499,8 @@
       "height": 14550,
       "tags": [],
       "popularity": {
-        "score": 473.5,
-        "pageviews_365d": 2376957,
+        "score": 473.6,
+        "pageviews_365d": 2386754,
         "sitelinks": 70,
         "globalusage": 593
       },
@@ -779,8 +534,8 @@
       "height": 4489,
       "tags": [],
       "popularity": {
-        "score": 344.2,
-        "pageviews_365d": 40409,
+        "score": 344.3,
+        "pageviews_365d": 40546,
         "sitelinks": 17,
         "globalusage": 150
       },
@@ -815,7 +570,7 @@
       "tags": [],
       "popularity": {
         "score": 351.7,
-        "pageviews_365d": 59575,
+        "pageviews_365d": 59799,
         "sitelinks": 26,
         "globalusage": 79
       },
@@ -850,8 +605,8 @@
       "height": 3260,
       "tags": [],
       "popularity": {
-        "score": 329.1,
-        "pageviews_365d": 23761,
+        "score": 329.2,
+        "pageviews_365d": 23830,
         "sitelinks": 17,
         "globalusage": 124
       },
@@ -876,40 +631,6 @@
       }
     },
     {
-      "id": "wd-Q588695",
-      "title": "The Art of Painting",
-      "year": "1667",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg/960px-Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg",
-      "width": 6209,
-      "height": 7377,
-      "tags": [],
-      "popularity": {
-        "score": 393.4,
-        "pageviews_365d": 164284,
-        "sitelinks": 31,
-        "globalusage": 347
-      },
-      "meta": {
-        "Collection": "Kunsthistorisches Museum"
-      },
-      "extras": {
-        "qid": "Q588695",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 120,
-          "width_cm": 100
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a href=\"https://en.wikipedia.org/wiki/en:Google_Arts_%26_Culture\" class=\"extiw\" title=\"w:en:Google Arts &amp; Culture\"><span title=\"app and website exploring partner museums\">Google Arts &amp; Culture</span></a>  — <a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/lAHeqBoLaePtEA\">lAHeqBoLaePtEA</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q45130",
       "title": "The Geographer",
       "year": "1668",
@@ -919,8 +640,8 @@
       "height": 18526,
       "tags": [],
       "popularity": {
-        "score": 342.3,
-        "pageviews_365d": 68567,
+        "score": 342.4,
+        "pageviews_365d": 68771,
         "sitelinks": 25,
         "globalusage": 22
       },
@@ -953,8 +674,8 @@
       "height": 4638,
       "tags": [],
       "popularity": {
-        "score": 327.9,
-        "pageviews_365d": 40119,
+        "score": 328,
+        "pageviews_365d": 40227,
         "sitelinks": 19,
         "globalusage": 26
       },
@@ -988,8 +709,8 @@
       "height": 4096,
       "tags": [],
       "popularity": {
-        "score": 338.9,
-        "pageviews_365d": 37963,
+        "score": 339,
+        "pageviews_365d": 38070,
         "sitelinks": 19,
         "globalusage": 92
       },
@@ -1024,8 +745,8 @@
       "height": 1830,
       "tags": [],
       "popularity": {
-        "score": 357.9,
-        "pageviews_365d": 87360,
+        "score": 358,
+        "pageviews_365d": 87622,
         "sitelinks": 24,
         "globalusage": 61
       },
@@ -1049,72 +770,6 @@
       }
     },
     {
-      "id": "wd-Q20810246",
-      "title": "A Lady Playing the Guitar",
-      "year": "1670",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vermeer_-_Lady_with_a_Guitar_cat497.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vermeer_-_Lady_with_a_Guitar_cat497.jpg",
-      "width": 874,
-      "height": 1024,
-      "tags": [],
-      "popularity": {
-        "score": 247,
-        "pageviews_365d": 4260,
-        "sitelinks": 2,
-        "globalusage": 14
-      },
-      "meta": {
-        "Collection": "Philadelphia Museum of Art",
-        "Series": "interior"
-      },
-      "extras": {
-        "qid": "Q20810246",
-        "source": "wikidata",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://news.artnet.com/art-world/possible-philadelphia-museum-of-art-vermeer-discovery-2280880\">https://news.artnet.com/art-world/possible-philadelphia-museum-of-art-vermeer-discovery-2280880</a>",
-          "artist": "<bdi>Manner of <a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi> / <bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q2267440",
-      "title": "A Young Woman seated at a Virginal",
-      "year": "1670",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Jan_Vermeer_van_Delft_-_Jonge_vrouw_aan_een_virginaal_%28ca._1670-72%29.jpg/960px-Jan_Vermeer_van_Delft_-_Jonge_vrouw_aan_een_virginaal_%28ca._1670-72%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Jan_Vermeer_van_Delft_-_Jonge_vrouw_aan_een_virginaal_%28ca._1670-72%29.jpg",
-      "width": 10100,
-      "height": 11371,
-      "tags": [],
-      "popularity": {
-        "score": 316.4,
-        "pageviews_365d": 29241,
-        "sitelinks": 17,
-        "globalusage": 20
-      },
-      "meta": {
-        "Collection": "National Gallery",
-        "Series": "interior"
-      },
-      "extras": {
-        "qid": "Q2267440",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 51.5,
-          "width_cm": 45.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://artsandculture.google.com/asset/wd/ZQERy3a51gsnrQ\">Google Arts &amp; Culture</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q4660880",
       "title": "A Young Woman Seated at the Virginals",
       "year": "1670",
@@ -1125,7 +780,7 @@
       "tags": [],
       "popularity": {
         "score": 309.7,
-        "pageviews_365d": 24275,
+        "pageviews_365d": 24355,
         "sitelinks": 16,
         "globalusage": 17
       },
@@ -1150,76 +805,6 @@
       }
     },
     {
-      "id": "wd-Q2624258",
-      "title": "A Young Woman Standing at a Virginal",
-      "year": "1670",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Jan_Vermeer_van_Delft_-_Jonge_vrouw_staande_bij_een_virginaal_%28ca._1670-72%29.jpg/960px-Jan_Vermeer_van_Delft_-_Jonge_vrouw_staande_bij_een_virginaal_%28ca._1670-72%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Jan_Vermeer_van_Delft_-_Jonge_vrouw_staande_bij_een_virginaal_%28ca._1670-72%29.jpg",
-      "width": 9998,
-      "height": 11367,
-      "tags": [],
-      "popularity": {
-        "score": 309.6,
-        "pageviews_365d": 22743,
-        "sitelinks": 16,
-        "globalusage": 20
-      },
-      "meta": {
-        "Collection": "National Gallery",
-        "Series": "interior"
-      },
-      "extras": {
-        "qid": "Q2624258",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 51.7,
-          "width_cm": 45.2
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://artsandculture.google.com/asset/wd/eAGR4D907yOWcw\">Google Arts &amp; Culture</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q467359",
-      "title": "Allegory of the Catholic Faith",
-      "year": "1670",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Johannes_Vermeer%2C_Allegory_of_the_Catholic_Faith%2C_The_Metropolitan_Museum_of_Art.jpg/960px-Johannes_Vermeer%2C_Allegory_of_the_Catholic_Faith%2C_The_Metropolitan_Museum_of_Art.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/1/19/Johannes_Vermeer%2C_Allegory_of_the_Catholic_Faith%2C_The_Metropolitan_Museum_of_Art.jpg",
-      "width": 5629,
-      "height": 7224,
-      "tags": [],
-      "popularity": {
-        "score": 339.5,
-        "pageviews_365d": 43100,
-        "sitelinks": 19,
-        "globalusage": 71
-      },
-      "meta": {
-        "Collection": "Metropolitan Museum of Art",
-        "Series": "religious"
-      },
-      "extras": {
-        "qid": "Q467359",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 114.3,
-          "width_cm": 88.9
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.metmuseum.org/collection/the-collection-online/search/437877\">Metropolitan Museum of Art</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q641666",
       "title": "Lady Writing a Letter with her Maid",
       "year": "1670",
@@ -1230,7 +815,7 @@
       "tags": [],
       "popularity": {
         "score": 328.4,
-        "pageviews_365d": 35635,
+        "pageviews_365d": 35717,
         "sitelinks": 18,
         "globalusage": 39
       },
@@ -1264,8 +849,8 @@
       "height": 4226,
       "tags": [],
       "popularity": {
-        "score": 337.6,
-        "pageviews_365d": 27300,
+        "score": 337.7,
+        "pageviews_365d": 27395,
         "sitelinks": 15,
         "globalusage": 233
       },
@@ -1288,11 +873,426 @@
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
         }
       }
+    },
+    {
+      "id": "wd-Q20810246",
+      "title": "A Lady Playing the Guitar",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vermeer_-_Lady_with_a_Guitar_cat497.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vermeer_-_Lady_with_a_Guitar_cat497.jpg",
+      "width": 874,
+      "height": 1024,
+      "tags": [],
+      "popularity": {
+        "score": 247.1,
+        "pageviews_365d": 4278,
+        "sitelinks": 2,
+        "globalusage": 14
+      },
+      "meta": {
+        "Collection": "Philadelphia Museum of Art",
+        "Series": "interior"
+      },
+      "extras": {
+        "qid": "Q20810246",
+        "source": "wikidata",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://news.artnet.com/art-world/possible-philadelphia-museum-of-art-vermeer-discovery-2280880\">https://news.artnet.com/art-world/possible-philadelphia-museum-of-art-vermeer-discovery-2280880</a>",
+          "artist": "<bdi>Manner of <a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi> / <bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q914984",
+      "title": "A Lady Writing a Letter",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/A_Lady_Writing_by_Johannes_Vermeer%2C_1665-6.png/960px-A_Lady_Writing_by_Johannes_Vermeer%2C_1665-6.png",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/7d/A_Lady_Writing_by_Johannes_Vermeer%2C_1665-6.png",
+      "width": 2469,
+      "height": 2789,
+      "tags": [],
+      "popularity": {
+        "score": 320.8,
+        "pageviews_365d": 24972,
+        "sitelinks": 14,
+        "globalusage": 57
+      },
+      "meta": {
+        "Collection": "National Gallery of Art",
+        "Series": "interior"
+      },
+      "extras": {
+        "qid": "Q914984",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 45,
+          "width_cm": 40
+        },
+        "iiif": "https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=46437",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "The National Gallery of Art",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q2267440",
+      "title": "A Young Woman seated at a Virginal",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Jan_Vermeer_van_Delft_-_Jonge_vrouw_aan_een_virginaal_%28ca._1670-72%29.jpg/960px-Jan_Vermeer_van_Delft_-_Jonge_vrouw_aan_een_virginaal_%28ca._1670-72%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Jan_Vermeer_van_Delft_-_Jonge_vrouw_aan_een_virginaal_%28ca._1670-72%29.jpg",
+      "width": 10100,
+      "height": 11371,
+      "tags": [],
+      "popularity": {
+        "score": 317,
+        "pageviews_365d": 29336,
+        "sitelinks": 17,
+        "globalusage": 21
+      },
+      "meta": {
+        "Collection": "National Gallery",
+        "Series": "interior"
+      },
+      "extras": {
+        "qid": "Q2267440",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 51.5,
+          "width_cm": 45.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://artsandculture.google.com/asset/wd/ZQERy3a51gsnrQ\">Google Arts &amp; Culture</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q2624258",
+      "title": "A Young Woman Standing at a Virginal",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Jan_Vermeer_van_Delft_-_Jonge_vrouw_staande_bij_een_virginaal_%28ca._1670-72%29.jpg/960px-Jan_Vermeer_van_Delft_-_Jonge_vrouw_staande_bij_een_virginaal_%28ca._1670-72%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Jan_Vermeer_van_Delft_-_Jonge_vrouw_staande_bij_een_virginaal_%28ca._1670-72%29.jpg",
+      "width": 9998,
+      "height": 11367,
+      "tags": [],
+      "popularity": {
+        "score": 310.1,
+        "pageviews_365d": 22814,
+        "sitelinks": 16,
+        "globalusage": 21
+      },
+      "meta": {
+        "Collection": "National Gallery",
+        "Series": "interior"
+      },
+      "extras": {
+        "qid": "Q2624258",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 51.7,
+          "width_cm": 45.2
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://artsandculture.google.com/asset/wd/eAGR4D907yOWcw\">Google Arts &amp; Culture</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q467359",
+      "title": "Allegory of the Catholic Faith",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Johannes_Vermeer%2C_Allegory_of_the_Catholic_Faith%2C_The_Metropolitan_Museum_of_Art.jpg/960px-Johannes_Vermeer%2C_Allegory_of_the_Catholic_Faith%2C_The_Metropolitan_Museum_of_Art.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/19/Johannes_Vermeer%2C_Allegory_of_the_Catholic_Faith%2C_The_Metropolitan_Museum_of_Art.jpg",
+      "width": 5629,
+      "height": 7224,
+      "tags": [],
+      "popularity": {
+        "score": 339.6,
+        "pageviews_365d": 43230,
+        "sitelinks": 19,
+        "globalusage": 71
+      },
+      "meta": {
+        "Collection": "Metropolitan Museum of Art",
+        "Series": "religious"
+      },
+      "extras": {
+        "qid": "Q467359",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 114.3,
+          "width_cm": 88.9
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.metmuseum.org/collection/the-collection-online/search/437877\">Metropolitan Museum of Art</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q927449",
+      "title": "Christ in the House of Martha and Mary",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg/960px-Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg",
+      "width": 3459,
+      "height": 4001,
+      "tags": [],
+      "popularity": {
+        "score": 351.6,
+        "pageviews_365d": 45226,
+        "sitelinks": 23,
+        "globalusage": 177
+      },
+      "meta": {
+        "Collection": "Scottish National Gallery",
+        "Series": "religious"
+      },
+      "extras": {
+        "qid": "Q927449",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 158.5,
+          "width_cm": 141.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a href=\"https://en.wikipedia.org/wiki/en:Google_Arts_%26_Culture\" class=\"extiw\" title=\"w:en:Google Arts &amp; Culture\"><span title=\"app and website exploring partner museums\">Google Arts &amp; Culture</span></a>  — <a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/fwE2zem7WDcSlA\">fwE2zem7WDcSlA</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q32234",
+      "title": "Diana and her Nymphs",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Johannes_Vermeer_-_Diana_and_her_Nymphs_-_406_-_Mauritshuis.jpg/960px-Johannes_Vermeer_-_Diana_and_her_Nymphs_-_406_-_Mauritshuis.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/68/Johannes_Vermeer_-_Diana_and_her_Nymphs_-_406_-_Mauritshuis.jpg",
+      "width": 6000,
+      "height": 5571,
+      "tags": [],
+      "popularity": {
+        "score": 334.6,
+        "pageviews_365d": 35034,
+        "sitelinks": 17,
+        "globalusage": 81
+      },
+      "meta": {
+        "Collection": "Mauritshuis",
+        "Series": "religious"
+      },
+      "extras": {
+        "qid": "Q32234",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 97.8,
+          "width_cm": 104.6
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.mauritshuis.nl/nl-nl/verdiep/de-collectie/kunstwerken/diana-en-haar-nimfen-406/\">Mauritshuis</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q700251",
+      "title": "Girl Reading a Letter at an Open Window",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jan_Vermeer_van_Delft_-_Brieflezend_meisje_bij_het_venster_%28ca._1657-59%29.jpg/960px-Jan_Vermeer_van_Delft_-_Brieflezend_meisje_bij_het_venster_%28ca._1657-59%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jan_Vermeer_van_Delft_-_Brieflezend_meisje_bij_het_venster_%28ca._1657-59%29.jpg",
+      "width": 3303,
+      "height": 4263,
+      "tags": [],
+      "popularity": {
+        "score": 371.5,
+        "pageviews_365d": 115218,
+        "sitelinks": 27,
+        "globalusage": 107
+      },
+      "meta": {
+        "Collection": "Staatliche Kunstsammlungen Dresden",
+        "Series": "interior"
+      },
+      "extras": {
+        "qid": "Q700251",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 83,
+          "width_cm": 64.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://skd-online-collection.skd.museum/Details/Index/415429\">Staatliche Kunstsammlungen Dresden, online collection</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q588695",
+      "title": "The Art of Painting",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg/960px-Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg",
+      "width": 6209,
+      "height": 7377,
+      "tags": [],
+      "popularity": {
+        "score": 393.5,
+        "pageviews_365d": 164770,
+        "sitelinks": 31,
+        "globalusage": 347
+      },
+      "meta": {
+        "Collection": "Kunsthistorisches Museum"
+      },
+      "extras": {
+        "qid": "Q588695",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 120,
+          "width_cm": 100
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a href=\"https://en.wikipedia.org/wiki/en:Google_Arts_%26_Culture\" class=\"extiw\" title=\"w:en:Google Arts &amp; Culture\"><span title=\"app and website exploring partner museums\">Google Arts &amp; Culture</span></a>  — <a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/lAHeqBoLaePtEA\">lAHeqBoLaePtEA</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q782639",
+      "title": "The Wine Glass",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg/960px-Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg",
+      "width": 5333,
+      "height": 4604,
+      "tags": [],
+      "popularity": {
+        "score": 339.6,
+        "pageviews_365d": 40746,
+        "sitelinks": 19,
+        "globalusage": 83
+      },
+      "meta": {
+        "Collection": "Gemäldegalerie Berlin"
+      },
+      "extras": {
+        "qid": "Q782639",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 67.7,
+          "width_cm": 79.6
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a href=\"https://en.wikipedia.org/wiki/en:Google_Arts_%26_Culture\" class=\"extiw\" title=\"w:en:Google Arts &amp; Culture\"><span title=\"app and website exploring partner museums\">Google Arts &amp; Culture</span></a>  — <a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/XQEGuvWhwW_ybg\">XQEGuvWhwW_ybg</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q523974",
+      "title": "View of Delft",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg/960px-Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg",
+      "width": 6000,
+      "height": 5002,
+      "tags": [],
+      "popularity": {
+        "score": 374.1,
+        "pageviews_365d": 180868,
+        "sitelinks": 40,
+        "globalusage": 30
+      },
+      "meta": {
+        "Collection": "Mauritshuis",
+        "Series": "delft"
+      },
+      "extras": {
+        "qid": "Q523974",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 96.5,
+          "width_cm": 115.7
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.mauritshuis.nl/nl-nl/verdiep/de-collectie/kunstwerken/gezicht-op-delft-92/\">Mauritshuis</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q151143",
+      "title": "Woman with a Pearl Necklace",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jan_Vermeer_van_Delft_-_Young_Woman_with_a_Pearl_Necklace_-_Google_Art_Project.jpg/960px-Jan_Vermeer_van_Delft_-_Young_Woman_with_a_Pearl_Necklace_-_Google_Art_Project.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Jan_Vermeer_van_Delft_-_Young_Woman_with_a_Pearl_Necklace_-_Google_Art_Project.jpg",
+      "width": 4500,
+      "height": 5236,
+      "tags": [],
+      "popularity": {
+        "score": 344.6,
+        "pageviews_365d": 55649,
+        "sitelinks": 19,
+        "globalusage": 62
+      },
+      "meta": {
+        "Collection": "Gemäldegalerie Berlin",
+        "Series": "interior"
+      },
+      "extras": {
+        "qid": "Q151143",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 55,
+          "width_cm": 45
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a href=\"https://en.wikipedia.org/wiki/en:Google_Arts_%26_Culture\" class=\"extiw\" title=\"w:en:Google Arts &amp; Culture\"><span title=\"app and website exploring partner museums\">Google Arts &amp; Culture</span></a>  — <a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/kQFMVJh6zAXoxQ\">kQFMVJh6zAXoxQ</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
+        }
+      }
     }
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-06-01T11:49:33.916Z",
+    "generated": "2026-06-03T06:32:32.499Z",
     "artist": {
       "qid": "Q41264",
       "name": "Johannes Vermeer",

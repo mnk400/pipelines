@@ -3,36 +3,6 @@
   "name": "Berthe Morisot",
   "items": [
     {
-      "id": "wd-Q124079094",
-      "title": "A Woman Seated at a Bench on the Avenue du Bois",
-      "year": "1850",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/A_Woman_Seated_at_a_Bench_on_the_Avenue_du_Bois_MET_DP807732.jpg/960px-A_Woman_Seated_at_a_Bench_on_the_Avenue_du_Bois_MET_DP807732.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/3/3a/A_Woman_Seated_at_a_Bench_on_the_Avenue_du_Bois_MET_DP807732.jpg",
-      "width": 3193,
-      "height": 2943,
-      "tags": [],
-      "popularity": {
-        "score": 24,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 10
-      },
-      "meta": {
-        "Collection": "Metropolitan Museum of Art"
-      },
-      "extras": {
-        "qid": "Q124079094",
-        "source": "wikidata",
-        "license": {
-          "short_name": "CC0",
-          "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "usage_terms": "Creative Commons Zero, Public Domain Dedication",
-          "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q105627742",
       "title": "Calvary",
       "year": "1858",
@@ -259,42 +229,6 @@
       }
     },
     {
-      "id": "wd-Q20188721",
-      "title": "The Mother and Sister of the Artist",
-      "year": "1869",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Berthe_Morisot_006.jpg/960px-Berthe_Morisot_006.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/a/af/Berthe_Morisot_006.jpg",
-      "width": 7839,
-      "height": 9660,
-      "tags": [],
-      "popularity": {
-        "score": 285.8,
-        "pageviews_365d": 8654,
-        "sitelinks": 6,
-        "globalusage": 52
-      },
-      "meta": {
-        "Collection": "National Gallery of Art",
-        "Series": "mother-and-child"
-      },
-      "extras": {
-        "qid": "Q20188721",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 101,
-          "width_cm": 81.8
-        },
-        "iiif": "https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=46661",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.nga.gov/collection/art-object-page.46661.html\">National Gallery of Art, Washington, D. C., online collection</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q3225805",
       "title": "The Port at Lorient",
       "year": "1869",
@@ -305,7 +239,7 @@
       "tags": [],
       "popularity": {
         "score": 286.4,
-        "pageviews_365d": 8785,
+        "pageviews_365d": 8801,
         "sitelinks": 6,
         "globalusage": 53
       },
@@ -606,8 +540,8 @@
       "height": 5001,
       "tags": [],
       "popularity": {
-        "score": 327.2,
-        "pageviews_365d": 47817,
+        "score": 327.3,
+        "pageviews_365d": 47944,
         "sitelinks": 11,
         "globalusage": 26
       },
@@ -675,8 +609,8 @@
       "height": 3200,
       "tags": [],
       "popularity": {
-        "score": 232.9,
-        "pageviews_365d": 2568,
+        "score": 233,
+        "pageviews_365d": 2573,
         "sitelinks": 2,
         "globalusage": 12
       },
@@ -943,8 +877,8 @@
       "height": 5287,
       "tags": [],
       "popularity": {
-        "score": 266.8,
-        "pageviews_365d": 6351,
+        "score": 266.9,
+        "pageviews_365d": 6368,
         "sitelinks": 7,
         "globalusage": 14
       },
@@ -1110,7 +1044,7 @@
       "tags": [],
       "popularity": {
         "score": 221.8,
-        "pageviews_365d": 1402,
+        "pageviews_365d": 1404,
         "sitelinks": 1,
         "globalusage": 28
       },
@@ -1144,8 +1078,8 @@
       "height": 1864,
       "tags": [],
       "popularity": {
-        "score": 187.7,
-        "pageviews_365d": 487,
+        "score": 187.9,
+        "pageviews_365d": 491,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -1213,7 +1147,7 @@
       "tags": [],
       "popularity": {
         "score": 284.7,
-        "pageviews_365d": 9073,
+        "pageviews_365d": 9089,
         "sitelinks": 5,
         "globalusage": 48
       },
@@ -1260,38 +1194,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com/lotfinder/lot/berthe-morisot-femme-en-noir-or-avant-6059241-details.aspx?from=searchresults&amp;intObjectID=6059241&amp;sid=f773ea35-ad0e-4e7c-ab65-7fc3fbbfe387\">https://www.christies.com/lotfinder/lot/berthe-morisot-femme-en-noir-or-avant-6059241-details.aspx?from=searchresults&amp;intObjectID=6059241&amp;sid=f773ea35-ad0e-4e7c-ab65-7fc3fbbfe387</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q133246422",
-      "title": "Figure of a Woman (Before the Theater)",
-      "year": "1875",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Berthe_Morisot_-_Figure_of_a_Woman.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Berthe_Morisot_-_Figure_of_a_Woman.jpg",
-      "width": 327,
-      "height": 623,
-      "tags": [],
-      "popularity": {
-        "score": 23,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 9
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q133246422",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 57,
-          "width_cm": 31
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "Charles F. Stuckey, William P. Scott: Berthe Morisot (<a rel=\"nofollow\" class=\"external free\" href=\"http://www.ibiblio.org/wm/paint/auth/morisot/\">http://www.ibiblio.org/wm/paint/auth/morisot/</a>)",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
         }
       }
@@ -1410,8 +1312,8 @@
       "height": 2343,
       "tags": [],
       "popularity": {
-        "score": 164.9,
-        "pageviews_365d": 270,
+        "score": 165.1,
+        "pageviews_365d": 272,
         "sitelinks": 1,
         "globalusage": 5
       },
@@ -1606,8 +1508,8 @@
       "height": 2750,
       "tags": [],
       "popularity": {
-        "score": 293.5,
-        "pageviews_365d": 13473,
+        "score": 293.6,
+        "pageviews_365d": 13523,
         "sitelinks": 7,
         "globalusage": 32
       },
@@ -1734,42 +1636,6 @@
       }
     },
     {
-      "id": "wd-Q20268114",
-      "title": "Woman at Her Toilette",
-      "year": "1877",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Berthe_Morisot_-_Woman_at_Her_Toilette_-_1924.127_-_Art_Institute_of_Chicago.jpg/960px-Berthe_Morisot_-_Woman_at_Her_Toilette_-_1924.127_-_Art_Institute_of_Chicago.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Berthe_Morisot_-_Woman_at_Her_Toilette_-_1924.127_-_Art_Institute_of_Chicago.jpg",
-      "width": 3000,
-      "height": 2246,
-      "tags": [],
-      "popularity": {
-        "score": 280.2,
-        "pageviews_365d": 13948,
-        "sitelinks": 3,
-        "globalusage": 15
-      },
-      "meta": {
-        "Collection": "Art Institute of Chicago",
-        "Series": "toilette"
-      },
-      "extras": {
-        "qid": "Q20268114",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 60.3,
-          "width_cm": 80.4
-        },
-        "iiif": "https://api.artic.edu/api/v1/artworks/11723/manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/11723\">https://www.artic.edu/artworks/11723</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q17491784",
       "title": "Young woman powdering",
       "year": "1877",
@@ -1780,7 +1646,7 @@
       "tags": [],
       "popularity": {
         "score": 206.1,
-        "pageviews_365d": 1196,
+        "pageviews_365d": 1198,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -1882,8 +1748,8 @@
       "height": 3748,
       "tags": [],
       "popularity": {
-        "score": 190.8,
-        "pageviews_365d": 621,
+        "score": 190.9,
+        "pageviews_365d": 623,
         "sitelinks": 1,
         "globalusage": 9
       },
@@ -1946,8 +1812,8 @@
       "height": 4226,
       "tags": [],
       "popularity": {
-        "score": 316.8,
-        "pageviews_365d": 21714,
+        "score": 316.9,
+        "pageviews_365d": 21785,
         "sitelinks": 10,
         "globalusage": 74
       },
@@ -2011,7 +1877,7 @@
       "tags": [],
       "popularity": {
         "score": 247.8,
-        "pageviews_365d": 3821,
+        "pageviews_365d": 3827,
         "sitelinks": 3,
         "globalusage": 15
       },
@@ -2089,42 +1955,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com/lotfinder/lot_details.aspx?intObjectID=5677549&amp;lid=1&amp;From=searchresults&amp;sid=2819d702-7a7f-4d36-8df9-c0b0136d197e\">https://www.christies.com/lotfinder/lot_details.aspx?intObjectID=5677549&amp;lid=1&amp;From=searchresults&amp;sid=2819d702-7a7f-4d36-8df9-c0b0136d197e</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q18600994",
-      "title": "In the Bois de Boulogne",
-      "year": "1880",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/In_the_Bois_de_Boulogne_%28Berthe_Morisot%29_-_Nationalmuseum_-_22575.tif/lossy-page1-960px-In_the_Bois_de_Boulogne_%28Berthe_Morisot%29_-_Nationalmuseum_-_22575.tif.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/1/16/In_the_Bois_de_Boulogne_%28Berthe_Morisot%29_-_Nationalmuseum_-_22575.tif",
-      "width": 3743,
-      "height": 3106,
-      "tags": [],
-      "popularity": {
-        "score": 178.7,
-        "pageviews_365d": 309,
-        "sitelinks": 1,
-        "globalusage": 16
-      },
-      "meta": {
-        "Collection": "Nationalmuseum",
-        "Series": "boulogne"
-      },
-      "extras": {
-        "qid": "Q18600994",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 61,
-          "width_cm": 73.5
-        },
-        "iiif": "http://nationalmuseumse.iiifhosting.com/iiif/2c99c56b53d5c14cde6e4a47fbce5cb789a3aa67f2c5e312fdee05164b29003d/manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=22575&amp;viewType=detailView\">  Erik Cornelius / Nationalmuseum</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
         }
       }
@@ -2302,7 +2132,7 @@
       "tags": [],
       "popularity": {
         "score": 204.6,
-        "pageviews_365d": 918,
+        "pageviews_365d": 920,
         "sitelinks": 2,
         "globalusage": 9
       },
@@ -2377,8 +2207,8 @@
       "height": 1190,
       "tags": [],
       "popularity": {
-        "score": 198.7,
-        "pageviews_365d": 634,
+        "score": 198.9,
+        "pageviews_365d": 639,
         "sitelinks": 2,
         "globalusage": 13
       },
@@ -2465,41 +2295,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://bjws.blogspot.fr/search?q=laundry\">https://bjws.blogspot.fr/search?q=laundry</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q79149431",
-      "title": "The Port of Nice",
-      "year": "1881",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Morisot_Port_of_Nice_DMA.jpg/960px-Morisot_Port_of_Nice_DMA.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Morisot_Port_of_Nice_DMA.jpg",
-      "width": 3502,
-      "height": 2853,
-      "tags": [],
-      "popularity": {
-        "score": 23,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 9
-      },
-      "meta": {
-        "Collection": "Dallas Museum of Art",
-        "Series": "nice"
-      },
-      "extras": {
-        "qid": "Q79149431",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 38,
-          "width_cm": 46
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.dma.org/collection/artwork/berthe-morisot/port-nice\">https://www.dma.org/collection/artwork/berthe-morisot/port-nice</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
         }
       }
@@ -2732,75 +2527,6 @@
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
           "usage_terms": "Creative Commons Zero, Public Domain Dedication",
           "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png\" decoding=\"async\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=222978\">image number 222978</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q20272561",
-      "title": "Woman in a Garden",
-      "year": "1882",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Berthe_Morisot_-_Woman_in_a_Garden_-_1999.363_-_Art_Institute_of_Chicago.jpg/960px-Berthe_Morisot_-_Woman_in_a_Garden_-_1999.363_-_Art_Institute_of_Chicago.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Berthe_Morisot_-_Woman_in_a_Garden_-_1999.363_-_Art_Institute_of_Chicago.jpg",
-      "width": 1691,
-      "height": 2250,
-      "tags": [],
-      "popularity": {
-        "score": 24.8,
-        "pageviews_365d": 0,
-        "sitelinks": 1,
-        "globalusage": 5
-      },
-      "meta": {
-        "Collection": "Art Institute of Chicago"
-      },
-      "extras": {
-        "qid": "Q20272561",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 123,
-          "width_cm": 94
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/153798\">https://www.artic.edu/artworks/153798</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q27965840",
-      "title": "A Woman and Child in a Garden",
-      "year": "1883",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Berthe_Morisot_-_A_Woman_and_Child_in_a_Garden_-_NG_2269_-_National_Galleries_of_Scotland.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Berthe_Morisot_-_A_Woman_and_Child_in_a_Garden_-_NG_2269_-_National_Galleries_of_Scotland.jpg",
-      "width": 600,
-      "height": 490,
-      "tags": [],
-      "popularity": {
-        "score": 13.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 3
-      },
-      "meta": {
-        "Collection": "National Galleries Scotland",
-        "Series": "mother-and-child"
-      },
-      "extras": {
-        "qid": "Q27965840",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 60,
-          "width_cm": 73.4
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.nationalgalleries.org/art-and-artists/5209\">National Galleries Scotland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
         }
       }
@@ -3273,8 +2999,8 @@
       "height": 1836,
       "tags": [],
       "popularity": {
-        "score": 195.8,
-        "pageviews_365d": 587,
+        "score": 196.2,
+        "pageviews_365d": 596,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -3396,40 +3122,6 @@
       }
     },
     {
-      "id": "wd-Q104773731",
-      "title": "The Bath",
-      "year": "1885",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Berthe_Morisot_The_Bath.jpg/960px-Berthe_Morisot_The_Bath.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/0/03/Berthe_Morisot_The_Bath.jpg",
-      "width": 1252,
-      "height": 1600,
-      "tags": [],
-      "popularity": {
-        "score": 33,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 26
-      },
-      "meta": {
-        "Collection": "Clark Art Institute"
-      },
-      "extras": {
-        "qid": "Q104773731",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 81.5,
-          "width_cm": 66
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.clarkart.edu/Collection/6577\">http://www.clarkart.edu/Collection/6577</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q73295242",
       "title": "The Cage",
       "year": "1885",
@@ -3439,8 +3131,8 @@
       "height": 6258,
       "tags": [],
       "popularity": {
-        "score": 193.5,
-        "pageviews_365d": 488,
+        "score": 193.6,
+        "pageviews_365d": 489,
         "sitelinks": 2,
         "globalusage": 15
       },
@@ -3645,7 +3337,7 @@
       "tags": [],
       "popularity": {
         "score": 259.8,
-        "pageviews_365d": 4078,
+        "pageviews_365d": 4089,
         "sitelinks": 4,
         "globalusage": 35
       },
@@ -3665,40 +3357,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q131863224",
-      "title": "interior at Jersey",
-      "year": "1886",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Morisot_-_cottage-interior-also-known-as-interior-at-jersey.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Morisot_-_cottage-interior-also-known-as-interior-at-jersey.jpg",
-      "width": 280,
-      "height": 229,
-      "tags": [],
-      "popularity": {
-        "score": 17.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 5
-      },
-      "meta": {
-        "Collection": "Museum of Ixelles"
-      },
-      "extras": {
-        "qid": "Q131863224",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 50,
-          "width_cm": 61
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.wikiart.org/en/berthe-morisot\">https://www.wikiart.org/en/berthe-morisot</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
         }
       }
@@ -3745,8 +3403,8 @@
       "height": 1361,
       "tags": [],
       "popularity": {
-        "score": 184.8,
-        "pageviews_365d": 454,
+        "score": 186.3,
+        "pageviews_365d": 482,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -3961,40 +3619,6 @@
       }
     },
     {
-      "id": "wd-Q14940548",
-      "title": "Young girl in a park",
-      "year": "1888",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Morisot_Jeune_fille_dans_un_parc_%28RO_708%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Morisot_Jeune_fille_dans_un_parc_%28RO_708%29.jpg",
-      "width": 707,
-      "height": 800,
-      "tags": [],
-      "popularity": {
-        "score": 256.9,
-        "pageviews_365d": 3982,
-        "sitelinks": 5,
-        "globalusage": 23
-      },
-      "meta": {
-        "Collection": "Musée des Augustins"
-      },
-      "extras": {
-        "qid": "Q14940548",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 90,
-          "width_cm": 81
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "Photothèque Musée des Augustins, Toulouse, photo : STC, Ville de Toulouse",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q64223638",
       "title": "Albine Sermicoli in the Studio",
       "year": "1889",
@@ -4107,8 +3731,8 @@
       "height": 1332,
       "tags": [],
       "popularity": {
-        "score": 232.7,
-        "pageviews_365d": 2406,
+        "score": 232.8,
+        "pageviews_365d": 2414,
         "sitelinks": 4,
         "globalusage": 8
       },
@@ -4358,40 +3982,6 @@
       }
     },
     {
-      "id": "wd-Q133050673",
-      "title": "Spring landscape",
-      "year": "1890",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Berthe_Morisot%2C_Spring_Landscape%2C_c._1890-1891%2C_NGA_52307.jpg/960px-Berthe_Morisot%2C_Spring_Landscape%2C_c._1890-1891%2C_NGA_52307.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Berthe_Morisot%2C_Spring_Landscape%2C_c._1890-1891%2C_NGA_52307.jpg",
-      "width": 3082,
-      "height": 4000,
-      "tags": [],
-      "popularity": {
-        "score": 20.8,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 7
-      },
-      "meta": {
-        "Collection": "National Gallery of Art"
-      },
-      "extras": {
-        "qid": "Q133050673",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 23.7,
-          "width_cm": 18.4
-        },
-        "license": {
-          "short_name": "CC0",
-          "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "usage_terms": "Creative Commons Zero, Public Domain Dedication",
-          "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q20190064",
       "title": "The Artist's Daughter with a Parakeet",
       "year": "1890",
@@ -4471,8 +4061,8 @@
       "height": 837,
       "tags": [],
       "popularity": {
-        "score": 167.4,
-        "pageviews_365d": 226,
+        "score": 167.9,
+        "pageviews_365d": 231,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -4540,8 +4130,8 @@
       "height": 2768,
       "tags": [],
       "popularity": {
-        "score": 187.1,
-        "pageviews_365d": 558,
+        "score": 187.2,
+        "pageviews_365d": 561,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -4575,7 +4165,7 @@
       "tags": [],
       "popularity": {
         "score": 234.4,
-        "pageviews_365d": 2046,
+        "pageviews_365d": 2048,
         "sitelinks": 3,
         "globalusage": 19
       },
@@ -4668,40 +4258,6 @@
       }
     },
     {
-      "id": "wd-Q20260900",
-      "title": "Young Girl with Hat",
-      "year": "1891",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Berthe_Morisot_-_Young_Girl_with_Hat_-_1964.214_-_Art_Institute_of_Chicago.jpg/960px-Berthe_Morisot_-_Young_Girl_with_Hat_-_1964.214_-_Art_Institute_of_Chicago.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Berthe_Morisot_-_Young_Girl_with_Hat_-_1964.214_-_Art_Institute_of_Chicago.jpg",
-      "width": 1853,
-      "height": 2250,
-      "tags": [],
-      "popularity": {
-        "score": 17.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 5
-      },
-      "meta": {
-        "Collection": "Art Institute of Chicago"
-      },
-      "extras": {
-        "qid": "Q20260900",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 55.9,
-          "width_cm": 47
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": null,
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q133239281",
       "title": "Fillette au chapeau de paille",
       "year": "1892",
@@ -4744,7 +4300,7 @@
       "tags": [],
       "popularity": {
         "score": 181.2,
-        "pageviews_365d": 441,
+        "pageviews_365d": 442,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -4859,40 +4415,6 @@
           "usage_terms": "Public domain",
           "credit": null,
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q139864601",
-      "title": "Julie Daydreaming",
-      "year": "1893",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Julie_r%C3%AAveuse%2C_par_Berthe_Morisot.jpg/960px-Julie_r%C3%AAveuse%2C_par_Berthe_Morisot.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/7/72/Julie_r%C3%AAveuse%2C_par_Berthe_Morisot.jpg",
-      "width": 2587,
-      "height": 3200,
-      "tags": [],
-      "popularity": {
-        "score": 161.6,
-        "pageviews_365d": 179,
-        "sitelinks": 2,
-        "globalusage": 7
-      },
-      "meta": {
-        "Series": "mother-and-child"
-      },
-      "extras": {
-        "qid": "Q139864601",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 65.2,
-          "width_cm": 54.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com/img/LotImages/2022/NYR/2022_NYR_20730_0049C_000(berthe_morisot_julie_reveuse035930).jpg?mode=max\">https://www.christies.com/img/LotImages/2022/NYR/2022_NYR_20730_0049C_000(berthe_morisot_julie_reveuse035930).jpg?mode=max</a>",
-          "artist": "Berthe Morisot"
         }
       }
     },
@@ -5034,6 +4556,40 @@
       }
     },
     {
+      "id": "wd-Q14940548",
+      "title": "Young girl in a park",
+      "year": "1893",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Morisot_Jeune_fille_dans_un_parc_%28RO_708%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Morisot_Jeune_fille_dans_un_parc_%28RO_708%29.jpg",
+      "width": 707,
+      "height": 800,
+      "tags": [],
+      "popularity": {
+        "score": 257,
+        "pageviews_365d": 3994,
+        "sitelinks": 5,
+        "globalusage": 23
+      },
+      "meta": {
+        "Collection": "Musée des Augustins"
+      },
+      "extras": {
+        "qid": "Q14940548",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 90,
+          "width_cm": 81
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "Photothèque Musée des Augustins, Toulouse, photo : STC, Ville de Toulouse",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q59773478",
       "title": "Young girl on the couch",
       "year": "1893",
@@ -5043,8 +4599,8 @@
       "height": 491,
       "tags": [],
       "popularity": {
-        "score": 186.2,
-        "pageviews_365d": 539,
+        "score": 186.3,
+        "pageviews_365d": 541,
         "sitelinks": 2,
         "globalusage": 5
       },
@@ -5083,14 +4639,14 @@
         "globalusage": 9
       },
       "meta": {
-        "Collection": "Mougins Museum of Classical Art"
+        "Collection": "The Philip and Janice Levin Foundation"
       },
       "extras": {
         "qid": "Q65966406",
         "source": "wikidata",
         "dimensions": {
           "height_cm": 64,
-          "width_cm": 77
+          "width_cm": 80
         },
         "license": {
           "short_name": "Public domain",
@@ -5242,8 +4798,8 @@
       "height": 2301,
       "tags": [],
       "popularity": {
-        "score": 189.5,
-        "pageviews_365d": 515,
+        "score": 189.7,
+        "pageviews_365d": 519,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -5278,8 +4834,8 @@
       "height": 960,
       "tags": [],
       "popularity": {
-        "score": 193.5,
-        "pageviews_365d": 667,
+        "score": 194.5,
+        "pageviews_365d": 694,
         "sitelinks": 1,
         "globalusage": 10
       },
@@ -5313,7 +4869,7 @@
       "tags": [],
       "popularity": {
         "score": 206.7,
-        "pageviews_365d": 1130,
+        "pageviews_365d": 1131,
         "sitelinks": 1,
         "globalusage": 10
       },
@@ -5476,64 +5032,6 @@
       }
     },
     {
-      "id": "wd-Q105636928",
-      "title": "Boats (Entry of the Midina to the Isle of Wight)",
-      "year": "1895",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Morisot_-_boats-entry-to-the-medina-in-the-isle-of-wight.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Morisot_-_boats-entry-to-the-medina-in-the-isle-of-wight.jpg",
-      "width": 280,
-      "height": 300,
-      "tags": [],
-      "popularity": {
-        "score": 23,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 9
-      },
-      "meta": {
-        "Collection": "Fogg Museum"
-      },
-      "extras": {
-        "qid": "Q105636928",
-        "source": "wikidata",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.wikiart.org/en/berthe-morisot\">https://www.wikiart.org/en/berthe-morisot</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q121513346",
-      "title": "Interior",
-      "year": "1895",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/73/Morisot_-_interior.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/7/73/Morisot_-_interior.jpg",
-      "width": 280,
-      "height": 227,
-      "tags": [],
-      "popularity": {
-        "score": 16.1,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 4
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q121513346",
-        "source": "wikidata",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.wikiart.org/en/berthe-morisot\">https://www.wikiart.org/en/berthe-morisot</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q131674975",
       "title": "Julie Manet au chapeau Liberty",
       "year": "1895",
@@ -5563,6 +5061,71 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a href=\"https://en.wikipedia.org/wiki/Christie%27s\" class=\"extiw\" title=\"en:Christie's\">Christie's</a>, LotFinder:  entry  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.christies.com/LotFinder/lot_details.aspx?intObjectID=5766581\">5766581</a> (sale 1509, lot 492)",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q27965840",
+      "title": "A Woman and Child in a Garden",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Berthe_Morisot_-_A_Woman_and_Child_in_a_Garden_-_NG_2269_-_National_Galleries_of_Scotland.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Berthe_Morisot_-_A_Woman_and_Child_in_a_Garden_-_NG_2269_-_National_Galleries_of_Scotland.jpg",
+      "width": 600,
+      "height": 490,
+      "tags": [],
+      "popularity": {
+        "score": 13.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 3
+      },
+      "meta": {
+        "Collection": "National Galleries Scotland",
+        "Series": "mother-and-child"
+      },
+      "extras": {
+        "qid": "Q27965840",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 60,
+          "width_cm": 73.4
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.nationalgalleries.org/art-and-artists/5209\">National Galleries Scotland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q124079094",
+      "title": "A Woman Seated at a Bench on the Avenue du Bois",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/A_Woman_Seated_at_a_Bench_on_the_Avenue_du_Bois_MET_DP807732.jpg/960px-A_Woman_Seated_at_a_Bench_on_the_Avenue_du_Bois_MET_DP807732.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/3a/A_Woman_Seated_at_a_Bench_on_the_Avenue_du_Bois_MET_DP807732.jpg",
+      "width": 3193,
+      "height": 2943,
+      "tags": [],
+      "popularity": {
+        "score": 24,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 10
+      },
+      "meta": {
+        "Collection": "Metropolitan Museum of Art"
+      },
+      "extras": {
+        "qid": "Q124079094",
+        "source": "wikidata",
+        "license": {
+          "short_name": "CC0",
+          "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "usage_terms": "Creative Commons Zero, Public Domain Dedication",
+          "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
         }
       }
@@ -5598,6 +5161,36 @@
           "usage_terms": "Public domain",
           "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
           "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q105636928",
+      "title": "Boats (Entry of the Midina to the Isle of Wight)",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Morisot_-_boats-entry-to-the-medina-in-the-isle-of-wight.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Morisot_-_boats-entry-to-the-medina-in-the-isle-of-wight.jpg",
+      "width": 280,
+      "height": 300,
+      "tags": [],
+      "popularity": {
+        "score": 23,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 9
+      },
+      "meta": {
+        "Collection": "Fogg Museum"
+      },
+      "extras": {
+        "qid": "Q105636928",
+        "source": "wikidata",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.wikiart.org/en/berthe-morisot\">https://www.wikiart.org/en/berthe-morisot</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
         }
       }
     },
@@ -5658,6 +5251,136 @@
       }
     },
     {
+      "id": "wd-Q133246422",
+      "title": "Figure of a Woman (Before the Theater)",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Berthe_Morisot_-_Figure_of_a_Woman.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Berthe_Morisot_-_Figure_of_a_Woman.jpg",
+      "width": 327,
+      "height": 623,
+      "tags": [],
+      "popularity": {
+        "score": 23,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 9
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q133246422",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 57,
+          "width_cm": 31
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "Charles F. Stuckey, William P. Scott: Berthe Morisot (<a rel=\"nofollow\" class=\"external free\" href=\"http://www.ibiblio.org/wm/paint/auth/morisot/\">http://www.ibiblio.org/wm/paint/auth/morisot/</a>)",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q18600994",
+      "title": "In the Bois de Boulogne",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/In_the_Bois_de_Boulogne_%28Berthe_Morisot%29_-_Nationalmuseum_-_22575.tif/lossy-page1-960px-In_the_Bois_de_Boulogne_%28Berthe_Morisot%29_-_Nationalmuseum_-_22575.tif.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/16/In_the_Bois_de_Boulogne_%28Berthe_Morisot%29_-_Nationalmuseum_-_22575.tif",
+      "width": 3743,
+      "height": 3106,
+      "tags": [],
+      "popularity": {
+        "score": 178.7,
+        "pageviews_365d": 309,
+        "sitelinks": 1,
+        "globalusage": 16
+      },
+      "meta": {
+        "Collection": "Nationalmuseum",
+        "Series": "boulogne"
+      },
+      "extras": {
+        "qid": "Q18600994",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 61,
+          "width_cm": 73.5
+        },
+        "iiif": "http://nationalmuseumse.iiifhosting.com/iiif/2c99c56b53d5c14cde6e4a47fbce5cb789a3aa67f2c5e312fdee05164b29003d/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=22575&amp;viewType=detailView\">  Erik Cornelius / Nationalmuseum</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q121513346",
+      "title": "Interior",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/73/Morisot_-_interior.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/73/Morisot_-_interior.jpg",
+      "width": 280,
+      "height": 227,
+      "tags": [],
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q121513346",
+        "source": "wikidata",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.wikiart.org/en/berthe-morisot\">https://www.wikiart.org/en/berthe-morisot</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q131863224",
+      "title": "interior at Jersey",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Morisot_-_cottage-interior-also-known-as-interior-at-jersey.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Morisot_-_cottage-interior-also-known-as-interior-at-jersey.jpg",
+      "width": 280,
+      "height": 229,
+      "tags": [],
+      "popularity": {
+        "score": 17.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 5
+      },
+      "meta": {
+        "Collection": "Museum of Ixelles"
+      },
+      "extras": {
+        "qid": "Q131863224",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 50,
+          "width_cm": 61
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.wikiart.org/en/berthe-morisot\">https://www.wikiart.org/en/berthe-morisot</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q118330142",
       "title": "Jeanne Pontillon à la capeline",
       "year": null,
@@ -5684,6 +5407,40 @@
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sothebys.com/en/search-results.html?query=Berthe%20Morisot\">https://www.sothebys.com/en/search-results.html?query=Berthe%20Morisot</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q139864601",
+      "title": "Julie Daydreaming",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Julie_r%C3%AAveuse%2C_par_Berthe_Morisot.jpg/960px-Julie_r%C3%AAveuse%2C_par_Berthe_Morisot.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/72/Julie_r%C3%AAveuse%2C_par_Berthe_Morisot.jpg",
+      "width": 2587,
+      "height": 3200,
+      "tags": [],
+      "popularity": {
+        "score": 161.7,
+        "pageviews_365d": 180,
+        "sitelinks": 2,
+        "globalusage": 7
+      },
+      "meta": {
+        "Series": "mother-and-child"
+      },
+      "extras": {
+        "qid": "Q139864601",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 65.2,
+          "width_cm": 54.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com/img/LotImages/2022/NYR/2022_NYR_20730_0049C_000(berthe_morisot_julie_reveuse035930).jpg?mode=max\">https://www.christies.com/img/LotImages/2022/NYR/2022_NYR_20730_0049C_000(berthe_morisot_julie_reveuse035930).jpg?mode=max</a>",
+          "artist": "Berthe Morisot"
         }
       }
     },
@@ -5748,11 +5505,254 @@
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
         }
       }
+    },
+    {
+      "id": "wd-Q133050673",
+      "title": "Spring landscape",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Berthe_Morisot%2C_Spring_Landscape%2C_c._1890-1891%2C_NGA_52307.jpg/960px-Berthe_Morisot%2C_Spring_Landscape%2C_c._1890-1891%2C_NGA_52307.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Berthe_Morisot%2C_Spring_Landscape%2C_c._1890-1891%2C_NGA_52307.jpg",
+      "width": 3082,
+      "height": 4000,
+      "tags": [],
+      "popularity": {
+        "score": 20.8,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 7
+      },
+      "meta": {
+        "Collection": "National Gallery of Art"
+      },
+      "extras": {
+        "qid": "Q133050673",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 23.7,
+          "width_cm": 18.4
+        },
+        "license": {
+          "short_name": "CC0",
+          "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "usage_terms": "Creative Commons Zero, Public Domain Dedication",
+          "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q104773731",
+      "title": "The Bath",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Berthe_Morisot_The_Bath.jpg/960px-Berthe_Morisot_The_Bath.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/03/Berthe_Morisot_The_Bath.jpg",
+      "width": 1252,
+      "height": 1600,
+      "tags": [],
+      "popularity": {
+        "score": 33,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 26
+      },
+      "meta": {
+        "Collection": "Clark Art Institute"
+      },
+      "extras": {
+        "qid": "Q104773731",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 81.5,
+          "width_cm": 66
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.clarkart.edu/Collection/6577\">http://www.clarkart.edu/Collection/6577</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q20188721",
+      "title": "The Mother and Sister of the Artist",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Berthe_Morisot_006.jpg/960px-Berthe_Morisot_006.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/af/Berthe_Morisot_006.jpg",
+      "width": 7839,
+      "height": 9660,
+      "tags": [],
+      "popularity": {
+        "score": 285.9,
+        "pageviews_365d": 8680,
+        "sitelinks": 6,
+        "globalusage": 52
+      },
+      "meta": {
+        "Collection": "National Gallery of Art",
+        "Series": "mother-and-child"
+      },
+      "extras": {
+        "qid": "Q20188721",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 101,
+          "width_cm": 81.8
+        },
+        "iiif": "https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=46661",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.nga.gov/collection/art-object-page.46661.html\">National Gallery of Art, Washington, D. C., online collection</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q79149431",
+      "title": "The Port of Nice",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Morisot_Port_of_Nice_DMA.jpg/960px-Morisot_Port_of_Nice_DMA.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Morisot_Port_of_Nice_DMA.jpg",
+      "width": 3502,
+      "height": 2853,
+      "tags": [],
+      "popularity": {
+        "score": 23,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 9
+      },
+      "meta": {
+        "Collection": "Dallas Museum of Art",
+        "Series": "nice"
+      },
+      "extras": {
+        "qid": "Q79149431",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 38,
+          "width_cm": 46
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.dma.org/collection/artwork/berthe-morisot/port-nice\">https://www.dma.org/collection/artwork/berthe-morisot/port-nice</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q20268114",
+      "title": "Woman at Her Toilette",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Berthe_Morisot_-_Woman_at_Her_Toilette_-_1924.127_-_Art_Institute_of_Chicago.jpg/960px-Berthe_Morisot_-_Woman_at_Her_Toilette_-_1924.127_-_Art_Institute_of_Chicago.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Berthe_Morisot_-_Woman_at_Her_Toilette_-_1924.127_-_Art_Institute_of_Chicago.jpg",
+      "width": 3000,
+      "height": 2246,
+      "tags": [],
+      "popularity": {
+        "score": 280.3,
+        "pageviews_365d": 14006,
+        "sitelinks": 3,
+        "globalusage": 15
+      },
+      "meta": {
+        "Collection": "Art Institute of Chicago",
+        "Series": "toilette"
+      },
+      "extras": {
+        "qid": "Q20268114",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 60.3,
+          "width_cm": 80.4
+        },
+        "iiif": "https://api.artic.edu/api/v1/artworks/11723/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/11723\">https://www.artic.edu/artworks/11723</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q20272561",
+      "title": "Woman in a Garden",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Berthe_Morisot_-_Woman_in_a_Garden_-_1999.363_-_Art_Institute_of_Chicago.jpg/960px-Berthe_Morisot_-_Woman_in_a_Garden_-_1999.363_-_Art_Institute_of_Chicago.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Berthe_Morisot_-_Woman_in_a_Garden_-_1999.363_-_Art_Institute_of_Chicago.jpg",
+      "width": 1691,
+      "height": 2250,
+      "tags": [],
+      "popularity": {
+        "score": 24.8,
+        "pageviews_365d": 0,
+        "sitelinks": 1,
+        "globalusage": 5
+      },
+      "meta": {
+        "Collection": "Art Institute of Chicago"
+      },
+      "extras": {
+        "qid": "Q20272561",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 123,
+          "width_cm": 94
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/153798\">https://www.artic.edu/artworks/153798</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q20260900",
+      "title": "Young Girl with Hat",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Berthe_Morisot_-_Young_Girl_with_Hat_-_1964.214_-_Art_Institute_of_Chicago.jpg/960px-Berthe_Morisot_-_Young_Girl_with_Hat_-_1964.214_-_Art_Institute_of_Chicago.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Berthe_Morisot_-_Young_Girl_with_Hat_-_1964.214_-_Art_Institute_of_Chicago.jpg",
+      "width": 1853,
+      "height": 2250,
+      "tags": [],
+      "popularity": {
+        "score": 17.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 5
+      },
+      "meta": {
+        "Collection": "Art Institute of Chicago"
+      },
+      "extras": {
+        "qid": "Q20260900",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 55.9,
+          "width_cm": 47
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": null,
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
+        }
+      }
     }
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-06-01T11:21:22.748Z",
+    "generated": "2026-06-03T06:16:33.215Z",
     "artist": {
       "qid": "Q105320",
       "name": "Berthe Morisot",
