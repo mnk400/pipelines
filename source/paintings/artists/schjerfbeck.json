@@ -1,0 +1,48 @@
+{
+  "artist": {
+    "qid": "Q236985",
+    "name": "Helene Schjerfbeck",
+    "slug": "schjerfbeck"
+  },
+  "work": {
+    "qid": "Q3305213",
+    "label": "paintings",
+    "manifestKey": "paintings"
+  },
+  "commonsCategory": {
+    "title": "Category:Paintings by Helene Schjerfbeck",
+    "sourceName": "commons-category",
+    "titleStripPatterns": [
+      "^Helene Schjerfbeck - ",
+      "^Helene Schjerfbeck ",
+      "^Schjerfbeck ",
+      " x Helene Schjerfbeck$"
+    ]
+  },
+  "seriesRules": [
+    {
+      "name": "self-portrait",
+      "pattern": "\\b(self[- ]portrait|omakuva)\\b"
+    },
+    {
+      "name": "portrait",
+      "pattern": "\\b(portrait|girl|woman|boy|child|mother|head|actor|schoolgirl|fencer)\\b"
+    },
+    {
+      "name": "reading",
+      "pattern": "\\b(reading|reader|book|picture book)\\b"
+    },
+    {
+      "name": "interior",
+      "pattern": "\\b(interior|room|wall|bench|bakery|gate)\\b"
+    },
+    {
+      "name": "flowers",
+      "pattern": "\\b(flower|flowers|narcissi|rose|roses|apple)\\b"
+    },
+    {
+      "name": "landscape",
+      "pattern": "\\b(landscape|manor|garden|shore|sea|trees)\\b"
+    }
+  ]
+}
