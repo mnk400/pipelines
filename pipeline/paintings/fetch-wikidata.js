@@ -34,10 +34,14 @@ function buildCatalogOptional() {
 }
 
 const QUERY = `
-SELECT ?item ?itemLabel ?inception ?width ?height ?collectionLabel ?catalogNumber ?iiif ?image ?sitelinks WHERE {
+SELECT ?item ?itemLabel ?inception ?inceptionPrecision ?width ?height ?collectionLabel ?catalogNumber ?iiif ?image ?sitelinks WHERE {
   ${buildMembershipClause()}
   ?item wikibase:sitelinks ?sitelinks .
-  OPTIONAL { ?item wdt:P571 ?inception . }
+  OPTIONAL {
+    ?item p:P571/psv:P571 ?inceptionValue .
+    ?inceptionValue wikibase:timeValue ?inception ;
+                    wikibase:timePrecision ?inceptionPrecision .
+  }
   OPTIONAL { ?item wdt:P2049 ?width . }
   OPTIONAL { ?item wdt:P2048 ?height . }
   OPTIONAL { ?item wdt:P195 ?collection . }
@@ -58,6 +62,11 @@ function normalizeLabel(value) {
   return value;
 }
 
+function normalizeYear(value, precision) {
+  if (!value || Number(precision ?? 0) < 9) return null;
+  return value.match(/^-?\d{4}/)?.[0] ?? null;
+}
+
 function normalize(rows) {
   const byItem = new Map();
   for (const row of rows) {
@@ -68,7 +77,7 @@ function normalize(rows) {
     byItem.set(qid, {
       qid,
       title: row.itemLabel?.value || null,
-      year: row.inception?.value ? row.inception.value.slice(0, 4) : null,
+      year: normalizeYear(row.inception?.value, row.inceptionPrecision?.value),
       height_cm: row.height?.value ? Number(row.height.value) : null,
       width_cm: row.width?.value ? Number(row.width.value) : null,
       collection: normalizeLabel(row.collectionLabel?.value),

@@ -1,0 +1,54 @@
+{
+  "artist": {
+    "qid": "Q274339",
+    "name": "Gwen John",
+    "slug": "gwen-john"
+  },
+  "work": {
+    "qid": "Q3305213",
+    "label": "paintings",
+    "manifestKey": "paintings"
+  },
+  "commonsCategory": {
+    "title": "Category:Paintings by Gwen John",
+    "sourceName": "commons-category",
+    "titleStripPatterns": [
+      "^Gwen John - ",
+      "^GwenJohn-",
+      "^GwenJohn - ",
+      "^Gwen John ",
+      "^Gwen john",
+      " - Gwendoline Mary John.*$",
+      " - GMA [0-9]+.*$",
+      " - GML [0-9]+.*$",
+      ", [A-Z]+[A-Z0-9. ]+, .*$",
+      ", lot-[0-9]+$"
+    ]
+  },
+  "seriesRules": [
+    {
+      "name": "portrait",
+      "pattern": "\\b(portrait|girl|woman|child|nun|mother|dorelia|winifred|chloe|chloë|mere|mère|poussepin|convalescent|seated)\\b"
+    },
+    {
+      "name": "interior",
+      "pattern": "\\b(interior|room|corner|studio|window|letter|church|chair)\\b"
+    },
+    {
+      "name": "still-life",
+      "pattern": "\\b(still life|flowers|vase|jug|ivy|prayer book|doll|birdcage)\\b"
+    },
+    {
+      "name": "landscape",
+      "pattern": "\\b(landscape|tenby|meudon|rue|street|house|garden|trees|rooftop|lane|pathway|sky|winter)\\b"
+    },
+    {
+      "name": "study",
+      "pattern": "\\b(study|sketch|unfinished|recto|verso)\\b"
+    },
+    {
+      "name": "cat",
+      "pattern": "\\b(cat|kitten)\\b"
+    }
+  ]
+}
