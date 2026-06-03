@@ -1,0 +1,38 @@
+{
+  "artist": {
+    "qid": "Q44032",
+    "name": "Egon Schiele",
+    "slug": "schiele"
+  },
+  "work": {
+    "qid": "Q3305213",
+    "label": "paintings",
+    "manifestKey": "paintings"
+  },
+  "seriesRules": [
+    {
+      "name": "self-portrait",
+      "pattern": "\\b(self[- ]portrait|selbstbildnis)\\b"
+    },
+    {
+      "name": "portrait",
+      "pattern": "\\b(portrait|bildnis|girl|woman|man|mother|child|wife|edith|wally|gerti|harms|koller|kosmack|reiner|guetersloh|gutersloh)\\b"
+    },
+    {
+      "name": "nude",
+      "pattern": "\\b(nude|akt|halbakt|weiblicher|maennlicher|female|male|reclining|seated|standing|kneeling|crouching)\\b"
+    },
+    {
+      "name": "city",
+      "pattern": "\\b(city|town|stadt|houses|haus|hauser|river|fluss|krumau|trieste|port|harbor|harbour)\\b"
+    },
+    {
+      "name": "embrace",
+      "pattern": "\\b(embrace|lovers|liebespaar|death and the maiden|family)\\b"
+    },
+    {
+      "name": "interior",
+      "pattern": "\\b(interior|interieur|room|window|wall)\\b"
+    }
+  ]
+}
