@@ -502,7 +502,7 @@
         "score": 473.6,
         "pageviews_365d": 2386754,
         "sitelinks": 70,
-        "globalusage": 593
+        "globalusage": 594
       },
       "meta": {
         "Collection": "Mauritshuis",
@@ -875,37 +875,6 @@
       }
     },
     {
-      "id": "wd-Q20810246",
-      "title": "A Lady Playing the Guitar",
-      "year": null,
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vermeer_-_Lady_with_a_Guitar_cat497.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vermeer_-_Lady_with_a_Guitar_cat497.jpg",
-      "width": 874,
-      "height": 1024,
-      "tags": [],
-      "popularity": {
-        "score": 247.1,
-        "pageviews_365d": 4278,
-        "sitelinks": 2,
-        "globalusage": 14
-      },
-      "meta": {
-        "Collection": "Philadelphia Museum of Art",
-        "Series": "interior"
-      },
-      "extras": {
-        "qid": "Q20810246",
-        "source": "wikidata",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://news.artnet.com/art-world/possible-philadelphia-museum-of-art-vermeer-discovery-2280880\">https://news.artnet.com/art-world/possible-philadelphia-museum-of-art-vermeer-discovery-2280880</a>",
-          "artist": "<bdi>Manner of <a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi> / <bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Vermeer\" class=\"extiw\" title=\"w:en:Johannes Vermeer\"><span title=\"Dutch painter (1632–1675)\">Johannes Vermeer</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q914984",
       "title": "A Lady Writing a Letter",
       "year": null,
@@ -951,10 +920,10 @@
       "height": 11371,
       "tags": [],
       "popularity": {
-        "score": 317,
+        "score": 316.5,
         "pageviews_365d": 29336,
         "sitelinks": 17,
-        "globalusage": 21
+        "globalusage": 20
       },
       "meta": {
         "Collection": "National Gallery",
@@ -986,10 +955,10 @@
       "height": 11367,
       "tags": [],
       "popularity": {
-        "score": 310.1,
+        "score": 309.7,
         "pageviews_365d": 22814,
         "sitelinks": 16,
-        "globalusage": 21
+        "globalusage": 20
       },
       "meta": {
         "Collection": "National Gallery",
@@ -1292,7 +1261,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-06-03T06:32:32.499Z",
+    "generated": "2026-06-04T06:33:46.220Z",
     "artist": {
       "qid": "Q41264",
       "name": "Johannes Vermeer",
@@ -1303,6 +1272,6 @@
       "label": "paintings",
       "manifestKey": "paintings"
     },
-    "count": 37
+    "count": 36
   }
 }

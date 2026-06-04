@@ -1237,6 +1237,53 @@
       }
     },
     {
+      "id": "w-63.2",
+      "title": "Le Déjeuner sur l'herbe",
+      "year": "1865",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Claude_Monet_-_Le_dejeurner_sur_l%27herbe_%28left_panel%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Claude_Monet_-_Le_dejeurner_sur_l%27herbe_%28left_panel%29.jpg",
+      "width": 538,
+      "height": 1020,
+      "tags": [],
+      "popularity": {
+        "score": 353.6,
+        "pageviews_365d": 106441,
+        "sitelinks": 17,
+        "globalusage": 33
+      },
+      "meta": {
+        "Collection": "Musée d'Orsay"
+      },
+      "extras": {
+        "qid": "Q1167912",
+        "catalog_number": "63.2",
+        "wildenstein": "63.2",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 418,
+          "width_cm": 150
+        },
+        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!25651/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.musee-orsay.fr/\">http://www.musee-orsay.fr/</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        },
+        "aliases": [
+          {
+            "id": "w-63 a",
+            "qid": "Q17492904",
+            "catalog_number": "63 a",
+            "wildenstein": "63 a",
+            "source": "wikidata",
+            "title": "Le Déjeuner sur l'herbe"
+          }
+        ]
+      }
+    },
+    {
       "id": "w-51",
       "title": "Mouth of the Seine",
       "year": "1865",
@@ -1590,53 +1637,6 @@
           "credit": "Google Arts &amp; Culture:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.googleartproject.com/\">Home</a> - <a rel=\"nofollow\" class=\"external text\" href=\"https://artsandculture.google.com/asset/\">ZgGD8zECuRSTdA  pic</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
-      }
-    },
-    {
-      "id": "w-63.2",
-      "title": "Le Déjeuner sur l'herbe",
-      "year": "1866",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Claude_Monet_-_Le_dejeurner_sur_l%27herbe_%28left_panel%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Claude_Monet_-_Le_dejeurner_sur_l%27herbe_%28left_panel%29.jpg",
-      "width": 538,
-      "height": 1020,
-      "tags": [],
-      "popularity": {
-        "score": 353.6,
-        "pageviews_365d": 106441,
-        "sitelinks": 17,
-        "globalusage": 33
-      },
-      "meta": {
-        "Collection": "Musée d'Orsay"
-      },
-      "extras": {
-        "qid": "Q1167912",
-        "catalog_number": "63.2",
-        "wildenstein": "63.2",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 418,
-          "width_cm": 217
-        },
-        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!25651/manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.musee-orsay.fr/\">http://www.musee-orsay.fr/</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        },
-        "aliases": [
-          {
-            "id": "w-63 a",
-            "qid": "Q17492904",
-            "catalog_number": "63 a",
-            "wildenstein": "63 a",
-            "source": "wikidata",
-            "title": "Le Déjeuner sur l'herbe"
-          }
-        ]
       }
     },
     {
@@ -2112,10 +2112,10 @@
       "height": 2961,
       "tags": [],
       "popularity": {
-        "score": 222.5,
+        "score": 223.8,
         "pageviews_365d": 1929,
         "sitelinks": 3,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Alte Nationalgalerie"
@@ -7539,10 +7539,10 @@
       "height": 2736,
       "tags": [],
       "popularity": {
-        "score": 226.2,
+        "score": 227.1,
         "pageviews_365d": 1873,
         "sitelinks": 3,
-        "globalusage": 10
+        "globalusage": 11
       },
       "meta": {
         "Collection": "Alte Nationalgalerie"
@@ -11893,7 +11893,7 @@
         "globalusage": 14
       },
       "meta": {
-        "Collection": "Musée d'Orsay"
+        "Collection": "Musées Nationaux Récupération"
       },
       "extras": {
         "qid": "Q17492316",
@@ -19101,7 +19101,7 @@
         "wildenstein": "857a",
         "source": "wikidata",
         "dimensions": {
-          "height_cm": 61,
+          "height_cm": 60,
           "width_cm": 74
         },
         "license": {
@@ -20356,42 +20356,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "Flickr",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "w-1029",
-      "title": "Three Fishing Boats",
-      "year": "1885",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Claude_Monet_-_Three_Fishing_Boats_-_Google_Art_Project.jpg/960px-Claude_Monet_-_Three_Fishing_Boats_-_Google_Art_Project.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Claude_Monet_-_Three_Fishing_Boats_-_Google_Art_Project.jpg",
-      "width": 5408,
-      "height": 4291,
-      "tags": [],
-      "popularity": {
-        "score": 27.7,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 15
-      },
-      "meta": {
-        "Collection": "Museum of Fine Arts, Budapest"
-      },
-      "extras": {
-        "qid": "Q22205318",
-        "catalog_number": "1029",
-        "wildenstein": "1029",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 73,
-          "width_cm": 92.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/AwFK3bYzu9yMHw\">AwFK3bYzu9yMHw at Google Cultural Institute</a> maximum zoom level",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -21820,6 +21784,42 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "Musée des Beaux-Arts, Reims",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "w-1029",
+      "title": "Three Fishing Boats",
+      "year": "1886",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Claude_Monet_-_Three_Fishing_Boats_-_Google_Art_Project.jpg/960px-Claude_Monet_-_Three_Fishing_Boats_-_Google_Art_Project.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Claude_Monet_-_Three_Fishing_Boats_-_Google_Art_Project.jpg",
+      "width": 5408,
+      "height": 4291,
+      "tags": [],
+      "popularity": {
+        "score": 27.7,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 15
+      },
+      "meta": {
+        "Collection": "Hungarian National Gallery"
+      },
+      "extras": {
+        "qid": "Q22205318",
+        "catalog_number": "1029",
+        "wildenstein": "1029",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 73,
+          "width_cm": 92.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/AwFK3bYzu9yMHw\">AwFK3bYzu9yMHw at Google Cultural Institute</a> maximum zoom level",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -26137,7 +26137,9 @@
         "sitelinks": 0,
         "globalusage": 21
       },
-      "meta": {},
+      "meta": {
+        "Collection": "Tel Aviv Museum of Art"
+      },
       "extras": {
         "qid": "Q49469903",
         "catalog_number": "1303",
@@ -27966,8 +27968,8 @@
         "wildenstein": "1386",
         "source": "wikidata",
         "dimensions": {
-          "height_cm": 65.7,
-          "width_cm": 92.7
+          "height_cm": 66,
+          "width_cm": 95.1
         },
         "license": {
           "short_name": "Public domain",
@@ -30377,10 +30379,10 @@
       "height": 1242,
       "tags": [],
       "popularity": {
-        "score": 312.4,
+        "score": 312,
         "pageviews_365d": 38153,
         "sitelinks": 4,
-        "globalusage": 25
+        "globalusage": 24
       },
       "meta": {
         "Collection": "Musée d'Orsay",
@@ -36250,10 +36252,10 @@
       "height": 4173,
       "tags": [],
       "popularity": {
-        "score": 47.5,
+        "score": 47.7,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 57
+        "globalusage": 58
       },
       "meta": {
         "Collection": "Bavarian State Painting Collections",
@@ -37059,7 +37061,7 @@
         "globalusage": 7
       },
       "meta": {
-        "Collection": "Lee Kun-hee Collection",
+        "Collection": "National Museum of Modern and Contemporary Art, South Korea",
         "Series": "nympheas"
       },
       "extras": {
@@ -37279,7 +37281,7 @@
         "globalusage": 8
       },
       "meta": {
-        "Collection": "Garengo Foundation",
+        "Collection": "Museum of Art and History Geneva",
         "Series": "nympheas"
       },
       "extras": {
@@ -39194,7 +39196,7 @@
         "globalusage": 30
       },
       "meta": {
-        "Collection": "Musées Nationaux Récupération"
+        "Collection": "Munich Central Collecting Point"
       },
       "extras": {
         "qid": "Q17491735",
@@ -41468,7 +41470,7 @@
         "globalusage": 5
       },
       "meta": {
-        "Collection": "Kunsthaus Zürich"
+        "Collection": "Foundation E.G. Bührle Collection"
       },
       "extras": {
         "qid": "Q64174101",
@@ -68228,7 +68230,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-06-03T06:14:47.606Z",
+    "generated": "2026-06-04T06:16:45.727Z",
     "artist": {
       "qid": "Q296",
       "name": "Claude Monet",

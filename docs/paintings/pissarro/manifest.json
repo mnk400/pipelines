@@ -2191,10 +2191,10 @@
       "height": 4226,
       "tags": [],
       "popularity": {
-        "score": 184,
+        "score": 184.3,
         "pageviews_365d": 262,
         "sitelinks": 2,
-        "globalusage": 28
+        "globalusage": 29
       },
       "meta": {
         "Collection": "National Gallery"
@@ -2871,10 +2871,10 @@
       "height": 4226,
       "tags": [],
       "popularity": {
-        "score": 168.3,
+        "score": 168.6,
         "pageviews_365d": 160,
         "sitelinks": 1,
-        "globalusage": 30
+        "globalusage": 31
       },
       "meta": {
         "Collection": "National Gallery",
@@ -3543,10 +3543,10 @@
       "height": 4226,
       "tags": [],
       "popularity": {
-        "score": 181.9,
+        "score": 182.3,
         "pageviews_365d": 245,
         "sitelinks": 2,
-        "globalusage": 27
+        "globalusage": 28
       },
       "meta": {
         "Collection": "National Gallery"
@@ -13469,10 +13469,10 @@
       "height": 1536,
       "tags": [],
       "popularity": {
-        "score": 214.3,
+        "score": 214.7,
         "pageviews_365d": 937,
         "sitelinks": 2,
-        "globalusage": 24
+        "globalusage": 25
       },
       "meta": {
         "Collection": "National Gallery"
@@ -25857,7 +25857,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-06-03T06:20:29.804Z",
+    "generated": "2026-06-04T06:21:46.590Z",
     "artist": {
       "qid": "Q134741",
       "name": "Camille Pissarro",

@@ -1712,10 +1712,10 @@
       "height": 2904,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 4
       },
       "meta": {
         "Collection": "Museo Soumaya"
@@ -3164,10 +3164,10 @@
       "height": 3086,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 5
       },
       "meta": {
         "Collection": "Museo Soumaya"
@@ -4502,7 +4502,7 @@
         "globalusage": 1
       },
       "meta": {
-        "Collection": "Kunsthaus Zürich"
+        "Collection": "Foundation E.G. Bührle Collection"
       },
       "extras": {
         "qid": "Q110805652",
@@ -5248,10 +5248,10 @@
       "height": 6027,
       "tags": [],
       "popularity": {
-        "score": 305.3,
+        "score": 305.4,
         "pageviews_365d": 13886,
         "sitelinks": 8,
-        "globalusage": 88
+        "globalusage": 89
       },
       "meta": {
         "Collection": "Musée Toulouse-Lautrec",
@@ -6785,10 +6785,10 @@
       "height": 2000,
       "tags": [],
       "popularity": {
-        "score": 13.9,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 1
+        "globalusage": 2
       },
       "meta": {
         "Collection": "Princeton Art Museum"
@@ -7817,7 +7817,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-06-03T06:26:43.282Z",
+    "generated": "2026-06-04T06:29:09.179Z",
     "artist": {
       "qid": "Q82445",
       "name": "Henri de Toulouse-Lautrec",
