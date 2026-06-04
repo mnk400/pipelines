@@ -6,11 +6,27 @@ const config = loadArtistConfig();
 const UA = userAgent(config);
 const API = "https://commons.wikimedia.org/w/api.php";
 const THUMB_WIDTH = 600;
-const BATCH_SIZE = 50;
+const BATCH_SIZE = Number(config.imageBatchSize || process.env.PAINTINGS_IMAGE_BATCH_SIZE || 50);
 const BATCH_THROTTLE_MS = Number(process.env.PAINTINGS_IMAGE_BATCH_THROTTLE_MS || 750);
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const stripUtm = (url) => url?.replace(/\?utm_[^#]*/, "") ?? url;
+
+function matchesAllowedLicense(license) {
+  const patterns = config.allowedLicensePatterns ?? [];
+  if (!patterns.length) return true;
+
+  const fields = [
+    license?.short_name,
+    license?.usage_terms,
+    license?.url,
+  ].filter(Boolean);
+
+  return patterns.some((pattern) => {
+    const re = new RegExp(pattern, "i");
+    return fields.some((field) => re.test(field));
+  });
+}
 
 async function imageinfo(titles) {
   const out = {};
@@ -117,7 +133,7 @@ for (let i = 0; i < withFilename.length; i += BATCH_SIZE) {
   const info = await imageinfo(batch.map((r) => r.image_filename));
   for (const r of batch) {
     const meta = info[r.image_filename];
-    if (meta?.thumb && meta?.full) {
+    if (meta?.thumb && meta?.full && matchesAllowedLicense(meta.license)) {
       records.push({
         ...r,
         commons_globalusage: meta.commons_globalusage ?? 0,
