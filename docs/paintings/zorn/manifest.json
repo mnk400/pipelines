@@ -373,8 +373,8 @@
       "height": 3888,
       "tags": [],
       "popularity": {
-        "score": 208.3,
-        "pageviews_365d": 1126,
+        "score": 208.1,
+        "pageviews_365d": 1119,
         "sitelinks": 1,
         "globalusage": 12
       },
@@ -1250,10 +1250,10 @@
       "height": 3512,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Parliament of Sweden"
@@ -1278,10 +1278,10 @@
       "id": "wd-Q106369352",
       "title": "Mefisto Consul Dahlander",
       "year": "1884",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Anders_Zorn_-_Mefisto_%28Konsul_Dahlander%29_1884.jpg/960px-Anders_Zorn_-_Mefisto_%28Konsul_Dahlander%29_1884.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/8/88/Anders_Zorn_-_Mefisto_%28Konsul_Dahlander%29_1884.jpg",
-      "width": 2932,
-      "height": 3842,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Mefisto_%28Konsul_Dahlander%29_%28Anders_Zorn%29_-_Nationalmuseum_-_174928.tif/lossy-page1-960px-Mefisto_%28Konsul_Dahlander%29_%28Anders_Zorn%29_-_Nationalmuseum_-_174928.tif.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Mefisto_%28Konsul_Dahlander%29_%28Anders_Zorn%29_-_Nationalmuseum_-_174928.tif",
+      "width": 3967,
+      "height": 5179,
       "tags": [],
       "popularity": {
         "score": 23,
@@ -1304,7 +1304,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "Bukowskis",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=174928&amp;viewType=detailView\">  Cecilia Heisser / Nationalmuseum</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
         }
       }
@@ -1879,8 +1879,8 @@
       "height": 3077,
       "tags": [],
       "popularity": {
-        "score": 200.5,
-        "pageviews_365d": 681,
+        "score": 200.8,
+        "pageviews_365d": 688,
         "sitelinks": 2,
         "globalusage": 13
       },
@@ -1949,7 +1949,7 @@
       "tags": [],
       "popularity": {
         "score": 302.1,
-        "pageviews_365d": 13490,
+        "pageviews_365d": 13462,
         "sitelinks": 7,
         "globalusage": 77
       },
@@ -2015,8 +2015,8 @@
       "height": 2371,
       "tags": [],
       "popularity": {
-        "score": 186.5,
-        "pageviews_365d": 428,
+        "score": 186.6,
+        "pageviews_365d": 430,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -2145,7 +2145,7 @@
       "tags": [],
       "popularity": {
         "score": 186.8,
-        "pageviews_365d": 593,
+        "pageviews_365d": 594,
         "sitelinks": 2,
         "globalusage": 4
       },
@@ -2424,8 +2424,8 @@
       "height": 1307,
       "tags": [],
       "popularity": {
-        "score": 205.8,
-        "pageviews_365d": 1090,
+        "score": 205.6,
+        "pageviews_365d": 1080,
         "sitelinks": 1,
         "globalusage": 10
       },
@@ -2548,10 +2548,10 @@
       "height": 4132,
       "tags": [],
       "popularity": {
-        "score": 261.1,
-        "pageviews_365d": 4127,
+        "score": 260.9,
+        "pageviews_365d": 4168,
         "sitelinks": 4,
-        "globalusage": 39
+        "globalusage": 37
       },
       "meta": {
         "Collection": "Nationalmuseum"
@@ -2713,8 +2713,8 @@
       "height": 5079,
       "tags": [],
       "popularity": {
-        "score": 168.4,
-        "pageviews_365d": 248,
+        "score": 168.5,
+        "pageviews_365d": 249,
         "sitelinks": 2,
         "globalusage": 6
       },
@@ -2998,8 +2998,8 @@
       "height": 1585,
       "tags": [],
       "popularity": {
-        "score": 194.7,
-        "pageviews_365d": 634,
+        "score": 194.8,
+        "pageviews_365d": 637,
         "sitelinks": 3,
         "globalusage": 6
       },
@@ -3096,8 +3096,8 @@
       "height": 2417,
       "tags": [],
       "popularity": {
-        "score": 203.5,
-        "pageviews_365d": 818,
+        "score": 203.7,
+        "pageviews_365d": 823,
         "sitelinks": 3,
         "globalusage": 8
       },
@@ -3159,10 +3159,10 @@
       "height": 4602,
       "tags": [],
       "popularity": {
-        "score": 28.9,
+        "score": 30,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 8
+        "globalusage": 9
       },
       "meta": {
         "Collection": "Nationalmuseum"
@@ -3326,8 +3326,8 @@
       "height": 2663,
       "tags": [],
       "popularity": {
-        "score": 218.7,
-        "pageviews_365d": 1503,
+        "score": 219.1,
+        "pageviews_365d": 1526,
         "sitelinks": 2,
         "globalusage": 11
       },
@@ -3361,8 +3361,8 @@
       "height": 502,
       "tags": [],
       "popularity": {
-        "score": 177.3,
-        "pageviews_365d": 444,
+        "score": 177.2,
+        "pageviews_365d": 443,
         "sitelinks": 1,
         "globalusage": 5
       },
@@ -3863,7 +3863,7 @@
       "tags": [],
       "popularity": {
         "score": 251,
-        "pageviews_365d": 4756,
+        "pageviews_365d": 4754,
         "sitelinks": 2,
         "globalusage": 16
       },
@@ -3896,8 +3896,8 @@
       "height": 1557,
       "tags": [],
       "popularity": {
-        "score": 209.3,
-        "pageviews_365d": 1254,
+        "score": 209.6,
+        "pageviews_365d": 1268,
         "sitelinks": 1,
         "globalusage": 10
       },
@@ -3965,8 +3965,8 @@
       "height": 4649,
       "tags": [],
       "popularity": {
-        "score": 160.8,
-        "pageviews_365d": 165,
+        "score": 163.3,
+        "pageviews_365d": 183,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -4030,8 +4030,8 @@
       "height": 3121,
       "tags": [],
       "popularity": {
-        "score": 233.4,
-        "pageviews_365d": 2592,
+        "score": 233.2,
+        "pageviews_365d": 2574,
         "sitelinks": 3,
         "globalusage": 9
       },
@@ -4100,8 +4100,8 @@
       "height": 6963,
       "tags": [],
       "popularity": {
-        "score": 221.8,
-        "pageviews_365d": 2349,
+        "score": 222.8,
+        "pageviews_365d": 2451,
         "sitelinks": 1,
         "globalusage": 7
       },
@@ -4164,8 +4164,8 @@
       "height": 2500,
       "tags": [],
       "popularity": {
-        "score": 256.3,
-        "pageviews_365d": 4486,
+        "score": 256.4,
+        "pageviews_365d": 4511,
         "sitelinks": 4,
         "globalusage": 19
       },
@@ -4229,8 +4229,8 @@
       "height": 3000,
       "tags": [],
       "popularity": {
-        "score": 203.4,
-        "pageviews_365d": 708,
+        "score": 203.8,
+        "pageviews_365d": 720,
         "sitelinks": 2,
         "globalusage": 16
       },
@@ -4285,10 +4285,10 @@
       "height": 2556,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 23,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 3
+        "globalusage": 4
       },
       "meta": {},
       "extras": {
@@ -4318,7 +4318,7 @@
       "tags": [],
       "popularity": {
         "score": 271.6,
-        "pageviews_365d": 6177,
+        "pageviews_365d": 6179,
         "sitelinks": 7,
         "globalusage": 25
       },
@@ -4420,10 +4420,10 @@
       "height": 2250,
       "tags": [],
       "popularity": {
-        "score": 26.4,
+        "score": 27.7,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Art Institute of Chicago"
@@ -4450,8 +4450,8 @@
       "height": 1381,
       "tags": [],
       "popularity": {
-        "score": 198.2,
-        "pageviews_365d": 963,
+        "score": 197.4,
+        "pageviews_365d": 933,
         "sitelinks": 1,
         "globalusage": 6
       },
@@ -4844,10 +4844,10 @@
       "height": 3000,
       "tags": [],
       "popularity": {
-        "score": 23,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 9
+        "globalusage": 8
       },
       "meta": {
         "Collection": "Art Institute of Chicago"
@@ -5143,8 +5143,8 @@
       "height": 3547,
       "tags": [],
       "popularity": {
-        "score": 278,
-        "pageviews_365d": 9965,
+        "score": 279.7,
+        "pageviews_365d": 10644,
         "sitelinks": 5,
         "globalusage": 19
       },
@@ -5343,8 +5343,8 @@
       "height": 1404,
       "tags": [],
       "popularity": {
-        "score": 216.3,
-        "pageviews_365d": 771,
+        "score": 216.2,
+        "pageviews_365d": 768,
         "sitelinks": 1,
         "globalusage": 74
       },
@@ -5529,8 +5529,8 @@
       "height": 5849,
       "tags": [],
       "popularity": {
-        "score": 227.3,
-        "pageviews_365d": 1411,
+        "score": 226.8,
+        "pageviews_365d": 1387,
         "sitelinks": 2,
         "globalusage": 32
       },
@@ -5663,10 +5663,10 @@
       "height": 1598,
       "tags": [],
       "popularity": {
-        "score": 29.4,
+        "score": 30,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 18
+        "globalusage": 19
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston",
@@ -5732,8 +5732,8 @@
       "height": 2456,
       "tags": [],
       "popularity": {
-        "score": 191.7,
-        "pageviews_365d": 742,
+        "score": 192,
+        "pageviews_365d": 753,
         "sitelinks": 1,
         "globalusage": 6
       },
@@ -5831,10 +5831,10 @@
       "height": 1613,
       "tags": [],
       "popularity": {
-        "score": 28.9,
+        "score": 29.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 17
+        "globalusage": 18
       },
       "meta": {
         "Collection": "Metropolitan Museum of Art"
@@ -6028,10 +6028,10 @@
       "height": 450,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 2
+        "globalusage": 3
       },
       "meta": {},
       "extras": {
@@ -6094,10 +6094,10 @@
       "height": 2250,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 6
       },
       "meta": {
         "Collection": "Art Institute of Chicago",
@@ -6309,8 +6309,8 @@
       "height": 1056,
       "tags": [],
       "popularity": {
-        "score": 249.5,
-        "pageviews_365d": 3085,
+        "score": 240.7,
+        "pageviews_365d": 2174,
         "sitelinks": 2,
         "globalusage": 42
       },
@@ -6539,10 +6539,10 @@
       "height": 1591,
       "tags": [],
       "popularity": {
-        "score": 201.6,
-        "pageviews_365d": 938,
+        "score": 202.6,
+        "pageviews_365d": 925,
         "sitelinks": 2,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Finnish National Gallery"
@@ -6703,10 +6703,10 @@
       "height": 480,
       "tags": [],
       "popularity": {
-        "score": 210.4,
-        "pageviews_365d": 497,
+        "score": 210.5,
+        "pageviews_365d": 500,
         "sitelinks": 1,
-        "globalusage": 123
+        "globalusage": 122
       },
       "meta": {
         "Collection": "Zorn Collections"
@@ -6968,7 +6968,7 @@
         "globalusage": 34
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q19868925",
@@ -6982,7 +6982,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<a href=\"//commons.wikimedia.org/wiki/National_Gallery_of_Art\" title=\"National Gallery of Art\">National Gallery of Art</a>.",
+          "credit": "<a href=\"//commons.wikimedia.org/wiki/National_Gallery_of_Art\" class=\"mw-redirect\" title=\"National Gallery of Art\">National Gallery of Art</a>.",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
         }
       }
@@ -7227,10 +7227,10 @@
       "height": 1327,
       "tags": [],
       "popularity": {
-        "score": 24.8,
+        "score": 26.4,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 5
+        "globalusage": 6
       },
       "meta": {
         "Collection": "Zornmuseet"
@@ -7388,8 +7388,8 @@
       "height": 1413,
       "tags": [],
       "popularity": {
-        "score": 230.3,
-        "pageviews_365d": 1360,
+        "score": 229.8,
+        "pageviews_365d": 1334,
         "sitelinks": 2,
         "globalusage": 48
       },
@@ -7646,8 +7646,8 @@
       "height": 1600,
       "tags": [],
       "popularity": {
-        "score": 193.6,
-        "pageviews_365d": 590,
+        "score": 191.3,
+        "pageviews_365d": 540,
         "sitelinks": 2,
         "globalusage": 9
       },
@@ -7674,8 +7674,8 @@
       "height": 3462,
       "tags": [],
       "popularity": {
-        "score": 144.9,
-        "pageviews_365d": 130,
+        "score": 147.1,
+        "pageviews_365d": 142,
         "sitelinks": 1,
         "globalusage": 4
       },
@@ -7768,8 +7768,8 @@
       "height": 5064,
       "tags": [],
       "popularity": {
-        "score": 231.5,
-        "pageviews_365d": 1839,
+        "score": 232.3,
+        "pageviews_365d": 1899,
         "sitelinks": 2,
         "globalusage": 25
       },
@@ -8067,8 +8067,8 @@
       "height": 3264,
       "tags": [],
       "popularity": {
-        "score": 210.5,
-        "pageviews_365d": 989,
+        "score": 210,
+        "pageviews_365d": 968,
         "sitelinks": 2,
         "globalusage": 14
       },
@@ -8893,10 +8893,10 @@
       "height": 5338,
       "tags": [],
       "popularity": {
-        "score": 22,
+        "score": 23,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 8
+        "globalusage": 9
       },
       "meta": {},
       "extras": {
@@ -10029,7 +10029,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-06-04T06:38:44.870Z",
+    "generated": "2026-07-01T10:11:55.638Z",
     "artist": {
       "qid": "Q206820",
       "name": "Anders Zorn",

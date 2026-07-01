@@ -12,10 +12,10 @@
       "height": 6750,
       "tags": [],
       "popularity": {
-        "score": 24,
+        "score": 24.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 10
+        "globalusage": 11
       },
       "meta": {
         "Collection": "Statens Museum for Kunst"
@@ -238,16 +238,16 @@
       "id": "wd-Q20274507",
       "title": "Interior. An Old Stove",
       "year": "1888",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/03/Vilhelm_Hammersh%C3%B8i_-_Interior._An_Old_Stove_-_KMS7246_-_Statens_Museum_for_Kunst.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/0/03/Vilhelm_Hammersh%C3%B8i_-_Interior._An_Old_Stove_-_KMS7246_-_Statens_Museum_for_Kunst.jpg",
-      "width": 491,
-      "height": 600,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vilhelm_Hammersh%C3%B8i%2C_Interi%C3%B8r_Den_gamle_bil%C3%A6ggerovn_Albertines_Lyst%2C_Lyngby%2C_1888%2C_KMS7246%2C_Statens_Museum_for_Kunst.jpg/960px-Vilhelm_Hammersh%C3%B8i%2C_Interi%C3%B8r_Den_gamle_bil%C3%A6ggerovn_Albertines_Lyst%2C_Lyngby%2C_1888%2C_KMS7246%2C_Statens_Museum_for_Kunst.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/29/Vilhelm_Hammersh%C3%B8i%2C_Interi%C3%B8r_Den_gamle_bil%C3%A6ggerovn_Albertines_Lyst%2C_Lyngby%2C_1888%2C_KMS7246%2C_Statens_Museum_for_Kunst.jpg",
+      "width": 5054,
+      "height": 6177,
       "tags": [],
       "popularity": {
-        "score": 22,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 8
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Statens Museum for Kunst",
@@ -265,7 +265,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://collection.smk.dk/#/en/detail/KMS7246\">http://collection.smk.dk/#/en/detail/KMS7246</a>",
+          "credit": "<ul><li><a href=\"https://en.wikipedia.org/wiki/en:National_Gallery_of_Denmark\" class=\"extiw\" title=\"w:en:National Gallery of Denmark\"><span title=\"art museum in Copenhagen, Denmark\">Statens Museum for Kunst</span></a>, SMK API:  entry  <a rel=\"nofollow\" class=\"external text\" href=\"https://api.smk.dk/api/v1/art/?object_number=KMS7246\">KMS7246</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/en:National_Gallery_of_Denmark\" class=\"extiw\" title=\"w:en:National Gallery of Denmark\"><span title=\"art museum in Copenhagen, Denmark\">Statens Museum for Kunst</span></a>, SMK Open:  entry  <a rel=\"nofollow\" class=\"external text\" href=\"https://open.smk.dk/en/artwork/image/KMS7246\">KMS7246</a></li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9kNTA0cnAzODVfS01TNzI0Ni50aWYucmVjb25zdHJ1Y3RlZC50aWYuanAyL2Z1bGwvZnVsbC8wL25hdGl2ZS5qcGciLCJwdWJsaWNfZG9tYWluIjp0cnVlLCJvYmplY3RfbnVtYmVyIjoiS01TNzI0NiIsIm51bSI6IiJ9XQ==/KMS7246.jpg\">image</a></li></ul>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Vilhelm_Hammersh%C3%B8i\" class=\"extiw\" title=\"w:en:Vilhelm Hammershøi\"><span title=\"Danish artist (1864-1916)\">Vilhelm Hammershøi</span></a></bdi>"
         }
       }
@@ -381,8 +381,8 @@
       "height": 4567,
       "tags": [],
       "popularity": {
-        "score": 205.9,
-        "pageviews_365d": 1056,
+        "score": 205.8,
+        "pageviews_365d": 1055,
         "sitelinks": 1,
         "globalusage": 11
       },
@@ -1116,10 +1116,10 @@
       "height": 7116,
       "tags": [],
       "popularity": {
-        "score": 269.3,
-        "pageviews_365d": 5257,
+        "score": 268.1,
+        "pageviews_365d": 5078,
         "sitelinks": 7,
-        "globalusage": 30
+        "globalusage": 29
       },
       "meta": {
         "Collection": "Statens Museum for Kunst",
@@ -1398,8 +1398,8 @@
       "height": 903,
       "tags": [],
       "popularity": {
-        "score": 258.6,
-        "pageviews_365d": 4509,
+        "score": 259.2,
+        "pageviews_365d": 4605,
         "sitelinks": 4,
         "globalusage": 24
       },
@@ -1537,8 +1537,8 @@
       "height": 720,
       "tags": [],
       "popularity": {
-        "score": 280.4,
-        "pageviews_365d": 7705,
+        "score": 280.5,
+        "pageviews_365d": 7731,
         "sitelinks": 7,
         "globalusage": 35
       },
@@ -1572,8 +1572,8 @@
       "height": 3266,
       "tags": [],
       "popularity": {
-        "score": 225.1,
-        "pageviews_365d": 2561,
+        "score": 224.4,
+        "pageviews_365d": 2491,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -1707,8 +1707,8 @@
       "height": 4887,
       "tags": [],
       "popularity": {
-        "score": 200.9,
-        "pageviews_365d": 970,
+        "score": 201.9,
+        "pageviews_365d": 1010,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -1812,8 +1812,8 @@
       "height": 2000,
       "tags": [],
       "popularity": {
-        "score": 192,
-        "pageviews_365d": 528,
+        "score": 190.5,
+        "pageviews_365d": 496,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -2163,8 +2163,8 @@
       "height": 2955,
       "tags": [],
       "popularity": {
-        "score": 278.5,
-        "pageviews_365d": 8565,
+        "score": 278.9,
+        "pageviews_365d": 8717,
         "sitelinks": 2,
         "globalusage": 60
       },
@@ -2404,10 +2404,10 @@
       "height": 4000,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 6
       },
       "meta": {
         "Collection": "National Museum of Art, Architecture and Design"
@@ -2579,8 +2579,8 @@
       "height": 3319,
       "tags": [],
       "popularity": {
-        "score": 169.3,
-        "pageviews_365d": 253,
+        "score": 178,
+        "pageviews_365d": 358,
         "sitelinks": 1,
         "globalusage": 10
       },
@@ -2821,8 +2821,8 @@
       "height": 3225,
       "tags": [],
       "popularity": {
-        "score": 209.7,
-        "pageviews_365d": 1624,
+        "score": 208.8,
+        "pageviews_365d": 1566,
         "sitelinks": 1,
         "globalusage": 5
       },
@@ -3329,8 +3329,8 @@
       "height": 3200,
       "tags": [],
       "popularity": {
-        "score": 234,
-        "pageviews_365d": 2898,
+        "score": 233.9,
+        "pageviews_365d": 2892,
         "sitelinks": 3,
         "globalusage": 7
       },
@@ -3602,8 +3602,8 @@
       "height": 3168,
       "tags": [],
       "popularity": {
-        "score": 154.2,
-        "pageviews_365d": 125,
+        "score": 160.5,
+        "pageviews_365d": 161,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -3837,10 +3837,10 @@
       "height": 2788,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 5
       },
       "meta": {
         "Collection": "Nationalmuseum"
@@ -3930,7 +3930,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-06-04T06:09:39.636Z",
+    "generated": "2026-07-01T09:25:35.552Z",
     "artist": {
       "qid": "Q380706",
       "name": "Vilhelm Hammershøi",

@@ -77,10 +77,10 @@
       "height": 2400,
       "tags": [],
       "popularity": {
-        "score": 211.1,
-        "pageviews_365d": 1013,
+        "score": 211.3,
+        "pageviews_365d": 995,
         "sitelinks": 2,
-        "globalusage": 14
+        "globalusage": 15
       },
       "meta": {
         "Collection": "Amon Carter Museum of American Art"
@@ -276,10 +276,10 @@
       "height": 6048,
       "tags": [],
       "popularity": {
-        "score": 36.4,
+        "score": 36.6,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 37
+        "globalusage": 38
       },
       "meta": {
         "Collection": "Museum of Fine Arts, Houston"
@@ -409,10 +409,10 @@
       "height": 2110,
       "tags": [],
       "popularity": {
-        "score": 226.6,
-        "pageviews_365d": 2426,
+        "score": 228.4,
+        "pageviews_365d": 2486,
         "sitelinks": 2,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Collection": "Art Institute of Chicago",
@@ -478,10 +478,10 @@
       "height": 2572,
       "tags": [],
       "popularity": {
-        "score": 23,
+        "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 9
+        "globalusage": 10
       },
       "meta": {
         "Collection": "Cincinnati Art Museum",
@@ -804,10 +804,10 @@
       "height": 1971,
       "tags": [],
       "popularity": {
-        "score": 26.4,
+        "score": 27.7,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 13
+        "globalusage": 15
       },
       "meta": {
         "Collection": "Yale University Art Gallery"
@@ -1806,10 +1806,10 @@
       "height": 840,
       "tags": [],
       "popularity": {
-        "score": 224.9,
-        "pageviews_365d": 2340,
+        "score": 225.2,
+        "pageviews_365d": 2293,
         "sitelinks": 1,
-        "globalusage": 10
+        "globalusage": 11
       },
       "meta": {
         "Collection": "American Museum of Western Art – The Anschutz Collection"
@@ -1943,10 +1943,10 @@
       "height": 2195,
       "tags": [],
       "popularity": {
-        "score": 24,
+        "score": 24.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 10
+        "globalusage": 11
       },
       "meta": {
         "Collection": "Cincinnati Art Museum"
@@ -2075,8 +2075,8 @@
       "height": 2696,
       "tags": [],
       "popularity": {
-        "score": 222.2,
-        "pageviews_365d": 2027,
+        "score": 221.2,
+        "pageviews_365d": 1955,
         "sitelinks": 1,
         "globalusage": 11
       },
@@ -2178,10 +2178,10 @@
       "height": 3709,
       "tags": [],
       "popularity": {
-        "score": 24,
+        "score": 24.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 10
+        "globalusage": 11
       },
       "meta": {
         "Collection": "Toledo Museum of Art",
@@ -2213,10 +2213,10 @@
       "height": 5307,
       "tags": [],
       "popularity": {
-        "score": 34.3,
+        "score": 34.7,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 30
+        "globalusage": 31
       },
       "meta": {
         "Collection": "Hood Museum of Art"
@@ -2281,10 +2281,10 @@
       "height": 353,
       "tags": [],
       "popularity": {
-        "score": 22,
+        "score": 23,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 8
+        "globalusage": 9
       },
       "meta": {
         "Collection": "Sid Richardson Museum"
@@ -2445,10 +2445,10 @@
       "height": 500,
       "tags": [],
       "popularity": {
-        "score": 46.2,
+        "score": 46.3,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 101
+        "globalusage": 102
       },
       "meta": {},
       "extras": {
@@ -2654,7 +2654,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-06-04T06:23:09.865Z",
+    "generated": "2026-07-01T09:53:07.392Z",
     "artist": {
       "qid": "Q560787",
       "name": "Frederic Remington",

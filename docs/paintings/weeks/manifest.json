@@ -1218,10 +1218,10 @@
       "height": 1940,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {},
       "extras": {
@@ -2078,7 +2078,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.is/RWwYs\">https://archive.is/RWwYs</a>",
+          "credit": "<a rel=\"nofollow noreferrer noopener\" class=\"external free\" href=\"https://archive.is/RWwYs\">https://archive.is/RWwYs</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edwin_Lord_Weeks\" class=\"extiw\" title=\"w:en:Edwin Lord Weeks\"><span title=\"American artist (1849-1903)\">Edwin Lord Weeks</span></a></bdi>"
         }
       }
@@ -2398,10 +2398,10 @@
       "height": 1000,
       "tags": [],
       "popularity": {
-        "score": 23,
+        "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 9
+        "globalusage": 10
       },
       "meta": {},
       "extras": {
@@ -2561,7 +2561,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-06-04T06:35:40.955Z",
+    "generated": "2026-07-01T10:07:51.731Z",
     "artist": {
       "qid": "Q3735411",
       "name": "Edwin Lord Weeks",

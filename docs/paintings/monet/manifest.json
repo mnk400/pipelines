@@ -48,8 +48,8 @@
       "height": 623,
       "tags": [],
       "popularity": {
-        "score": 265.4,
-        "pageviews_365d": 6589,
+        "score": 266.8,
+        "pageviews_365d": 6989,
         "sitelinks": 4,
         "globalusage": 18
       },
@@ -116,8 +116,8 @@
       "height": 800,
       "tags": [],
       "popularity": {
-        "score": 220.1,
-        "pageviews_365d": 968,
+        "score": 219.7,
+        "pageviews_365d": 954,
         "sitelinks": 3,
         "globalusage": 30
       },
@@ -269,7 +269,7 @@
         "globalusage": 15
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q20188632",
@@ -439,8 +439,8 @@
       "height": 3264,
       "tags": [],
       "popularity": {
-        "score": 191.8,
-        "pageviews_365d": 582,
+        "score": 195,
+        "pageviews_365d": 663,
         "sitelinks": 1,
         "globalusage": 12
       },
@@ -681,8 +681,8 @@
       "height": 1099,
       "tags": [],
       "popularity": {
-        "score": 241.2,
-        "pageviews_365d": 3074,
+        "score": 241.3,
+        "pageviews_365d": 3090,
         "sitelinks": 2,
         "globalusage": 18
       },
@@ -819,8 +819,8 @@
       "height": 946,
       "tags": [],
       "popularity": {
-        "score": 215.3,
-        "pageviews_365d": 1340,
+        "score": 215.6,
+        "pageviews_365d": 1358,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -927,8 +927,8 @@
       "height": 926,
       "tags": [],
       "popularity": {
-        "score": 252.1,
-        "pageviews_365d": 3403,
+        "score": 251.7,
+        "pageviews_365d": 3342,
         "sitelinks": 2,
         "globalusage": 43
       },
@@ -965,7 +965,7 @@
       "tags": [],
       "popularity": {
         "score": 237.2,
-        "pageviews_365d": 3086,
+        "pageviews_365d": 3085,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -1064,8 +1064,8 @@
       "height": 4145,
       "tags": [],
       "popularity": {
-        "score": 221.2,
-        "pageviews_365d": 1589,
+        "score": 222.8,
+        "pageviews_365d": 1694,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -1106,7 +1106,7 @@
         "globalusage": 18
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q20188658",
@@ -1210,8 +1210,8 @@
       "height": 3031,
       "tags": [],
       "popularity": {
-        "score": 214.8,
-        "pageviews_365d": 972,
+        "score": 215.2,
+        "pageviews_365d": 987,
         "sitelinks": 2,
         "globalusage": 23
       },
@@ -1234,53 +1234,6 @@
           "credit": "<a href=\"https://en.wikipedia.org/wiki/en:Google_Arts_%26_Culture\" class=\"extiw\" title=\"w:en:Google Arts &amp; Culture\"><span title=\"app and website exploring partner museums\">Google Arts &amp; Culture</span></a>  — <a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/1wF1kz5yJrRk5Q\">1wF1kz5yJrRk5Q</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
-      }
-    },
-    {
-      "id": "w-63.2",
-      "title": "Le Déjeuner sur l'herbe",
-      "year": "1865",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Claude_Monet_-_Le_dejeurner_sur_l%27herbe_%28left_panel%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Claude_Monet_-_Le_dejeurner_sur_l%27herbe_%28left_panel%29.jpg",
-      "width": 538,
-      "height": 1020,
-      "tags": [],
-      "popularity": {
-        "score": 353.6,
-        "pageviews_365d": 106441,
-        "sitelinks": 17,
-        "globalusage": 33
-      },
-      "meta": {
-        "Collection": "Musée d'Orsay"
-      },
-      "extras": {
-        "qid": "Q1167912",
-        "catalog_number": "63.2",
-        "wildenstein": "63.2",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 418,
-          "width_cm": 150
-        },
-        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!25651/manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.musee-orsay.fr/\">http://www.musee-orsay.fr/</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        },
-        "aliases": [
-          {
-            "id": "w-63 a",
-            "qid": "Q17492904",
-            "catalog_number": "63 a",
-            "wildenstein": "63 a",
-            "source": "wikidata",
-            "title": "Le Déjeuner sur l'herbe"
-          }
-        ]
       }
     },
     {
@@ -1361,10 +1314,10 @@
       "height": 1184,
       "tags": [],
       "popularity": {
-        "score": 168.3,
-        "pageviews_365d": 199,
+        "score": 168.5,
+        "pageviews_365d": 205,
         "sitelinks": 1,
-        "globalusage": 17
+        "globalusage": 16
       },
       "meta": {
         "Collection": "Ordrupgaard"
@@ -1397,8 +1350,8 @@
       "height": 4337,
       "tags": [],
       "popularity": {
-        "score": 239.2,
-        "pageviews_365d": 2704,
+        "score": 240,
+        "pageviews_365d": 2797,
         "sitelinks": 3,
         "globalusage": 15
       },
@@ -1433,8 +1386,8 @@
       "height": 2750,
       "tags": [],
       "popularity": {
-        "score": 223.8,
-        "pageviews_365d": 1258,
+        "score": 224.8,
+        "pageviews_365d": 1308,
         "sitelinks": 2,
         "globalusage": 30
       },
@@ -1505,10 +1458,10 @@
       "height": 5856,
       "tags": [],
       "popularity": {
-        "score": 340.2,
-        "pageviews_365d": 50974,
+        "score": 340.5,
+        "pageviews_365d": 51378,
         "sitelinks": 9,
-        "globalusage": 100
+        "globalusage": 101
       },
       "meta": {
         "Collection": "Kunsthalle Bremen"
@@ -1634,9 +1587,56 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "Google Arts &amp; Culture:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.googleartproject.com/\">Home</a> - <a rel=\"nofollow\" class=\"external text\" href=\"https://artsandculture.google.com/asset/\">ZgGD8zECuRSTdA  pic</a>",
+          "credit": "Google Arts &amp; Culture:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.googleartproject.com/\">Home page</a> - <a rel=\"nofollow\" class=\"external text\" href=\"https://artsandculture.google.com/asset/\">ZgGD8zECuRSTdA  Image</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
+      }
+    },
+    {
+      "id": "w-63.2",
+      "title": "Le Déjeuner sur l'herbe",
+      "year": "1866",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Claude_Monet_-_Le_dejeurner_sur_l%27herbe_%28left_panel%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Claude_Monet_-_Le_dejeurner_sur_l%27herbe_%28left_panel%29.jpg",
+      "width": 538,
+      "height": 1020,
+      "tags": [],
+      "popularity": {
+        "score": 353.5,
+        "pageviews_365d": 104843,
+        "sitelinks": 17,
+        "globalusage": 34
+      },
+      "meta": {
+        "Collection": "Musée d'Orsay"
+      },
+      "extras": {
+        "qid": "Q1167912",
+        "catalog_number": "63.2",
+        "wildenstein": "63.2",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 418,
+          "width_cm": 217
+        },
+        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!25651/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.musee-orsay.fr/\">http://www.musee-orsay.fr/</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        },
+        "aliases": [
+          {
+            "id": "w-63 a",
+            "qid": "Q17492904",
+            "catalog_number": "63 a",
+            "wildenstein": "63 a",
+            "source": "wikidata",
+            "title": "Le Déjeuner sur l'herbe"
+          }
+        ]
       }
     },
     {
@@ -1649,8 +1649,8 @@
       "height": 2760,
       "tags": [],
       "popularity": {
-        "score": 255.6,
-        "pageviews_365d": 3761,
+        "score": 255.7,
+        "pageviews_365d": 3772,
         "sitelinks": 4,
         "globalusage": 28
       },
@@ -1721,8 +1721,8 @@
       "height": 2490,
       "tags": [],
       "popularity": {
-        "score": 353.6,
-        "pageviews_365d": 61636,
+        "score": 353.2,
+        "pageviews_365d": 60762,
         "sitelinks": 23,
         "globalusage": 99
       },
@@ -1758,8 +1758,8 @@
       "height": 2410,
       "tags": [],
       "popularity": {
-        "score": 278.5,
-        "pageviews_365d": 8101,
+        "score": 278.8,
+        "pageviews_365d": 8197,
         "sitelinks": 9,
         "globalusage": 20
       },
@@ -1858,9 +1858,9 @@
       "tags": [],
       "popularity": {
         "score": 360.1,
-        "pageviews_365d": 67095,
+        "pageviews_365d": 66736,
         "sitelinks": 23,
-        "globalusage": 155
+        "globalusage": 156
       },
       "meta": {
         "Collection": "Metropolitan Museum of Art"
@@ -1893,8 +1893,8 @@
       "height": 1512,
       "tags": [],
       "popularity": {
-        "score": 213,
-        "pageviews_365d": 1171,
+        "score": 213.3,
+        "pageviews_365d": 1184,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -1935,7 +1935,7 @@
         "globalusage": 14
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q20188693",
@@ -1966,10 +1966,10 @@
       "height": 2750,
       "tags": [],
       "popularity": {
-        "score": 30.4,
+        "score": 31.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 20
+        "globalusage": 22
       },
       "meta": {
         "Collection": "Kunstmuseum Den Haag"
@@ -2002,8 +2002,8 @@
       "height": 2790,
       "tags": [],
       "popularity": {
-        "score": 301.3,
-        "pageviews_365d": 11670,
+        "score": 300.7,
+        "pageviews_365d": 11398,
         "sitelinks": 14,
         "globalusage": 54
       },
@@ -2081,7 +2081,7 @@
         "globalusage": 13
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q20188702",
@@ -2112,8 +2112,8 @@
       "height": 2961,
       "tags": [],
       "popularity": {
-        "score": 223.8,
-        "pageviews_365d": 1929,
+        "score": 223.9,
+        "pageviews_365d": 1941,
         "sitelinks": 3,
         "globalusage": 7
       },
@@ -2184,8 +2184,8 @@
       "height": 5021,
       "tags": [],
       "popularity": {
-        "score": 297.3,
-        "pageviews_365d": 15781,
+        "score": 297.5,
+        "pageviews_365d": 15919,
         "sitelinks": 8,
         "globalusage": 28
       },
@@ -2284,10 +2284,10 @@
       "height": 1200,
       "tags": [],
       "popularity": {
-        "score": 263.9,
-        "pageviews_365d": 5781,
+        "score": 263.1,
+        "pageviews_365d": 5724,
         "sitelinks": 5,
-        "globalusage": 18
+        "globalusage": 17
       },
       "meta": {
         "Collection": "Department of Paintings of the Louvre"
@@ -2320,8 +2320,8 @@
       "height": 2260,
       "tags": [],
       "popularity": {
-        "score": 345.4,
-        "pageviews_365d": 43265,
+        "score": 344.9,
+        "pageviews_365d": 42409,
         "sitelinks": 18,
         "globalusage": 134
       },
@@ -2563,8 +2563,8 @@
       "height": 2691,
       "tags": [],
       "popularity": {
-        "score": 241.1,
-        "pageviews_365d": 2269,
+        "score": 241.5,
+        "pageviews_365d": 2313,
         "sitelinks": 4,
         "globalusage": 23
       },
@@ -2636,8 +2636,8 @@
       "height": 2425,
       "tags": [],
       "popularity": {
-        "score": 281.6,
-        "pageviews_365d": 8834,
+        "score": 281.8,
+        "pageviews_365d": 8925,
         "sitelinks": 6,
         "globalusage": 32
       },
@@ -2776,10 +2776,10 @@
       "height": 2909,
       "tags": [],
       "popularity": {
-        "score": 364,
-        "pageviews_365d": 85917,
+        "score": 364.4,
+        "pageviews_365d": 87629,
         "sitelinks": 19,
-        "globalusage": 147
+        "globalusage": 146
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -2885,8 +2885,8 @@
       "height": 4226,
       "tags": [],
       "popularity": {
-        "score": 250,
-        "pageviews_365d": 3467,
+        "score": 248.8,
+        "pageviews_365d": 3303,
         "sitelinks": 2,
         "globalusage": 33
       },
@@ -2957,8 +2957,8 @@
       "height": 2752,
       "tags": [],
       "popularity": {
-        "score": 349.9,
-        "pageviews_365d": 59138,
+        "score": 349.7,
+        "pageviews_365d": 58476,
         "sitelinks": 16,
         "globalusage": 108
       },
@@ -3268,10 +3268,10 @@
       "height": 565,
       "tags": [],
       "popularity": {
-        "score": 34.7,
+        "score": 34,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 15
+        "globalusage": 14
       },
       "meta": {
         "Collection": "Yale University Art Gallery"
@@ -3304,8 +3304,8 @@
       "height": 4533,
       "tags": [],
       "popularity": {
-        "score": 263.2,
-        "pageviews_365d": 4806,
+        "score": 263.5,
+        "pageviews_365d": 4866,
         "sitelinks": 7,
         "globalusage": 20
       },
@@ -3341,8 +3341,8 @@
       "height": 3586,
       "tags": [],
       "popularity": {
-        "score": 229,
-        "pageviews_365d": 1782,
+        "score": 229.2,
+        "pageviews_365d": 1790,
         "sitelinks": 1,
         "globalusage": 32
       },
@@ -3450,8 +3450,8 @@
       "height": 1645,
       "tags": [],
       "popularity": {
-        "score": 264.1,
-        "pageviews_365d": 4771,
+        "score": 263.8,
+        "pageviews_365d": 4710,
         "sitelinks": 3,
         "globalusage": 46
       },
@@ -3698,8 +3698,8 @@
       "height": 299,
       "tags": [],
       "popularity": {
-        "score": 262.3,
-        "pageviews_365d": 6523,
+        "score": 263,
+        "pageviews_365d": 6688,
         "sitelinks": 2,
         "globalusage": 23
       },
@@ -3827,7 +3827,7 @@
       "tags": [],
       "popularity": {
         "score": 289.3,
-        "pageviews_365d": 8202,
+        "pageviews_365d": 8206,
         "sitelinks": 9,
         "globalusage": 59
       },
@@ -4121,7 +4121,7 @@
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
           "usage_terms": "Creative Commons Zero, Public Domain Dedication",
-          "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png\" decoding=\"async\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=2651\">image number 2651</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
+          "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png\" decoding=\"async\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=2651\">image number 2651</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -4172,8 +4172,8 @@
       "height": 1929,
       "tags": [],
       "popularity": {
-        "score": 231.5,
-        "pageviews_365d": 1898,
+        "score": 232.5,
+        "pageviews_365d": 1979,
         "sitelinks": 2,
         "globalusage": 23
       },
@@ -4282,8 +4282,8 @@
       "height": 1217,
       "tags": [],
       "popularity": {
-        "score": 214.5,
-        "pageviews_365d": 1170,
+        "score": 213.8,
+        "pageviews_365d": 1139,
         "sitelinks": 1,
         "globalusage": 21
       },
@@ -4316,8 +4316,8 @@
       "height": 2156,
       "tags": [],
       "popularity": {
-        "score": 269.2,
-        "pageviews_365d": 6325,
+        "score": 269.5,
+        "pageviews_365d": 6399,
         "sitelinks": 6,
         "globalusage": 21
       },
@@ -4503,7 +4503,7 @@
         "globalusage": 16
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q20188741",
@@ -4752,8 +4752,8 @@
       "height": 2195,
       "tags": [],
       "popularity": {
-        "score": 226.8,
-        "pageviews_365d": 1402,
+        "score": 226.3,
+        "pageviews_365d": 1376,
         "sitelinks": 3,
         "globalusage": 23
       },
@@ -4789,10 +4789,10 @@
       "height": 4478,
       "tags": [],
       "popularity": {
-        "score": 444.1,
-        "pageviews_365d": 829277,
+        "score": 443.9,
+        "pageviews_365d": 816115,
         "sitelinks": 52,
-        "globalusage": 584
+        "globalusage": 594
       },
       "meta": {
         "Collection": "Musée Marmottan Monet"
@@ -4825,10 +4825,10 @@
       "height": 4710,
       "tags": [],
       "popularity": {
-        "score": 38.9,
+        "score": 38.7,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 48
+        "globalusage": 47
       },
       "meta": {
         "Collection": "Metropolitan Museum of Art"
@@ -4921,8 +4921,8 @@
       "height": 3953,
       "tags": [],
       "popularity": {
-        "score": 247.6,
-        "pageviews_365d": 3053,
+        "score": 247.9,
+        "pageviews_365d": 3092,
         "sitelinks": 4,
         "globalusage": 21
       },
@@ -5064,8 +5064,8 @@
       "height": 3852,
       "tags": [],
       "popularity": {
-        "score": 311.5,
-        "pageviews_365d": 22980,
+        "score": 311.4,
+        "pageviews_365d": 22893,
         "sitelinks": 14,
         "globalusage": 27
       },
@@ -5138,8 +5138,8 @@
       "height": 1224,
       "tags": [],
       "popularity": {
-        "score": 263.7,
-        "pageviews_365d": 5179,
+        "score": 264.4,
+        "pageviews_365d": 5328,
         "sitelinks": 6,
         "globalusage": 20
       },
@@ -5180,7 +5180,7 @@
         "globalusage": 22
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q20188756",
@@ -5211,8 +5211,8 @@
       "height": 5037,
       "tags": [],
       "popularity": {
-        "score": 315.1,
-        "pageviews_365d": 26290,
+        "score": 315.3,
+        "pageviews_365d": 26533,
         "sitelinks": 11,
         "globalusage": 35
       },
@@ -5247,8 +5247,8 @@
       "height": 2068,
       "tags": [],
       "popularity": {
-        "score": 212.6,
-        "pageviews_365d": 808,
+        "score": 211.5,
+        "pageviews_365d": 774,
         "sitelinks": 3,
         "globalusage": 22
       },
@@ -5355,8 +5355,8 @@
       "height": 768,
       "tags": [],
       "popularity": {
-        "score": 224.6,
-        "pageviews_365d": 1693,
+        "score": 224.8,
+        "pageviews_365d": 1709,
         "sitelinks": 2,
         "globalusage": 15
       },
@@ -5463,8 +5463,8 @@
       "height": 700,
       "tags": [],
       "popularity": {
-        "score": 211.7,
-        "pageviews_365d": 842,
+        "score": 211.3,
+        "pageviews_365d": 829,
         "sitelinks": 3,
         "globalusage": 18
       },
@@ -5604,10 +5604,10 @@
       "height": 850,
       "tags": [],
       "popularity": {
-        "score": 25.6,
+        "score": 26.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 12
+        "globalusage": 13
       },
       "meta": {
         "Collection": "Q2148186"
@@ -5640,8 +5640,8 @@
       "height": 795,
       "tags": [],
       "popularity": {
-        "score": 157.2,
-        "pageviews_365d": 141,
+        "score": 162.7,
+        "pageviews_365d": 176,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -5712,10 +5712,10 @@
       "height": 795,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Collection": "National Galleries Scotland"
@@ -5748,8 +5748,8 @@
       "height": 3992,
       "tags": [],
       "popularity": {
-        "score": 306.8,
-        "pageviews_365d": 18902,
+        "score": 307,
+        "pageviews_365d": 19091,
         "sitelinks": 10,
         "globalusage": 38
       },
@@ -5856,7 +5856,7 @@
       "tags": [],
       "popularity": {
         "score": 265.6,
-        "pageviews_365d": 4204,
+        "pageviews_365d": 4198,
         "sitelinks": 4,
         "globalusage": 59
       },
@@ -5891,10 +5891,10 @@
       "height": 1889,
       "tags": [],
       "popularity": {
-        "score": 275.1,
-        "pageviews_365d": 6022,
+        "score": 274.7,
+        "pageviews_365d": 5887,
         "sitelinks": 4,
-        "globalusage": 62
+        "globalusage": 63
       },
       "meta": {
         "Collection": "Pushkin Museum of Fine Arts"
@@ -5963,8 +5963,8 @@
       "height": 2976,
       "tags": [],
       "popularity": {
-        "score": 226.9,
-        "pageviews_365d": 1580,
+        "score": 226.3,
+        "pageviews_365d": 1539,
         "sitelinks": 3,
         "globalusage": 17
       },
@@ -5999,8 +5999,8 @@
       "height": 1611,
       "tags": [],
       "popularity": {
-        "score": 274.4,
-        "pageviews_365d": 6060,
+        "score": 274.3,
+        "pageviews_365d": 6023,
         "sitelinks": 9,
         "globalusage": 28
       },
@@ -6031,8 +6031,8 @@
       "height": 6512,
       "tags": [],
       "popularity": {
-        "score": 194.4,
-        "pageviews_365d": 595,
+        "score": 194.2,
+        "pageviews_365d": 590,
         "sitelinks": 3,
         "globalusage": 7
       },
@@ -6067,10 +6067,10 @@
       "height": 2436,
       "tags": [],
       "popularity": {
-        "score": 277.7,
-        "pageviews_365d": 8587,
+        "score": 278.6,
+        "pageviews_365d": 8753,
         "sitelinks": 6,
-        "globalusage": 23
+        "globalusage": 24
       },
       "meta": {
         "Collection": "Pushkin Museum of Fine Arts"
@@ -6103,8 +6103,8 @@
       "height": 383,
       "tags": [],
       "popularity": {
-        "score": 262.1,
-        "pageviews_365d": 5156,
+        "score": 262.3,
+        "pageviews_365d": 5211,
         "sitelinks": 5,
         "globalusage": 20
       },
@@ -6326,7 +6326,7 @@
         "globalusage": 14
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q20188762",
@@ -6429,8 +6429,8 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 298.4,
-        "pageviews_365d": 15581,
+        "score": 298.8,
+        "pageviews_365d": 15820,
         "sitelinks": 9,
         "globalusage": 29
       },
@@ -6466,8 +6466,8 @@
       "height": 602,
       "tags": [],
       "popularity": {
-        "score": 222.8,
-        "pageviews_365d": 1538,
+        "score": 223.2,
+        "pageviews_365d": 1565,
         "sitelinks": 2,
         "globalusage": 16
       },
@@ -6502,8 +6502,8 @@
       "height": 4258,
       "tags": [],
       "popularity": {
-        "score": 348.4,
-        "pageviews_365d": 92751,
+        "score": 348.3,
+        "pageviews_365d": 92278,
         "sitelinks": 11,
         "globalusage": 42
       },
@@ -6539,8 +6539,8 @@
       "height": 4024,
       "tags": [],
       "popularity": {
-        "score": 252.5,
-        "pageviews_365d": 3582,
+        "score": 252.9,
+        "pageviews_365d": 3642,
         "sitelinks": 4,
         "globalusage": 23
       },
@@ -6576,8 +6576,8 @@
       "height": 1328,
       "tags": [],
       "popularity": {
-        "score": 248.9,
-        "pageviews_365d": 2803,
+        "score": 248.5,
+        "pageviews_365d": 2762,
         "sitelinks": 4,
         "globalusage": 30
       },
@@ -6646,8 +6646,8 @@
       "height": 830,
       "tags": [],
       "popularity": {
-        "score": 294.7,
-        "pageviews_365d": 13967,
+        "score": 294.3,
+        "pageviews_365d": 13766,
         "sitelinks": 6,
         "globalusage": 38
       },
@@ -6787,8 +6787,8 @@
       "height": 2501,
       "tags": [],
       "popularity": {
-        "score": 269.5,
-        "pageviews_365d": 5825,
+        "score": 269.6,
+        "pageviews_365d": 5847,
         "sitelinks": 6,
         "globalusage": 27
       },
@@ -6927,8 +6927,8 @@
       "height": 1112,
       "tags": [],
       "popularity": {
-        "score": 264,
-        "pageviews_365d": 5198,
+        "score": 263.8,
+        "pageviews_365d": 5164,
         "sitelinks": 5,
         "globalusage": 24
       },
@@ -6963,8 +6963,8 @@
       "height": 1900,
       "tags": [],
       "popularity": {
-        "score": 243.1,
-        "pageviews_365d": 2845,
+        "score": 243.3,
+        "pageviews_365d": 2866,
         "sitelinks": 3,
         "globalusage": 20
       },
@@ -7137,10 +7137,10 @@
       "height": 752,
       "tags": [],
       "popularity": {
-        "score": 146.4,
-        "pageviews_365d": 79,
+        "score": 160.9,
+        "pageviews_365d": 139,
         "sitelinks": 1,
-        "globalusage": 19
+        "globalusage": 20
       },
       "meta": {
         "Collection": "lost artwork"
@@ -7539,10 +7539,10 @@
       "height": 2736,
       "tags": [],
       "popularity": {
-        "score": 227.1,
-        "pageviews_365d": 1873,
+        "score": 228.5,
+        "pageviews_365d": 1921,
         "sitelinks": 3,
-        "globalusage": 11
+        "globalusage": 12
       },
       "meta": {
         "Collection": "Alte Nationalgalerie"
@@ -7609,8 +7609,8 @@
       "height": 5998,
       "tags": [],
       "popularity": {
-        "score": 190,
-        "pageviews_365d": 602,
+        "score": 190.3,
+        "pageviews_365d": 609,
         "sitelinks": 1,
         "globalusage": 9
       },
@@ -7862,8 +7862,8 @@
       "height": 2524,
       "tags": [],
       "popularity": {
-        "score": 282.8,
-        "pageviews_365d": 11800,
+        "score": 283.4,
+        "pageviews_365d": 12107,
         "sitelinks": 8,
         "globalusage": 13
       },
@@ -7935,10 +7935,10 @@
       "height": 208,
       "tags": [],
       "popularity": {
-        "score": 24.8,
+        "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 11
+        "globalusage": 10
       },
       "meta": {
         "Collection": "Hermann Göring Collection"
@@ -8213,8 +8213,8 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 242,
-        "pageviews_365d": 2772,
+        "score": 242.1,
+        "pageviews_365d": 2779,
         "sitelinks": 4,
         "globalusage": 15
       },
@@ -8465,8 +8465,8 @@
       "height": 2328,
       "tags": [],
       "popularity": {
-        "score": 181.9,
-        "pageviews_365d": 385,
+        "score": 184.8,
+        "pageviews_365d": 433,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -8812,8 +8812,8 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 262.8,
-        "pageviews_365d": 5425,
+        "score": 261.9,
+        "pageviews_365d": 5218,
         "sitelinks": 7,
         "globalusage": 14
       },
@@ -8885,10 +8885,10 @@
       "height": 4226,
       "tags": [],
       "popularity": {
-        "score": 301,
-        "pageviews_365d": 16859,
+        "score": 301.5,
+        "pageviews_365d": 16957,
         "sitelinks": 9,
-        "globalusage": 31
+        "globalusage": 32
       },
       "meta": {
         "Collection": "National Gallery"
@@ -8906,7 +8906,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<p>[Not given; presumably <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.nationalgallery.org.uk/paintings/claude-oscar-monet-snow-scene-at-argenteuil\">[1]</a>]\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.is/Ucnpy\">https://archive.is/Ucnpy</a>",
+          "credit": "<p>[Not given; presumably <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.nationalgallery.org.uk/paintings/claude-oscar-monet-snow-scene-at-argenteuil\">[1]</a>]\n</p>\n<a rel=\"nofollow noreferrer noopener\" class=\"external free\" href=\"https://archive.is/Ucnpy\">https://archive.is/Ucnpy</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -9133,8 +9133,8 @@
       "height": 4042,
       "tags": [],
       "popularity": {
-        "score": 232.8,
-        "pageviews_365d": 2534,
+        "score": 232.7,
+        "pageviews_365d": 2516,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -9242,8 +9242,8 @@
       "height": 1128,
       "tags": [],
       "popularity": {
-        "score": 285.4,
-        "pageviews_365d": 12229,
+        "score": 285.1,
+        "pageviews_365d": 12101,
         "sitelinks": 5,
         "globalusage": 24
       },
@@ -9278,8 +9278,8 @@
       "height": 1193,
       "tags": [],
       "popularity": {
-        "score": 212.7,
-        "pageviews_365d": 1207,
+        "score": 213.2,
+        "pageviews_365d": 1232,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -9320,7 +9320,7 @@
         "globalusage": 9
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q20188810",
@@ -9387,8 +9387,8 @@
       "height": 1890,
       "tags": [],
       "popularity": {
-        "score": 180.3,
-        "pageviews_365d": 282,
+        "score": 178.4,
+        "pageviews_365d": 262,
         "sitelinks": 1,
         "globalusage": 24
       },
@@ -9421,8 +9421,8 @@
       "height": 1107,
       "tags": [],
       "popularity": {
-        "score": 218,
-        "pageviews_365d": 1429,
+        "score": 218.5,
+        "pageviews_365d": 1455,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -9525,10 +9525,10 @@
       "height": 2370,
       "tags": [],
       "popularity": {
-        "score": 353.8,
-        "pageviews_365d": 69639,
+        "score": 353.7,
+        "pageviews_365d": 69138,
         "sitelinks": 14,
-        "globalusage": 120
+        "globalusage": 121
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston"
@@ -9803,8 +9803,8 @@
       "height": 1070,
       "tags": [],
       "popularity": {
-        "score": 288.2,
-        "pageviews_365d": 11048,
+        "score": 288,
+        "pageviews_365d": 10984,
         "sitelinks": 4,
         "globalusage": 50
       },
@@ -9839,8 +9839,8 @@
       "height": 825,
       "tags": [],
       "popularity": {
-        "score": 225.1,
-        "pageviews_365d": 1600,
+        "score": 225.3,
+        "pageviews_365d": 1614,
         "sitelinks": 1,
         "globalusage": 28
       },
@@ -9875,8 +9875,8 @@
       "height": 1460,
       "tags": [],
       "popularity": {
-        "score": 225.4,
-        "pageviews_365d": 1645,
+        "score": 224.5,
+        "pageviews_365d": 1589,
         "sitelinks": 3,
         "globalusage": 13
       },
@@ -9912,7 +9912,7 @@
       "tags": [],
       "popularity": {
         "score": 300.8,
-        "pageviews_365d": 13768,
+        "pageviews_365d": 13797,
         "sitelinks": 7,
         "globalusage": 64
       },
@@ -9948,7 +9948,7 @@
       "tags": [],
       "popularity": {
         "score": 289.4,
-        "pageviews_365d": 10597,
+        "pageviews_365d": 10586,
         "sitelinks": 7,
         "globalusage": 39
       },
@@ -10115,10 +10115,10 @@
       "height": 2637,
       "tags": [],
       "popularity": {
-        "score": 274.6,
-        "pageviews_365d": 6345,
+        "score": 275.8,
+        "pageviews_365d": 6569,
         "sitelinks": 3,
-        "globalusage": 65
+        "globalusage": 67
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -10214,8 +10214,8 @@
       "height": 662,
       "tags": [],
       "popularity": {
-        "score": 271.3,
-        "pageviews_365d": 5652,
+        "score": 271.8,
+        "pageviews_365d": 5757,
         "sitelinks": 6,
         "globalusage": 35
       },
@@ -10250,8 +10250,8 @@
       "height": 2859,
       "tags": [],
       "popularity": {
-        "score": 260.7,
-        "pageviews_365d": 4743,
+        "score": 260.9,
+        "pageviews_365d": 4775,
         "sitelinks": 7,
         "globalusage": 16
       },
@@ -10320,8 +10320,8 @@
       "height": 5087,
       "tags": [],
       "popularity": {
-        "score": 177.1,
-        "pageviews_365d": 284,
+        "score": 180.7,
+        "pageviews_365d": 328,
         "sitelinks": 2,
         "globalusage": 11
       },
@@ -10393,10 +10393,10 @@
       "height": 1238,
       "tags": [],
       "popularity": {
-        "score": 278.1,
-        "pageviews_365d": 7985,
+        "score": 278.8,
+        "pageviews_365d": 8122,
         "sitelinks": 4,
-        "globalusage": 41
+        "globalusage": 42
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -10673,8 +10673,8 @@
       "height": 8753,
       "tags": [],
       "popularity": {
-        "score": 305.8,
-        "pageviews_365d": 22906,
+        "score": 305.7,
+        "pageviews_365d": 22791,
         "sitelinks": 7,
         "globalusage": 29
       },
@@ -10926,10 +10926,10 @@
       "height": 1558,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 6
       },
       "meta": {
         "Collection": "National Galleries Scotland"
@@ -10998,8 +10998,8 @@
       "height": 5860,
       "tags": [],
       "popularity": {
-        "score": 247.8,
-        "pageviews_365d": 2761,
+        "score": 247.7,
+        "pageviews_365d": 2746,
         "sitelinks": 2,
         "globalusage": 47
       },
@@ -11141,8 +11141,8 @@
       "height": 5087,
       "tags": [],
       "popularity": {
-        "score": 308,
-        "pageviews_365d": 19646,
+        "score": 309.1,
+        "pageviews_365d": 20497,
         "sitelinks": 8,
         "globalusage": 48
       },
@@ -11535,10 +11535,10 @@
       "height": 1800,
       "tags": [],
       "popularity": {
-        "score": 256.9,
-        "pageviews_365d": 3482,
+        "score": 256.5,
+        "pageviews_365d": 3546,
         "sitelinks": 4,
-        "globalusage": 39
+        "globalusage": 36
       },
       "meta": {
         "Collection": "Collection of Max Emden"
@@ -12033,8 +12033,8 @@
       "height": 674,
       "tags": [],
       "popularity": {
-        "score": 214.1,
-        "pageviews_365d": 1175,
+        "score": 213.2,
+        "pageviews_365d": 1131,
         "sitelinks": 2,
         "globalusage": 13
       },
@@ -12102,8 +12102,8 @@
       "height": 2106,
       "tags": [],
       "popularity": {
-        "score": 169.8,
-        "pageviews_365d": 249,
+        "score": 170.4,
+        "pageviews_365d": 255,
         "sitelinks": 1,
         "globalusage": 11
       },
@@ -12216,7 +12216,7 @@
         "globalusage": 11
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q20188857",
@@ -12430,8 +12430,8 @@
       "height": 7384,
       "tags": [],
       "popularity": {
-        "score": 209.4,
-        "pageviews_365d": 1060,
+        "score": 209.5,
+        "pageviews_365d": 1061,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -12509,7 +12509,7 @@
         "globalusage": 17
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q20188861",
@@ -12606,8 +12606,8 @@
       "height": 482,
       "tags": [],
       "popularity": {
-        "score": 194.6,
-        "pageviews_365d": 424,
+        "score": 195.2,
+        "pageviews_365d": 435,
         "sitelinks": 1,
         "globalusage": 37
       },
@@ -12926,10 +12926,10 @@
       "height": 1200,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Kunsthaus Zürich"
@@ -13104,8 +13104,8 @@
       "height": 3691,
       "tags": [],
       "popularity": {
-        "score": 229.3,
-        "pageviews_365d": 2375,
+        "score": 230.7,
+        "pageviews_365d": 2512,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -13284,10 +13284,10 @@
       "height": 2132,
       "tags": [],
       "popularity": {
-        "score": 210.5,
-        "pageviews_365d": 1120,
+        "score": 209.7,
+        "pageviews_365d": 1128,
         "sitelinks": 2,
-        "globalusage": 10
+        "globalusage": 9
       },
       "meta": {
         "Collection": "Department of Paintings of the Louvre"
@@ -13392,10 +13392,10 @@
       "height": 4266,
       "tags": [],
       "popularity": {
-        "score": 22,
+        "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 8
+        "globalusage": 10
       },
       "meta": {
         "Collection": "Dallas Museum of Art"
@@ -13718,10 +13718,10 @@
       "height": 1881,
       "tags": [],
       "popularity": {
-        "score": 242.3,
-        "pageviews_365d": 2987,
+        "score": 242,
+        "pageviews_365d": 3028,
         "sitelinks": 3,
-        "globalusage": 16
+        "globalusage": 15
       },
       "meta": {
         "Collection": "Alte Nationalgalerie"
@@ -13760,7 +13760,7 @@
         "globalusage": 14
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q20188876",
@@ -13895,8 +13895,8 @@
       "height": 3966,
       "tags": [],
       "popularity": {
-        "score": 250.5,
-        "pageviews_365d": 2815,
+        "score": 249.2,
+        "pageviews_365d": 2672,
         "sitelinks": 1,
         "globalusage": 89
       },
@@ -14288,8 +14288,8 @@
       "height": 4226,
       "tags": [],
       "popularity": {
-        "score": 226.3,
-        "pageviews_365d": 1211,
+        "score": 226,
+        "pageviews_365d": 1193,
         "sitelinks": 3,
         "globalusage": 32
       },
@@ -14638,13 +14638,13 @@
       "height": 3130,
       "tags": [],
       "popularity": {
-        "score": 261.3,
-        "pageviews_365d": 5372,
+        "score": 261.6,
+        "pageviews_365d": 5390,
         "sitelinks": 2,
-        "globalusage": 34
+        "globalusage": 35
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q20188856",
@@ -15001,8 +15001,8 @@
       "height": 589,
       "tags": [],
       "popularity": {
-        "score": 245.1,
-        "pageviews_365d": 3199,
+        "score": 245.7,
+        "pageviews_365d": 3275,
         "sitelinks": 3,
         "globalusage": 18
       },
@@ -15103,8 +15103,8 @@
       "height": 550,
       "tags": [],
       "popularity": {
-        "score": 314.9,
-        "pageviews_365d": 24997,
+        "score": 315,
+        "pageviews_365d": 25095,
         "sitelinks": 11,
         "globalusage": 39
       },
@@ -15323,7 +15323,7 @@
         "globalusage": 12
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q20189481",
@@ -15638,8 +15638,8 @@
       "height": 1400,
       "tags": [],
       "popularity": {
-        "score": 206.7,
-        "pageviews_365d": 974,
+        "score": 206.9,
+        "pageviews_365d": 981,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -15708,10 +15708,10 @@
       "height": 2554,
       "tags": [],
       "popularity": {
-        "score": 255.7,
-        "pageviews_365d": 5271,
+        "score": 257.2,
+        "pageviews_365d": 5302,
         "sitelinks": 8,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Belvedere"
@@ -15854,10 +15854,10 @@
       "height": 962,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Kunsthaus Zürich"
@@ -15996,8 +15996,8 @@
       "height": 2774,
       "tags": [],
       "popularity": {
-        "score": 237.2,
-        "pageviews_365d": 1549,
+        "score": 237.1,
+        "pageviews_365d": 1544,
         "sitelinks": 3,
         "globalusage": 52
       },
@@ -16240,8 +16240,8 @@
       "height": 837,
       "tags": [],
       "popularity": {
-        "score": 202.9,
-        "pageviews_365d": 1009,
+        "score": 203,
+        "pageviews_365d": 1014,
         "sitelinks": 1,
         "globalusage": 9
       },
@@ -16306,8 +16306,8 @@
       "height": 2613,
       "tags": [],
       "popularity": {
-        "score": 202.8,
-        "pageviews_365d": 1048,
+        "score": 204.6,
+        "pageviews_365d": 1125,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -16376,8 +16376,8 @@
       "height": 3508,
       "tags": [],
       "popularity": {
-        "score": 288.9,
-        "pageviews_365d": 10246,
+        "score": 289,
+        "pageviews_365d": 10251,
         "sitelinks": 8,
         "globalusage": 36
       },
@@ -16663,10 +16663,10 @@
       "height": 820,
       "tags": [],
       "popularity": {
-        "score": 31.8,
+        "score": 32.6,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 11
+        "globalusage": 12
       },
       "meta": {
         "Collection": "Barber Institute of Fine Arts"
@@ -16839,10 +16839,10 @@
       "height": 2251,
       "tags": [],
       "popularity": {
-        "score": 314.5,
-        "pageviews_365d": 30827,
+        "score": 314.7,
+        "pageviews_365d": 30807,
         "sitelinks": 7,
-        "globalusage": 33
+        "globalusage": 34
       },
       "meta": {
         "Collection": "Art Institute of Chicago"
@@ -16860,7 +16860,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "Google Arts &amp; Culture:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.googleartproject.com/\">Home</a> - <a rel=\"nofollow\" class=\"external text\" href=\"https://artsandculture.google.com/asset/\">pic</a> Maximum resolution.",
+          "credit": "Google Arts &amp; Culture:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.googleartproject.com/\">Home page</a> - <a rel=\"nofollow\" class=\"external text\" href=\"https://artsandculture.google.com/asset/\">Image</a> Maximum resolution.",
           "artist": "<div class=\"fn value\">\n<i>unknown artist</i></div>"
         }
       }
@@ -17013,8 +17013,8 @@
       "height": 240,
       "tags": [],
       "popularity": {
-        "score": 229.1,
-        "pageviews_365d": 2883,
+        "score": 230.1,
+        "pageviews_365d": 3003,
         "sitelinks": 1,
         "globalusage": 9
       },
@@ -17049,10 +17049,10 @@
       "height": 2285,
       "tags": [],
       "popularity": {
-        "score": 27.1,
+        "score": 26.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 14
+        "globalusage": 13
       },
       "meta": {
         "Collection": "The New Art Gallery Walsall"
@@ -17266,8 +17266,8 @@
       "height": 3763,
       "tags": [],
       "popularity": {
-        "score": 208.5,
-        "pageviews_365d": 798,
+        "score": 208.8,
+        "pageviews_365d": 806,
         "sitelinks": 2,
         "globalusage": 20
       },
@@ -17374,8 +17374,8 @@
       "height": 1209,
       "tags": [],
       "popularity": {
-        "score": 279.4,
-        "pageviews_365d": 7946,
+        "score": 278.9,
+        "pageviews_365d": 7763,
         "sitelinks": 8,
         "globalusage": 26
       },
@@ -17511,8 +17511,8 @@
       "height": 684,
       "tags": [],
       "popularity": {
-        "score": 242.3,
-        "pageviews_365d": 2616,
+        "score": 242.5,
+        "pageviews_365d": 2637,
         "sitelinks": 4,
         "globalusage": 18
       },
@@ -18045,8 +18045,8 @@
       "height": 2393,
       "tags": [],
       "popularity": {
-        "score": 233.5,
-        "pageviews_365d": 1677,
+        "score": 234,
+        "pageviews_365d": 1710,
         "sitelinks": 2,
         "globalusage": 39
       },
@@ -18297,8 +18297,8 @@
       "height": 1532,
       "tags": [],
       "popularity": {
-        "score": 261.8,
-        "pageviews_365d": 6169,
+        "score": 261.4,
+        "pageviews_365d": 6081,
         "sitelinks": 5,
         "globalusage": 12
       },
@@ -18874,8 +18874,8 @@
       "height": 4572,
       "tags": [],
       "popularity": {
-        "score": 271.4,
-        "pageviews_365d": 4649,
+        "score": 271.7,
+        "pageviews_365d": 4718,
         "sitelinks": 8,
         "globalusage": 45
       },
@@ -19101,7 +19101,7 @@
         "wildenstein": "857a",
         "source": "wikidata",
         "dimensions": {
-          "height_cm": 60,
+          "height_cm": 61,
           "width_cm": 74
         },
         "license": {
@@ -19123,8 +19123,8 @@
       "height": 3688,
       "tags": [],
       "popularity": {
-        "score": 236.2,
-        "pageviews_365d": 1920,
+        "score": 236.5,
+        "pageviews_365d": 1947,
         "sitelinks": 3,
         "globalusage": 27
       },
@@ -19217,7 +19217,43 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.sothebys.com/en/auctions/ecatalogue/2013/impressionist-modern-art-evening-sale-l13002/lot.16.html\">http://www.sothebys.com/en/auctions/ecatalogue/2013/impressionist-modern-art-evening-sale-l13002/lot.16.html</a>",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sothebys.com/en/auctions/ecatalogue/2013/impressionist-modern-art-evening-sale-l13002/lot.16.html\">https://www.sothebys.com/en/auctions/ecatalogue/2013/impressionist-modern-art-evening-sale-l13002/lot.16.html</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "w-1023",
+      "title": "A Cottage in Normandy",
+      "year": "1885",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Chaumi%C3%A8re_normande_%281885%29_de_Claude_Monet_%28W_1023%29_-_Kunsthaus_Zurich.jpg/960px-Chaumi%C3%A8re_normande_%281885%29_de_Claude_Monet_%28W_1023%29_-_Kunsthaus_Zurich.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/17/Chaumi%C3%A8re_normande_%281885%29_de_Claude_Monet_%28W_1023%29_-_Kunsthaus_Zurich.jpg",
+      "width": 1200,
+      "height": 963,
+      "tags": [],
+      "popularity": {
+        "score": 20.8,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 7
+      },
+      "meta": {
+        "Collection": "Kunsthaus Zürich"
+      },
+      "extras": {
+        "qid": "Q124252687",
+        "catalog_number": "1023",
+        "wildenstein": "1023",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 65,
+          "width_cm": 81
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Kunsthaus_Z%C3%BCrich\" class=\"extiw\" title=\"w:en:Kunsthaus Zürich\"><span title=\"art museum in Zürich, Switzerland\">Kunsthaus Zürich</span></a>\n</bdi>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -19268,8 +19304,8 @@
       "height": 2364,
       "tags": [],
       "popularity": {
-        "score": 160.7,
-        "pageviews_365d": 167,
+        "score": 161.8,
+        "pageviews_365d": 175,
         "sitelinks": 1,
         "globalusage": 12
       },
@@ -19326,42 +19362,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "Clipped from <a rel=\"nofollow\" class=\"external free\" href=\"https://wpi.art/2019/01/16/monet/\">https://wpi.art/2019/01/16/monet/</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "w-1023",
-      "title": "Chaumière normande",
-      "year": "1885",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Chaumi%C3%A8re_normande_%281885%29_de_Claude_Monet_%28W_1023%29_-_Kunsthaus_Zurich.jpg/960px-Chaumi%C3%A8re_normande_%281885%29_de_Claude_Monet_%28W_1023%29_-_Kunsthaus_Zurich.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/1/17/Chaumi%C3%A8re_normande_%281885%29_de_Claude_Monet_%28W_1023%29_-_Kunsthaus_Zurich.jpg",
-      "width": 1200,
-      "height": 963,
-      "tags": [],
-      "popularity": {
-        "score": 19.5,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 6
-      },
-      "meta": {
-        "Collection": "Kunsthaus Zürich"
-      },
-      "extras": {
-        "qid": "Q124252687",
-        "catalog_number": "1023",
-        "wildenstein": "1023",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 65,
-          "width_cm": 81
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Kunsthaus_Z%C3%BCrich\" class=\"extiw\" title=\"w:en:Kunsthaus Zürich\"><span title=\"art museum in Zürich, Switzerland\">Kunsthaus Zürich</span></a>\n</bdi>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -19506,6 +19506,34 @@
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/20535\">https://www.artic.edu/artworks/20535</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q140069752",
+      "title": "Étretat: The Needle and the Porte d'Aval",
+      "year": "1885",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/%C3%89tretat%2C_Falaise_d%27Aval_%28c._1885_%29_Claude_Monet_%28W_P_76%29.jpg/960px-%C3%89tretat%2C_Falaise_d%27Aval_%28c._1885_%29_Claude_Monet_%28W_P_76%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/67/%C3%89tretat%2C_Falaise_d%27Aval_%28c._1885_%29_Claude_Monet_%28W_P_76%29.jpg",
+      "width": 2880,
+      "height": 1558,
+      "tags": [],
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q140069752",
+        "source": "wikidata",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sothebys.com/en/auctions/ecatalogue/2010/impressionist-modern-art-day-sale-n08676/lot.134.html\">https://www.sothebys.com/en/auctions/ecatalogue/2010/impressionist-modern-art-day-sale-n08676/lot.134.html</a>",
+          "artist": "Claude Monet"
         }
       }
     },
@@ -19941,10 +19969,10 @@
       "height": 4551,
       "tags": [],
       "popularity": {
-        "score": 200.3,
-        "pageviews_365d": 533,
+        "score": 200,
+        "pageviews_365d": 531,
         "sitelinks": 1,
-        "globalusage": 37
+        "globalusage": 36
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston"
@@ -19977,8 +20005,8 @@
       "height": 3388,
       "tags": [],
       "popularity": {
-        "score": 184,
-        "pageviews_365d": 333,
+        "score": 187.9,
+        "pageviews_365d": 389,
         "sitelinks": 2,
         "globalusage": 15
       },
@@ -20080,16 +20108,16 @@
       "id": "w-1018",
       "title": "The Cliff and the Porte d'Aval",
       "year": "1885",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Falaises_%C3%A0_%C3%89tretat_by_Claude_Monet%2C_1885.jpg/960px-Falaises_%C3%A0_%C3%89tretat_by_Claude_Monet%2C_1885.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Falaises_%C3%A0_%C3%89tretat_by_Claude_Monet%2C_1885.jpg",
-      "width": 3072,
-      "height": 2448,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MB-Mon-21_Monet_Steilkueste-von-Aval.jpg/960px-MB-Mon-21_Monet_Steilkueste-von-Aval.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f0/MB-Mon-21_Monet_Steilkueste-von-Aval.jpg",
+      "width": 2500,
+      "height": 1999,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 6
       },
       "meta": {
         "Collection": "Impressionism: The Hasso Plattner Collection"
@@ -20104,11 +20132,11 @@
           "width_cm": 81
         },
         "license": {
-          "short_name": "No restrictions",
-          "url": "https://www.flickr.com/commons/usage/",
-          "usage_terms": "No known copyright restrictions",
-          "credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/internetarchivebookimages/14581896178/\">https://www.flickr.com/photos/internetarchivebookimages/14581896178/</a>\n</p>\n<ul><li>Source book page: <a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/stream/internationalstu10newy08/internationalstu10newy08#page/n170/mode/1up\">https://archive.org/stream/internationalstu10newy08/internationalstu10newy08#page/n170/mode/1up</a></li></ul>",
-          "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/126377022@N07\">Internet Archive Book Images</a>"
+          "short_name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
     },
@@ -20122,8 +20150,8 @@
       "height": 3207,
       "tags": [],
       "popularity": {
-        "score": 171.2,
-        "pageviews_365d": 185,
+        "score": 175.7,
+        "pageviews_365d": 221,
         "sitelinks": 1,
         "globalusage": 28
       },
@@ -20154,10 +20182,10 @@
       "height": 1279,
       "tags": [],
       "popularity": {
-        "score": 293.3,
-        "pageviews_365d": 12058,
+        "score": 292.9,
+        "pageviews_365d": 11768,
         "sitelinks": 3,
-        "globalusage": 85
+        "globalusage": 86
       },
       "meta": {
         "Collection": "Clark Art Institute"
@@ -20190,8 +20218,8 @@
       "height": 2380,
       "tags": [],
       "popularity": {
-        "score": 203.3,
-        "pageviews_365d": 784,
+        "score": 203.9,
+        "pageviews_365d": 804,
         "sitelinks": 2,
         "globalusage": 12
       },
@@ -20254,7 +20282,7 @@
     },
     {
       "id": "w-1033",
-      "title": "The Rock Needle and Porte d' Aval, Etretat",
+      "title": "The Rock Needle and Porte d'Aval, Étretat",
       "year": "1885",
       "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Monet_w1033.jpg",
       "full": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Monet_w1033.jpg",
@@ -20262,10 +20290,10 @@
       "height": 608,
       "tags": [],
       "popularity": {
-        "score": 24.8,
+        "score": 25.6,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 11
+        "globalusage": 12
       },
       "meta": {
         "Collection": "Fitzwilliam Museum"
@@ -20361,6 +20389,42 @@
       }
     },
     {
+      "id": "w-1029",
+      "title": "Three Fishing Boats",
+      "year": "1885",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Claude_Monet_-_Three_Fishing_Boats_-_Google_Art_Project.jpg/960px-Claude_Monet_-_Three_Fishing_Boats_-_Google_Art_Project.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Claude_Monet_-_Three_Fishing_Boats_-_Google_Art_Project.jpg",
+      "width": 5408,
+      "height": 4291,
+      "tags": [],
+      "popularity": {
+        "score": 27.7,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 15
+      },
+      "meta": {
+        "Collection": "Museum of Fine Arts, Budapest"
+      },
+      "extras": {
+        "qid": "Q22205318",
+        "catalog_number": "1029",
+        "wildenstein": "1029",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 73,
+          "width_cm": 92.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/AwFK3bYzu9yMHw\">AwFK3bYzu9yMHw at Google Cultural Institute</a> maximum zoom level",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "w-961",
       "title": "Winter in Giverny",
       "year": "1885",
@@ -20406,10 +20470,10 @@
       "height": 968,
       "tags": [],
       "popularity": {
-        "score": 26.4,
+        "score": 27.7,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Gabriele and Werner Merzbacher Collection"
@@ -20515,7 +20579,7 @@
       "tags": [],
       "popularity": {
         "score": 279.9,
-        "pageviews_365d": 11045,
+        "pageviews_365d": 11031,
         "sitelinks": 7,
         "globalusage": 13
       },
@@ -20659,8 +20723,8 @@
       "height": 10277,
       "tags": [],
       "popularity": {
-        "score": 281.2,
-        "pageviews_365d": 15816,
+        "score": 281.1,
+        "pageviews_365d": 15756,
         "sitelinks": 3,
         "globalusage": 12
       },
@@ -20732,8 +20796,8 @@
       "height": 4800,
       "tags": [],
       "popularity": {
-        "score": 266.9,
-        "pageviews_365d": 6188,
+        "score": 267,
+        "pageviews_365d": 6195,
         "sitelinks": 4,
         "globalusage": 25
       },
@@ -21229,10 +21293,10 @@
       "height": 3313,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Collection": "National Gallery of Norway"
@@ -21369,8 +21433,8 @@
       "height": 2393,
       "tags": [],
       "popularity": {
-        "score": 211.1,
-        "pageviews_365d": 987,
+        "score": 209.6,
+        "pageviews_365d": 930,
         "sitelinks": 1,
         "globalusage": 23
       },
@@ -21406,9 +21470,9 @@
       "tags": [],
       "popularity": {
         "score": 199.1,
-        "pageviews_365d": 379,
+        "pageviews_365d": 376,
         "sitelinks": 1,
-        "globalusage": 78
+        "globalusage": 79
       },
       "meta": {},
       "extras": {
@@ -21509,8 +21573,8 @@
       "height": 2792,
       "tags": [],
       "popularity": {
-        "score": 242.3,
-        "pageviews_365d": 2349,
+        "score": 242.4,
+        "pageviews_365d": 2353,
         "sitelinks": 4,
         "globalusage": 24
       },
@@ -21582,8 +21646,8 @@
       "height": 2360,
       "tags": [],
       "popularity": {
-        "score": 277.6,
-        "pageviews_365d": 10540,
+        "score": 276.1,
+        "pageviews_365d": 9898,
         "sitelinks": 3,
         "globalusage": 24
       },
@@ -21618,8 +21682,8 @@
       "height": 3537,
       "tags": [],
       "popularity": {
-        "score": 219.1,
-        "pageviews_365d": 1096,
+        "score": 219.5,
+        "pageviews_365d": 1114,
         "sitelinks": 1,
         "globalusage": 40
       },
@@ -21789,42 +21853,6 @@
       }
     },
     {
-      "id": "w-1029",
-      "title": "Three Fishing Boats",
-      "year": "1886",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Claude_Monet_-_Three_Fishing_Boats_-_Google_Art_Project.jpg/960px-Claude_Monet_-_Three_Fishing_Boats_-_Google_Art_Project.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Claude_Monet_-_Three_Fishing_Boats_-_Google_Art_Project.jpg",
-      "width": 5408,
-      "height": 4291,
-      "tags": [],
-      "popularity": {
-        "score": 27.7,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 15
-      },
-      "meta": {
-        "Collection": "Hungarian National Gallery"
-      },
-      "extras": {
-        "qid": "Q22205318",
-        "catalog_number": "1029",
-        "wildenstein": "1029",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 73,
-          "width_cm": 92.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/AwFK3bYzu9yMHw\">AwFK3bYzu9yMHw at Google Cultural Institute</a> maximum zoom level",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "w-1067",
       "title": "Tulip Field in Holland",
       "year": "1886",
@@ -21834,8 +21862,8 @@
       "height": 1200,
       "tags": [],
       "popularity": {
-        "score": 255.8,
-        "pageviews_365d": 5799,
+        "score": 255.5,
+        "pageviews_365d": 5739,
         "sitelinks": 4,
         "globalusage": 9
       },
@@ -22119,13 +22147,13 @@
       "height": 7455,
       "tags": [],
       "popularity": {
-        "score": 398.2,
-        "pageviews_365d": 276788,
+        "score": 398.7,
+        "pageviews_365d": 282664,
         "sitelinks": 23,
         "globalusage": 202
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q2395218",
@@ -22156,8 +22184,8 @@
       "height": 10810,
       "tags": [],
       "popularity": {
-        "score": 307.6,
-        "pageviews_365d": 33962,
+        "score": 307.9,
+        "pageviews_365d": 34268,
         "sitelinks": 8,
         "globalusage": 11
       },
@@ -22293,8 +22321,8 @@
       "height": 1772,
       "tags": [],
       "popularity": {
-        "score": 214.5,
-        "pageviews_365d": 1103,
+        "score": 213.6,
+        "pageviews_365d": 1064,
         "sitelinks": 2,
         "globalusage": 16
       },
@@ -22361,8 +22389,8 @@
       "height": 764,
       "tags": [],
       "popularity": {
-        "score": 256.3,
-        "pageviews_365d": 3771,
+        "score": 255.7,
+        "pageviews_365d": 3675,
         "sitelinks": 4,
         "globalusage": 30
       },
@@ -22543,8 +22571,8 @@
       "height": 798,
       "tags": [],
       "popularity": {
-        "score": 214.4,
-        "pageviews_365d": 1127,
+        "score": 215.1,
+        "pageviews_365d": 1158,
         "sitelinks": 3,
         "globalusage": 11
       },
@@ -22653,7 +22681,7 @@
       "tags": [],
       "popularity": {
         "score": 229.2,
-        "pageviews_365d": 1945,
+        "pageviews_365d": 1941,
         "sitelinks": 2,
         "globalusage": 17
       },
@@ -22688,8 +22716,8 @@
       "height": 4533,
       "tags": [],
       "popularity": {
-        "score": 222.9,
-        "pageviews_365d": 1394,
+        "score": 222.8,
+        "pageviews_365d": 1389,
         "sitelinks": 2,
         "globalusage": 21
       },
@@ -23323,8 +23351,8 @@
       "height": 2640,
       "tags": [],
       "popularity": {
-        "score": 244,
-        "pageviews_365d": 2595,
+        "score": 244.1,
+        "pageviews_365d": 2610,
         "sitelinks": 4,
         "globalusage": 22
       },
@@ -23510,7 +23538,7 @@
         "globalusage": 8
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q20189944",
@@ -23541,8 +23569,8 @@
       "height": 682,
       "tags": [],
       "popularity": {
-        "score": 172.2,
-        "pageviews_365d": 323,
+        "score": 172.3,
+        "pageviews_365d": 324,
         "sitelinks": 1,
         "globalusage": 7
       },
@@ -24037,8 +24065,8 @@
       "height": 829,
       "tags": [],
       "popularity": {
-        "score": 257.1,
-        "pageviews_365d": 3829,
+        "score": 257.5,
+        "pageviews_365d": 3889,
         "sitelinks": 6,
         "globalusage": 22
       },
@@ -24217,8 +24245,8 @@
       "height": 2081,
       "tags": [],
       "popularity": {
-        "score": 244.5,
-        "pageviews_365d": 3862,
+        "score": 245.5,
+        "pageviews_365d": 4009,
         "sitelinks": 4,
         "globalusage": 8
       },
@@ -24397,8 +24425,8 @@
       "height": 4025,
       "tags": [],
       "popularity": {
-        "score": 289.9,
-        "pageviews_365d": 9350,
+        "score": 289.2,
+        "pageviews_365d": 9091,
         "sitelinks": 10,
         "globalusage": 41
       },
@@ -24469,8 +24497,8 @@
       "height": 706,
       "tags": [],
       "popularity": {
-        "score": 273,
-        "pageviews_365d": 5942,
+        "score": 272.8,
+        "pageviews_365d": 5904,
         "sitelinks": 7,
         "globalusage": 32
       },
@@ -24723,8 +24751,8 @@
       "height": 3163,
       "tags": [],
       "popularity": {
-        "score": 267,
-        "pageviews_365d": 7036,
+        "score": 266.7,
+        "pageviews_365d": 6943,
         "sitelinks": 4,
         "globalusage": 18
       },
@@ -25021,8 +25049,8 @@
       "height": 1772,
       "tags": [],
       "popularity": {
-        "score": 191.4,
-        "pageviews_365d": 504,
+        "score": 193.1,
+        "pageviews_365d": 539,
         "sitelinks": 1,
         "globalusage": 17
       },
@@ -25738,10 +25766,10 @@
       "height": 5353,
       "tags": [],
       "popularity": {
-        "score": 203.6,
-        "pageviews_365d": 801,
+        "score": 204.3,
+        "pageviews_365d": 808,
         "sitelinks": 1,
-        "globalusage": 18
+        "globalusage": 19
       },
       "meta": {
         "Collection": "Philadelphia Museum of Art",
@@ -25885,8 +25913,8 @@
       "height": 3297,
       "tags": [],
       "popularity": {
-        "score": 228.1,
-        "pageviews_365d": 1456,
+        "score": 226.7,
+        "pageviews_365d": 1377,
         "sitelinks": 2,
         "globalusage": 32
       },
@@ -25922,8 +25950,8 @@
       "height": 4001,
       "tags": [],
       "popularity": {
-        "score": 238.4,
-        "pageviews_365d": 2641,
+        "score": 236.5,
+        "pageviews_365d": 2446,
         "sitelinks": 2,
         "globalusage": 20
       },
@@ -26137,9 +26165,7 @@
         "sitelinks": 0,
         "globalusage": 21
       },
-      "meta": {
-        "Collection": "Tel Aviv Museum of Art"
-      },
+      "meta": {},
       "extras": {
         "qid": "Q49469903",
         "catalog_number": "1303",
@@ -26202,10 +26228,10 @@
       "height": 5185,
       "tags": [],
       "popularity": {
-        "score": 37.8,
+        "score": 38.3,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 21
+        "globalusage": 22
       },
       "meta": {
         "Series": "poplars"
@@ -26554,7 +26580,7 @@
         "globalusage": 130
       },
       "meta": {
-        "Collection": "National Gallery of Art",
+        "Collection": "Q214867",
         "Series": "rouen"
       },
       "extras": {
@@ -26645,7 +26671,7 @@
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
           "usage_terms": "Creative Commons Zero, Public Domain Dedication",
-          "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png\" decoding=\"async\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=220716\">image number 220716</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
+          "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png\" decoding=\"async\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=220716\">image number 220716</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -27055,7 +27081,7 @@
         "globalusage": 13
       },
       "meta": {
-        "Collection": "National Gallery of Art",
+        "Collection": "Q214867",
         "Series": "rouen"
       },
       "extras": {
@@ -27268,8 +27294,8 @@
       "height": 2449,
       "tags": [],
       "popularity": {
-        "score": 199.2,
-        "pageviews_365d": 465,
+        "score": 198.7,
+        "pageviews_365d": 454,
         "sitelinks": 2,
         "globalusage": 31
       },
@@ -27703,8 +27729,8 @@
       "height": 10423,
       "tags": [],
       "popularity": {
-        "score": 126.9,
-        "pageviews_365d": 44,
+        "score": 129.6,
+        "pageviews_365d": 49,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -27740,8 +27766,8 @@
       "height": 10000,
       "tags": [],
       "popularity": {
-        "score": 163.7,
-        "pageviews_365d": 195,
+        "score": 163.3,
+        "pageviews_365d": 192,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -27814,8 +27840,8 @@
       "height": 371,
       "tags": [],
       "popularity": {
-        "score": 193.9,
-        "pageviews_365d": 614,
+        "score": 193.2,
+        "pageviews_365d": 599,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -27886,8 +27912,8 @@
       "height": 3557,
       "tags": [],
       "popularity": {
-        "score": 194.2,
-        "pageviews_365d": 540,
+        "score": 194.7,
+        "pageviews_365d": 551,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -28415,13 +28441,13 @@
       "height": 3448,
       "tags": [],
       "popularity": {
-        "score": 25.6,
+        "score": 24.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 12
+        "globalusage": 11
       },
       "meta": {
-        "Collection": "Latvian Museum of Foreign Art"
+        "Collection": "Art Museum Riga Bourse"
       },
       "extras": {
         "qid": "Q91473128",
@@ -28451,8 +28477,8 @@
       "height": 2369,
       "tags": [],
       "popularity": {
-        "score": 199.7,
-        "pageviews_365d": 605,
+        "score": 201.4,
+        "pageviews_365d": 648,
         "sitelinks": 1,
         "globalusage": 25
       },
@@ -28560,7 +28586,7 @@
       "tags": [],
       "popularity": {
         "score": 197.8,
-        "pageviews_365d": 601,
+        "pageviews_365d": 599,
         "sitelinks": 1,
         "globalusage": 21
       },
@@ -28595,8 +28621,8 @@
       "height": 4000,
       "tags": [],
       "popularity": {
-        "score": 164.1,
-        "pageviews_365d": 246,
+        "score": 163.7,
+        "pageviews_365d": 242,
         "sitelinks": 1,
         "globalusage": 6
       },
@@ -28667,8 +28693,8 @@
       "height": 635,
       "tags": [],
       "popularity": {
-        "score": 188,
-        "pageviews_365d": 579,
+        "score": 187.7,
+        "pageviews_365d": 573,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -28776,8 +28802,8 @@
       "height": 549,
       "tags": [],
       "popularity": {
-        "score": 217.2,
-        "pageviews_365d": 1586,
+        "score": 217.4,
+        "pageviews_365d": 1596,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -28994,8 +29020,8 @@
       "height": 3821,
       "tags": [],
       "popularity": {
-        "score": 174,
-        "pageviews_365d": 250,
+        "score": 172.5,
+        "pageviews_365d": 236,
         "sitelinks": 1,
         "globalusage": 17
       },
@@ -29318,8 +29344,8 @@
       "height": 731,
       "tags": [],
       "popularity": {
-        "score": 198.7,
-        "pageviews_365d": 767,
+        "score": 198.4,
+        "pageviews_365d": 758,
         "sitelinks": 1,
         "globalusage": 12
       },
@@ -29576,8 +29602,8 @@
       "height": 2012,
       "tags": [],
       "popularity": {
-        "score": 220.8,
-        "pageviews_365d": 1389,
+        "score": 220.6,
+        "pageviews_365d": 1376,
         "sitelinks": 2,
         "globalusage": 17
       },
@@ -29612,8 +29638,8 @@
       "height": 599,
       "tags": [],
       "popularity": {
-        "score": 202.9,
-        "pageviews_365d": 894,
+        "score": 202.1,
+        "pageviews_365d": 868,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -29797,7 +29823,7 @@
         "globalusage": 7
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q20190589",
@@ -29974,8 +30000,8 @@
       "height": 480,
       "tags": [],
       "popularity": {
-        "score": 248.3,
-        "pageviews_365d": 3491,
+        "score": 247.3,
+        "pageviews_365d": 3358,
         "sitelinks": 1,
         "globalusage": 41
       },
@@ -30232,13 +30258,13 @@
       "height": 3225,
       "tags": [],
       "popularity": {
-        "score": 264.9,
-        "pageviews_365d": 12595,
+        "score": 264.1,
+        "pageviews_365d": 12196,
         "sitelinks": 1,
         "globalusage": 8
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q12858617",
@@ -30342,8 +30368,8 @@
       "height": 4127,
       "tags": [],
       "popularity": {
-        "score": 208.2,
-        "pageviews_365d": 805,
+        "score": 208.6,
+        "pageviews_365d": 818,
         "sitelinks": 1,
         "globalusage": 29
       },
@@ -30379,10 +30405,10 @@
       "height": 1242,
       "tags": [],
       "popularity": {
-        "score": 312,
-        "pageviews_365d": 38153,
+        "score": 312.5,
+        "pageviews_365d": 37698,
         "sitelinks": 4,
-        "globalusage": 24
+        "globalusage": 26
       },
       "meta": {
         "Collection": "Musée d'Orsay",
@@ -30417,8 +30443,8 @@
       "height": 5821,
       "tags": [],
       "popularity": {
-        "score": 282.9,
-        "pageviews_365d": 16171,
+        "score": 282.8,
+        "pageviews_365d": 16143,
         "sitelinks": 1,
         "globalusage": 28
       },
@@ -30565,8 +30591,8 @@
       "height": 2372,
       "tags": [],
       "popularity": {
-        "score": 226,
-        "pageviews_365d": 1928,
+        "score": 225.6,
+        "pageviews_365d": 1896,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -30660,7 +30686,7 @@
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
           "usage_terms": "Creative Commons Zero, Public Domain Dedication",
-          "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png\" decoding=\"async\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=207385\">image number 207385</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
+          "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png\" decoding=\"async\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=207385\">image number 207385</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -30934,8 +30960,8 @@
       "height": 3231,
       "tags": [],
       "popularity": {
-        "score": 247.2,
-        "pageviews_365d": 3914,
+        "score": 247,
+        "pageviews_365d": 3875,
         "sitelinks": 2,
         "globalusage": 18
       },
@@ -31008,8 +31034,8 @@
       "height": 871,
       "tags": [],
       "popularity": {
-        "score": 349.8,
-        "pageviews_365d": 83805,
+        "score": 349.5,
+        "pageviews_365d": 82848,
         "sitelinks": 14,
         "globalusage": 50
       },
@@ -31331,10 +31357,10 @@
       "height": 501,
       "tags": [],
       "popularity": {
-        "score": 32.2,
+        "score": 32.6,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 24
+        "globalusage": 25
       },
       "meta": {
         "Collection": "Hugh Lane Gallery"
@@ -31404,8 +31430,8 @@
       "height": 3618,
       "tags": [],
       "popularity": {
-        "score": 221.8,
-        "pageviews_365d": 1387,
+        "score": 222.4,
+        "pageviews_365d": 1416,
         "sitelinks": 3,
         "globalusage": 14
       },
@@ -31861,10 +31887,10 @@
       "height": 774,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 6
       },
       "meta": {
         "Collection": "Kunsthaus Zürich"
@@ -32290,10 +32316,10 @@
       "height": 2389,
       "tags": [],
       "popularity": {
-        "score": 38.3,
+        "score": 38.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 45
+        "globalusage": 46
       },
       "meta": {
         "Series": "parliament"
@@ -32731,7 +32757,7 @@
         "globalusage": 11
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q20190882",
@@ -33050,10 +33076,10 @@
       "height": 662,
       "tags": [],
       "popularity": {
-        "score": 33,
+        "score": 33.3,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 26
+        "globalusage": 27
       },
       "meta": {
         "Collection": "Museum of Fine Arts, St. Petersburg, Florida, USA",
@@ -33083,8 +33109,8 @@
       "height": 1752,
       "tags": [],
       "popularity": {
-        "score": 181.9,
-        "pageviews_365d": 344,
+        "score": 180,
+        "pageviews_365d": 318,
         "sitelinks": 2,
         "globalusage": 11
       },
@@ -33120,10 +33146,10 @@
       "height": 1058,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 6
       },
       "meta": {
         "Collection": "Kunsthaus Zürich",
@@ -33343,7 +33369,7 @@
         "globalusage": 30
       },
       "meta": {
-        "Collection": "National Gallery of Art",
+        "Collection": "Q214867",
         "Series": "parliament"
       },
       "extras": {
@@ -33375,8 +33401,8 @@
       "height": 1604,
       "tags": [],
       "popularity": {
-        "score": 240.7,
-        "pageviews_365d": 2417,
+        "score": 239.9,
+        "pageviews_365d": 2343,
         "sitelinks": 2,
         "globalusage": 32
       },
@@ -33484,7 +33510,7 @@
         "globalusage": 16
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q20190902",
@@ -33521,7 +33547,7 @@
         "globalusage": 14
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q20190907",
@@ -33719,7 +33745,7 @@
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
           "usage_terms": "Creative Commons Zero, Public Domain Dedication",
-          "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png\" decoding=\"async\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=2648\">image number 2648</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
+          "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png\" decoding=\"async\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=2648\">image number 2648</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -33866,7 +33892,7 @@
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
           "usage_terms": "Creative Commons Zero, Public Domain Dedication",
-          "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png\" decoding=\"async\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=222851\">image number 222851</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
+          "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png\" decoding=\"async\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=222851\">image number 222851</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -34166,8 +34192,8 @@
       "height": 5001,
       "tags": [],
       "popularity": {
-        "score": 179.3,
-        "pageviews_365d": 252,
+        "score": 182.1,
+        "pageviews_365d": 282,
         "sitelinks": 1,
         "globalusage": 29
       },
@@ -34199,8 +34225,8 @@
       "height": 425,
       "tags": [],
       "popularity": {
-        "score": 197,
-        "pageviews_365d": 659,
+        "score": 197.7,
+        "pageviews_365d": 678,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -34631,8 +34657,8 @@
       "height": 10488,
       "tags": [],
       "popularity": {
-        "score": 198.9,
-        "pageviews_365d": 752,
+        "score": 200,
+        "pageviews_365d": 785,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -34737,8 +34763,8 @@
       "height": 1966,
       "tags": [],
       "popularity": {
-        "score": 176.1,
-        "pageviews_365d": 243,
+        "score": 180,
+        "pageviews_365d": 284,
         "sitelinks": 2,
         "globalusage": 15
       },
@@ -34807,8 +34833,8 @@
       "height": 1293,
       "tags": [],
       "popularity": {
-        "score": 174.6,
-        "pageviews_365d": 188,
+        "score": 182.4,
+        "pageviews_365d": 257,
         "sitelinks": 2,
         "globalusage": 25
       },
@@ -35084,7 +35110,7 @@
         "globalusage": 15
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q20191180",
@@ -35170,7 +35196,7 @@
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
           "usage_terms": "Creative Commons Zero, Public Domain Dedication",
-          "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png\" decoding=\"async\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=222942\">image number 222942</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
+          "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png\" decoding=\"async\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=222942\">image number 222942</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -35185,8 +35211,8 @@
       "height": 1758,
       "tags": [],
       "popularity": {
-        "score": 344.6,
-        "pageviews_365d": 70942,
+        "score": 344.1,
+        "pageviews_365d": 69495,
         "sitelinks": 12,
         "globalusage": 52
       },
@@ -35257,10 +35283,10 @@
       "height": 768,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 6
       },
       "meta": {
         "Collection": "Kunsthaus Zürich"
@@ -35293,8 +35319,8 @@
       "height": 2712,
       "tags": [],
       "popularity": {
-        "score": 293.1,
-        "pageviews_365d": 10810,
+        "score": 293.7,
+        "pageviews_365d": 11085,
         "sitelinks": 8,
         "globalusage": 48
       },
@@ -35365,10 +35391,10 @@
       "height": 1748,
       "tags": [],
       "popularity": {
-        "score": 310.7,
-        "pageviews_365d": 18380,
+        "score": 311,
+        "pageviews_365d": 18365,
         "sitelinks": 9,
-        "globalusage": 67
+        "globalusage": 69
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston"
@@ -35492,7 +35518,7 @@
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
           "usage_terms": "Creative Commons Zero, Public Domain Dedication",
-          "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png\" decoding=\"async\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=222918\">image number 222918</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
+          "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png\" decoding=\"async\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=222918\">image number 222918</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -35850,7 +35876,7 @@
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
           "usage_terms": "Creative Commons Zero, Public Domain Dedication",
-          "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png\" decoding=\"async\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=222850\">image number 222850</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
+          "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png\" decoding=\"async\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=222850\">image number 222850</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -36184,7 +36210,7 @@
       "tags": [],
       "popularity": {
         "score": 273.3,
-        "pageviews_365d": 7855,
+        "pageviews_365d": 7853,
         "sitelinks": 4,
         "globalusage": 26
       },
@@ -36618,8 +36644,8 @@
       "height": 8363,
       "tags": [],
       "popularity": {
-        "score": 191.8,
-        "pageviews_365d": 481,
+        "score": 192.1,
+        "pageviews_365d": 486,
         "sitelinks": 2,
         "globalusage": 13
       },
@@ -36764,7 +36790,7 @@
       "tags": [],
       "popularity": {
         "score": 249.7,
-        "pageviews_365d": 4145,
+        "pageviews_365d": 4152,
         "sitelinks": 2,
         "globalusage": 20
       },
@@ -37018,8 +37044,8 @@
       "height": 492,
       "tags": [],
       "popularity": {
-        "score": 214.4,
-        "pageviews_365d": 1309,
+        "score": 214,
+        "pageviews_365d": 1288,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -37061,7 +37087,7 @@
         "globalusage": 7
       },
       "meta": {
-        "Collection": "National Museum of Modern and Contemporary Art, South Korea",
+        "Collection": "Lee Kun-hee Collection",
         "Series": "nympheas"
       },
       "extras": {
@@ -37281,7 +37307,7 @@
         "globalusage": 8
       },
       "meta": {
-        "Collection": "Museum of Art and History Geneva",
+        "Collection": "Garengo Foundation",
         "Series": "nympheas"
       },
       "extras": {
@@ -37558,6 +37584,43 @@
       }
     },
     {
+      "id": "w-1972-1973-1974",
+      "title": "Water Lilies",
+      "year": "1918",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/WLA_moma_Monet_Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg/960px-WLA_moma_Monet_Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/99/WLA_moma_Monet_Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg",
+      "width": 4273,
+      "height": 817,
+      "tags": [],
+      "popularity": {
+        "score": 221.6,
+        "pageviews_365d": 1633,
+        "sitelinks": 2,
+        "globalusage": 12
+      },
+      "meta": {
+        "Collection": "Museum of Modern Art",
+        "Series": "nympheas"
+      },
+      "extras": {
+        "qid": "Q3877090",
+        "catalog_number": "1972-1973-1974",
+        "wildenstein": "1972-1973-1974",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 200,
+          "width_cm": 1276
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "Uploaded from the <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/groups/wikipedia_loves_art/pool/\">Wikipedia Loves Art photo pool</a> on Flickr",
+          "artist": "Wikipedia Loves Art participant \"<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/groups/wikipedia_loves_art/pool/tags/Stephen_Sandoval/\">Stephen_Sandoval</a>\""
+        }
+      }
+    },
+    {
       "id": "w-1860",
       "title": "Water Lilies, Reflections of Weeping Willows",
       "year": "1918",
@@ -37640,8 +37703,8 @@
       "height": 1221,
       "tags": [],
       "popularity": {
-        "score": 295.1,
-        "pageviews_365d": 13493,
+        "score": 257.1,
+        "pageviews_365d": 2955,
         "sitelinks": 6,
         "globalusage": 43
       },
@@ -37712,8 +37775,8 @@
       "height": 2991,
       "tags": [],
       "popularity": {
-        "score": 204.7,
-        "pageviews_365d": 648,
+        "score": 205,
+        "pageviews_365d": 658,
         "sitelinks": 1,
         "globalusage": 35
       },
@@ -37938,8 +38001,8 @@
       "height": 619,
       "tags": [],
       "popularity": {
-        "score": 318.5,
-        "pageviews_365d": 28917,
+        "score": 317.9,
+        "pageviews_365d": 28316,
         "sitelinks": 6,
         "globalusage": 67
       },
@@ -38072,43 +38135,6 @@
           "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://sammlungonline.kunstmuseumbasel.ch/eMuseumPlus?service=direct/1/ResultDetailView/result.inline.list.t1.collection_list.%24TspTitleImageLink.link&amp;sp=13&amp;sp=Sartist&amp;sp=SfilterDefinition&amp;sp=0&amp;sp=2&amp;sp=1&amp;sp=SdetailView&amp;sp=17&amp;sp=Sdetail&amp;sp=0&amp;sp=T&amp;sp=0&amp;sp=SdetailList&amp;sp=0&amp;sp=F&amp;sp=Scollection&amp;sp=l1482\">http://sammlungonline.kunstmuseumbasel.ch/eMuseumPlus?service=direct/1/ResultDetailView/result.inline.list.t1.collection_list.$TspTitleImageLink.link&amp;sp=13&amp;sp=Sartist&amp;sp=SfilterDefinition&amp;sp=0&amp;sp=2&amp;sp=1&amp;sp=SdetailView&amp;sp=17&amp;sp=Sdetail&amp;sp=0&amp;sp=T&amp;sp=0&amp;sp=SdetailList&amp;sp=0&amp;sp=F&amp;sp=Scollection&amp;sp=l1482</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "w-1972-1973-1974",
-      "title": "Water Lilies",
-      "year": "1920",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/WLA_moma_Monet_Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg/960px-WLA_moma_Monet_Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/9/99/WLA_moma_Monet_Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg",
-      "width": 4273,
-      "height": 817,
-      "tags": [],
-      "popularity": {
-        "score": 222,
-        "pageviews_365d": 1660,
-        "sitelinks": 2,
-        "globalusage": 12
-      },
-      "meta": {
-        "Collection": "Museum of Modern Art",
-        "Series": "nympheas"
-      },
-      "extras": {
-        "qid": "Q3877090",
-        "catalog_number": "1972-1973-1974",
-        "wildenstein": "1972-1973-1974",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 200,
-          "width_cm": 1276
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "Uploaded from the <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/groups/wikipedia_loves_art/pool/\">Wikipedia Loves Art photo pool</a> on Flickr",
-          "artist": "Wikipedia Loves Art participant \"<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/groups/wikipedia_loves_art/pool/tags/Stephen_Sandoval/\">Stephen_Sandoval</a>\""
         }
       }
     },
@@ -38518,10 +38544,10 @@
       "height": 5269,
       "tags": [],
       "popularity": {
-        "score": 42.2,
+        "score": 41.9,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 33
+        "globalusage": 32
       },
       "meta": {
         "Collection": "Toledo Museum of Art",
@@ -39196,7 +39222,7 @@
         "globalusage": 30
       },
       "meta": {
-        "Collection": "Munich Central Collecting Point"
+        "Collection": "Musées Nationaux Récupération"
       },
       "extras": {
         "qid": "Q17491735",
@@ -39311,7 +39337,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.li/sNQvL\">https://archive.li/sNQvL</a>",
+          "credit": "<a rel=\"nofollow noreferrer noopener\" class=\"external free\" href=\"https://archive.li/sNQvL\">https://archive.li/sNQvL</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -39456,10 +39482,10 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 47.4,
+        "score": 47.2,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 113
+        "globalusage": 111
       },
       "meta": {},
       "extras": {
@@ -39548,10 +39574,10 @@
       "height": 723,
       "tags": [],
       "popularity": {
-        "score": 195.4,
-        "pageviews_365d": 780,
+        "score": 197.4,
+        "pageviews_365d": 795,
         "sitelinks": 2,
-        "globalusage": 5
+        "globalusage": 6
       },
       "meta": {
         "Collection": "Kunsthaus Zürich",
@@ -39585,10 +39611,10 @@
       "height": 895,
       "tags": [],
       "popularity": {
-        "score": 36.9,
+        "score": 37.4,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 19
+        "globalusage": 20
       },
       "meta": {
         "Collection": "Museum of Modern Art, Saitama",
@@ -39695,8 +39721,8 @@
       "height": 8034,
       "tags": [],
       "popularity": {
-        "score": 264.3,
-        "pageviews_365d": 6862,
+        "score": 264,
+        "pageviews_365d": 6785,
         "sitelinks": 6,
         "globalusage": 10
       },
@@ -39837,13 +39863,13 @@
       "height": 5936,
       "tags": [],
       "popularity": {
-        "score": 255.6,
-        "pageviews_365d": 3718,
+        "score": 255.8,
+        "pageviews_365d": 3745,
         "sitelinks": 4,
         "globalusage": 29
       },
       "meta": {
-        "Collection": "National Gallery of Art"
+        "Collection": "Q214867"
       },
       "extras": {
         "qid": "Q20188707",
@@ -39874,8 +39900,8 @@
       "height": 800,
       "tags": [],
       "popularity": {
-        "score": 221,
-        "pageviews_365d": 1681,
+        "score": 220.6,
+        "pageviews_365d": 1656,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -39978,10 +40004,10 @@
       "height": 1932,
       "tags": [],
       "popularity": {
-        "score": 27.7,
+        "score": 28.3,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 15
+        "globalusage": 16
       },
       "meta": {
         "Collection": "Harvard Art Museums"
@@ -40346,10 +40372,10 @@
       "height": 395,
       "tags": [],
       "popularity": {
-        "score": 26.4,
+        "score": 27.7,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Kunsthaus Zürich",
@@ -40420,8 +40446,8 @@
       "height": 2002,
       "tags": [],
       "popularity": {
-        "score": 220.9,
-        "pageviews_365d": 1424,
+        "score": 221.5,
+        "pageviews_365d": 1460,
         "sitelinks": 2,
         "globalusage": 16
       },
@@ -40463,7 +40489,7 @@
         "globalusage": 5
       },
       "meta": {
-        "Collection": "Auckland Art Gallery Toi o Tāmaki"
+        "Collection": "Auckland Art Gallery"
       },
       "extras": {
         "qid": "Q27883272",
@@ -40556,8 +40582,8 @@
       "height": 998,
       "tags": [],
       "popularity": {
-        "score": 220.9,
-        "pageviews_365d": 1675,
+        "score": 220.4,
+        "pageviews_365d": 1642,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -40689,10 +40715,10 @@
       "height": 1200,
       "tags": [],
       "popularity": {
-        "score": 26.4,
+        "score": 28.9,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 6
+        "globalusage": 8
       },
       "meta": {
         "Collection": "Kunsthaus Zürich"
@@ -40725,10 +40751,10 @@
       "height": 2020,
       "tags": [],
       "popularity": {
-        "score": 27.1,
+        "score": 27.7,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 14
+        "globalusage": 15
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -40762,10 +40788,10 @@
       "height": 1200,
       "tags": [],
       "popularity": {
-        "score": 212.1,
-        "pageviews_365d": 1082,
+        "score": 212.6,
+        "pageviews_365d": 1139,
         "sitelinks": 2,
-        "globalusage": 13
+        "globalusage": 12
       },
       "meta": {
         "Collection": "Department of Paintings of the Louvre"
@@ -40968,8 +40994,8 @@
       "height": 1868,
       "tags": [],
       "popularity": {
-        "score": 216,
-        "pageviews_365d": 832,
+        "score": 214.9,
+        "pageviews_365d": 797,
         "sitelinks": 2,
         "globalusage": 39
       },
@@ -41363,8 +41389,8 @@
       "height": 803,
       "tags": [],
       "popularity": {
-        "score": 222.7,
-        "pageviews_365d": 1408,
+        "score": 222.6,
+        "pageviews_365d": 1403,
         "sitelinks": 2,
         "globalusage": 20
       },
@@ -41400,8 +41426,8 @@
       "height": 1345,
       "tags": [],
       "popularity": {
-        "score": 236.4,
-        "pageviews_365d": 2553,
+        "score": 236.3,
+        "pageviews_365d": 2544,
         "sitelinks": 1,
         "globalusage": 27
       },
@@ -41464,13 +41490,13 @@
       "height": 921,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 7
       },
       "meta": {
-        "Collection": "Foundation E.G. Bührle Collection"
+        "Collection": "Kunsthaus Zürich"
       },
       "extras": {
         "qid": "Q64174101",
@@ -41703,8 +41729,8 @@
       "height": 3408,
       "tags": [],
       "popularity": {
-        "score": 259.4,
-        "pageviews_365d": 7409,
+        "score": 259.6,
+        "pageviews_365d": 7470,
         "sitelinks": 2,
         "globalusage": 12
       },
@@ -41739,10 +41765,10 @@
       "height": 3893,
       "tags": [],
       "popularity": {
-        "score": 228.9,
-        "pageviews_365d": 1173,
+        "score": 231.5,
+        "pageviews_365d": 1290,
         "sitelinks": 4,
-        "globalusage": 36
+        "globalusage": 37
       },
       "meta": {
         "Collection": "Städel Museum"
@@ -41811,10 +41837,10 @@
       "height": 14500,
       "tags": [],
       "popularity": {
-        "score": 299.9,
-        "pageviews_365d": 12716,
+        "score": 300.6,
+        "pageviews_365d": 12987,
         "sitelinks": 9,
-        "globalusage": 57
+        "globalusage": 58
       },
       "meta": {
         "Collection": "Cleveland Museum of Art"
@@ -42249,7 +42275,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "Google Arts &amp; Culture:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.googleartproject.com/\">Home</a> - <a rel=\"nofollow\" class=\"external text\" href=\"https://artsandculture.google.com/asset/8wEdI9HpdIuC7g\">pic</a>",
+          "credit": "Google Arts &amp; Culture:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.googleartproject.com/\">Home page</a> - <a rel=\"nofollow\" class=\"external text\" href=\"https://artsandculture.google.com/asset/8wEdI9HpdIuC7g\">Image</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -42510,10 +42536,10 @@
       "height": 401,
       "tags": [],
       "popularity": {
-        "score": 39.7,
+        "score": 39.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 52
+        "globalusage": 53
       },
       "meta": {
         "Collection": "Musée Marmottan Monet",
@@ -42758,10 +42784,10 @@
       "height": 1173,
       "tags": [],
       "popularity": {
-        "score": 35.8,
+        "score": 36.4,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 17
+        "globalusage": 18
       },
       "meta": {
         "Collection": "Carnegie Museum of Art",
@@ -42904,8 +42930,8 @@
       "height": 3577,
       "tags": [],
       "popularity": {
-        "score": 197.6,
-        "pageviews_365d": 400,
+        "score": 195.7,
+        "pageviews_365d": 371,
         "sitelinks": 1,
         "globalusage": 58
       },
@@ -43120,10 +43146,10 @@
       "height": 558,
       "tags": [],
       "popularity": {
-        "score": 24.8,
+        "score": 27.7,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 5
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Kunsthaus Zürich",
@@ -43215,10 +43241,10 @@
       "height": 769,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Kunsthaus Zürich"
@@ -43251,8 +43277,8 @@
       "height": 2118,
       "tags": [],
       "popularity": {
-        "score": 218.6,
-        "pageviews_365d": 832,
+        "score": 218.9,
+        "pageviews_365d": 845,
         "sitelinks": 4,
         "globalusage": 30
       },
@@ -68230,7 +68256,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-06-04T06:16:45.727Z",
+    "generated": "2026-07-01T09:45:43.754Z",
     "artist": {
       "qid": "Q296",
       "name": "Claude Monet",
@@ -68241,6 +68267,6 @@
       "label": "paintings",
       "manifestKey": "paintings"
     },
-    "count": 2075
+    "count": 2076
   }
 }
