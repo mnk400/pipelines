@@ -906,11 +906,19 @@
     },
     {
       "month": "2026-06",
+      "newArtists": 8,
+      "totalArtists": 129,
+      "totalPlays": 606,
+      "newPct": 6.2,
+      "cumulativeArtists": 4515
+    },
+    {
+      "month": "2026-07",
       "newArtists": 0,
-      "totalArtists": 8,
-      "totalPlays": 28,
+      "totalArtists": 5,
+      "totalPlays": 14,
       "newPct": 0,
-      "cumulativeArtists": 4507
+      "cumulativeArtists": 4515
     }
   ],
   "quarterly": [
@@ -1236,16 +1244,24 @@
     },
     {
       "quarter": "2026-Q2",
-      "newArtists": 9,
-      "totalArtists": 206,
-      "totalPlays": 1505,
-      "newPct": 4.4,
-      "cumulativeArtists": 4507
+      "newArtists": 17,
+      "totalArtists": 251,
+      "totalPlays": 2083,
+      "newPct": 6.8,
+      "cumulativeArtists": 4515
+    },
+    {
+      "quarter": "2026-Q3",
+      "newArtists": 0,
+      "totalArtists": 5,
+      "totalPlays": 14,
+      "newPct": 0,
+      "cumulativeArtists": 4515
     }
   ],
   "meta": {
-    "totalUniqueArtists": 4507,
+    "totalUniqueArtists": 4515,
     "firstMonth": "2016-03",
-    "lastMonth": "2026-06"
+    "lastMonth": "2026-07"
   }
 }
