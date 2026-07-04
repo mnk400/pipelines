@@ -18,15 +18,33 @@ import { loadCache, saveCache } from "./cache.js";
 // ── Step 1: Weekly chart list ──────────────────────────────────────
 async function fetchChartList() {
   const cached = loadCache("weekly-chart-list");
-  if (cached) {
-    console.log(`  Chart list cached (${cached.length} weeks)`);
-    return cached;
+
+  try {
+    console.log(
+      cached
+        ? `  Refreshing chart list (${cached.length} cached weeks)…`
+        : "  Fetching weekly chart list…",
+    );
+    const latest = await getWeeklyChartList();
+    const merged = [...(cached || []), ...latest];
+    const byRange = new Map(merged.map((week) => [`${week.from}-${week.to}`, week]));
+    const charts = [...byRange.values()].sort(
+      (a, b) => parseInt(a.from, 10) - parseInt(b.from, 10),
+    );
+
+    saveCache("weekly-chart-list", charts);
+    console.log(
+      `  Got ${charts.length} weeks (${latest.length} from API, ${charts.length - (cached?.length || 0)} new)`,
+    );
+    return charts;
+  } catch (e) {
+    if (cached) {
+      console.warn(`  Warning: chart list refresh failed: ${e.message}`);
+      console.warn(`  Using cached chart list (${cached.length} weeks)`);
+      return cached;
+    }
+    throw e;
   }
-  console.log("  Fetching weekly chart list…");
-  const charts = await getWeeklyChartList();
-  saveCache("weekly-chart-list", charts);
-  console.log(`  Got ${charts.length} weeks`);
-  return charts;
 }
 
 // ── Step 2: Weekly artist charts ───────────────────────────────────

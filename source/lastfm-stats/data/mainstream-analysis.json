@@ -2742,17 +2742,17 @@
     },
     {
       "month": "2026-02",
-      "totalPlays": 325,
+      "totalPlays": 525,
       "medianListeners": 1032050,
-      "p25Listeners": 361968,
-      "p75Listeners": 1617002,
+      "p25Listeners": 359880,
+      "p75Listeners": 1712617,
       "obscurityScore": 49.3,
       "tierPct": {
-        "obscure": 4.92,
-        "niche": 26.15,
-        "mid": 46.77,
-        "popular": 16.62,
-        "mainstream": 5.54
+        "obscure": 4.76,
+        "niche": 31.05,
+        "mid": 41.33,
+        "popular": 19.24,
+        "mainstream": 3.62
       },
       "mostObscure": {
         "name": "Peter, Paul & Mary",
@@ -2763,6 +2763,106 @@
         "name": "Radiohead",
         "listeners": 8130713,
         "plays": 4
+      }
+    },
+    {
+      "month": "2026-03",
+      "totalPlays": 771,
+      "medianListeners": 1270636,
+      "p25Listeners": 444748,
+      "p75Listeners": 2917664,
+      "obscurityScore": 44.8,
+      "tierPct": {
+        "obscure": 3.89,
+        "niche": 24.77,
+        "mid": 43.45,
+        "popular": 20.88,
+        "mainstream": 7
+      },
+      "mostObscure": {
+        "name": "Damon & Naomi",
+        "listeners": 57018,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2026-04",
+      "totalPlays": 669,
+      "medianListeners": 736188,
+      "p25Listeners": 244484,
+      "p75Listeners": 1571982,
+      "obscurityScore": 56.7,
+      "tierPct": {
+        "obscure": 1.64,
+        "niche": 46.04,
+        "mid": 34.68,
+        "popular": 12.71,
+        "mainstream": 4.93
+      },
+      "mostObscure": {
+        "name": "Gouge Away",
+        "listeners": 110549,
+        "plays": 53
+      },
+      "mostMainstream": {
+        "name": "Arctic Monkeys",
+        "listeners": 6999675,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2026-05",
+      "totalPlays": 910,
+      "medianListeners": 1032050,
+      "p25Listeners": 320141,
+      "p75Listeners": 1947824,
+      "obscurityScore": 49.3,
+      "tierPct": {
+        "obscure": 10,
+        "niche": 23.52,
+        "mid": 42.2,
+        "popular": 21.98,
+        "mainstream": 2.31
+      },
+      "mostObscure": {
+        "name": "Clipse, Pharrell Williams, Pusha T & Malice",
+        "listeners": 9706,
+        "plays": 3
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
+      }
+    },
+    {
+      "month": "2026-06",
+      "totalPlays": 377,
+      "medianListeners": 1617002,
+      "p25Listeners": 899525,
+      "p75Listeners": 3168369,
+      "obscurityScore": 39.6,
+      "tierPct": {
+        "obscure": 7.43,
+        "niche": 10.34,
+        "mid": 38.99,
+        "popular": 35.81,
+        "mainstream": 7.43
+      },
+      "mostObscure": {
+        "name": "Hello Mary",
+        "listeners": 70577,
+        "plays": 20
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 3
       }
     }
   ],
@@ -3237,22 +3337,35 @@
     },
     {
       "month": "2026-01",
-      "totalPlays": 1073,
-      "obscurityScore": 46.1,
-      "medianListeners": 1211540,
+      "totalPlays": 2044,
+      "obscurityScore": 45.6,
+      "medianListeners": 1231239,
       "tierPct": {
-        "obscure": 4.67,
-        "niche": 24.71,
-        "mid": 44.31,
-        "popular": 19.68,
-        "mainstream": 6.65
+        "obscure": 4.35,
+        "niche": 26.36,
+        "mid": 42.21,
+        "popular": 20.95,
+        "mainstream": 6.12
+      }
+    },
+    {
+      "month": "2026-04",
+      "totalPlays": 1956,
+      "obscurityScore": 48.5,
+      "medianListeners": 1128413,
+      "tierPct": {
+        "obscure": 6.36,
+        "niche": 26.63,
+        "mid": 38.62,
+        "popular": 23.5,
+        "mainstream": 4.89
       }
     }
   ],
   "meta": {
-    "totalArtists": 4461,
+    "totalArtists": 4500,
     "firstMonth": "2016-03",
-    "lastMonth": "2026-02",
-    "overallMedianListeners": 1565854
+    "lastMonth": "2026-06",
+    "overallMedianListeners": 1551753
   }
 }

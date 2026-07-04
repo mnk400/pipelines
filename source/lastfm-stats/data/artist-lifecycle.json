@@ -2674,7 +2674,7 @@
   "constants": [
     {
       "artist": "Radiohead",
-      "totalPlays": 2653,
+      "totalPlays": 2654,
       "peakQuarter": "2019-Q2",
       "peakPlays": 316,
       "firstQuarter": "2016-Q1",
@@ -2846,7 +2846,7 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 1
+          "plays": 2
         }
       ]
     },
@@ -3386,11 +3386,11 @@
     },
     {
       "artist": "Mac DeMarco",
-      "totalPlays": 976,
+      "totalPlays": 977,
       "peakQuarter": "2023-Q1",
       "peakPlays": 156,
       "firstQuarter": "2018-Q4",
-      "lastActiveQuarter": "2026-Q2",
+      "lastActiveQuarter": "2026-Q3",
       "timeline": [
         {
           "quarter": "2016-Q1",
@@ -3558,7 +3558,7 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 0
+          "plays": 1
         }
       ]
     },

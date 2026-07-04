@@ -915,8 +915,8 @@
     {
       "month": "2026-07",
       "newArtists": 0,
-      "totalArtists": 5,
-      "totalPlays": 14,
+      "totalArtists": 9,
+      "totalPlays": 31,
       "newPct": 0,
       "cumulativeArtists": 4515
     }
@@ -1253,8 +1253,8 @@
     {
       "quarter": "2026-Q3",
       "newArtists": 0,
-      "totalArtists": 5,
-      "totalPlays": 14,
+      "totalArtists": 9,
+      "totalPlays": 31,
       "newPct": 0,
       "cumulativeArtists": 4515
     }

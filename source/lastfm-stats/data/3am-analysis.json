@@ -1,8 +1,16 @@
 {
   "nightOwlArtists": [
     {
+      "artist": "Thelonious Monk",
+      "score": 5.836298147603647,
+      "nightCount": 20,
+      "overallCount": 20,
+      "nightPct": "0.15",
+      "overallPct": "0.03"
+    },
+    {
       "artist": "Shye Ben-Tzur, Jonny Greenwood & The Rajasthan Express",
-      "score": 5.8350485151426055,
+      "score": 5.836298147603646,
       "nightCount": 13,
       "overallCount": 13,
       "nightPct": "0.10",
@@ -10,7 +18,7 @@
     },
     {
       "artist": "Sofiane Pamart",
-      "score": 5.8350485151426055,
+      "score": 5.836298147603646,
       "nightCount": 12,
       "overallCount": 12,
       "nightPct": "0.09",
@@ -18,23 +26,15 @@
     },
     {
       "artist": "Ludovico Einaudi",
-      "score": 5.8350485151426055,
+      "score": 5.836298147603646,
       "nightCount": 15,
       "overallCount": 15,
       "nightPct": "0.11",
       "overallPct": "0.02"
     },
     {
-      "artist": "Thelonious Monk",
-      "score": 5.835048515142605,
-      "nightCount": 20,
-      "overallCount": 20,
-      "nightPct": "0.15",
-      "overallPct": "0.03"
-    },
-    {
       "artist": "Teen Suicide & American Pleasure Club",
-      "score": 5.835048515142605,
+      "score": 5.836298147603646,
       "nightCount": 11,
       "overallCount": 11,
       "nightPct": "0.08",
@@ -42,7 +42,7 @@
     },
     {
       "artist": "Stephan Moccio",
-      "score": 5.59192149367833,
+      "score": 5.593119058120161,
       "nightCount": 23,
       "overallCount": 24,
       "nightPct": "0.17",
@@ -50,7 +50,7 @@
     },
     {
       "artist": "Kenny Segal & Milo",
-      "score": 5.557189062040576,
+      "score": 5.558379188193949,
       "nightCount": 20,
       "overallCount": 21,
       "nightPct": "0.15",
@@ -58,7 +58,7 @@
     },
     {
       "artist": "Big Sean",
-      "score": 5.49181036719304,
+      "score": 5.492986491862254,
       "nightCount": 16,
       "overallCount": 17,
       "nightPct": "0.12",
@@ -66,7 +66,7 @@
     },
     {
       "artist": "Alexis Ffrench",
-      "score": 5.386198629362405,
+      "score": 5.38735213624952,
       "nightCount": 12,
       "overallCount": 13,
       "nightPct": "0.09",
@@ -74,7 +74,7 @@
     },
     {
       "artist": "Olivia Belli",
-      "score": 5.386198629362405,
+      "score": 5.38735213624952,
       "nightCount": 12,
       "overallCount": 13,
       "nightPct": "0.09",
@@ -82,7 +82,7 @@
     },
     {
       "artist": "Swet Shop Boys",
-      "score": 5.348794472214054,
+      "score": 5.349939968636676,
       "nightCount": 11,
       "overallCount": 12,
       "nightPct": "0.08",
@@ -90,7 +90,7 @@
     },
     {
       "artist": "Víkingur Ólafsson",
-      "score": 5.348794472214054,
+      "score": 5.349939968636676,
       "nightCount": 22,
       "overallCount": 24,
       "nightPct": "0.16",
@@ -98,7 +98,7 @@
     },
     {
       "artist": "RIOPY",
-      "score": 5.348794472214054,
+      "score": 5.349939968636676,
       "nightCount": 11,
       "overallCount": 12,
       "nightPct": "0.08",
@@ -106,7 +106,7 @@
     },
     {
       "artist": "Matteo Myderwyk",
-      "score": 5.348794472214054,
+      "score": 5.349939968636676,
       "nightCount": 11,
       "overallCount": 12,
       "nightPct": "0.08",
@@ -114,7 +114,7 @@
     },
     {
       "artist": "Dirk Maassen",
-      "score": 5.251543663628344,
+      "score": 5.252668332843282,
       "nightCount": 18,
       "overallCount": 20,
       "nightPct": "0.13",
@@ -122,7 +122,7 @@
     },
     {
       "artist": "Andreas Ihlebæk",
-      "score": 5.140399882387532,
+      "score": 5.141500749079403,
       "nightCount": 37,
       "overallCount": 42,
       "nightPct": "0.27",
@@ -130,7 +130,7 @@
     },
     {
       "artist": "Joy Division",
-      "score": 5.127769907246532,
+      "score": 5.128868069106234,
       "nightCount": 29,
       "overallCount": 33,
       "nightPct": "0.21",
@@ -138,7 +138,7 @@
     },
     {
       "artist": "Khatia Buniatishvili",
-      "score": 5.001470155836518,
+      "score": 5.002541269374554,
       "nightCount": 12,
       "overallCount": 14,
       "nightPct": "0.09",
@@ -146,7 +146,7 @@
     },
     {
       "artist": "Keane Wang",
-      "score": 5.001470155836518,
+      "score": 5.002541269374554,
       "nightCount": 12,
       "overallCount": 14,
       "nightPct": "0.09",
@@ -154,7 +154,7 @@
     },
     {
       "artist": "Massive Attack",
-      "score": 4.937348743582205,
+      "score": 4.938406124895392,
       "nightCount": 11,
       "overallCount": 13,
       "nightPct": "0.08",
@@ -247,7 +247,7 @@
       },
       {
         "artist": "Mac DeMarco",
-        "count": 162
+        "count": 163
       },
       {
         "artist": "Elliott Smith",
@@ -355,7 +355,7 @@
       },
       {
         "artist": "Radiohead",
-        "count": 285
+        "count": 286
       },
       {
         "artist": "The Strokes",
@@ -869,7 +869,7 @@
     {
       "hour": 8,
       "label": "8AM",
-      "totalPlays": 2375,
+      "totalPlays": 2380,
       "topArtists": [
         {
           "artist": "Wilco",
@@ -918,7 +918,7 @@
     {
       "hour": 9,
       "label": "9AM",
-      "totalPlays": 3213,
+      "totalPlays": 3216,
       "topArtists": [
         {
           "artist": "Wilco",
@@ -1310,7 +1310,7 @@
     {
       "hour": 17,
       "label": "5PM",
-      "totalPlays": 3763,
+      "totalPlays": 3772,
       "topArtists": [
         {
           "artist": "Wilco",
@@ -1661,7 +1661,7 @@
     "Sat": 2135
   },
   "meta": {
-    "totalScrobbles": 79380,
+    "totalScrobbles": 79397,
     "lateNightScrobbles": 13604,
     "lateNightPct": "17.1"
   }
