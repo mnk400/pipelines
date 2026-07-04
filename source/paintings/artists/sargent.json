@@ -1,0 +1,54 @@
+{
+  "artist": {
+    "qid": "Q155626",
+    "name": "John Singer Sargent",
+    "slug": "sargent"
+  },
+  "work": {
+    "qid": "Q3305213",
+    "label": "paintings",
+    "manifestKey": "paintings"
+  },
+  "commonsCategory": {
+    "title": "Category:Paintings by John Singer Sargent",
+    "sourceName": "commons-category",
+    "titleStripPatterns": [
+      "^John Singer Sargent\\s*-\\s*",
+      "^Sargent\\s*-\\s*",
+      "\\s+by John Singer Sargent.*$",
+      "\\s+-\\s+Google Art Project$",
+      "\\s+\\([0-9]{8,}\\)$",
+      "\\s+-\\s+[0-9]{4}$"
+    ],
+    "excludeFilePatterns": [
+      "signature",
+      "signatures"
+    ]
+  },
+  "seriesRules": [
+    {
+      "name": "portrait",
+      "pattern": "\\b(portrait|mrs\\.?|madame|lady|miss|sir|dr\\.?)\\b"
+    },
+    {
+      "name": "venice",
+      "pattern": "\\b(venice|venetian|gondola|rialto)\\b"
+    },
+    {
+      "name": "spain",
+      "pattern": "\\b(spain|spanish|seville|granada|flamenco|el jaleo)\\b"
+    },
+    {
+      "name": "italy",
+      "pattern": "\\b(italy|italian|capri|florence|florentine|rome|roman)\\b"
+    },
+    {
+      "name": "garden",
+      "pattern": "\\b(garden|carnation|lily|lilies|rose|roses)\\b"
+    },
+    {
+      "name": "alps",
+      "pattern": "\\b(alps|alpine|simplon|tyrol)\\b"
+    }
+  ]
+}
