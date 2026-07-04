@@ -701,8 +701,8 @@
       "height": 1453,
       "tags": [],
       "popularity": {
-        "score": 40.4,
-        "pageviews_365d": 0,
+        "score": 186.4,
+        "pageviews_365d": 342,
         "sitelinks": 2,
         "globalusage": 18
       },
@@ -1806,6 +1806,37 @@
       }
     },
     {
+      "id": "wd-Q49255322",
+      "title": "A Moroccan Street Scene",
+      "year": "1880",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/John_Singer_Sargent_-_A_Moroccan_Street_Scene_-_1966.79.13_-_Yale_University_Art_Gallery.jpg/960px-John_Singer_Sargent_-_A_Moroccan_Street_Scene_-_1966.79.13_-_Yale_University_Art_Gallery.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c8/John_Singer_Sargent_-_A_Moroccan_Street_Scene_-_1966.79.13_-_Yale_University_Art_Gallery.jpg",
+      "width": 1501,
+      "height": 1920,
+      "tags": [],
+      "popularity": {
+        "score": 17.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 5
+      },
+      "meta": {
+        "Collection": "Yale University Art Gallery"
+      },
+      "extras": {
+        "qid": "Q49255322",
+        "source": "wikidata",
+        "iiif": "http://nationalmuseumse.iiifhosting.com/iiif/91ce5aa5c2761bd97ebc467220ef9a5928f3802e71b6f8fd4bccf4aee7c093c1//manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://artgallery.yale.edu/collections/objects/8888\">https://artgallery.yale.edu/collections/objects/8888</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_Singer_Sargent\" class=\"extiw\" title=\"w:en:John Singer Sargent\"><span title=\"American painter (1856–1925)\">John Singer Sargent</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q106849943",
       "title": "A Venetian Woman in a Scarlet Shawl (\"Gigia Viani\")",
       "year": "1880",
@@ -2494,8 +2525,8 @@
       "height": 3453,
       "tags": [],
       "popularity": {
-        "score": 43.2,
-        "pageviews_365d": 0,
+        "score": 229.7,
+        "pageviews_365d": 1738,
         "sitelinks": 2,
         "globalusage": 24
       },
@@ -2696,8 +2727,8 @@
       "height": 2515,
       "tags": [],
       "popularity": {
-        "score": 287,
-        "pageviews_365d": 12930,
+        "score": 289.4,
+        "pageviews_365d": 14256,
         "sitelinks": 8,
         "globalusage": 16
       },
@@ -2935,8 +2966,8 @@
       "height": 7499,
       "tags": [],
       "popularity": {
-        "score": 278.4,
-        "pageviews_365d": 8439,
+        "score": 279.4,
+        "pageviews_365d": 8772,
         "sitelinks": 8,
         "globalusage": 20
       },
@@ -3203,8 +3234,8 @@
       "height": 1027,
       "tags": [],
       "popularity": {
-        "score": 28.9,
-        "pageviews_365d": 0,
+        "score": 181.2,
+        "pageviews_365d": 441,
         "sitelinks": 2,
         "globalusage": 5
       },
@@ -3573,8 +3604,8 @@
       "height": 3722,
       "tags": [],
       "popularity": {
-        "score": 404.9,
-        "pageviews_365d": 456607,
+        "score": 405.1,
+        "pageviews_365d": 459434,
         "sitelinks": 26,
         "globalusage": 100
       },
@@ -3911,8 +3942,8 @@
       "height": 824,
       "tags": [],
       "popularity": {
-        "score": 181.9,
-        "pageviews_365d": 405,
+        "score": 199.3,
+        "pageviews_365d": 812,
         "sitelinks": 3,
         "globalusage": 5
       },
@@ -5353,8 +5384,8 @@
       "height": 3750,
       "tags": [],
       "popularity": {
-        "score": 317.9,
-        "pageviews_365d": 27425,
+        "score": 318.1,
+        "pageviews_365d": 27672,
         "sitelinks": 7,
         "globalusage": 63
       },
@@ -8624,7 +8655,7 @@
         "globalusage": 7
       },
       "meta": {
-        "Collection": "National Gallery"
+        "Collection": "Tate"
       },
       "extras": {
         "qid": "Q28540991",
@@ -9766,8 +9797,8 @@
       "height": 4952,
       "tags": [],
       "popularity": {
-        "score": 279.4,
-        "pageviews_365d": 6091,
+        "score": 281.2,
+        "pageviews_365d": 6565,
         "sitelinks": 8,
         "globalusage": 51
       },
@@ -10443,8 +10474,8 @@
       "height": 2993,
       "tags": [],
       "popularity": {
-        "score": 244.2,
-        "pageviews_365d": 1927,
+        "score": 245.8,
+        "pageviews_365d": 2051,
         "sitelinks": 3,
         "globalusage": 61
       },
@@ -11794,8 +11825,8 @@
       "height": 1136,
       "tags": [],
       "popularity": {
-        "score": 220.8,
-        "pageviews_365d": 1387,
+        "score": 227,
+        "pageviews_365d": 1779,
         "sitelinks": 2,
         "globalusage": 17
       },
@@ -12342,8 +12373,8 @@
       "height": 1437,
       "tags": [],
       "popularity": {
-        "score": 253.1,
-        "pageviews_365d": 2697,
+        "score": 256.7,
+        "pageviews_365d": 3112,
         "sitelinks": 3,
         "globalusage": 64
       },
@@ -14680,8 +14711,8 @@
       "height": 13568,
       "tags": [],
       "popularity": {
-        "score": 351.2,
-        "pageviews_365d": 70271,
+        "score": 353.5,
+        "pageviews_365d": 77041,
         "sitelinks": 14,
         "globalusage": 90
       },
@@ -15685,37 +15716,6 @@
       }
     },
     {
-      "id": "wd-Q49255322",
-      "title": "A Moroccan Street Scene",
-      "year": null,
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/John_Singer_Sargent_-_A_Moroccan_Street_Scene_-_1966.79.13_-_Yale_University_Art_Gallery.jpg/960px-John_Singer_Sargent_-_A_Moroccan_Street_Scene_-_1966.79.13_-_Yale_University_Art_Gallery.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c8/John_Singer_Sargent_-_A_Moroccan_Street_Scene_-_1966.79.13_-_Yale_University_Art_Gallery.jpg",
-      "width": 1501,
-      "height": 1920,
-      "tags": [],
-      "popularity": {
-        "score": 17.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 5
-      },
-      "meta": {
-        "Collection": "Yale University Art Gallery"
-      },
-      "extras": {
-        "qid": "Q49255322",
-        "source": "wikidata",
-        "iiif": "http://nationalmuseumse.iiifhosting.com/iiif/91ce5aa5c2761bd97ebc467220ef9a5928f3802e71b6f8fd4bccf4aee7c093c1//manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://artgallery.yale.edu/collections/objects/8888\">https://artgallery.yale.edu/collections/objects/8888</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_Singer_Sargent\" class=\"extiw\" title=\"w:en:John Singer Sargent\"><span title=\"American painter (1856–1925)\">John Singer Sargent</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q106357225",
       "title": "A Parisian Beggar Girl",
       "year": null,
@@ -16314,8 +16314,8 @@
       "height": 3722,
       "tags": [],
       "popularity": {
-        "score": 269.2,
-        "pageviews_365d": 3803,
+        "score": 270,
+        "pageviews_365d": 3930,
         "sitelinks": 8,
         "globalusage": 60
       },
@@ -16638,10 +16638,10 @@
       "height": 3762,
       "tags": [],
       "popularity": {
-        "score": 361.4,
-        "pageviews_365d": 91119,
+        "score": 365.5,
+        "pageviews_365d": 105881,
         "sitelinks": 21,
-        "globalusage": 89
+        "globalusage": 92
       },
       "meta": {
         "Collection": "National Gallery",
@@ -17064,8 +17064,8 @@
       "height": 3718,
       "tags": [],
       "popularity": {
-        "score": 265.5,
-        "pageviews_365d": 3554,
+        "score": 266.7,
+        "pageviews_365d": 3731,
         "sitelinks": 6,
         "globalusage": 63
       },
@@ -17098,8 +17098,8 @@
       "height": 3722,
       "tags": [],
       "popularity": {
-        "score": 262.4,
-        "pageviews_365d": 3270,
+        "score": 263.6,
+        "pageviews_365d": 3433,
         "sitelinks": 5,
         "globalusage": 67
       },
@@ -21921,7 +21921,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-07-04T00:06:43.985Z",
+    "generated": "2026-07-04T00:57:37.945Z",
     "artist": {
       "qid": "Q155626",
       "name": "John Singer Sargent",

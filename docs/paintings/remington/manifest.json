@@ -77,8 +77,8 @@
       "height": 2400,
       "tags": [],
       "popularity": {
-        "score": 211.3,
-        "pageviews_365d": 995,
+        "score": 211.4,
+        "pageviews_365d": 1000,
         "sitelinks": 2,
         "globalusage": 15
       },
@@ -276,10 +276,10 @@
       "height": 6048,
       "tags": [],
       "popularity": {
-        "score": 36.6,
+        "score": 36.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 38
+        "globalusage": 39
       },
       "meta": {
         "Collection": "Museum of Fine Arts, Houston"
@@ -409,8 +409,8 @@
       "height": 2110,
       "tags": [],
       "popularity": {
-        "score": 228.4,
-        "pageviews_365d": 2486,
+        "score": 228.5,
+        "pageviews_365d": 2495,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -1806,8 +1806,8 @@
       "height": 840,
       "tags": [],
       "popularity": {
-        "score": 225.2,
-        "pageviews_365d": 2293,
+        "score": 225.3,
+        "pageviews_365d": 2299,
         "sitelinks": 1,
         "globalusage": 11
       },
@@ -2075,8 +2075,8 @@
       "height": 2696,
       "tags": [],
       "popularity": {
-        "score": 221.2,
-        "pageviews_365d": 1955,
+        "score": 221.4,
+        "pageviews_365d": 1965,
         "sitelinks": 1,
         "globalusage": 11
       },
@@ -2417,10 +2417,10 @@
       "height": 843,
       "tags": [],
       "popularity": {
-        "score": 44.8,
+        "score": 45,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 87
+        "globalusage": 89
       },
       "meta": {},
       "extras": {
@@ -2654,7 +2654,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-07-01T09:53:07.392Z",
+    "generated": "2026-07-04T00:53:21.241Z",
     "artist": {
       "qid": "Q560787",
       "name": "Frederic Remington",

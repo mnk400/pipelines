@@ -12,8 +12,8 @@
       "height": 1724,
       "tags": [],
       "popularity": {
-        "score": 234.8,
-        "pageviews_365d": 1290,
+        "score": 235,
+        "pageviews_365d": 1296,
         "sitelinks": 2,
         "globalusage": 87
       },
@@ -146,8 +146,8 @@
       "height": 5238,
       "tags": [],
       "popularity": {
-        "score": 247.8,
-        "pageviews_365d": 2411,
+        "score": 247.9,
+        "pageviews_365d": 2419,
         "sitelinks": 6,
         "globalusage": 28
       },
@@ -933,8 +933,8 @@
       "height": 2321,
       "tags": [],
       "popularity": {
-        "score": 250.8,
-        "pageviews_365d": 2712,
+        "score": 250.9,
+        "pageviews_365d": 2715,
         "sitelinks": 2,
         "globalusage": 67
       },
@@ -2384,7 +2384,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-07-01T09:23:32.036Z",
+    "generated": "2026-07-04T00:19:10.424Z",
     "artist": {
       "qid": "Q274339",
       "name": "Gwen John",
