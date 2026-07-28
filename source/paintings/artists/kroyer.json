@@ -1,0 +1,46 @@
+{
+  "artist": {
+    "qid": "Q365068",
+    "name": "Peder Severin Krøyer",
+    "slug": "kroyer"
+  },
+  "work": {
+    "qid": "Q3305213",
+    "label": "paintings",
+    "manifestKey": "paintings"
+  },
+  "seriesRules": [
+    {
+      "name": "skagen",
+      "pattern": "\\b(skagen|br[øo]ndum|christoffer)"
+    },
+    {
+      "name": "hornbaek",
+      "pattern": "\\b(hornb[æa]k|arildsleje)"
+    },
+    {
+      "name": "fishermen",
+      "pattern": "\\b(fisher|fisker|fishing|net|boat|wreck|smith|foundry|sardine)"
+    },
+    {
+      "name": "beach",
+      "pattern": "\\b(beach|shore|sea|marine|bathing|bathe|strand|dune)"
+    },
+    {
+      "name": "summer-evening",
+      "pattern": "\\b(summer|evening|moonlight|moonlit|dusk|midsummer|twilight)"
+    },
+    {
+      "name": "gatherings",
+      "pattern": "\\b(luncheon|lunch|dinner|party|breakfast|meeting|committee|table|caf[ée]|duet|concert)"
+    },
+    {
+      "name": "travel",
+      "pattern": "\\b(ital|torello|ravello|civita|sora|taormina|ronda|spain|tyrol|bolzano|concarneau|seine|faouet|cernay|wiesbaden|paris|venice)"
+    },
+    {
+      "name": "portrait",
+      "pattern": "\\b(portrait|self-portrait)"
+    }
+  ]
+}
