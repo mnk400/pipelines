@@ -47,10 +47,10 @@
       "height": 4278,
       "tags": [],
       "popularity": {
-        "score": 355.5,
+        "score": 355.9,
         "pageviews_365d": 84481,
         "sitelinks": 24,
-        "globalusage": 52
+        "globalusage": 54
       },
       "meta": {
         "Collection": "Staatliche Kunstsammlungen Dresden"
@@ -84,7 +84,7 @@
         "score": 338.7,
         "pageviews_365d": 30061,
         "sitelinks": 21,
-        "globalusage": 147
+        "globalusage": 148
       },
       "meta": {
         "Collection": "Metropolitan Museum of Art",
@@ -186,10 +186,10 @@
       "height": 1137,
       "tags": [],
       "popularity": {
-        "score": 343.3,
+        "score": 343.4,
         "pageviews_365d": 36686,
         "sitelinks": 22,
-        "globalusage": 136
+        "globalusage": 137
       },
       "meta": {
         "Collection": "Herzog Anton Ulrich Museum",
@@ -221,10 +221,10 @@
       "height": 2850,
       "tags": [],
       "popularity": {
-        "score": 339.1,
+        "score": 339,
         "pageviews_365d": 37927,
         "sitelinks": 17,
-        "globalusage": 105
+        "globalusage": 104
       },
       "meta": {
         "Collection": "The Frick Collection",
@@ -256,10 +256,10 @@
       "height": 4485,
       "tags": [],
       "popularity": {
-        "score": 420.5,
+        "score": 420.6,
         "pageviews_365d": 453851,
         "sitelinks": 44,
-        "globalusage": 293
+        "globalusage": 294
       },
       "meta": {
         "Collection": "Rijksmuseum"
@@ -325,10 +325,10 @@
       "height": 5014,
       "tags": [],
       "popularity": {
-        "score": 353.2,
+        "score": 353.1,
         "pageviews_365d": 50364,
         "sitelinks": 25,
-        "globalusage": 147
+        "globalusage": 145
       },
       "meta": {
         "Collection": "Royal Collection",
@@ -395,10 +395,10 @@
       "height": 2400,
       "tags": [],
       "popularity": {
-        "score": 375.2,
+        "score": 375.3,
         "pageviews_365d": 156604,
         "sitelinks": 25,
-        "globalusage": 77
+        "globalusage": 78
       },
       "meta": {
         "Collection": "Isabella Stewart Gardner Museum",
@@ -430,10 +430,10 @@
       "height": 5000,
       "tags": [],
       "popularity": {
-        "score": 377.5,
+        "score": 377.2,
         "pageviews_365d": 95623,
         "sitelinks": 33,
-        "globalusage": 256
+        "globalusage": 250
       },
       "meta": {
         "Collection": "Department of Paintings of the Louvre"
@@ -499,10 +499,10 @@
       "height": 14550,
       "tags": [],
       "popularity": {
-        "score": 473.9,
+        "score": 474.2,
         "pageviews_365d": 2393528,
-        "sitelinks": 71,
-        "globalusage": 597
+        "sitelinks": 72,
+        "globalusage": 605
       },
       "meta": {
         "Collection": "Mauritshuis",
@@ -534,10 +534,10 @@
       "height": 4489,
       "tags": [],
       "popularity": {
-        "score": 345.3,
+        "score": 345.4,
         "pageviews_365d": 42068,
         "sitelinks": 17,
-        "globalusage": 150
+        "globalusage": 152
       },
       "meta": {
         "Collection": "Metropolitan Museum of Art",
@@ -745,10 +745,10 @@
       "height": 1830,
       "tags": [],
       "popularity": {
-        "score": 358.3,
+        "score": 358.5,
         "pageviews_365d": 88260,
         "sitelinks": 24,
-        "globalusage": 62
+        "globalusage": 63
       },
       "meta": {
         "Collection": "Department of Paintings of the Louvre"
@@ -814,10 +814,10 @@
       "height": 3000,
       "tags": [],
       "popularity": {
-        "score": 329.5,
+        "score": 329.3,
         "pageviews_365d": 35524,
         "sitelinks": 19,
-        "globalusage": 42
+        "globalusage": 41
       },
       "meta": {
         "Collection": "National Gallery of Ireland",
@@ -1028,7 +1028,7 @@
         "score": 351.1,
         "pageviews_365d": 44112,
         "sitelinks": 23,
-        "globalusage": 179
+        "globalusage": 180
       },
       "meta": {
         "Collection": "Scottish National Gallery",
@@ -1095,10 +1095,10 @@
       "height": 4263,
       "tags": [],
       "popularity": {
-        "score": 372,
+        "score": 372.2,
         "pageviews_365d": 117186,
         "sitelinks": 27,
-        "globalusage": 108
+        "globalusage": 110
       },
       "meta": {
         "Collection": "Staatliche Kunstsammlungen Dresden",
@@ -1133,7 +1133,7 @@
         "score": 394.1,
         "pageviews_365d": 165891,
         "sitelinks": 32,
-        "globalusage": 350
+        "globalusage": 352
       },
       "meta": {
         "Collection": "Kunsthistorisches Museum"
@@ -1261,7 +1261,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-07-04T01:15:01.100Z",
+    "generated": "2026-07-28T07:01:37.723Z",
     "artist": {
       "qid": "Q41264",
       "name": "Johannes Vermeer",

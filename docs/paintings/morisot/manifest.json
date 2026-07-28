@@ -203,10 +203,10 @@
       "height": 4000,
       "tags": [],
       "popularity": {
-        "score": 35.8,
+        "score": 36.4,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 17
+        "globalusage": 18
       },
       "meta": {
         "Collection": "Q214867"
@@ -540,10 +540,10 @@
       "height": 5001,
       "tags": [],
       "popularity": {
-        "score": 327.2,
+        "score": 327.6,
         "pageviews_365d": 47189,
         "sitelinks": 11,
-        "globalusage": 27
+        "globalusage": 28
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -1146,10 +1146,10 @@
       "height": 2157,
       "tags": [],
       "popularity": {
-        "score": 285.1,
+        "score": 285.3,
         "pageviews_365d": 9216,
         "sitelinks": 5,
-        "globalusage": 48
+        "globalusage": 49
       },
       "meta": {
         "Collection": "Musée Marmottan Monet"
@@ -1208,10 +1208,10 @@
       "height": 6710,
       "tags": [],
       "popularity": {
-        "score": 33,
+        "score": 33.7,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 26
+        "globalusage": 28
       },
       "meta": {
         "Collection": "Q214867"
@@ -1243,10 +1243,10 @@
       "height": 1758,
       "tags": [],
       "popularity": {
-        "score": 35.6,
+        "score": 35.3,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 34
+        "globalusage": 33
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -1812,10 +1812,10 @@
       "height": 4226,
       "tags": [],
       "popularity": {
-        "score": 317.4,
+        "score": 317.6,
         "pageviews_365d": 22163,
         "sitelinks": 10,
-        "globalusage": 75
+        "globalusage": 76
       },
       "meta": {
         "Collection": "National Gallery"
@@ -2901,10 +2901,10 @@
       "height": 2476,
       "tags": [],
       "popularity": {
-        "score": 28.3,
+        "score": 28.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 16
+        "globalusage": 17
       },
       "meta": {
         "Collection": "Minneapolis Institute of Art",
@@ -4027,10 +4027,10 @@
       "height": 637,
       "tags": [],
       "popularity": {
-        "score": 28.3,
+        "score": 28.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 16
+        "globalusage": 17
       },
       "meta": {
         "Collection": "Arkansas Museum of Fine Arts"
@@ -4639,14 +4639,14 @@
         "globalusage": 8
       },
       "meta": {
-        "Collection": "Mougins Museum of Classical Art"
+        "Collection": "The Philip and Janice Levin Foundation"
       },
       "extras": {
         "qid": "Q65966406",
         "source": "wikidata",
         "dimensions": {
           "height_cm": 64,
-          "width_cm": 77
+          "width_cm": 80
         },
         "license": {
           "short_name": "Public domain",
@@ -5752,7 +5752,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-07-04T00:42:20.420Z",
+    "generated": "2026-07-28T06:33:35.318Z",
     "artist": {
       "qid": "Q105320",
       "name": "Berthe Morisot",

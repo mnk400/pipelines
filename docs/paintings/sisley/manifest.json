@@ -46,10 +46,10 @@
       "height": 1985,
       "tags": [],
       "popularity": {
-        "score": 25.6,
+        "score": 26.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 12
+        "globalusage": 13
       },
       "meta": {
         "Collection": "Ordrupgaard"
@@ -270,7 +270,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "Google Arts &amp; Culture:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.googleartproject.com/\">Home page</a> - <a rel=\"nofollow\" class=\"external text\" href=\"https://artsandculture.google.com/asset/6AE3G39FY240OQ\">Image</a>",
+          "credit": "Google Arts &amp; Culture:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.googleartproject.com/\">Home page</a> – <a rel=\"nofollow\" class=\"external text\" href=\"https://artsandculture.google.com/asset/6AE3G39FY240OQ\">Image</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
@@ -285,10 +285,10 @@
       "height": 940,
       "tags": [],
       "popularity": {
-        "score": 185.7,
+        "score": 186.5,
         "pageviews_365d": 401,
         "sitelinks": 2,
-        "globalusage": 11
+        "globalusage": 12
       },
       "meta": {
         "Collection": "Southampton City Art Gallery"
@@ -453,10 +453,10 @@
       "height": 1869,
       "tags": [],
       "popularity": {
-        "score": 30.4,
+        "score": 31.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 20
+        "globalusage": 22
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston",
@@ -1373,7 +1373,7 @@
         "source": "wikidata",
         "dimensions": {
           "height_cm": 22,
-          "width_cm": 38
+          "width_cm": 61
         },
         "license": {
           "short_name": "Public domain",
@@ -1557,16 +1557,16 @@
       "id": "wd-Q138007593",
       "title": "The Frost",
       "year": "1872",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Sisley_-_The-Frost.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Sisley_-_The-Frost.jpg",
-      "width": 300,
-      "height": 223,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/01/Le_Givre.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/01/Le_Givre.jpg",
+      "width": 768,
+      "height": 570,
       "tags": [],
       "popularity": {
-        "score": 6.9,
+        "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 1
+        "globalusage": 3
       },
       "meta": {
         "Series": "snow"
@@ -1582,7 +1582,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.alfredsisley.org/the-complete-works.html?ps=96&amp;pageno=9\">https://www.alfredsisley.org/the-complete-works.html?ps=96&amp;pageno=9</a>",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.impressionism.nl/sisley-overview-pictures/\">https://www.impressionism.nl/sisley-overview-pictures/</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
@@ -2032,10 +2032,10 @@
       "height": 2265,
       "tags": [],
       "popularity": {
-        "score": 220.4,
+        "score": 220.7,
         "pageviews_365d": 1061,
         "sitelinks": 2,
-        "globalusage": 33
+        "globalusage": 34
       },
       "meta": {
         "Collection": "Montreal Museum of Fine Arts",
@@ -3602,10 +3602,10 @@
       "height": 3902,
       "tags": [],
       "popularity": {
-        "score": 210.5,
+        "score": 210.8,
         "pageviews_365d": 905,
         "sitelinks": 1,
-        "globalusage": 27
+        "globalusage": 28
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -4518,10 +4518,10 @@
       "height": 185,
       "tags": [],
       "popularity": {
-        "score": 26.4,
+        "score": 27.7,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Department of Paintings of the Louvre"
@@ -7714,10 +7714,10 @@
       "height": 1909,
       "tags": [],
       "popularity": {
-        "score": 266.5,
+        "score": 266.7,
         "pageviews_365d": 3258,
         "sitelinks": 8,
-        "globalusage": 68
+        "globalusage": 69
       },
       "meta": {
         "Collection": "Metropolitan Museum of Art",
@@ -8160,8 +8160,8 @@
       "year": "1877",
       "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/La_Seine_%C3%A0_Suresnes_d%27Alfred_Sisley.jpg/960px-La_Seine_%C3%A0_Suresnes_d%27Alfred_Sisley.jpg",
       "full": "https://upload.wikimedia.org/wikipedia/commons/8/86/La_Seine_%C3%A0_Suresnes_d%27Alfred_Sisley.jpg",
-      "width": 4642,
-      "height": 3769,
+      "width": 4568,
+      "height": 3700,
       "tags": [],
       "popularity": {
         "score": 24.8,
@@ -8328,10 +8328,10 @@
       "height": 592,
       "tags": [],
       "popularity": {
-        "score": 23,
+        "score": 24.8,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 4
+        "globalusage": 5
       },
       "meta": {
         "Collection": "Department of Paintings of the Louvre"
@@ -8599,10 +8599,10 @@
       "height": 2407,
       "tags": [],
       "popularity": {
-        "score": 255.8,
-        "pageviews_365d": 3557,
+        "score": 255.9,
+        "pageviews_365d": 3420,
         "sitelinks": 8,
-        "globalusage": 18
+        "globalusage": 20
       },
       "meta": {
         "Collection": "Q214867"
@@ -8840,10 +8840,10 @@
       "height": 2579,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 4
       },
       "meta": {
         "Collection": "Führermuseum",
@@ -11240,10 +11240,10 @@
       "height": 372,
       "tags": [],
       "popularity": {
-        "score": 26.4,
+        "score": 27.7,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Department of Paintings of the Louvre"
@@ -14192,8 +14192,8 @@
       "year": "1883",
       "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Un_coin_de_bois_aux_Sablons_-_Alfred_Sisley_-_1883.jpg/960px-Un_coin_de_bois_aux_Sablons_-_Alfred_Sisley_-_1883.jpg",
       "full": "https://upload.wikimedia.org/wikipedia/commons/2/27/Un_coin_de_bois_aux_Sablons_-_Alfred_Sisley_-_1883.jpg",
-      "width": 4636,
-      "height": 3766,
+      "width": 4517,
+      "height": 3654,
       "tags": [],
       "popularity": {
         "score": 30,
@@ -14555,7 +14555,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "Google Arts &amp; Culture:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.googleartproject.com/\">Home page</a> - <a rel=\"nofollow\" class=\"external text\" href=\"https://artsandculture.google.com/asset/wgEU6hw2LyqX6Q\">Image</a>",
+          "credit": "Google Arts &amp; Culture:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.googleartproject.com/\">Home page</a> – <a rel=\"nofollow\" class=\"external text\" href=\"https://artsandculture.google.com/asset/wgEU6hw2LyqX6Q\">Image</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
@@ -17388,7 +17388,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "Google Arts &amp; Culture:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.googleartproject.com/\">Home page</a> - <a rel=\"nofollow\" class=\"external text\" href=\"https://artsandculture.google.com/asset/sQG2q87MaYi1fQ\">Image</a>",
+          "credit": "Google Arts &amp; Culture:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.googleartproject.com/\">Home page</a> – <a rel=\"nofollow\" class=\"external text\" href=\"https://artsandculture.google.com/asset/sQG2q87MaYi1fQ\">Image</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
@@ -17931,7 +17931,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "1. Sotheby's London 19 June 2006, lot 32<br>2. The Athenaeum:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org\">Home page</a> - <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=41070\">Source</a> - <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org/art/full.php?ID=41070\">Image</a>",
+          "credit": "1. Sotheby's London 19 June 2006, lot 32<br>2. The Athenaeum:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org\">Home page</a> – <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=41070\">Source</a> – <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org/art/full.php?ID=41070\">Image</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
@@ -18110,10 +18110,10 @@
       "height": 562,
       "tags": [],
       "popularity": {
-        "score": 13.9,
+        "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 3
+        "globalusage": 4
       },
       "meta": {
         "Collection": "Kelvingrove Art Gallery and Museum"
@@ -20213,10 +20213,10 @@
       "height": 205,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 3
       },
       "meta": {
         "Collection": "Munich Central Collecting Point"
@@ -21242,10 +21242,10 @@
       "height": 2250,
       "tags": [],
       "popularity": {
-        "score": 22,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 8
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Art Institute of Chicago",
@@ -23325,9 +23325,9 @@
       "height": 2524,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 27.7,
         "pageviews_365d": 0,
-        "sitelinks": 0,
+        "sitelinks": 1,
         "globalusage": 7
       },
       "meta": {
@@ -26991,7 +26991,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-07-04T01:06:40.593Z",
+    "generated": "2026-07-28T06:51:49.362Z",
     "artist": {
       "qid": "Q175130",
       "name": "Alfred Sisley",

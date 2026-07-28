@@ -898,10 +898,10 @@
       "height": 5429,
       "tags": [],
       "popularity": {
-        "score": 37.4,
+        "score": 37.8,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 20
+        "globalusage": 21
       },
       "meta": {
         "Collection": "Museum of Fine Arts, Houston"
@@ -1287,10 +1287,10 @@
       "height": 2005,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 5
       },
       "meta": {
         "Collection": "Art Institute of Chicago"
@@ -2417,10 +2417,10 @@
       "height": 843,
       "tags": [],
       "popularity": {
-        "score": 45,
+        "score": 44.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 89
+        "globalusage": 88
       },
       "meta": {},
       "extras": {
@@ -2654,7 +2654,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-07-04T00:53:21.241Z",
+    "generated": "2026-07-28T06:42:21.944Z",
     "artist": {
       "qid": "Q560787",
       "name": "Frederic Remington",

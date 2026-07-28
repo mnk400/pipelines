@@ -1933,15 +1933,15 @@
         "globalusage": 9
       },
       "meta": {
-        "Collection": "National Gallery of Norway",
+        "Collection": "National Museum of Art, Architecture and Design",
         "Series": "gatherings"
       },
       "extras": {
         "qid": "Q37428349",
         "source": "wikidata",
         "dimensions": {
-          "height_cm": 24,
-          "width_cm": 33
+          "height_cm": 23.9,
+          "width_cm": 32.7
         },
         "license": {
           "short_name": "Public domain",
@@ -4467,8 +4467,8 @@
       "height": 5280,
       "tags": [],
       "popularity": {
-        "score": 323.5,
-        "pageviews_365d": 16699,
+        "score": 339.6,
+        "pageviews_365d": 31868,
         "sitelinks": 14,
         "globalusage": 206
       },
@@ -5740,8 +5740,8 @@
       "height": 4201,
       "tags": [],
       "popularity": {
-        "score": 297.4,
-        "pageviews_365d": 9857,
+        "score": 297.9,
+        "pageviews_365d": 10044,
         "sitelinks": 10,
         "globalusage": 77
       },
@@ -6149,8 +6149,8 @@
       "height": 2343,
       "tags": [],
       "popularity": {
-        "score": 310.4,
-        "pageviews_365d": 13179,
+        "score": 319.9,
+        "pageviews_365d": 19295,
         "sitelinks": 11,
         "globalusage": 125
       },
@@ -7777,8 +7777,8 @@
       "height": 11698,
       "tags": [],
       "popularity": {
-        "score": 282.3,
-        "pageviews_365d": 9327,
+        "score": 285.8,
+        "pageviews_365d": 10744,
         "sitelinks": 11,
         "globalusage": 17
       },
@@ -8659,8 +8659,8 @@
       "height": 4579,
       "tags": [],
       "popularity": {
-        "score": 300.3,
-        "pageviews_365d": 12512,
+        "score": 300.8,
+        "pageviews_365d": 12749,
         "sitelinks": 8,
         "globalusage": 69
       },
@@ -9335,7 +9335,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-07-28T06:06:10.836Z",
+    "generated": "2026-07-28T06:16:19.908Z",
     "artist": {
       "qid": "Q365068",
       "name": "Peder Severin Krøyer",

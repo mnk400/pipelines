@@ -829,10 +829,10 @@
       "height": 5397,
       "tags": [],
       "popularity": {
-        "score": 28.3,
+        "score": 28.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 16
+        "globalusage": 17
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston"
@@ -1055,10 +1055,10 @@
       "height": 3750,
       "tags": [],
       "popularity": {
-        "score": 22,
+        "score": 23,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 8
+        "globalusage": 9
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston"
@@ -1216,10 +1216,10 @@
       "height": 12149,
       "tags": [],
       "popularity": {
-        "score": 221.3,
+        "score": 221.6,
         "pageviews_365d": 1004,
         "sitelinks": 3,
-        "globalusage": 31
+        "globalusage": 32
       },
       "meta": {
         "Collection": "Q214867"
@@ -1505,10 +1505,10 @@
       "height": 7667,
       "tags": [],
       "popularity": {
-        "score": 207.4,
+        "score": 207.5,
         "pageviews_365d": 468,
         "sitelinks": 2,
-        "globalusage": 70
+        "globalusage": 71
       },
       "meta": {
         "Collection": "Clark Art Institute"
@@ -1806,37 +1806,6 @@
       }
     },
     {
-      "id": "wd-Q49255322",
-      "title": "A Moroccan Street Scene",
-      "year": "1880",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/John_Singer_Sargent_-_A_Moroccan_Street_Scene_-_1966.79.13_-_Yale_University_Art_Gallery.jpg/960px-John_Singer_Sargent_-_A_Moroccan_Street_Scene_-_1966.79.13_-_Yale_University_Art_Gallery.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c8/John_Singer_Sargent_-_A_Moroccan_Street_Scene_-_1966.79.13_-_Yale_University_Art_Gallery.jpg",
-      "width": 1501,
-      "height": 1920,
-      "tags": [],
-      "popularity": {
-        "score": 17.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 5
-      },
-      "meta": {
-        "Collection": "Yale University Art Gallery"
-      },
-      "extras": {
-        "qid": "Q49255322",
-        "source": "wikidata",
-        "iiif": "http://nationalmuseumse.iiifhosting.com/iiif/91ce5aa5c2761bd97ebc467220ef9a5928f3802e71b6f8fd4bccf4aee7c093c1//manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://artgallery.yale.edu/collections/objects/8888\">https://artgallery.yale.edu/collections/objects/8888</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_Singer_Sargent\" class=\"extiw\" title=\"w:en:John Singer Sargent\"><span title=\"American painter (1856–1925)\">John Singer Sargent</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q106849943",
       "title": "A Venetian Woman in a Scarlet Shawl (\"Gigia Viani\")",
       "year": "1880",
@@ -1937,7 +1906,7 @@
     },
     {
       "id": "wd-Q139795932",
-      "title": "Courtyard, Tétouan, Marocco",
+      "title": "Courtyard, Tétouan, Morocco",
       "year": "1880",
       "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sargent_IMG_8980.jpg/960px-Sargent_IMG_8980.jpg",
       "full": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sargent_IMG_8980.jpg",
@@ -2114,10 +2083,10 @@
       "height": 2404,
       "tags": [],
       "popularity": {
-        "score": 26.4,
+        "score": 24.8,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 6
+        "globalusage": 5
       },
       "meta": {
         "Collection": "Art Institute of Chicago",
@@ -2455,10 +2424,10 @@
       "height": 6829,
       "tags": [],
       "popularity": {
-        "score": 319.7,
+        "score": 319.9,
         "pageviews_365d": 37524,
         "sitelinks": 7,
-        "globalusage": 34
+        "globalusage": 35
       },
       "meta": {
         "Collection": "Hammer Museum",
@@ -2692,10 +2661,10 @@
       "height": 2028,
       "tags": [],
       "popularity": {
-        "score": 335.6,
+        "score": 335.7,
         "pageviews_365d": 52443,
         "sitelinks": 8,
-        "globalusage": 65
+        "globalusage": 66
       },
       "meta": {
         "Collection": "Isabella Stewart Gardner Museum",
@@ -2727,10 +2696,10 @@
       "height": 2515,
       "tags": [],
       "popularity": {
-        "score": 289.4,
+        "score": 290,
         "pageviews_365d": 14256,
         "sitelinks": 8,
-        "globalusage": 16
+        "globalusage": 17
       },
       "meta": {
         "Collection": "Metropolitan Museum of Art",
@@ -3639,10 +3608,10 @@
       "height": 2599,
       "tags": [],
       "popularity": {
-        "score": 213.7,
+        "score": 214.2,
         "pageviews_365d": 1043,
         "sitelinks": 2,
-        "globalusage": 17
+        "globalusage": 18
       },
       "meta": {},
       "extras": {
@@ -5316,10 +5285,10 @@
       "height": 3975,
       "tags": [],
       "popularity": {
-        "score": 183.2,
+        "score": 186.8,
         "pageviews_365d": 350,
-        "sitelinks": 2,
-        "globalusage": 12
+        "sitelinks": 3,
+        "globalusage": 13
       },
       "meta": {
         "Collection": "Brooklyn Museum"
@@ -7353,6 +7322,41 @@
       }
     },
     {
+      "id": "wd-Q119147313",
+      "title": "Mrs George Batten Singing",
+      "year": "1895",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6c/John_Singer_Sargent_-_Mabel_Batten.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/6c/John_Singer_Sargent_-_Mabel_Batten.jpg",
+      "width": 700,
+      "height": 1467,
+      "tags": [],
+      "popularity": {
+        "score": 28.3,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 16
+      },
+      "meta": {
+        "Collection": "Glasgow Museums Resource Centre",
+        "Series": "portrait"
+      },
+      "extras": {
+        "qid": "Q119147313",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 88.9,
+          "width_cm": 43.2
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://jssgallery.org/Paintings/Mrs_George_Batten_Singing.htm\">jssgallery.org</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_Singer_Sargent\" class=\"extiw\" title=\"w:en:John Singer Sargent\"><span title=\"American painter (1856–1925)\">John Singer Sargent</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q19924856",
       "title": "Street, Tangier",
       "year": "1895",
@@ -7565,10 +7569,10 @@
       "height": 5037,
       "tags": [],
       "popularity": {
-        "score": 30.9,
+        "score": 31.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 21
+        "globalusage": 22
       },
       "meta": {
         "Collection": "Tate",
@@ -7755,41 +7759,6 @@
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
           "usage_terms": "Creative Commons Zero, Public Domain Dedication",
           "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_Singer_Sargent\" class=\"extiw\" title=\"w:en:John Singer Sargent\"><span title=\"American painter (1856–1925)\">John Singer Sargent</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q119147313",
-      "title": "Mrs George Batten Singing",
-      "year": "1897",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6c/John_Singer_Sargent_-_Mabel_Batten.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/6/6c/John_Singer_Sargent_-_Mabel_Batten.jpg",
-      "width": 700,
-      "height": 1467,
-      "tags": [],
-      "popularity": {
-        "score": 28.3,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 16
-      },
-      "meta": {
-        "Collection": "Glasgow Museums Resource Centre",
-        "Series": "portrait"
-      },
-      "extras": {
-        "qid": "Q119147313",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 88.9,
-          "width_cm": 43.2
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://jssgallery.org/Paintings/Mrs_George_Batten_Singing.htm\">jssgallery.org</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_Singer_Sargent\" class=\"extiw\" title=\"w:en:John Singer Sargent\"><span title=\"American painter (1856–1925)\">John Singer Sargent</span></a></bdi>"
         }
       }
@@ -8035,10 +8004,10 @@
       "height": 944,
       "tags": [],
       "popularity": {
-        "score": 24.8,
+        "score": 25.6,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 11
+        "globalusage": 12
       },
       "meta": {
         "Collection": "Kenwood House"
@@ -8448,10 +8417,10 @@
       "height": 3722,
       "tags": [],
       "popularity": {
-        "score": 314.1,
+        "score": 314.2,
         "pageviews_365d": 17169,
         "sitelinks": 10,
-        "globalusage": 102
+        "globalusage": 103
       },
       "meta": {
         "Collection": "Metropolitan Museum of Art",
@@ -8655,7 +8624,7 @@
         "globalusage": 7
       },
       "meta": {
-        "Collection": "Tate"
+        "Collection": "National Gallery"
       },
       "extras": {
         "qid": "Q28540991",
@@ -8890,10 +8859,10 @@
       "height": 1536,
       "tags": [],
       "popularity": {
-        "score": 27.1,
+        "score": 26.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 14
+        "globalusage": 13
       },
       "meta": {
         "Collection": "National Gallery"
@@ -9121,10 +9090,10 @@
       "height": 3682,
       "tags": [],
       "popularity": {
-        "score": 31.4,
+        "score": 30.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 22
+        "globalusage": 21
       },
       "meta": {
         "Collection": "National Portrait Gallery"
@@ -9395,10 +9364,10 @@
       "height": 885,
       "tags": [],
       "popularity": {
-        "score": 200.6,
+        "score": 201.1,
         "pageviews_365d": 697,
         "sitelinks": 1,
-        "globalusage": 19
+        "globalusage": 20
       },
       "meta": {
         "Collection": "Chatsworth House"
@@ -9531,10 +9500,10 @@
       "height": 1093,
       "tags": [],
       "popularity": {
-        "score": 29.4,
+        "score": 30,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 18
+        "globalusage": 19
       },
       "meta": {
         "Collection": "National Portrait Gallery"
@@ -9752,7 +9721,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "1. The Athenaeum:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org\">Home page</a> - <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=23299\">Source</a> - <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org/art/full.php?ID=23299\">Image</a><br>2.  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.google.com/culturalinstitute/beta/asset/henry-lee-higginson-1834-1919/7AF8-0yWC4TWZw\">Google Art Project</a>",
+          "credit": "1. The Athenaeum:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org\">Home page</a> – <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=23299\">Source</a> – <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org/art/full.php?ID=23299\">Image</a><br>2.  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.google.com/culturalinstitute/beta/asset/henry-lee-higginson-1834-1919/7AF8-0yWC4TWZw\">Google Art Project</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_Singer_Sargent\" class=\"extiw\" title=\"w:en:John Singer Sargent\"><span title=\"American painter (1856–1925)\">John Singer Sargent</span></a></bdi>"
         }
       }
@@ -10795,7 +10764,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "The Athenaeum:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org\">Home page</a> - <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=19743\">Source</a> - <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org/art/full.php?ID=19743\">Image</a>",
+          "credit": "The Athenaeum:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org\">Home page</a> – <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=19743\">Source</a> – <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org/art/full.php?ID=19743\">Image</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_Singer_Sargent\" class=\"extiw\" title=\"w:en:John Singer Sargent\"><span title=\"American painter (1856–1925)\">John Singer Sargent</span></a></bdi>"
         }
       }
@@ -11253,10 +11222,10 @@
       "height": 3751,
       "tags": [],
       "popularity": {
-        "score": 41.1,
+        "score": 40.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 60
+        "globalusage": 59
       },
       "meta": {
         "Collection": "National Portrait Gallery"
@@ -11385,10 +11354,10 @@
       "height": 3000,
       "tags": [],
       "popularity": {
-        "score": 244,
+        "score": 244.3,
         "pageviews_365d": 2725,
         "sitelinks": 2,
-        "globalusage": 33
+        "globalusage": 34
       },
       "meta": {
         "Collection": "Johns Hopkins School of Medicine"
@@ -12303,10 +12272,10 @@
       "height": 1000,
       "tags": [],
       "popularity": {
-        "score": 188.2,
+        "score": 188,
         "pageviews_365d": 248,
         "sitelinks": 2,
-        "globalusage": 50
+        "globalusage": 49
       },
       "meta": {
         "Collection": "National Trust",
@@ -14711,10 +14680,10 @@
       "height": 13568,
       "tags": [],
       "popularity": {
-        "score": 353.5,
+        "score": 353.7,
         "pageviews_365d": 77041,
         "sitelinks": 14,
-        "globalusage": 90
+        "globalusage": 92
       },
       "meta": {
         "Collection": "Imperial War Museum London"
@@ -15522,10 +15491,10 @@
       "height": 1054,
       "tags": [],
       "popularity": {
-        "score": 32.6,
+        "score": 33,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 25
+        "globalusage": 26
       },
       "meta": {},
       "extras": {
@@ -15539,7 +15508,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "The Athenaeum:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org\">Home page</a> - <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=23378\">Source</a> - <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org/art/full.php?ID=23378\">Image</a>",
+          "credit": "The Athenaeum:  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org\">Home page</a> – <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=23378\">Source</a> – <a rel=\"nofollow\" class=\"external text\" href=\"http://www.the-athenaeum.org/art/full.php?ID=23378\">Image</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_Singer_Sargent\" class=\"extiw\" title=\"w:en:John Singer Sargent\"><span title=\"American painter (1856–1925)\">John Singer Sargent</span></a></bdi>"
         }
       }
@@ -15711,6 +15680,37 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.jssgallery.org/Paintings/A_Gust_of_Wind.htm\">http://www.jssgallery.org/Paintings/A_Gust_of_Wind.htm</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_Singer_Sargent\" class=\"extiw\" title=\"w:en:John Singer Sargent\"><span title=\"American painter (1856–1925)\">John Singer Sargent</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q49255322",
+      "title": "A Moroccan Street Scene",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/John_Singer_Sargent_-_A_Moroccan_Street_Scene_-_1966.79.13_-_Yale_University_Art_Gallery.jpg/960px-John_Singer_Sargent_-_A_Moroccan_Street_Scene_-_1966.79.13_-_Yale_University_Art_Gallery.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c8/John_Singer_Sargent_-_A_Moroccan_Street_Scene_-_1966.79.13_-_Yale_University_Art_Gallery.jpg",
+      "width": 1501,
+      "height": 1920,
+      "tags": [],
+      "popularity": {
+        "score": 17.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 5
+      },
+      "meta": {
+        "Collection": "Yale University Art Gallery"
+      },
+      "extras": {
+        "qid": "Q49255322",
+        "source": "wikidata",
+        "iiif": "http://nationalmuseumse.iiifhosting.com/iiif/91ce5aa5c2761bd97ebc467220ef9a5928f3802e71b6f8fd4bccf4aee7c093c1//manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://artgallery.yale.edu/collections/objects/8888\">https://artgallery.yale.edu/collections/objects/8888</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_Singer_Sargent\" class=\"extiw\" title=\"w:en:John Singer Sargent\"><span title=\"American painter (1856–1925)\">John Singer Sargent</span></a></bdi>"
         }
       }
@@ -16638,10 +16638,10 @@
       "height": 3762,
       "tags": [],
       "popularity": {
-        "score": 365.5,
+        "score": 365.2,
         "pageviews_365d": 105881,
         "sitelinks": 21,
-        "globalusage": 92
+        "globalusage": 89
       },
       "meta": {
         "Collection": "National Gallery",
@@ -16864,10 +16864,10 @@
       "height": 1000,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 5
       },
       "meta": {
         "Collection": "Hispanic Society of America"
@@ -21921,7 +21921,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-07-04T00:57:37.945Z",
+    "generated": "2026-07-28T06:47:17.134Z",
     "artist": {
       "qid": "Q155626",
       "name": "John Singer Sargent",

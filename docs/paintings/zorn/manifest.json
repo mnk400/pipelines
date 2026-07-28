@@ -1215,10 +1215,10 @@
       "height": 4474,
       "tags": [],
       "popularity": {
-        "score": 30.9,
+        "score": 30,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 10
+        "globalusage": 9
       },
       "meta": {
         "Collection": "Nationalmuseum"
@@ -1284,10 +1284,10 @@
       "height": 5179,
       "tags": [],
       "popularity": {
-        "score": 23,
+        "score": 26.4,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 4
+        "globalusage": 6
       },
       "meta": {
         "Collection": "Nationalmuseum"
@@ -1351,10 +1351,10 @@
       "height": 5483,
       "tags": [],
       "popularity": {
-        "score": 32.6,
+        "score": 33.3,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 12
+        "globalusage": 13
       },
       "meta": {
         "Collection": "Nationalmuseum"
@@ -6309,10 +6309,10 @@
       "height": 1056,
       "tags": [],
       "popularity": {
-        "score": 240.8,
+        "score": 240.5,
         "pageviews_365d": 2177,
         "sitelinks": 2,
-        "globalusage": 42
+        "globalusage": 41
       },
       "meta": {
         "Collection": "Thiel Gallery"
@@ -6703,10 +6703,10 @@
       "height": 480,
       "tags": [],
       "popularity": {
-        "score": 210.5,
+        "score": 210.7,
         "pageviews_365d": 501,
         "sitelinks": 1,
-        "globalusage": 122
+        "globalusage": 124
       },
       "meta": {
         "Collection": "Zorn Collections"
@@ -8893,10 +8893,10 @@
       "height": 5338,
       "tags": [],
       "popularity": {
-        "score": 23,
+        "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 9
+        "globalusage": 10
       },
       "meta": {},
       "extras": {
@@ -10029,7 +10029,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-07-04T01:21:08.231Z",
+    "generated": "2026-07-28T07:05:47.012Z",
     "artist": {
       "qid": "Q206820",
       "name": "Anders Zorn",
