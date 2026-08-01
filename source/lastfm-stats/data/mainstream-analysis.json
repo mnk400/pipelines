@@ -2842,21 +2842,46 @@
     },
     {
       "month": "2026-06",
-      "totalPlays": 377,
+      "totalPlays": 470,
       "medianListeners": 1617002,
-      "p25Listeners": 899525,
+      "p25Listeners": 1032050,
       "p75Listeners": 3168369,
       "obscurityScore": 39.6,
       "tierPct": {
-        "obscure": 7.43,
-        "niche": 10.34,
-        "mid": 38.99,
-        "popular": 35.81,
-        "mainstream": 7.43
+        "obscure": 5.96,
+        "niche": 10,
+        "mid": 38.51,
+        "popular": 38.51,
+        "mainstream": 7.02
       },
       "mostObscure": {
         "name": "Hello Mary",
         "listeners": 70577,
+        "plays": 20
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 3
+      }
+    },
+    {
+      "month": "2026-07",
+      "totalPlays": 492,
+      "medianListeners": 1193260,
+      "p25Listeners": 329647,
+      "p75Listeners": 2018673,
+      "obscurityScore": 46.2,
+      "tierPct": {
+        "obscure": 8.94,
+        "niche": 16.87,
+        "mid": 38.21,
+        "popular": 31.91,
+        "mainstream": 4.07
+      },
+      "mostObscure": {
+        "name": "My Guitar Is Trying to Kill Me",
+        "listeners": 14398,
         "plays": 20
       },
       "mostMainstream": {
@@ -3350,22 +3375,35 @@
     },
     {
       "month": "2026-04",
-      "totalPlays": 1956,
+      "totalPlays": 2049,
       "obscurityScore": 48.5,
       "medianListeners": 1128413,
       "tierPct": {
-        "obscure": 6.36,
-        "niche": 26.63,
-        "mid": 38.62,
-        "popular": 23.5,
-        "mainstream": 4.89
+        "obscure": 5.87,
+        "niche": 26.52,
+        "mid": 38.46,
+        "popular": 24.4,
+        "mainstream": 4.75
+      }
+    },
+    {
+      "month": "2026-07",
+      "totalPlays": 492,
+      "obscurityScore": 46.2,
+      "medianListeners": 1193260,
+      "tierPct": {
+        "obscure": 8.94,
+        "niche": 16.87,
+        "mid": 38.21,
+        "popular": 31.91,
+        "mainstream": 4.07
       }
     }
   ],
   "meta": {
-    "totalArtists": 4500,
+    "totalArtists": 4524,
     "firstMonth": "2016-03",
-    "lastMonth": "2026-06",
-    "overallMedianListeners": 1551753
+    "lastMonth": "2026-07",
+    "overallMedianListeners": 1548636
   }
 }

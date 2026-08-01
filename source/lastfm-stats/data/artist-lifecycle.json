@@ -2316,11 +2316,11 @@
     },
     {
       "artist": "Ashnikko",
-      "totalPlays": 195,
+      "totalPlays": 196,
       "peakQuarter": "2021-Q1",
       "peakPlays": 61,
       "firstQuarter": "2020-Q4",
-      "lastActiveQuarter": "2026-Q2",
+      "lastActiveQuarter": "2026-Q3",
       "timeline": [
         {
           "quarter": "2016-Q1",
@@ -2488,7 +2488,7 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 0
+          "plays": 1
         }
       ]
     },
@@ -2674,7 +2674,7 @@
   "constants": [
     {
       "artist": "Radiohead",
-      "totalPlays": 2654,
+      "totalPlays": 2660,
       "peakQuarter": "2019-Q2",
       "peakPlays": 316,
       "firstQuarter": "2016-Q1",
@@ -2846,17 +2846,17 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 2
+          "plays": 8
         }
       ]
     },
     {
       "artist": "Peach Pit",
-      "totalPlays": 1812,
+      "totalPlays": 1863,
       "peakQuarter": "2025-Q2",
       "peakPlays": 362,
       "firstQuarter": "2018-Q3",
-      "lastActiveQuarter": "2026-Q2",
+      "lastActiveQuarter": "2026-Q3",
       "timeline": [
         {
           "quarter": "2016-Q1",
@@ -3024,13 +3024,13 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 0
+          "plays": 51
         }
       ]
     },
     {
       "artist": "The Strokes",
-      "totalPlays": 1324,
+      "totalPlays": 1348,
       "peakQuarter": "2025-Q1",
       "peakPlays": 136,
       "firstQuarter": "2018-Q3",
@@ -3202,7 +3202,7 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 1
+          "plays": 25
         }
       ]
     },
@@ -3386,7 +3386,7 @@
     },
     {
       "artist": "Mac DeMarco",
-      "totalPlays": 977,
+      "totalPlays": 1001,
       "peakQuarter": "2023-Q1",
       "peakPlays": 156,
       "firstQuarter": "2018-Q4",
@@ -3558,17 +3558,17 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 1
+          "plays": 25
         }
       ]
     },
     {
       "artist": "Beach Bunny",
-      "totalPlays": 933,
+      "totalPlays": 934,
       "peakQuarter": "2026-Q1",
       "peakPlays": 135,
       "firstQuarter": "2019-Q2",
-      "lastActiveQuarter": "2026-Q2",
+      "lastActiveQuarter": "2026-Q3",
       "timeline": [
         {
           "quarter": "2016-Q1",
@@ -3736,17 +3736,17 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 0
+          "plays": 1
         }
       ]
     },
     {
       "artist": "Soccer Mommy",
-      "totalPlays": 926,
+      "totalPlays": 933,
       "peakQuarter": "2021-Q1",
       "peakPlays": 99,
       "firstQuarter": "2018-Q4",
-      "lastActiveQuarter": "2026-Q2",
+      "lastActiveQuarter": "2026-Q3",
       "timeline": [
         {
           "quarter": "2016-Q1",
@@ -3914,13 +3914,13 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 0
+          "plays": 7
         }
       ]
     },
     {
       "artist": "Interpol",
-      "totalPlays": 742,
+      "totalPlays": 799,
       "peakQuarter": "2018-Q3",
       "peakPlays": 104,
       "firstQuarter": "2018-Q3",
@@ -4092,13 +4092,13 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 10
+          "plays": 67
         }
       ]
     },
     {
       "artist": "Beach House",
-      "totalPlays": 740,
+      "totalPlays": 743,
       "peakQuarter": "2023-Q4",
       "peakPlays": 88,
       "firstQuarter": "2018-Q3",
@@ -4270,17 +4270,17 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 1
+          "plays": 4
         }
       ]
     },
     {
       "artist": "Sufjan Stevens",
-      "totalPlays": 626,
+      "totalPlays": 628,
       "peakQuarter": "2020-Q2",
       "peakPlays": 95,
       "firstQuarter": "2018-Q3",
-      "lastActiveQuarter": "2026-Q2",
+      "lastActiveQuarter": "2026-Q3",
       "timeline": [
         {
           "quarter": "2016-Q1",
@@ -4448,14 +4448,14 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 0
+          "plays": 2
         }
       ]
     }
   ],
   "meta": {
-    "totalArtists": 4515,
-    "qualifyingArtists": 276,
+    "totalArtists": 4545,
+    "qualifyingArtists": 277,
     "phaseCount": 15,
     "constantCount": 10
   }

@@ -141712,5 +141712,924 @@
       "name": "noise",
       "count": 1
     }
-  ]
+  ],
+  "Giles Corey": [
+    {
+      "name": "folk",
+      "count": 100
+    },
+    {
+      "name": "ambient",
+      "count": 84
+    },
+    {
+      "name": "shoegaze",
+      "count": 53
+    },
+    {
+      "name": "slowcore",
+      "count": 43
+    },
+    {
+      "name": "lo-fi",
+      "count": 21
+    },
+    {
+      "name": "depressive",
+      "count": 6
+    },
+    {
+      "name": "experimental",
+      "count": 5
+    },
+    {
+      "name": "dark folk",
+      "count": 1
+    },
+    {
+      "name": "dark ambient",
+      "count": 1
+    },
+    {
+      "name": "acoustic",
+      "count": 1
+    }
+  ],
+  "The Royston Club": [
+    {
+      "name": "indie rock",
+      "count": 100
+    },
+    {
+      "name": "rock",
+      "count": 6
+    },
+    {
+      "name": "band",
+      "count": 4
+    },
+    {
+      "name": "indie",
+      "count": 4
+    },
+    {
+      "name": "welsh",
+      "count": 2
+    },
+    {
+      "name": "punk rock",
+      "count": 2
+    },
+    {
+      "name": "british",
+      "count": 2
+    },
+    {
+      "name": "wales",
+      "count": 1
+    },
+    {
+      "name": "seen",
+      "count": 1
+    }
+  ],
+  "My Guitar Is Trying to Kill Me": [
+    {
+      "name": "ambient",
+      "count": 100
+    },
+    {
+      "name": "shoegaze",
+      "count": 100
+    },
+    {
+      "name": "post-rock",
+      "count": 29
+    },
+    {
+      "name": "alternative",
+      "count": 7
+    },
+    {
+      "name": "noise rock",
+      "count": 4
+    },
+    {
+      "name": "dream pop",
+      "count": 4
+    },
+    {
+      "name": "indie rock",
+      "count": 4
+    },
+    {
+      "name": "noise pop",
+      "count": 1
+    },
+    {
+      "name": "united states",
+      "count": 1
+    }
+  ],
+  "I Hate Sex": [
+    {
+      "name": "screamo",
+      "count": 100
+    },
+    {
+      "name": "emo",
+      "count": 39
+    },
+    {
+      "name": "skramz",
+      "count": 24
+    },
+    {
+      "name": "emoviolence",
+      "count": 20
+    },
+    {
+      "name": "canadian",
+      "count": 4
+    },
+    {
+      "name": "punk",
+      "count": 3
+    },
+    {
+      "name": "real screamo",
+      "count": 2
+    },
+    {
+      "name": "hardcore",
+      "count": 1
+    },
+    {
+      "name": "canada",
+      "count": 1
+    },
+    {
+      "name": "emo violence",
+      "count": 1
+    }
+  ],
+  "Clay Birds": [
+    {
+      "name": "screamo",
+      "count": 100
+    },
+    {
+      "name": "emo",
+      "count": 25
+    },
+    {
+      "name": "lofi",
+      "count": 16
+    },
+    {
+      "name": "skramz",
+      "count": 16
+    },
+    {
+      "name": "nu-skramz",
+      "count": 8
+    },
+    {
+      "name": "hardcore",
+      "count": 2
+    },
+    {
+      "name": "metalcore",
+      "count": 2
+    },
+    {
+      "name": "post-hardcore",
+      "count": 1
+    },
+    {
+      "name": "female fronted",
+      "count": 1
+    },
+    {
+      "name": "female vocal",
+      "count": 1
+    }
+  ],
+  "knumears": [
+    {
+      "name": "screamo",
+      "count": 100
+    },
+    {
+      "name": "skramz",
+      "count": 16
+    },
+    {
+      "name": "emo",
+      "count": 6
+    },
+    {
+      "name": "emoviolence",
+      "count": 6
+    },
+    {
+      "name": "real screamo",
+      "count": 3
+    },
+    {
+      "name": "american",
+      "count": 1
+    },
+    {
+      "name": "punk",
+      "count": 1
+    },
+    {
+      "name": "straight edge",
+      "count": 1
+    },
+    {
+      "name": "post-hardcore",
+      "count": 1
+    },
+    {
+      "name": "california",
+      "count": 1
+    }
+  ],
+  "herlovebeheadsdaisies": [
+    {
+      "name": "screamo",
+      "count": 100
+    },
+    {
+      "name": "emoviolence",
+      "count": 16
+    },
+    {
+      "name": "skramz",
+      "count": 6
+    },
+    {
+      "name": "hardcore",
+      "count": 3
+    },
+    {
+      "name": "emo",
+      "count": 1
+    },
+    {
+      "name": "post-hardcore",
+      "count": 1
+    },
+    {
+      "name": "emo violence",
+      "count": 1
+    },
+    {
+      "name": "texas",
+      "count": 1
+    }
+  ],
+  "Party Hats": [
+    {
+      "name": "screamo",
+      "count": 100
+    },
+    {
+      "name": "emo",
+      "count": 16
+    },
+    {
+      "name": "skramz",
+      "count": 11
+    },
+    {
+      "name": "math rock",
+      "count": 11
+    },
+    {
+      "name": "hardcore",
+      "count": 1
+    },
+    {
+      "name": "indie rock",
+      "count": 1
+    },
+    {
+      "name": "punk",
+      "count": 1
+    },
+    {
+      "name": "post-hardcore",
+      "count": 1
+    },
+    {
+      "name": "american",
+      "count": 1
+    },
+    {
+      "name": "united states",
+      "count": 1
+    }
+  ],
+  "Algae Bloom": [
+    {
+      "name": "screamo",
+      "count": 100
+    },
+    {
+      "name": "emo",
+      "count": 39
+    },
+    {
+      "name": "skramz",
+      "count": 15
+    },
+    {
+      "name": "british",
+      "count": 11
+    },
+    {
+      "name": "midwest emo",
+      "count": 4
+    },
+    {
+      "name": "post-hardcore",
+      "count": 4
+    },
+    {
+      "name": "punk",
+      "count": 3
+    },
+    {
+      "name": "midwest screamo",
+      "count": 1
+    },
+    {
+      "name": "punk rock",
+      "count": 1
+    },
+    {
+      "name": "psytrance",
+      "count": 1
+    }
+  ],
+  "Bright Little Stars": [
+    {
+      "name": "screamo",
+      "count": 100
+    },
+    {
+      "name": "emo",
+      "count": 100
+    },
+    {
+      "name": "skramz",
+      "count": 29
+    },
+    {
+      "name": "lofi skramz",
+      "count": 29
+    },
+    {
+      "name": "lo-fi",
+      "count": 4
+    },
+    {
+      "name": "bedroom",
+      "count": 4
+    },
+    {
+      "name": "to get",
+      "count": 4
+    },
+    {
+      "name": "midwest emo",
+      "count": 1
+    },
+    {
+      "name": "bedroom pop",
+      "count": 1
+    },
+    {
+      "name": "lo-fi indie",
+      "count": 1
+    }
+  ],
+  "Burial Etiquette": [
+    {
+      "name": "screamo",
+      "count": 100
+    },
+    {
+      "name": "skramz",
+      "count": 64
+    },
+    {
+      "name": "emo",
+      "count": 16
+    },
+    {
+      "name": "canadian",
+      "count": 16
+    },
+    {
+      "name": "midwest emo",
+      "count": 5
+    },
+    {
+      "name": "post-hardcore",
+      "count": 3
+    },
+    {
+      "name": "ontario",
+      "count": 1
+    },
+    {
+      "name": "female vocalist",
+      "count": 1
+    },
+    {
+      "name": "shoegaze",
+      "count": 1
+    },
+    {
+      "name": "punk",
+      "count": 1
+    }
+  ],
+  "Crochet": [
+    {
+      "name": "screamo",
+      "count": 100
+    },
+    {
+      "name": "math rock",
+      "count": 25
+    },
+    {
+      "name": "skramz",
+      "count": 6
+    },
+    {
+      "name": "emo violence",
+      "count": 3
+    },
+    {
+      "name": "nevada",
+      "count": 1
+    },
+    {
+      "name": "post-hardcore",
+      "count": 1
+    },
+    {
+      "name": "real screamo",
+      "count": 1
+    },
+    {
+      "name": "emo",
+      "count": 1
+    },
+    {
+      "name": "alternative",
+      "count": 1
+    },
+    {
+      "name": "experimental",
+      "count": 1
+    }
+  ],
+  "departmefrombearisland": [
+    {
+      "name": "screamo",
+      "count": 100
+    },
+    {
+      "name": "acoustic",
+      "count": 100
+    },
+    {
+      "name": "emo",
+      "count": 29
+    },
+    {
+      "name": "skramz",
+      "count": 29
+    },
+    {
+      "name": "acoustic screamo",
+      "count": 15
+    },
+    {
+      "name": "american",
+      "count": 4
+    },
+    {
+      "name": "los angeles",
+      "count": 4
+    },
+    {
+      "name": "real screamo",
+      "count": 1
+    },
+    {
+      "name": "california",
+      "count": 1
+    },
+    {
+      "name": "duo",
+      "count": 1
+    }
+  ],
+  "I Hate Myself": [
+    {
+      "name": "emo",
+      "count": 100
+    },
+    {
+      "name": "screamo",
+      "count": 82
+    },
+    {
+      "name": "post-hardcore",
+      "count": 32
+    },
+    {
+      "name": "real screamo",
+      "count": 14
+    },
+    {
+      "name": "indie",
+      "count": 6
+    },
+    {
+      "name": "skramz",
+      "count": 2
+    },
+    {
+      "name": "emocore",
+      "count": 2
+    },
+    {
+      "name": "hardcore",
+      "count": 1
+    },
+    {
+      "name": "indie rock",
+      "count": 1
+    },
+    {
+      "name": "punk",
+      "count": 1
+    }
+  ],
+  "I Wrote Haikus About Cannibalism in Your Yearbook": [
+    {
+      "name": "screamo",
+      "count": 100
+    },
+    {
+      "name": "emo violence",
+      "count": 49
+    },
+    {
+      "name": "real screamo",
+      "count": 18
+    },
+    {
+      "name": "hardcore",
+      "count": 14
+    },
+    {
+      "name": "emo",
+      "count": 6
+    },
+    {
+      "name": "emoviolence",
+      "count": 3
+    },
+    {
+      "name": "skramz",
+      "count": 2
+    },
+    {
+      "name": "usa",
+      "count": 1
+    },
+    {
+      "name": "california",
+      "count": 1
+    },
+    {
+      "name": "american",
+      "count": 1
+    }
+  ],
+  "iwishididntexistrightnow": [
+    {
+      "name": "emo",
+      "count": 100
+    },
+    {
+      "name": "screamo",
+      "count": 79
+    },
+    {
+      "name": "punk",
+      "count": 23
+    },
+    {
+      "name": "twinkly",
+      "count": 12
+    },
+    {
+      "name": "connecticut",
+      "count": 6
+    },
+    {
+      "name": "post-hardcore",
+      "count": 4
+    },
+    {
+      "name": "twinkle daddies",
+      "count": 3
+    },
+    {
+      "name": "ct",
+      "count": 1
+    },
+    {
+      "name": "what everyone should listen to",
+      "count": 1
+    },
+    {
+      "name": "twinkle",
+      "count": 1
+    }
+  ],
+  "Midwest Pen Pals": [
+    {
+      "name": "emo",
+      "count": 100
+    },
+    {
+      "name": "indie",
+      "count": 37
+    },
+    {
+      "name": "screamo",
+      "count": 21
+    },
+    {
+      "name": "twinkle daddies",
+      "count": 19
+    },
+    {
+      "name": "midwest emo",
+      "count": 7
+    },
+    {
+      "name": "indiemo",
+      "count": 5
+    },
+    {
+      "name": "math rock",
+      "count": 4
+    },
+    {
+      "name": "post-hardcore",
+      "count": 1
+    },
+    {
+      "name": "indie rock",
+      "count": 1
+    },
+    {
+      "name": "math emo",
+      "count": 1
+    }
+  ],
+  "Noragami": [
+    {
+      "name": "screamo",
+      "count": 100
+    },
+    {
+      "name": "idm",
+      "count": 25
+    },
+    {
+      "name": "emoviolence",
+      "count": 17
+    },
+    {
+      "name": "skramz",
+      "count": 17
+    }
+  ],
+  "Saetia": [
+    {
+      "name": "screamo",
+      "count": 100
+    },
+    {
+      "name": "real screamo",
+      "count": 34
+    },
+    {
+      "name": "emo",
+      "count": 17
+    },
+    {
+      "name": "emo violence",
+      "count": 17
+    },
+    {
+      "name": "hardcore",
+      "count": 8
+    },
+    {
+      "name": "post-hardcore",
+      "count": 2
+    },
+    {
+      "name": "skramz",
+      "count": 1
+    },
+    {
+      "name": "american",
+      "count": 1
+    },
+    {
+      "name": "emocore",
+      "count": 1
+    },
+    {
+      "name": "emoviolence",
+      "count": 1
+    }
+  ],
+  "seahorsechoke": [
+    {
+      "name": "screamo",
+      "count": 100
+    },
+    {
+      "name": "midwest emo",
+      "count": 25
+    },
+    {
+      "name": "emo",
+      "count": 7
+    },
+    {
+      "name": "skramz",
+      "count": 7
+    },
+    {
+      "name": "post-hardcore",
+      "count": 1
+    },
+    {
+      "name": "midwest screamo",
+      "count": 1
+    },
+    {
+      "name": "punk",
+      "count": 1
+    },
+    {
+      "name": "southwest emo",
+      "count": 1
+    }
+  ],
+  "Simon & Garfunkel": [
+    {
+      "name": "folk",
+      "count": 100
+    },
+    {
+      "name": "classic rock",
+      "count": 69
+    },
+    {
+      "name": "singer-songwriter",
+      "count": 37
+    },
+    {
+      "name": "acoustic",
+      "count": 33
+    },
+    {
+      "name": "rock",
+      "count": 12
+    },
+    {
+      "name": "folk rock",
+      "count": 7
+    },
+    {
+      "name": "60s",
+      "count": 6
+    },
+    {
+      "name": "american",
+      "count": 1
+    },
+    {
+      "name": "oldies",
+      "count": 1
+    },
+    {
+      "name": "pop",
+      "count": 1
+    }
+  ],
+  "sowithout.": [
+    {
+      "name": "screamo",
+      "count": 100
+    },
+    {
+      "name": "skramz",
+      "count": 39
+    },
+    {
+      "name": "emoviolence",
+      "count": 9
+    },
+    {
+      "name": "hardcore",
+      "count": 4
+    },
+    {
+      "name": "american",
+      "count": 2
+    },
+    {
+      "name": "emo",
+      "count": 2
+    },
+    {
+      "name": "metalcore",
+      "count": 2
+    },
+    {
+      "name": "post-hardcore",
+      "count": 1
+    },
+    {
+      "name": "female vocalists",
+      "count": 1
+    },
+    {
+      "name": "female vocal",
+      "count": 1
+    }
+  ],
+  "widowdusk": [
+    {
+      "name": "screamo",
+      "count": 100
+    },
+    {
+      "name": "skramz",
+      "count": 69
+    },
+    {
+      "name": "emo",
+      "count": 16
+    },
+    {
+      "name": "real screamo",
+      "count": 7
+    },
+    {
+      "name": "lo-fi",
+      "count": 1
+    },
+    {
+      "name": "california",
+      "count": 1
+    },
+    {
+      "name": "emoviolence",
+      "count": 1
+    },
+    {
+      "name": "tiktok",
+      "count": 1
+    },
+    {
+      "name": "midwest screamo",
+      "count": 1
+    },
+    {
+      "name": "powerviolence",
+      "count": 1
+    }
+  ],
+  "widowdusk & gavin m": []
 }
