@@ -393,10 +393,10 @@
       "height": 350,
       "tags": [],
       "popularity": {
-        "score": 37.1,
+        "score": 36.6,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 40
+        "globalusage": 38
       },
       "meta": {},
       "extras": {
@@ -751,7 +751,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-07-28T06:17:18.591Z",
+    "generated": "2026-08-01T08:01:54.291Z",
     "artist": {
       "qid": "Q276123",
       "name": "Helen McNicoll",

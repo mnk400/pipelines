@@ -1918,6 +1918,40 @@
       }
     },
     {
+      "id": "wd-Q110064879",
+      "title": "A small street in Sora",
+      "year": "1880",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Peder_Severin_Kr%C3%B8yer_-_Lille_gade_i_Sora_-_1880.png/960px-Peder_Severin_Kr%C3%B8yer_-_Lille_gade_i_Sora_-_1880.png",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Peder_Severin_Kr%C3%B8yer_-_Lille_gade_i_Sora_-_1880.png",
+      "width": 2738,
+      "height": 4276,
+      "tags": [],
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "meta": {
+        "Series": "travel"
+      },
+      "extras": {
+        "qid": "Q110064879",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 40,
+          "width_cm": 26
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://bruun-rasmussen.dk/m/lots/\">bruun-rasmussen.dk</a>.",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Peder_Severin_Kr%C3%B8yer\" class=\"extiw\" title=\"w:en:Peder Severin Krøyer\"><span title=\"Danish painter (1851-1909)\">Peder Severin Krøyer</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q37428349",
       "title": "Breakfast in Sora",
       "year": "1880",
@@ -1933,15 +1967,15 @@
         "globalusage": 9
       },
       "meta": {
-        "Collection": "National Museum of Art, Architecture and Design",
+        "Collection": "National Gallery of Norway",
         "Series": "gatherings"
       },
       "extras": {
         "qid": "Q37428349",
         "source": "wikidata",
         "dimensions": {
-          "height_cm": 23.9,
-          "width_cm": 32.7
+          "height_cm": 24,
+          "width_cm": 33
         },
         "license": {
           "short_name": "Public domain",
@@ -2134,8 +2168,8 @@
       "height": 6496,
       "tags": [],
       "popularity": {
-        "score": 195.4,
-        "pageviews_365d": 634,
+        "score": 34,
+        "pageviews_365d": 0,
         "sitelinks": 1,
         "globalusage": 14
       },
@@ -2168,8 +2202,8 @@
       "height": 1971,
       "tags": [],
       "popularity": {
-        "score": 277.6,
-        "pageviews_365d": 7281,
+        "score": 264.5,
+        "pageviews_365d": 4315,
         "sitelinks": 6,
         "globalusage": 35
       },
@@ -4124,8 +4158,8 @@
       "height": 4317,
       "tags": [],
       "popularity": {
-        "score": 162.3,
-        "pageviews_365d": 150,
+        "score": 162.2,
+        "pageviews_365d": 149,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -4467,8 +4501,8 @@
       "height": 5280,
       "tags": [],
       "popularity": {
-        "score": 339.6,
-        "pageviews_365d": 31868,
+        "score": 326,
+        "pageviews_365d": 18454,
         "sitelinks": 14,
         "globalusage": 206
       },
@@ -4762,40 +4796,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://bruun-rasmussen.dk/m/lots/B3A770C29294\">bruun-rasmussen.dk</a>.",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Peder_Severin_Kr%C3%B8yer\" class=\"extiw\" title=\"w:en:Peder Severin Krøyer\"><span title=\"Danish painter (1851-1909)\">Peder Severin Krøyer</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q110064879",
-      "title": "A narrow street with woman and child in Torello, Ravello, Italy.",
-      "year": "1890",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Peder_Severin_Kr%C3%B8yer_-_Sn%C3%A6ver_gade_med_siddende_kvinde_og_barn%2C_Torello_-_1890.png/960px-Peder_Severin_Kr%C3%B8yer_-_Sn%C3%A6ver_gade_med_siddende_kvinde_og_barn%2C_Torello_-_1890.png",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Peder_Severin_Kr%C3%B8yer_-_Sn%C3%A6ver_gade_med_siddende_kvinde_og_barn%2C_Torello_-_1890.png",
-      "width": 1257,
-      "height": 2009,
-      "tags": [],
-      "popularity": {
-        "score": 16.1,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 4
-      },
-      "meta": {
-        "Series": "travel"
-      },
-      "extras": {
-        "qid": "Q110064879",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 41,
-          "width_cm": 26.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://bruun-rasmussen.dk/m/lots/B01A54B2A791\">bruun-rasmussen.dk</a>.",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Peder_Severin_Kr%C3%B8yer\" class=\"extiw\" title=\"w:en:Peder Severin Krøyer\"><span title=\"Danish painter (1851-1909)\">Peder Severin Krøyer</span></a></bdi>"
         }
       }
@@ -5740,10 +5740,10 @@
       "height": 4201,
       "tags": [],
       "popularity": {
-        "score": 297.9,
-        "pageviews_365d": 10044,
+        "score": 292.8,
+        "pageviews_365d": 8238,
         "sitelinks": 10,
-        "globalusage": 77
+        "globalusage": 76
       },
       "meta": {
         "Collection": "Skagens Museum",
@@ -6011,8 +6011,8 @@
       "height": 6234,
       "tags": [],
       "popularity": {
-        "score": 297.6,
-        "pageviews_365d": 9599,
+        "score": 297.1,
+        "pageviews_365d": 9406,
         "sitelinks": 9,
         "globalusage": 92
       },
@@ -6149,8 +6149,8 @@
       "height": 2343,
       "tags": [],
       "popularity": {
-        "score": 319.9,
-        "pageviews_365d": 19295,
+        "score": 320.1,
+        "pageviews_365d": 19426,
         "sitelinks": 11,
         "globalusage": 125
       },
@@ -6458,8 +6458,8 @@
       "height": 2920,
       "tags": [],
       "popularity": {
-        "score": 290.9,
-        "pageviews_365d": 8366,
+        "score": 290.3,
+        "pageviews_365d": 8181,
         "sitelinks": 6,
         "globalusage": 95
       },
@@ -6560,8 +6560,8 @@
       "height": 619,
       "tags": [],
       "popularity": {
-        "score": 236.7,
-        "pageviews_365d": 2983,
+        "score": 236.4,
+        "pageviews_365d": 2955,
         "sitelinks": 2,
         "globalusage": 12
       },
@@ -6968,8 +6968,8 @@
       "height": 5615,
       "tags": [],
       "popularity": {
-        "score": 259.8,
-        "pageviews_365d": 3310,
+        "score": 259.5,
+        "pageviews_365d": 3274,
         "sitelinks": 3,
         "globalusage": 75
       },
@@ -7270,8 +7270,8 @@
       "height": 2984,
       "tags": [],
       "popularity": {
-        "score": 245.9,
-        "pageviews_365d": 3374,
+        "score": 226.6,
+        "pageviews_365d": 1559,
         "sitelinks": 3,
         "globalusage": 17
       },
@@ -7777,8 +7777,8 @@
       "height": 11698,
       "tags": [],
       "popularity": {
-        "score": 285.8,
-        "pageviews_365d": 10744,
+        "score": 283.5,
+        "pageviews_365d": 9787,
         "sitelinks": 11,
         "globalusage": 17
       },
@@ -8591,8 +8591,8 @@
       "height": 2026,
       "tags": [],
       "popularity": {
-        "score": 273.6,
-        "pageviews_365d": 7040,
+        "score": 274,
+        "pageviews_365d": 7134,
         "sitelinks": 7,
         "globalusage": 22
       },
@@ -8659,8 +8659,8 @@
       "height": 4579,
       "tags": [],
       "popularity": {
-        "score": 300.8,
-        "pageviews_365d": 12749,
+        "score": 301,
+        "pageviews_365d": 12863,
         "sitelinks": 8,
         "globalusage": 69
       },
@@ -9094,6 +9094,40 @@
       }
     },
     {
+      "id": "wd-Q140756332",
+      "title": "Skagen Beach. The moon is reflected in the sea. White clouds in the background.",
+      "year": "1909",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Peder_Severin_Kr%C3%B8yer_-_Skagens_S%C3%B8nderstrand._Maanen_spejler_sig_i_Havet._Hvide_Skyer_i_Baggrunden_-_1909.png/960px-Peder_Severin_Kr%C3%B8yer_-_Skagens_S%C3%B8nderstrand._Maanen_spejler_sig_i_Havet._Hvide_Skyer_i_Baggrunden_-_1909.png",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Peder_Severin_Kr%C3%B8yer_-_Skagens_S%C3%B8nderstrand._Maanen_spejler_sig_i_Havet._Hvide_Skyer_i_Baggrunden_-_1909.png",
+      "width": 4207,
+      "height": 2597,
+      "tags": [],
+      "popularity": {
+        "score": 11,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 2
+      },
+      "meta": {
+        "Series": "skagen"
+      },
+      "extras": {
+        "qid": "Q140756332",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 41,
+          "width_cm": 66
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://bruun-rasmussen.dk/m/lots/29CC29E6DE64\">bruun-rasmussen.dk</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Peder_Severin_Kr%C3%B8yer\" class=\"extiw\" title=\"w:en:Peder Severin Krøyer\"><span title=\"Danish painter (1851-1909)\">Peder Severin Krøyer</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q105509810",
       "title": "Vibeke Krøyer in the plantation",
       "year": "1909",
@@ -9335,7 +9369,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-07-28T06:16:19.908Z",
+    "generated": "2026-08-01T08:00:55.665Z",
     "artist": {
       "qid": "Q365068",
       "name": "Peder Severin Krøyer",
@@ -9346,6 +9380,6 @@
       "label": "paintings",
       "manifestKey": "paintings"
     },
-    "count": 273
+    "count": 274
   }
 }

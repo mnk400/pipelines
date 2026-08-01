@@ -12,8 +12,8 @@
       "height": 2103,
       "tags": [],
       "popularity": {
-        "score": 276.2,
-        "pageviews_365d": 5412,
+        "score": 275.7,
+        "pageviews_365d": 5302,
         "sitelinks": 9,
         "globalusage": 45
       },
@@ -251,8 +251,8 @@
       "height": 3510,
       "tags": [],
       "popularity": {
-        "score": 193.3,
-        "pageviews_365d": 452,
+        "score": 194.1,
+        "pageviews_365d": 467,
         "sitelinks": 2,
         "globalusage": 18
       },
@@ -285,8 +285,8 @@
       "height": 940,
       "tags": [],
       "popularity": {
-        "score": 186.5,
-        "pageviews_365d": 401,
+        "score": 193.5,
+        "pageviews_365d": 529,
         "sitelinks": 2,
         "globalusage": 12
       },
@@ -385,8 +385,8 @@
       "height": 355,
       "tags": [],
       "popularity": {
-        "score": 252.8,
-        "pageviews_365d": 3481,
+        "score": 243.1,
+        "pageviews_365d": 2359,
         "sitelinks": 6,
         "globalusage": 18
       },
@@ -453,10 +453,10 @@
       "height": 1869,
       "tags": [],
       "popularity": {
-        "score": 31.4,
+        "score": 30.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 22
+        "globalusage": 21
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston",
@@ -618,8 +618,8 @@
       "height": 602,
       "tags": [],
       "popularity": {
-        "score": 270.5,
-        "pageviews_365d": 5736,
+        "score": 268.7,
+        "pageviews_365d": 5328,
         "sitelinks": 8,
         "globalusage": 24
       },
@@ -814,8 +814,8 @@
       "height": 321,
       "tags": [],
       "popularity": {
-        "score": 235.8,
-        "pageviews_365d": 2220,
+        "score": 236.2,
+        "pageviews_365d": 2257,
         "sitelinks": 4,
         "globalusage": 14
       },
@@ -1151,8 +1151,8 @@
       "height": 1671,
       "tags": [],
       "popularity": {
-        "score": 250.1,
-        "pageviews_365d": 3258,
+        "score": 249.6,
+        "pageviews_365d": 3197,
         "sitelinks": 5,
         "globalusage": 19
       },
@@ -1290,8 +1290,8 @@
       "height": 521,
       "tags": [],
       "popularity": {
-        "score": 205,
-        "pageviews_365d": 990,
+        "score": 205.2,
+        "pageviews_365d": 997,
         "sitelinks": 1,
         "globalusage": 12
       },
@@ -1325,8 +1325,8 @@
       "height": 1716,
       "tags": [],
       "popularity": {
-        "score": 207.7,
-        "pageviews_365d": 893,
+        "score": 208.3,
+        "pageviews_365d": 915,
         "sitelinks": 3,
         "globalusage": 10
       },
@@ -1373,7 +1373,7 @@
         "source": "wikidata",
         "dimensions": {
           "height_cm": 22,
-          "width_cm": 61
+          "width_cm": 38
         },
         "license": {
           "short_name": "Public domain",
@@ -1394,8 +1394,8 @@
       "height": 1352,
       "tags": [],
       "popularity": {
-        "score": 256.7,
-        "pageviews_365d": 3764,
+        "score": 258.4,
+        "pageviews_365d": 4030,
         "sitelinks": 6,
         "globalusage": 22
       },
@@ -1463,8 +1463,8 @@
       "height": 4429,
       "tags": [],
       "popularity": {
-        "score": 304.9,
-        "pageviews_365d": 13401,
+        "score": 304.4,
+        "pageviews_365d": 13176,
         "sitelinks": 10,
         "globalusage": 75
       },
@@ -1497,10 +1497,10 @@
       "height": 871,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Fogg Museum"
@@ -1528,8 +1528,8 @@
       "height": 757,
       "tags": [],
       "popularity": {
-        "score": 248.1,
-        "pageviews_365d": 2631,
+        "score": 249.1,
+        "pageviews_365d": 2731,
         "sitelinks": 6,
         "globalusage": 23
       },
@@ -1557,16 +1557,16 @@
       "id": "wd-Q138007593",
       "title": "The Frost",
       "year": "1872",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/01/Le_Givre.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/0/01/Le_Givre.jpg",
-      "width": 768,
-      "height": 570,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Sisley_-_The-Frost.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Sisley_-_The-Frost.jpg",
+      "width": 300,
+      "height": 223,
       "tags": [],
       "popularity": {
-        "score": 13.9,
+        "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 3
+        "globalusage": 1
       },
       "meta": {
         "Series": "snow"
@@ -1582,7 +1582,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.impressionism.nl/sisley-overview-pictures/\">https://www.impressionism.nl/sisley-overview-pictures/</a>",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.alfredsisley.org/the-complete-works.html?ps=96&amp;pageno=9\">https://www.alfredsisley.org/the-complete-works.html?ps=96&amp;pageno=9</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
@@ -1597,8 +1597,8 @@
       "height": 800,
       "tags": [],
       "popularity": {
-        "score": 236.3,
-        "pageviews_365d": 2478,
+        "score": 237.8,
+        "pageviews_365d": 2623,
         "sitelinks": 4,
         "globalusage": 11
       },
@@ -1699,8 +1699,8 @@
       "height": 751,
       "tags": [],
       "popularity": {
-        "score": 190.5,
-        "pageviews_365d": 502,
+        "score": 191.2,
+        "pageviews_365d": 516,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -1769,8 +1769,8 @@
       "height": 480,
       "tags": [],
       "popularity": {
-        "score": 247.4,
-        "pageviews_365d": 2441,
+        "score": 248.7,
+        "pageviews_365d": 2570,
         "sitelinks": 6,
         "globalusage": 26
       },
@@ -1869,8 +1869,8 @@
       "height": 2595,
       "tags": [],
       "popularity": {
-        "score": 258.8,
-        "pageviews_365d": 4870,
+        "score": 258.1,
+        "pageviews_365d": 4738,
         "sitelinks": 6,
         "globalusage": 14
       },
@@ -2032,8 +2032,8 @@
       "height": 2265,
       "tags": [],
       "popularity": {
-        "score": 220.7,
-        "pageviews_365d": 1061,
+        "score": 221.6,
+        "pageviews_365d": 1099,
         "sitelinks": 2,
         "globalusage": 34
       },
@@ -2262,8 +2262,8 @@
       "height": 2472,
       "tags": [],
       "popularity": {
-        "score": 248.8,
-        "pageviews_365d": 4418,
+        "score": 248.9,
+        "pageviews_365d": 4446,
         "sitelinks": 6,
         "globalusage": 6
       },
@@ -2395,8 +2395,8 @@
       "height": 1787,
       "tags": [],
       "popularity": {
-        "score": 213.5,
-        "pageviews_365d": 609,
+        "score": 217.2,
+        "pageviews_365d": 705,
         "sitelinks": 3,
         "globalusage": 50
       },
@@ -2668,8 +2668,8 @@
       "height": 1917,
       "tags": [],
       "popularity": {
-        "score": 258.8,
-        "pageviews_365d": 5669,
+        "score": 259.1,
+        "pageviews_365d": 5730,
         "sitelinks": 7,
         "globalusage": 8
       },
@@ -3263,8 +3263,8 @@
       "height": 494,
       "tags": [],
       "popularity": {
-        "score": 185.7,
-        "pageviews_365d": 415,
+        "score": 197.5,
+        "pageviews_365d": 664,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -3602,8 +3602,8 @@
       "height": 3902,
       "tags": [],
       "popularity": {
-        "score": 210.8,
-        "pageviews_365d": 905,
+        "score": 210.4,
+        "pageviews_365d": 890,
         "sitelinks": 1,
         "globalusage": 28
       },
@@ -3701,8 +3701,8 @@
       "height": 2597,
       "tags": [],
       "popularity": {
-        "score": 254.5,
-        "pageviews_365d": 3890,
+        "score": 255.4,
+        "pageviews_365d": 4027,
         "sitelinks": 4,
         "globalusage": 23
       },
@@ -4145,8 +4145,8 @@
       "height": 521,
       "tags": [],
       "popularity": {
-        "score": 196.1,
-        "pageviews_365d": 714,
+        "score": 197.3,
+        "pageviews_365d": 750,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -4244,8 +4244,8 @@
       "height": 3644,
       "tags": [],
       "popularity": {
-        "score": 245.7,
-        "pageviews_365d": 3003,
+        "score": 247.4,
+        "pageviews_365d": 3216,
         "sitelinks": 4,
         "globalusage": 18
       },
@@ -4279,8 +4279,8 @@
       "height": 635,
       "tags": [],
       "popularity": {
-        "score": 231.8,
-        "pageviews_365d": 2122,
+        "score": 206.5,
+        "pageviews_365d": 773,
         "sitelinks": 3,
         "globalusage": 13
       },
@@ -4379,8 +4379,8 @@
       "height": 1805,
       "tags": [],
       "popularity": {
-        "score": 272.1,
-        "pageviews_365d": 5749,
+        "score": 270.5,
+        "pageviews_365d": 5389,
         "sitelinks": 8,
         "globalusage": 28
       },
@@ -4414,8 +4414,8 @@
       "height": 1944,
       "tags": [],
       "popularity": {
-        "score": 163.5,
-        "pageviews_365d": 204,
+        "score": 165.1,
+        "pageviews_365d": 217,
         "sitelinks": 2,
         "globalusage": 6
       },
@@ -4650,8 +4650,8 @@
       "height": 1702,
       "tags": [],
       "popularity": {
-        "score": 263.1,
-        "pageviews_365d": 3996,
+        "score": 263.6,
+        "pageviews_365d": 4086,
         "sitelinks": 7,
         "globalusage": 32
       },
@@ -4718,8 +4718,8 @@
       "height": 2090,
       "tags": [],
       "popularity": {
-        "score": 247.2,
-        "pageviews_365d": 2840,
+        "score": 246.6,
+        "pageviews_365d": 2779,
         "sitelinks": 6,
         "globalusage": 17
       },
@@ -5121,7 +5121,7 @@
       "tags": [],
       "popularity": {
         "score": 256,
-        "pageviews_365d": 4596,
+        "pageviews_365d": 4591,
         "sitelinks": 3,
         "globalusage": 22
       },
@@ -5349,8 +5349,8 @@
       "height": 2286,
       "tags": [],
       "popularity": {
-        "score": 262.3,
-        "pageviews_365d": 4578,
+        "score": 227,
+        "pageviews_365d": 1112,
         "sitelinks": 5,
         "globalusage": 28
       },
@@ -5755,8 +5755,8 @@
       "height": 219,
       "tags": [],
       "popularity": {
-        "score": 227.7,
-        "pageviews_365d": 2527,
+        "score": 228,
+        "pageviews_365d": 2560,
         "sitelinks": 3,
         "globalusage": 5
       },
@@ -5965,8 +5965,8 @@
       "height": 2179,
       "tags": [],
       "popularity": {
-        "score": 260.6,
-        "pageviews_365d": 4316,
+        "score": 253.1,
+        "pageviews_365d": 3194,
         "sitelinks": 9,
         "globalusage": 16
       },
@@ -6000,8 +6000,8 @@
       "height": 5046,
       "tags": [],
       "popularity": {
-        "score": 266.9,
-        "pageviews_365d": 4304,
+        "score": 263.3,
+        "pageviews_365d": 3720,
         "sitelinks": 6,
         "globalusage": 45
       },
@@ -6511,8 +6511,8 @@
       "height": 687,
       "tags": [],
       "popularity": {
-        "score": 220.8,
-        "pageviews_365d": 1834,
+        "score": 220.6,
+        "pageviews_365d": 1815,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -6711,8 +6711,8 @@
       "height": 945,
       "tags": [],
       "popularity": {
-        "score": 281.8,
-        "pageviews_365d": 8718,
+        "score": 268.7,
+        "pageviews_365d": 5166,
         "sitelinks": 8,
         "globalusage": 26
       },
@@ -6747,10 +6747,10 @@
       "height": 1740,
       "tags": [],
       "popularity": {
-        "score": 29.4,
+        "score": 30,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 18
+        "globalusage": 19
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston"
@@ -7438,8 +7438,8 @@
       "height": 3326,
       "tags": [],
       "popularity": {
-        "score": 231.7,
-        "pageviews_365d": 2235,
+        "score": 225.8,
+        "pageviews_365d": 1763,
         "sitelinks": 6,
         "globalusage": 6
       },
@@ -7610,8 +7610,8 @@
       "height": 662,
       "tags": [],
       "popularity": {
-        "score": 192.5,
-        "pageviews_365d": 565,
+        "score": 193.7,
+        "pageviews_365d": 594,
         "sitelinks": 2,
         "globalusage": 9
       },
@@ -7714,8 +7714,8 @@
       "height": 1909,
       "tags": [],
       "popularity": {
-        "score": 266.7,
-        "pageviews_365d": 3258,
+        "score": 267.8,
+        "pageviews_365d": 3408,
         "sitelinks": 8,
         "globalusage": 69
       },
@@ -7783,8 +7783,8 @@
       "height": 410,
       "tags": [],
       "popularity": {
-        "score": 240.6,
-        "pageviews_365d": 2617,
+        "score": 241.3,
+        "pageviews_365d": 2697,
         "sitelinks": 4,
         "globalusage": 15
       },
@@ -7958,10 +7958,10 @@
       "height": 1214,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston",
@@ -8028,8 +8028,8 @@
       "height": 2052,
       "tags": [],
       "popularity": {
-        "score": 216.6,
-        "pageviews_365d": 1164,
+        "score": 207.1,
+        "pageviews_365d": 795,
         "sitelinks": 4,
         "globalusage": 10
       },
@@ -8599,8 +8599,8 @@
       "height": 2407,
       "tags": [],
       "popularity": {
-        "score": 255.9,
-        "pageviews_365d": 3420,
+        "score": 258.5,
+        "pageviews_365d": 3803,
         "sitelinks": 8,
         "globalusage": 20
       },
@@ -9244,8 +9244,8 @@
       "height": 4253,
       "tags": [],
       "popularity": {
-        "score": 250.2,
-        "pageviews_365d": 3332,
+        "score": 245.2,
+        "pageviews_365d": 2736,
         "sitelinks": 5,
         "globalusage": 18
       },
@@ -11469,10 +11469,10 @@
       "height": 688,
       "tags": [],
       "popularity": {
-        "score": 27.7,
+        "score": 27.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 15
+        "globalusage": 14
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston"
@@ -11854,8 +11854,8 @@
       "height": 818,
       "tags": [],
       "popularity": {
-        "score": 263.5,
-        "pageviews_365d": 5423,
+        "score": 264.1,
+        "pageviews_365d": 5562,
         "sitelinks": 7,
         "globalusage": 15
       },
@@ -12014,8 +12014,8 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 220.6,
-        "pageviews_365d": 1203,
+        "score": 223.6,
+        "pageviews_365d": 1356,
         "sitelinks": 3,
         "globalusage": 18
       },
@@ -12323,8 +12323,8 @@
       "height": 3579,
       "tags": [],
       "popularity": {
-        "score": 169.6,
-        "pageviews_365d": 205,
+        "score": 173.2,
+        "pageviews_365d": 237,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -12626,10 +12626,10 @@
       "height": 640,
       "tags": [],
       "popularity": {
-        "score": 26.4,
+        "score": 25.6,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 13
+        "globalusage": 12
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston"
@@ -13552,10 +13552,10 @@
       "height": 1243,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston",
@@ -13653,8 +13653,8 @@
       "height": 1456,
       "tags": [],
       "popularity": {
-        "score": 208.6,
-        "pageviews_365d": 1180,
+        "score": 208.1,
+        "pageviews_365d": 1153,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -13823,8 +13823,8 @@
       "height": 4693,
       "tags": [],
       "popularity": {
-        "score": 203,
-        "pageviews_365d": 754,
+        "score": 203.2,
+        "pageviews_365d": 758,
         "sitelinks": 2,
         "globalusage": 13
       },
@@ -14570,10 +14570,10 @@
       "height": 1126,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston"
@@ -14994,8 +14994,8 @@
       "height": 1460,
       "tags": [],
       "popularity": {
-        "score": 213.8,
-        "pageviews_365d": 1276,
+        "score": 212.7,
+        "pageviews_365d": 1223,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -17812,8 +17812,8 @@
       "height": 2132,
       "tags": [],
       "popularity": {
-        "score": 229.9,
-        "pageviews_365d": 2352,
+        "score": 230.7,
+        "pageviews_365d": 2430,
         "sitelinks": 3,
         "globalusage": 8
       },
@@ -19082,10 +19082,10 @@
       "height": 4666,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 23,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 9
       },
       "meta": {
         "Collection": "Minneapolis Institute of Art",
@@ -20474,8 +20474,8 @@
       "height": 387,
       "tags": [],
       "popularity": {
-        "score": 249.9,
-        "pageviews_365d": 3328,
+        "score": 250.5,
+        "pageviews_365d": 3403,
         "sitelinks": 6,
         "globalusage": 15
       },
@@ -21242,10 +21242,10 @@
       "height": 2250,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Collection": "Art Institute of Chicago",
@@ -21669,8 +21669,8 @@
       "height": 3126,
       "tags": [],
       "popularity": {
-        "score": 185.3,
-        "pageviews_365d": 463,
+        "score": 185.5,
+        "pageviews_365d": 467,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -22082,8 +22082,8 @@
       "height": 800,
       "tags": [],
       "popularity": {
-        "score": 224.3,
-        "pageviews_365d": 1494,
+        "score": 227,
+        "pageviews_365d": 1665,
         "sitelinks": 3,
         "globalusage": 15
       },
@@ -22616,8 +22616,8 @@
       "height": 3665,
       "tags": [],
       "popularity": {
-        "score": 178.7,
-        "pageviews_365d": 290,
+        "score": 180.6,
+        "pageviews_365d": 313,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -22958,8 +22958,8 @@
       "height": 4047,
       "tags": [],
       "popularity": {
-        "score": 266.1,
-        "pageviews_365d": 5392,
+        "score": 263,
+        "pageviews_365d": 4763,
         "sitelinks": 6,
         "globalusage": 23
       },
@@ -23937,8 +23937,8 @@
       "height": 2836,
       "tags": [],
       "popularity": {
-        "score": 205.6,
-        "pageviews_365d": 861,
+        "score": 36.6,
+        "pageviews_365d": 0,
         "sitelinks": 2,
         "globalusage": 12
       },
@@ -26071,8 +26071,8 @@
       "height": 960,
       "tags": [],
       "popularity": {
-        "score": 196.8,
-        "pageviews_365d": 671,
+        "score": 197.1,
+        "pageviews_365d": 680,
         "sitelinks": 2,
         "globalusage": 9
       },
@@ -26461,8 +26461,8 @@
       "height": 4049,
       "tags": [],
       "popularity": {
-        "score": 209.2,
-        "pageviews_365d": 984,
+        "score": 209.5,
+        "pageviews_365d": 996,
         "sitelinks": 3,
         "globalusage": 9
       },
@@ -26991,7 +26991,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-07-28T06:51:49.362Z",
+    "generated": "2026-08-01T08:45:09.533Z",
     "artist": {
       "qid": "Q175130",
       "name": "Alfred Sisley",

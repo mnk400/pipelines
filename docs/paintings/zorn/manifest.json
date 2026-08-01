@@ -373,8 +373,8 @@
       "height": 3888,
       "tags": [],
       "popularity": {
-        "score": 208.1,
-        "pageviews_365d": 1120,
+        "score": 207.6,
+        "pageviews_365d": 1095,
         "sitelinks": 1,
         "globalusage": 12
       },
@@ -1342,6 +1342,40 @@
       }
     },
     {
+      "id": "wd-Q115606876",
+      "title": "A Romani Blacksmith Family",
+      "year": "1885",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/A_Romani_Blacksmith_Family_%281885%29%2C_by_Anders_Zorn.jpg/960px-A_Romani_Blacksmith_Family_%281885%29%2C_by_Anders_Zorn.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/b1/A_Romani_Blacksmith_Family_%281885%29%2C_by_Anders_Zorn.jpg",
+      "width": 1200,
+      "height": 1678,
+      "tags": [],
+      "popularity": {
+        "score": 13.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 3
+      },
+      "meta": {
+        "Collection": "Gothenburg Museum of Art"
+      },
+      "extras": {
+        "qid": "Q115606876",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 77,
+          "width_cm": 54.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.ttela.se/noje/zorn-en-konstens-zlatan.52692730-82ae-538a-b408-1b1812a7092f\">www.ttela.se</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anders_Zorn\" class=\"extiw\" title=\"w:en:Anders Zorn\"><span title=\"Swedish painter and engraver (1860-1920)\">Anders Zorn</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q18587481",
       "title": "Castles in the Air",
       "year": "1885",
@@ -1879,8 +1913,8 @@
       "height": 3077,
       "tags": [],
       "popularity": {
-        "score": 200.8,
-        "pageviews_365d": 688,
+        "score": 37.4,
+        "pageviews_365d": 0,
         "sitelinks": 2,
         "globalusage": 13
       },
@@ -1948,8 +1982,8 @@
       "height": 1902,
       "tags": [],
       "popularity": {
-        "score": 302.1,
-        "pageviews_365d": 13498,
+        "score": 302.5,
+        "pageviews_365d": 13713,
         "sitelinks": 7,
         "globalusage": 77
       },
@@ -2015,8 +2049,8 @@
       "height": 2371,
       "tags": [],
       "popularity": {
-        "score": 186.7,
-        "pageviews_365d": 432,
+        "score": 187.6,
+        "pageviews_365d": 448,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -2144,8 +2178,8 @@
       "height": 652,
       "tags": [],
       "popularity": {
-        "score": 186.8,
-        "pageviews_365d": 594,
+        "score": 185.2,
+        "pageviews_365d": 557,
         "sitelinks": 2,
         "globalusage": 4
       },
@@ -2424,8 +2458,8 @@
       "height": 1307,
       "tags": [],
       "popularity": {
-        "score": 205.6,
-        "pageviews_365d": 1080,
+        "score": 205.1,
+        "pageviews_365d": 1061,
         "sitelinks": 1,
         "globalusage": 10
       },
@@ -2548,8 +2582,8 @@
       "height": 4132,
       "tags": [],
       "popularity": {
-        "score": 261,
-        "pageviews_365d": 4184,
+        "score": 259,
+        "pageviews_365d": 3866,
         "sitelinks": 4,
         "globalusage": 37
       },
@@ -2713,8 +2747,8 @@
       "height": 5079,
       "tags": [],
       "popularity": {
-        "score": 168.5,
-        "pageviews_365d": 249,
+        "score": 169,
+        "pageviews_365d": 254,
         "sitelinks": 2,
         "globalusage": 6
       },
@@ -2998,8 +3032,8 @@
       "height": 1585,
       "tags": [],
       "popularity": {
-        "score": 194.9,
-        "pageviews_365d": 640,
+        "score": 195.4,
+        "pageviews_365d": 652,
         "sitelinks": 3,
         "globalusage": 6
       },
@@ -3096,8 +3130,8 @@
       "height": 2417,
       "tags": [],
       "popularity": {
-        "score": 203.8,
-        "pageviews_365d": 825,
+        "score": 204.8,
+        "pageviews_365d": 862,
         "sitelinks": 3,
         "globalusage": 8
       },
@@ -3326,8 +3360,8 @@
       "height": 2663,
       "tags": [],
       "popularity": {
-        "score": 219.2,
-        "pageviews_365d": 1532,
+        "score": 220.2,
+        "pageviews_365d": 1592,
         "sitelinks": 2,
         "globalusage": 11
       },
@@ -3361,8 +3395,8 @@
       "height": 502,
       "tags": [],
       "popularity": {
-        "score": 177.3,
-        "pageviews_365d": 444,
+        "score": 176.2,
+        "pageviews_365d": 425,
         "sitelinks": 1,
         "globalusage": 5
       },
@@ -3862,8 +3896,8 @@
       "height": 464,
       "tags": [],
       "popularity": {
-        "score": 251,
-        "pageviews_365d": 4759,
+        "score": 251.1,
+        "pageviews_365d": 4766,
         "sitelinks": 2,
         "globalusage": 16
       },
@@ -3896,8 +3930,8 @@
       "height": 1557,
       "tags": [],
       "popularity": {
-        "score": 209.6,
-        "pageviews_365d": 1272,
+        "score": 210.7,
+        "pageviews_365d": 1328,
         "sitelinks": 1,
         "globalusage": 10
       },
@@ -3930,8 +3964,8 @@
       "height": 3543,
       "tags": [],
       "popularity": {
-        "score": 109.1,
-        "pageviews_365d": 21,
+        "score": 112.3,
+        "pageviews_365d": 24,
         "sitelinks": 1,
         "globalusage": 11
       },
@@ -3965,8 +3999,8 @@
       "height": 4649,
       "tags": [],
       "popularity": {
-        "score": 163.6,
-        "pageviews_365d": 185,
+        "score": 165.9,
+        "pageviews_365d": 203,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -4030,8 +4064,8 @@
       "height": 3121,
       "tags": [],
       "popularity": {
-        "score": 233.3,
-        "pageviews_365d": 2577,
+        "score": 233,
+        "pageviews_365d": 2549,
         "sitelinks": 3,
         "globalusage": 9
       },
@@ -4100,8 +4134,8 @@
       "height": 6963,
       "tags": [],
       "popularity": {
-        "score": 222.9,
-        "pageviews_365d": 2458,
+        "score": 223.5,
+        "pageviews_365d": 2514,
         "sitelinks": 1,
         "globalusage": 7
       },
@@ -4164,8 +4198,8 @@
       "height": 2500,
       "tags": [],
       "popularity": {
-        "score": 256.5,
-        "pageviews_365d": 4521,
+        "score": 257.1,
+        "pageviews_365d": 4630,
         "sitelinks": 4,
         "globalusage": 19
       },
@@ -4229,8 +4263,8 @@
       "height": 3000,
       "tags": [],
       "popularity": {
-        "score": 203.9,
-        "pageviews_365d": 722,
+        "score": 204.5,
+        "pageviews_365d": 739,
         "sitelinks": 2,
         "globalusage": 16
       },
@@ -4317,8 +4351,8 @@
       "height": 3556,
       "tags": [],
       "popularity": {
-        "score": 271.7,
-        "pageviews_365d": 6196,
+        "score": 270.7,
+        "pageviews_365d": 5967,
         "sitelinks": 7,
         "globalusage": 25
       },
@@ -4450,8 +4484,8 @@
       "height": 1381,
       "tags": [],
       "popularity": {
-        "score": 197.5,
-        "pageviews_365d": 937,
+        "score": 198.3,
+        "pageviews_365d": 967,
         "sitelinks": 1,
         "globalusage": 6
       },
@@ -5143,8 +5177,8 @@
       "height": 3547,
       "tags": [],
       "popularity": {
-        "score": 279.8,
-        "pageviews_365d": 10680,
+        "score": 280.4,
+        "pageviews_365d": 10965,
         "sitelinks": 5,
         "globalusage": 19
       },
@@ -5343,8 +5377,8 @@
       "height": 1404,
       "tags": [],
       "popularity": {
-        "score": 216.3,
-        "pageviews_365d": 771,
+        "score": 217.7,
+        "pageviews_365d": 815,
         "sitelinks": 1,
         "globalusage": 74
       },
@@ -5495,10 +5529,10 @@
       "height": 1600,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston"
@@ -5529,8 +5563,8 @@
       "height": 5849,
       "tags": [],
       "popularity": {
-        "score": 226.9,
-        "pageviews_365d": 1392,
+        "score": 227.8,
+        "pageviews_365d": 1442,
         "sitelinks": 2,
         "globalusage": 32
       },
@@ -5663,10 +5697,10 @@
       "height": 1598,
       "tags": [],
       "popularity": {
-        "score": 30,
+        "score": 29.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 19
+        "globalusage": 18
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston",
@@ -5732,8 +5766,8 @@
       "height": 2456,
       "tags": [],
       "popularity": {
-        "score": 192.1,
-        "pageviews_365d": 754,
+        "score": 193,
+        "pageviews_365d": 784,
         "sitelinks": 1,
         "globalusage": 6
       },
@@ -6309,8 +6343,8 @@
       "height": 1056,
       "tags": [],
       "popularity": {
-        "score": 240.5,
-        "pageviews_365d": 2177,
+        "score": 238.7,
+        "pageviews_365d": 2024,
         "sitelinks": 2,
         "globalusage": 41
       },
@@ -6539,8 +6573,8 @@
       "height": 1591,
       "tags": [],
       "popularity": {
-        "score": 202.7,
-        "pageviews_365d": 929,
+        "score": 201.6,
+        "pageviews_365d": 892,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -6703,10 +6737,10 @@
       "height": 480,
       "tags": [],
       "popularity": {
-        "score": 210.7,
-        "pageviews_365d": 501,
+        "score": 55.1,
+        "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 124
+        "globalusage": 123
       },
       "meta": {
         "Collection": "Zorn Collections"
@@ -6765,10 +6799,10 @@
       "height": 3489,
       "tags": [],
       "popularity": {
-        "score": 38.3,
+        "score": 38.7,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 22
+        "globalusage": 23
       },
       "meta": {
         "Collection": "Nationalmuseum",
@@ -7388,8 +7422,8 @@
       "height": 1413,
       "tags": [],
       "popularity": {
-        "score": 230,
-        "pageviews_365d": 1341,
+        "score": 230.8,
+        "pageviews_365d": 1385,
         "sitelinks": 2,
         "globalusage": 48
       },
@@ -7646,8 +7680,8 @@
       "height": 1600,
       "tags": [],
       "popularity": {
-        "score": 191.4,
-        "pageviews_365d": 541,
+        "score": 179.4,
+        "pageviews_365d": 334,
         "sitelinks": 2,
         "globalusage": 9
       },
@@ -7674,8 +7708,8 @@
       "height": 3462,
       "tags": [],
       "popularity": {
-        "score": 147.1,
-        "pageviews_365d": 142,
+        "score": 150.5,
+        "pageviews_365d": 163,
         "sitelinks": 1,
         "globalusage": 4
       },
@@ -7768,8 +7802,8 @@
       "height": 5064,
       "tags": [],
       "popularity": {
-        "score": 232.4,
-        "pageviews_365d": 1904,
+        "score": 232.8,
+        "pageviews_365d": 1938,
         "sitelinks": 2,
         "globalusage": 25
       },
@@ -8067,8 +8101,8 @@
       "height": 3264,
       "tags": [],
       "popularity": {
-        "score": 210,
-        "pageviews_365d": 970,
+        "score": 210.2,
+        "pageviews_365d": 976,
         "sitelinks": 2,
         "globalusage": 14
       },
@@ -9755,10 +9789,10 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston",
@@ -10029,7 +10063,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-07-28T07:05:47.012Z",
+    "generated": "2026-08-01T09:00:04.661Z",
     "artist": {
       "qid": "Q206820",
       "name": "Anders Zorn",
@@ -10040,6 +10074,6 @@
       "label": "paintings",
       "manifestKey": "paintings"
     },
-    "count": 311
+    "count": 312
   }
 }

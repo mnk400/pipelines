@@ -381,8 +381,8 @@
       "height": 4567,
       "tags": [],
       "popularity": {
-        "score": 205.9,
-        "pageviews_365d": 1058,
+        "score": 206.3,
+        "pageviews_365d": 1073,
         "sitelinks": 1,
         "globalusage": 11
       },
@@ -1116,8 +1116,8 @@
       "height": 7116,
       "tags": [],
       "popularity": {
-        "score": 268.2,
-        "pageviews_365d": 5088,
+        "score": 251.9,
+        "pageviews_365d": 2650,
         "sitelinks": 7,
         "globalusage": 29
       },
@@ -1398,8 +1398,8 @@
       "height": 903,
       "tags": [],
       "popularity": {
-        "score": 259.4,
-        "pageviews_365d": 4655,
+        "score": 261,
+        "pageviews_365d": 4949,
         "sitelinks": 4,
         "globalusage": 24
       },
@@ -1537,8 +1537,8 @@
       "height": 720,
       "tags": [],
       "popularity": {
-        "score": 280.5,
-        "pageviews_365d": 7751,
+        "score": 281,
+        "pageviews_365d": 7892,
         "sitelinks": 7,
         "globalusage": 35
       },
@@ -1572,8 +1572,8 @@
       "height": 3266,
       "tags": [],
       "popularity": {
-        "score": 224.5,
-        "pageviews_365d": 2501,
+        "score": 224.6,
+        "pageviews_365d": 2509,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -1707,8 +1707,8 @@
       "height": 4887,
       "tags": [],
       "popularity": {
-        "score": 201.9,
-        "pageviews_365d": 1013,
+        "score": 202.7,
+        "pageviews_365d": 1044,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -1812,8 +1812,8 @@
       "height": 2000,
       "tags": [],
       "popularity": {
-        "score": 190.6,
-        "pageviews_365d": 498,
+        "score": 190.7,
+        "pageviews_365d": 500,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -2163,8 +2163,8 @@
       "height": 2955,
       "tags": [],
       "popularity": {
-        "score": 279,
-        "pageviews_365d": 8746,
+        "score": 278.7,
+        "pageviews_365d": 8635,
         "sitelinks": 2,
         "globalusage": 60
       },
@@ -2579,8 +2579,8 @@
       "height": 3319,
       "tags": [],
       "popularity": {
-        "score": 178.3,
-        "pageviews_365d": 363,
+        "score": 185.4,
+        "pageviews_365d": 481,
         "sitelinks": 1,
         "globalusage": 10
       },
@@ -2821,8 +2821,8 @@
       "height": 3225,
       "tags": [],
       "popularity": {
-        "score": 208.8,
-        "pageviews_365d": 1567,
+        "score": 209,
+        "pageviews_365d": 1578,
         "sitelinks": 1,
         "globalusage": 5
       },
@@ -3329,8 +3329,8 @@
       "height": 3200,
       "tags": [],
       "popularity": {
-        "score": 234,
-        "pageviews_365d": 2902,
+        "score": 234.1,
+        "pageviews_365d": 2910,
         "sitelinks": 3,
         "globalusage": 7
       },
@@ -3602,8 +3602,8 @@
       "height": 3168,
       "tags": [],
       "popularity": {
-        "score": 160.5,
-        "pageviews_365d": 161,
+        "score": 169.3,
+        "pageviews_365d": 229,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -3930,7 +3930,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-07-28T06:13:01.656Z",
+    "generated": "2026-08-01T07:57:15.404Z",
     "artist": {
       "qid": "Q380706",
       "name": "Vilhelm Hammershøi",

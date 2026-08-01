@@ -444,8 +444,8 @@
       "height": 10654,
       "tags": [],
       "popularity": {
-        "score": 190.8,
-        "pageviews_365d": 578,
+        "score": 192,
+        "pageviews_365d": 607,
         "sitelinks": 3,
         "globalusage": 5
       },
@@ -542,8 +542,8 @@
       "height": 2004,
       "tags": [],
       "popularity": {
-        "score": 185.5,
-        "pageviews_365d": 397,
+        "score": 187.5,
+        "pageviews_365d": 430,
         "sitelinks": 2,
         "globalusage": 11
       },
@@ -701,8 +701,8 @@
       "height": 1453,
       "tags": [],
       "popularity": {
-        "score": 186.4,
-        "pageviews_365d": 342,
+        "score": 187.5,
+        "pageviews_365d": 358,
         "sitelinks": 2,
         "globalusage": 18
       },
@@ -1216,8 +1216,8 @@
       "height": 12149,
       "tags": [],
       "popularity": {
-        "score": 221.6,
-        "pageviews_365d": 1004,
+        "score": 214.3,
+        "pageviews_365d": 748,
         "sitelinks": 3,
         "globalusage": 32
       },
@@ -1443,8 +1443,8 @@
       "height": 1000,
       "tags": [],
       "popularity": {
-        "score": 184.2,
-        "pageviews_365d": 443,
+        "score": 186.4,
+        "pageviews_365d": 484,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -1505,8 +1505,8 @@
       "height": 7667,
       "tags": [],
       "popularity": {
-        "score": 207.5,
-        "pageviews_365d": 468,
+        "score": 210.5,
+        "pageviews_365d": 527,
         "sitelinks": 2,
         "globalusage": 71
       },
@@ -1539,8 +1539,8 @@
       "height": 1000,
       "tags": [],
       "popularity": {
-        "score": 183.3,
-        "pageviews_365d": 451,
+        "score": 187.5,
+        "pageviews_365d": 533,
         "sitelinks": 2,
         "globalusage": 6
       },
@@ -1801,6 +1801,37 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/mwFfEenQjCQ5aA\">mwFfEenQjCQ5aA at Google Cultural Institute</a> maximum zoom level",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_Singer_Sargent\" class=\"extiw\" title=\"w:en:John Singer Sargent\"><span title=\"American painter (1856–1925)\">John Singer Sargent</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q49255322",
+      "title": "A Moroccan Street Scene",
+      "year": "1880",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/John_Singer_Sargent_-_A_Moroccan_Street_Scene_-_1966.79.13_-_Yale_University_Art_Gallery.jpg/960px-John_Singer_Sargent_-_A_Moroccan_Street_Scene_-_1966.79.13_-_Yale_University_Art_Gallery.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c8/John_Singer_Sargent_-_A_Moroccan_Street_Scene_-_1966.79.13_-_Yale_University_Art_Gallery.jpg",
+      "width": 1501,
+      "height": 1920,
+      "tags": [],
+      "popularity": {
+        "score": 17.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 5
+      },
+      "meta": {
+        "Collection": "Yale University Art Gallery"
+      },
+      "extras": {
+        "qid": "Q49255322",
+        "source": "wikidata",
+        "iiif": "http://nationalmuseumse.iiifhosting.com/iiif/91ce5aa5c2761bd97ebc467220ef9a5928f3802e71b6f8fd4bccf4aee7c093c1//manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://artgallery.yale.edu/collections/objects/8888\">https://artgallery.yale.edu/collections/objects/8888</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_Singer_Sargent\" class=\"extiw\" title=\"w:en:John Singer Sargent\"><span title=\"American painter (1856–1925)\">John Singer Sargent</span></a></bdi>"
         }
       }
@@ -2118,8 +2149,8 @@
       "height": 1275,
       "tags": [],
       "popularity": {
-        "score": 190.2,
-        "pageviews_365d": 537,
+        "score": 191.9,
+        "pageviews_365d": 576,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -2187,8 +2218,8 @@
       "height": 3912,
       "tags": [],
       "popularity": {
-        "score": 197.6,
-        "pageviews_365d": 589,
+        "score": 198.2,
+        "pageviews_365d": 604,
         "sitelinks": 2,
         "globalusage": 14
       },
@@ -2252,8 +2283,8 @@
       "height": 674,
       "tags": [],
       "popularity": {
-        "score": 181.2,
-        "pageviews_365d": 324,
+        "score": 182.7,
+        "pageviews_365d": 343,
         "sitelinks": 2,
         "globalusage": 12
       },
@@ -2321,8 +2352,8 @@
       "height": 10341,
       "tags": [],
       "popularity": {
-        "score": 232.3,
-        "pageviews_365d": 3048,
+        "score": 233.3,
+        "pageviews_365d": 3171,
         "sitelinks": 3,
         "globalusage": 5
       },
@@ -2424,8 +2455,8 @@
       "height": 6829,
       "tags": [],
       "popularity": {
-        "score": 319.9,
-        "pageviews_365d": 37524,
+        "score": 319.1,
+        "pageviews_365d": 36317,
         "sitelinks": 7,
         "globalusage": 35
       },
@@ -2494,8 +2525,8 @@
       "height": 3453,
       "tags": [],
       "popularity": {
-        "score": 229.7,
-        "pageviews_365d": 1738,
+        "score": 230,
+        "pageviews_365d": 1760,
         "sitelinks": 2,
         "globalusage": 24
       },
@@ -2528,8 +2559,8 @@
       "height": 1000,
       "tags": [],
       "popularity": {
-        "score": 171.1,
-        "pageviews_365d": 458,
+        "score": 172.9,
+        "pageviews_365d": 492,
         "sitelinks": 2,
         "globalusage": 1
       },
@@ -2661,8 +2692,8 @@
       "height": 2028,
       "tags": [],
       "popularity": {
-        "score": 335.7,
-        "pageviews_365d": 52443,
+        "score": 334.5,
+        "pageviews_365d": 49986,
         "sitelinks": 8,
         "globalusage": 66
       },
@@ -2696,8 +2727,8 @@
       "height": 2515,
       "tags": [],
       "popularity": {
-        "score": 290,
-        "pageviews_365d": 14256,
+        "score": 287.7,
+        "pageviews_365d": 12989,
         "sitelinks": 8,
         "globalusage": 17
       },
@@ -2731,8 +2762,8 @@
       "height": 610,
       "tags": [],
       "popularity": {
-        "score": 183.2,
-        "pageviews_365d": 449,
+        "score": 185.9,
+        "pageviews_365d": 500,
         "sitelinks": 2,
         "globalusage": 6
       },
@@ -2765,8 +2796,8 @@
       "height": 3000,
       "tags": [],
       "popularity": {
-        "score": 184,
-        "pageviews_365d": 440,
+        "score": 185.2,
+        "pageviews_365d": 461,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -2836,8 +2867,8 @@
       "height": 1000,
       "tags": [],
       "popularity": {
-        "score": 190,
-        "pageviews_365d": 511,
+        "score": 192.6,
+        "pageviews_365d": 567,
         "sitelinks": 2,
         "globalusage": 9
       },
@@ -2901,8 +2932,8 @@
       "height": 732,
       "tags": [],
       "popularity": {
-        "score": 181.9,
-        "pageviews_365d": 385,
+        "score": 183.8,
+        "pageviews_365d": 416,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -2935,8 +2966,8 @@
       "height": 7499,
       "tags": [],
       "popularity": {
-        "score": 279.4,
-        "pageviews_365d": 8772,
+        "score": 279.9,
+        "pageviews_365d": 8934,
         "sitelinks": 8,
         "globalusage": 20
       },
@@ -3035,10 +3066,10 @@
       "height": 2026,
       "tags": [],
       "popularity": {
-        "score": 348.5,
-        "pageviews_365d": 74960,
+        "score": 347.6,
+        "pageviews_365d": 73063,
         "sitelinks": 16,
-        "globalusage": 51
+        "globalusage": 50
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston"
@@ -3069,8 +3100,8 @@
       "height": 4080,
       "tags": [],
       "popularity": {
-        "score": 173.9,
-        "pageviews_365d": 309,
+        "score": 175.9,
+        "pageviews_365d": 336,
         "sitelinks": 2,
         "globalusage": 6
       },
@@ -3203,8 +3234,8 @@
       "height": 1027,
       "tags": [],
       "popularity": {
-        "score": 181.2,
-        "pageviews_365d": 441,
+        "score": 185.2,
+        "pageviews_365d": 518,
         "sitelinks": 2,
         "globalusage": 5
       },
@@ -3343,8 +3374,8 @@
       "height": 4000,
       "tags": [],
       "popularity": {
-        "score": 216.8,
-        "pageviews_365d": 1392,
+        "score": 217.7,
+        "pageviews_365d": 1440,
         "sitelinks": 3,
         "globalusage": 8
       },
@@ -3379,8 +3410,8 @@
       "height": 1130,
       "tags": [],
       "popularity": {
-        "score": 180.9,
-        "pageviews_365d": 355,
+        "score": 182.6,
+        "pageviews_365d": 381,
         "sitelinks": 2,
         "globalusage": 9
       },
@@ -3413,8 +3444,8 @@
       "height": 1000,
       "tags": [],
       "popularity": {
-        "score": 171.5,
-        "pageviews_365d": 234,
+        "score": 177.3,
+        "pageviews_365d": 296,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -3573,8 +3604,8 @@
       "height": 3722,
       "tags": [],
       "popularity": {
-        "score": 405.1,
-        "pageviews_365d": 459434,
+        "score": 403.2,
+        "pageviews_365d": 426446,
         "sitelinks": 26,
         "globalusage": 100
       },
@@ -3608,8 +3639,8 @@
       "height": 2599,
       "tags": [],
       "popularity": {
-        "score": 214.2,
-        "pageviews_365d": 1043,
+        "score": 213.9,
+        "pageviews_365d": 1031,
         "sitelinks": 2,
         "globalusage": 18
       },
@@ -3702,8 +3733,8 @@
       "height": 6489,
       "tags": [],
       "popularity": {
-        "score": 175.2,
-        "pageviews_365d": 309,
+        "score": 177.2,
+        "pageviews_365d": 335,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -3737,8 +3768,8 @@
       "height": 1000,
       "tags": [],
       "popularity": {
-        "score": 171,
-        "pageviews_365d": 276,
+        "score": 174.1,
+        "pageviews_365d": 312,
         "sitelinks": 2,
         "globalusage": 6
       },
@@ -3807,8 +3838,8 @@
       "height": 2880,
       "tags": [],
       "popularity": {
-        "score": 176.1,
-        "pageviews_365d": 321,
+        "score": 178.7,
+        "pageviews_365d": 355,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -3842,8 +3873,8 @@
       "height": 800,
       "tags": [],
       "popularity": {
-        "score": 181.7,
-        "pageviews_365d": 382,
+        "score": 183.5,
+        "pageviews_365d": 411,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -3911,8 +3942,8 @@
       "height": 824,
       "tags": [],
       "popularity": {
-        "score": 199.3,
-        "pageviews_365d": 812,
+        "score": 200.6,
+        "pageviews_365d": 854,
         "sitelinks": 3,
         "globalusage": 5
       },
@@ -3945,8 +3976,8 @@
       "height": 738,
       "tags": [],
       "popularity": {
-        "score": 284.3,
-        "pageviews_365d": 9388,
+        "score": 282,
+        "pageviews_365d": 8553,
         "sitelinks": 8,
         "globalusage": 28
       },
@@ -3979,8 +4010,8 @@
       "height": 2362,
       "tags": [],
       "popularity": {
-        "score": 205.6,
-        "pageviews_365d": 793,
+        "score": 207.1,
+        "pageviews_365d": 840,
         "sitelinks": 2,
         "globalusage": 15
       },
@@ -4013,8 +4044,8 @@
       "height": 1265,
       "tags": [],
       "popularity": {
-        "score": 240.8,
-        "pageviews_365d": 1700,
+        "score": 247.5,
+        "pageviews_365d": 2223,
         "sitelinks": 3,
         "globalusage": 59
       },
@@ -4150,8 +4181,8 @@
       "height": 2000,
       "tags": [],
       "popularity": {
-        "score": 195.6,
-        "pageviews_365d": 739,
+        "score": 195.4,
+        "pageviews_365d": 734,
         "sitelinks": 2,
         "globalusage": 6
       },
@@ -4185,8 +4216,8 @@
       "height": 2963,
       "tags": [],
       "popularity": {
-        "score": 254.5,
-        "pageviews_365d": 2612,
+        "score": 255.5,
+        "pageviews_365d": 2713,
         "sitelinks": 4,
         "globalusage": 64
       },
@@ -4315,8 +4346,8 @@
       "height": 7244,
       "tags": [],
       "popularity": {
-        "score": 184.5,
-        "pageviews_365d": 428,
+        "score": 187.1,
+        "pageviews_365d": 476,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -4412,8 +4443,8 @@
       "height": 1054,
       "tags": [],
       "popularity": {
-        "score": 179.9,
-        "pageviews_365d": 304,
+        "score": 184,
+        "pageviews_365d": 359,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -4447,8 +4478,8 @@
       "height": 4001,
       "tags": [],
       "popularity": {
-        "score": 257.8,
-        "pageviews_365d": 4347,
+        "score": 256,
+        "pageviews_365d": 4051,
         "sitelinks": 6,
         "globalusage": 17
       },
@@ -4483,8 +4514,8 @@
       "height": 1200,
       "tags": [],
       "popularity": {
-        "score": 200.8,
-        "pageviews_365d": 353,
+        "score": 54,
+        "pageviews_365d": 0,
         "sitelinks": 2,
         "globalusage": 73
       },
@@ -5086,8 +5117,8 @@
       "height": 4694,
       "tags": [],
       "popularity": {
-        "score": 221,
-        "pageviews_365d": 1576,
+        "score": 221.6,
+        "pageviews_365d": 1619,
         "sitelinks": 4,
         "globalusage": 7
       },
@@ -5285,8 +5316,8 @@
       "height": 3975,
       "tags": [],
       "popularity": {
-        "score": 186.8,
-        "pageviews_365d": 350,
+        "score": 195.4,
+        "pageviews_365d": 494,
         "sitelinks": 3,
         "globalusage": 13
       },
@@ -5353,8 +5384,8 @@
       "height": 3750,
       "tags": [],
       "popularity": {
-        "score": 318.1,
-        "pageviews_365d": 27672,
+        "score": 317.8,
+        "pageviews_365d": 27373,
         "sitelinks": 7,
         "globalusage": 63
       },
@@ -5555,8 +5586,8 @@
       "height": 5000,
       "tags": [],
       "popularity": {
-        "score": 191.4,
-        "pageviews_365d": 625,
+        "score": 194.3,
+        "pageviews_365d": 700,
         "sitelinks": 2,
         "globalusage": 6
       },
@@ -6123,8 +6154,8 @@
       "height": 3000,
       "tags": [],
       "popularity": {
-        "score": 245.9,
-        "pageviews_365d": 4322,
+        "score": 36.6,
+        "pageviews_365d": 0,
         "sitelinks": 2,
         "globalusage": 12
       },
@@ -6388,10 +6419,10 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 3
       },
       "meta": {
         "Collection": "Fogg Museum"
@@ -6701,8 +6732,8 @@
       "height": 17197,
       "tags": [],
       "popularity": {
-        "score": 186.9,
-        "pageviews_365d": 435,
+        "score": 186.4,
+        "pageviews_365d": 427,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -6837,8 +6868,8 @@
       "height": 6324,
       "tags": [],
       "popularity": {
-        "score": 341.2,
-        "pageviews_365d": 67769,
+        "score": 339.7,
+        "pageviews_365d": 63853,
         "sitelinks": 11,
         "globalusage": 45
       },
@@ -6872,8 +6903,8 @@
       "height": 3676,
       "tags": [],
       "popularity": {
-        "score": 279.1,
-        "pageviews_365d": 5489,
+        "score": 278.8,
+        "pageviews_365d": 5425,
         "sitelinks": 7,
         "globalusage": 73
       },
@@ -7322,41 +7353,6 @@
       }
     },
     {
-      "id": "wd-Q119147313",
-      "title": "Mrs George Batten Singing",
-      "year": "1895",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6c/John_Singer_Sargent_-_Mabel_Batten.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/6/6c/John_Singer_Sargent_-_Mabel_Batten.jpg",
-      "width": 700,
-      "height": 1467,
-      "tags": [],
-      "popularity": {
-        "score": 28.3,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 16
-      },
-      "meta": {
-        "Collection": "Glasgow Museums Resource Centre",
-        "Series": "portrait"
-      },
-      "extras": {
-        "qid": "Q119147313",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 88.9,
-          "width_cm": 43.2
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://jssgallery.org/Paintings/Mrs_George_Batten_Singing.htm\">jssgallery.org</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_Singer_Sargent\" class=\"extiw\" title=\"w:en:John Singer Sargent\"><span title=\"American painter (1856–1925)\">John Singer Sargent</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q19924856",
       "title": "Street, Tangier",
       "year": "1895",
@@ -7738,8 +7734,8 @@
       "height": 3722,
       "tags": [],
       "popularity": {
-        "score": 293.4,
-        "pageviews_365d": 9628,
+        "score": 293.3,
+        "pageviews_365d": 9568,
         "sitelinks": 7,
         "globalusage": 75
       },
@@ -7759,6 +7755,41 @@
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
           "usage_terms": "Creative Commons Zero, Public Domain Dedication",
           "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_Singer_Sargent\" class=\"extiw\" title=\"w:en:John Singer Sargent\"><span title=\"American painter (1856–1925)\">John Singer Sargent</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q119147313",
+      "title": "Mrs George Batten Singing",
+      "year": "1897",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6c/John_Singer_Sargent_-_Mabel_Batten.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/6c/John_Singer_Sargent_-_Mabel_Batten.jpg",
+      "width": 700,
+      "height": 1467,
+      "tags": [],
+      "popularity": {
+        "score": 28.3,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 16
+      },
+      "meta": {
+        "Collection": "Glasgow Museums Resource Centre",
+        "Series": "portrait"
+      },
+      "extras": {
+        "qid": "Q119147313",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 88.9,
+          "width_cm": 43.2
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://jssgallery.org/Paintings/Mrs_George_Batten_Singing.htm\">jssgallery.org</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_Singer_Sargent\" class=\"extiw\" title=\"w:en:John Singer Sargent\"><span title=\"American painter (1856–1925)\">John Singer Sargent</span></a></bdi>"
         }
       }
@@ -7838,8 +7869,8 @@
       "height": 801,
       "tags": [],
       "popularity": {
-        "score": 229,
-        "pageviews_365d": 3142,
+        "score": 231.5,
+        "pageviews_365d": 3469,
         "sitelinks": 3,
         "globalusage": 3
       },
@@ -8417,8 +8448,8 @@
       "height": 3722,
       "tags": [],
       "popularity": {
-        "score": 314.2,
-        "pageviews_365d": 17169,
+        "score": 314.3,
+        "pageviews_365d": 17245,
         "sitelinks": 10,
         "globalusage": 103
       },
@@ -8624,7 +8655,7 @@
         "globalusage": 7
       },
       "meta": {
-        "Collection": "National Gallery"
+        "Collection": "Tate"
       },
       "extras": {
         "qid": "Q28540991",
@@ -9192,8 +9223,8 @@
       "height": 6000,
       "tags": [],
       "popularity": {
-        "score": 269.9,
-        "pageviews_365d": 5029,
+        "score": 270.8,
+        "pageviews_365d": 5214,
         "sitelinks": 5,
         "globalusage": 48
       },
@@ -9364,8 +9395,8 @@
       "height": 885,
       "tags": [],
       "popularity": {
-        "score": 201.1,
-        "pageviews_365d": 697,
+        "score": 209.8,
+        "pageviews_365d": 988,
         "sitelinks": 1,
         "globalusage": 20
       },
@@ -9466,8 +9497,8 @@
       "height": 2651,
       "tags": [],
       "popularity": {
-        "score": 251.4,
-        "pageviews_365d": 2413,
+        "score": 251.9,
+        "pageviews_365d": 2457,
         "sitelinks": 4,
         "globalusage": 57
       },
@@ -9766,10 +9797,10 @@
       "height": 4952,
       "tags": [],
       "popularity": {
-        "score": 281.2,
-        "pageviews_365d": 6565,
+        "score": 280.2,
+        "pageviews_365d": 6338,
         "sitelinks": 8,
-        "globalusage": 51
+        "globalusage": 50
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston",
@@ -10137,8 +10168,8 @@
       "height": 1716,
       "tags": [],
       "popularity": {
-        "score": 166.8,
-        "pageviews_365d": 260,
+        "score": 167.2,
+        "pageviews_365d": 264,
         "sitelinks": 1,
         "globalusage": 7
       },
@@ -10443,8 +10474,8 @@
       "height": 2993,
       "tags": [],
       "popularity": {
-        "score": 245.8,
-        "pageviews_365d": 2051,
+        "score": 246.5,
+        "pageviews_365d": 2113,
         "sitelinks": 3,
         "globalusage": 61
       },
@@ -10952,8 +10983,8 @@
       "height": 1000,
       "tags": [],
       "popularity": {
-        "score": 229.6,
-        "pageviews_365d": 1418,
+        "score": 227.1,
+        "pageviews_365d": 1285,
         "sitelinks": 2,
         "globalusage": 40
       },
@@ -11222,10 +11253,10 @@
       "height": 3751,
       "tags": [],
       "popularity": {
-        "score": 40.9,
+        "score": 41.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 59
+        "globalusage": 60
       },
       "meta": {
         "Collection": "National Portrait Gallery"
@@ -11354,8 +11385,8 @@
       "height": 3000,
       "tags": [],
       "popularity": {
-        "score": 244.3,
-        "pageviews_365d": 2725,
+        "score": 247.6,
+        "pageviews_365d": 3114,
         "sitelinks": 2,
         "globalusage": 34
       },
@@ -11388,8 +11419,8 @@
       "height": 2734,
       "tags": [],
       "popularity": {
-        "score": 256,
-        "pageviews_365d": 2791,
+        "score": 213.4,
+        "pageviews_365d": 507,
         "sitelinks": 4,
         "globalusage": 63
       },
@@ -11794,8 +11825,8 @@
       "height": 1136,
       "tags": [],
       "popularity": {
-        "score": 227,
-        "pageviews_365d": 1779,
+        "score": 226.4,
+        "pageviews_365d": 1735,
         "sitelinks": 2,
         "globalusage": 17
       },
@@ -11897,8 +11928,8 @@
       "height": 800,
       "tags": [],
       "popularity": {
-        "score": 227.3,
-        "pageviews_365d": 2220,
+        "score": 227.6,
+        "pageviews_365d": 2245,
         "sitelinks": 3,
         "globalusage": 7
       },
@@ -11966,8 +11997,8 @@
       "height": 751,
       "tags": [],
       "popularity": {
-        "score": 268.5,
-        "pageviews_365d": 5551,
+        "score": 267.3,
+        "pageviews_365d": 5284,
         "sitelinks": 9,
         "globalusage": 19
       },
@@ -12272,10 +12303,10 @@
       "height": 1000,
       "tags": [],
       "popularity": {
-        "score": 188,
+        "score": 188.2,
         "pageviews_365d": 248,
         "sitelinks": 2,
-        "globalusage": 49
+        "globalusage": 50
       },
       "meta": {
         "Collection": "National Trust",
@@ -12308,8 +12339,8 @@
       "height": 1202,
       "tags": [],
       "popularity": {
-        "score": 211.3,
-        "pageviews_365d": 1236,
+        "score": 33.3,
+        "pageviews_365d": 0,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -12342,8 +12373,8 @@
       "height": 1437,
       "tags": [],
       "popularity": {
-        "score": 256.7,
-        "pageviews_365d": 3112,
+        "score": 257,
+        "pageviews_365d": 3149,
         "sitelinks": 3,
         "globalusage": 64
       },
@@ -12441,8 +12472,8 @@
       "height": 2328,
       "tags": [],
       "popularity": {
-        "score": 186.6,
-        "pageviews_365d": 465,
+        "score": 186,
+        "pageviews_365d": 454,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -12908,8 +12939,8 @@
       "height": 779,
       "tags": [],
       "popularity": {
-        "score": 207.4,
-        "pageviews_365d": 2304,
+        "score": 207.9,
+        "pageviews_365d": 2347,
         "sitelinks": 1,
         "globalusage": 1
       },
@@ -12973,8 +13004,8 @@
       "height": 2417,
       "tags": [],
       "popularity": {
-        "score": 231.5,
-        "pageviews_365d": 2405,
+        "score": 222.5,
+        "pageviews_365d": 1677,
         "sitelinks": 4,
         "globalusage": 7
       },
@@ -13342,10 +13373,10 @@
       "height": 808,
       "tags": [],
       "popularity": {
-        "score": 13.9,
+        "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 3
+        "globalusage": 4
       },
       "meta": {
         "Collection": "Fogg Museum",
@@ -13407,8 +13438,8 @@
       "height": 3032,
       "tags": [],
       "popularity": {
-        "score": 240.5,
-        "pageviews_365d": 4740,
+        "score": 28.9,
+        "pageviews_365d": 0,
         "sitelinks": 2,
         "globalusage": 5
       },
@@ -13706,8 +13737,8 @@
       "height": 3861,
       "tags": [],
       "popularity": {
-        "score": 258.4,
-        "pageviews_365d": 2648,
+        "score": 257.8,
+        "pageviews_365d": 2580,
         "sitelinks": 6,
         "globalusage": 65
       },
@@ -14042,8 +14073,8 @@
       "height": 1338,
       "tags": [],
       "popularity": {
-        "score": 167.6,
-        "pageviews_365d": 221,
+        "score": 168.6,
+        "pageviews_365d": 230,
         "sitelinks": 1,
         "globalusage": 12
       },
@@ -14585,8 +14616,8 @@
       "height": 1088,
       "tags": [],
       "popularity": {
-        "score": 233.2,
-        "pageviews_365d": 2594,
+        "score": 228.4,
+        "pageviews_365d": 2142,
         "sitelinks": 2,
         "globalusage": 12
       },
@@ -14680,8 +14711,8 @@
       "height": 13568,
       "tags": [],
       "popularity": {
-        "score": 353.7,
-        "pageviews_365d": 77041,
+        "score": 354,
+        "pageviews_365d": 77920,
         "sitelinks": 14,
         "globalusage": 92
       },
@@ -14714,8 +14745,8 @@
       "height": 1920,
       "tags": [],
       "popularity": {
-        "score": 260.3,
-        "pageviews_365d": 9328,
+        "score": 259.8,
+        "pageviews_365d": 9133,
         "sitelinks": 1,
         "globalusage": 11
       },
@@ -15249,10 +15280,10 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 13.9,
+        "score": 11,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 3
+        "globalusage": 2
       },
       "meta": {
         "Collection": "Harvard Art Museums"
@@ -15319,10 +15350,10 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 13.9,
+        "score": 11,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 3
+        "globalusage": 2
       },
       "meta": {
         "Collection": "Harvard Art Museums"
@@ -15388,8 +15419,8 @@
       "height": 1290,
       "tags": [],
       "popularity": {
-        "score": 275.1,
-        "pageviews_365d": 9220,
+        "score": 274.9,
+        "pageviews_365d": 9152,
         "sitelinks": 5,
         "globalusage": 17
       },
@@ -15491,10 +15522,10 @@
       "height": 1054,
       "tags": [],
       "popularity": {
-        "score": 33,
+        "score": 32.6,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 26
+        "globalusage": 25
       },
       "meta": {},
       "extras": {
@@ -15660,8 +15691,8 @@
       "height": 1000,
       "tags": [],
       "popularity": {
-        "score": 184.3,
-        "pageviews_365d": 425,
+        "score": 186.2,
+        "pageviews_365d": 458,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -15680,37 +15711,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.jssgallery.org/Paintings/A_Gust_of_Wind.htm\">http://www.jssgallery.org/Paintings/A_Gust_of_Wind.htm</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_Singer_Sargent\" class=\"extiw\" title=\"w:en:John Singer Sargent\"><span title=\"American painter (1856–1925)\">John Singer Sargent</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q49255322",
-      "title": "A Moroccan Street Scene",
-      "year": null,
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/John_Singer_Sargent_-_A_Moroccan_Street_Scene_-_1966.79.13_-_Yale_University_Art_Gallery.jpg/960px-John_Singer_Sargent_-_A_Moroccan_Street_Scene_-_1966.79.13_-_Yale_University_Art_Gallery.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c8/John_Singer_Sargent_-_A_Moroccan_Street_Scene_-_1966.79.13_-_Yale_University_Art_Gallery.jpg",
-      "width": 1501,
-      "height": 1920,
-      "tags": [],
-      "popularity": {
-        "score": 17.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 5
-      },
-      "meta": {
-        "Collection": "Yale University Art Gallery"
-      },
-      "extras": {
-        "qid": "Q49255322",
-        "source": "wikidata",
-        "iiif": "http://nationalmuseumse.iiifhosting.com/iiif/91ce5aa5c2761bd97ebc467220ef9a5928f3802e71b6f8fd4bccf4aee7c093c1//manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://artgallery.yale.edu/collections/objects/8888\">https://artgallery.yale.edu/collections/objects/8888</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_Singer_Sargent\" class=\"extiw\" title=\"w:en:John Singer Sargent\"><span title=\"American painter (1856–1925)\">John Singer Sargent</span></a></bdi>"
         }
       }
@@ -15921,8 +15921,8 @@
       "height": 663,
       "tags": [],
       "popularity": {
-        "score": 178.2,
-        "pageviews_365d": 349,
+        "score": 180,
+        "pageviews_365d": 374,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -16314,8 +16314,8 @@
       "height": 3722,
       "tags": [],
       "popularity": {
-        "score": 270,
-        "pageviews_365d": 3930,
+        "score": 269.1,
+        "pageviews_365d": 3794,
         "sitelinks": 8,
         "globalusage": 60
       },
@@ -16604,8 +16604,8 @@
       "height": 270,
       "tags": [],
       "popularity": {
-        "score": 177.4,
-        "pageviews_365d": 338,
+        "score": 178.9,
+        "pageviews_365d": 358,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -16638,10 +16638,10 @@
       "height": 3762,
       "tags": [],
       "popularity": {
-        "score": 365.2,
-        "pageviews_365d": 105881,
+        "score": 363.4,
+        "pageviews_365d": 99215,
         "sitelinks": 21,
-        "globalusage": 89
+        "globalusage": 88
       },
       "meta": {
         "Collection": "National Gallery",
@@ -16926,10 +16926,10 @@
       "height": 851,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 3
       },
       "meta": {
         "Collection": "Fogg Museum"
@@ -16961,8 +16961,8 @@
       "height": 892,
       "tags": [],
       "popularity": {
-        "score": 249.4,
-        "pageviews_365d": 4355,
+        "score": 39.9,
+        "pageviews_365d": 0,
         "sitelinks": 1,
         "globalusage": 26
       },
@@ -17064,8 +17064,8 @@
       "height": 3718,
       "tags": [],
       "popularity": {
-        "score": 266.7,
-        "pageviews_365d": 3731,
+        "score": 263.3,
+        "pageviews_365d": 3265,
         "sitelinks": 6,
         "globalusage": 63
       },
@@ -17098,8 +17098,8 @@
       "height": 3722,
       "tags": [],
       "popularity": {
-        "score": 263.6,
-        "pageviews_365d": 3433,
+        "score": 263.1,
+        "pageviews_365d": 3361,
         "sitelinks": 5,
         "globalusage": 67
       },
@@ -17604,10 +17604,10 @@
       "height": 1993,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 3
       },
       "meta": {
         "Collection": "Fogg Museum",
@@ -18186,8 +18186,8 @@
       "height": 1000,
       "tags": [],
       "popularity": {
-        "score": 178.3,
-        "pageviews_365d": 350,
+        "score": 180.4,
+        "pageviews_365d": 381,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -18221,8 +18221,8 @@
       "height": 991,
       "tags": [],
       "popularity": {
-        "score": 214.3,
-        "pageviews_365d": 952,
+        "score": 42.8,
+        "pageviews_365d": 0,
         "sitelinks": 3,
         "globalusage": 17
       },
@@ -18379,8 +18379,8 @@
       "height": 2100,
       "tags": [],
       "popularity": {
-        "score": 185.3,
-        "pageviews_365d": 488,
+        "score": 187.6,
+        "pageviews_365d": 537,
         "sitelinks": 2,
         "globalusage": 6
       },
@@ -18572,8 +18572,8 @@
       "height": 2502,
       "tags": [],
       "popularity": {
-        "score": 235.8,
-        "pageviews_365d": 1826,
+        "score": 235.9,
+        "pageviews_365d": 1836,
         "sitelinks": 1,
         "globalusage": 60
       },
@@ -19422,8 +19422,8 @@
       "height": 4288,
       "tags": [],
       "popularity": {
-        "score": 230.3,
-        "pageviews_365d": 2019,
+        "score": 230.6,
+        "pageviews_365d": 2043,
         "sitelinks": 4,
         "globalusage": 10
       },
@@ -19641,8 +19641,8 @@
       "height": 2163,
       "tags": [],
       "popularity": {
-        "score": 195,
-        "pageviews_365d": 531,
+        "score": 196.2,
+        "pageviews_365d": 557,
         "sitelinks": 2,
         "globalusage": 14
       },
@@ -20229,10 +20229,10 @@
       "height": 946,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 3
       },
       "meta": {
         "Collection": "Fogg Museum"
@@ -20260,10 +20260,10 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 13.9,
+        "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 3
+        "globalusage": 4
       },
       "meta": {
         "Collection": "Fogg Museum"
@@ -20291,10 +20291,10 @@
       "height": 646,
       "tags": [],
       "popularity": {
-        "score": 13.9,
+        "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 3
+        "globalusage": 4
       },
       "meta": {
         "Collection": "Fogg Museum"
@@ -20458,10 +20458,10 @@
       "height": 2400,
       "tags": [],
       "popularity": {
-        "score": 13.9,
+        "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 3
+        "globalusage": 4
       },
       "meta": {
         "Collection": "Fogg Museum"
@@ -20559,10 +20559,10 @@
       "height": 579,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 3
       },
       "meta": {
         "Collection": "Fogg Museum"
@@ -20590,10 +20590,10 @@
       "height": 499,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 3
       },
       "meta": {
         "Collection": "Fogg Museum"
@@ -21894,8 +21894,8 @@
       "height": 3722,
       "tags": [],
       "popularity": {
-        "score": 175.9,
-        "pageviews_365d": 280,
+        "score": 177.4,
+        "pageviews_365d": 297,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -21921,7 +21921,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-07-28T06:47:17.134Z",
+    "generated": "2026-08-01T08:36:32.793Z",
     "artist": {
       "qid": "Q155626",
       "name": "John Singer Sargent",

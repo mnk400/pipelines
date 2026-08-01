@@ -77,8 +77,8 @@
       "height": 2400,
       "tags": [],
       "popularity": {
-        "score": 211.4,
-        "pageviews_365d": 1000,
+        "score": 212.2,
+        "pageviews_365d": 1030,
         "sitelinks": 2,
         "globalusage": 15
       },
@@ -409,8 +409,8 @@
       "height": 2110,
       "tags": [],
       "popularity": {
-        "score": 228.5,
-        "pageviews_365d": 2495,
+        "score": 230.8,
+        "pageviews_365d": 2737,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -1287,10 +1287,10 @@
       "height": 2005,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 4
       },
       "meta": {
         "Collection": "Art Institute of Chicago"
@@ -1806,8 +1806,8 @@
       "height": 840,
       "tags": [],
       "popularity": {
-        "score": 225.3,
-        "pageviews_365d": 2299,
+        "score": 225.5,
+        "pageviews_365d": 2318,
         "sitelinks": 1,
         "globalusage": 11
       },
@@ -2075,8 +2075,8 @@
       "height": 2696,
       "tags": [],
       "popularity": {
-        "score": 221.4,
-        "pageviews_365d": 1965,
+        "score": 220.9,
+        "pageviews_365d": 1931,
         "sitelinks": 1,
         "globalusage": 11
       },
@@ -2654,7 +2654,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-07-28T06:42:21.944Z",
+    "generated": "2026-08-01T08:29:48.846Z",
     "artist": {
       "qid": "Q560787",
       "name": "Frederic Remington",
