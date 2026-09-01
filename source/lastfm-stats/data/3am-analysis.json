@@ -2,7 +2,7 @@
   "nightOwlArtists": [
     {
       "artist": "Ludovico Einaudi",
-      "score": 5.880520243956206,
+      "score": 5.949371739290177,
       "nightCount": 15,
       "overallCount": 15,
       "nightPct": "0.11",
@@ -10,7 +10,7 @@
     },
     {
       "artist": "Shye Ben-Tzur, Jonny Greenwood & The Rajasthan Express",
-      "score": 5.880520243956205,
+      "score": 5.949371739290176,
       "nightCount": 13,
       "overallCount": 13,
       "nightPct": "0.10",
@@ -18,31 +18,31 @@
     },
     {
       "artist": "Thelonious Monk",
-      "score": 5.880520243956205,
+      "score": 5.949371739290176,
       "nightCount": 20,
       "overallCount": 20,
       "nightPct": "0.15",
       "overallPct": "0.02"
     },
     {
-      "artist": "Sofiane Pamart",
-      "score": 5.880520243956205,
-      "nightCount": 12,
-      "overallCount": 12,
-      "nightPct": "0.09",
-      "overallPct": "0.01"
-    },
-    {
       "artist": "Teen Suicide & American Pleasure Club",
-      "score": 5.880520243956205,
+      "score": 5.949371739290176,
       "nightCount": 11,
       "overallCount": 11,
       "nightPct": "0.08",
       "overallPct": "0.01"
     },
     {
+      "artist": "Sofiane Pamart",
+      "score": 5.949371739290175,
+      "nightCount": 12,
+      "overallCount": 12,
+      "nightPct": "0.09",
+      "overallPct": "0.01"
+    },
+    {
       "artist": "Stephan Moccio",
-      "score": 5.6354985671246975,
+      "score": 5.701481250153085,
       "nightCount": 23,
       "overallCount": 24,
       "nightPct": "0.17",
@@ -50,7 +50,7 @@
     },
     {
       "artist": "Kenny Segal & Milo",
-      "score": 5.600495470434481,
+      "score": 5.6660683231335005,
       "nightCount": 20,
       "overallCount": 21,
       "nightPct": "0.15",
@@ -58,7 +58,7 @@
     },
     {
       "artist": "Big Sean",
-      "score": 5.5346072884293696,
+      "score": 5.599408695802518,
       "nightCount": 16,
       "overallCount": 17,
       "nightPct": "0.12",
@@ -66,7 +66,7 @@
     },
     {
       "artist": "Alexis Ffrench",
-      "score": 5.428172532882651,
+      "score": 5.491727759344777,
       "nightCount": 12,
       "overallCount": 13,
       "nightPct": "0.09",
@@ -74,7 +74,7 @@
     },
     {
       "artist": "Olivia Belli",
-      "score": 5.428172532882651,
+      "score": 5.491727759344777,
       "nightCount": 12,
       "overallCount": 13,
       "nightPct": "0.09",
@@ -82,7 +82,7 @@
     },
     {
       "artist": "Swet Shop Boys",
-      "score": 5.390476890293189,
+      "score": 5.453590761015994,
       "nightCount": 11,
       "overallCount": 12,
       "nightPct": "0.08",
@@ -90,7 +90,7 @@
     },
     {
       "artist": "Víkingur Ólafsson",
-      "score": 5.390476890293189,
+      "score": 5.453590761015994,
       "nightCount": 22,
       "overallCount": 24,
       "nightPct": "0.16",
@@ -98,7 +98,7 @@
     },
     {
       "artist": "RIOPY",
-      "score": 5.390476890293189,
+      "score": 5.453590761015994,
       "nightCount": 11,
       "overallCount": 12,
       "nightPct": "0.08",
@@ -106,7 +106,7 @@
     },
     {
       "artist": "Matteo Myderwyk",
-      "score": 5.390476890293189,
+      "score": 5.453590761015994,
       "nightCount": 11,
       "overallCount": 12,
       "nightPct": "0.08",
@@ -114,7 +114,7 @@
     },
     {
       "artist": "Dirk Maassen",
-      "score": 5.292468219560584,
+      "score": 5.354434565361158,
       "nightCount": 18,
       "overallCount": 20,
       "nightPct": "0.13",
@@ -122,7 +122,7 @@
     },
     {
       "artist": "Andreas Ihlebæk",
-      "score": 5.180458310151895,
+      "score": 5.241113198898488,
       "nightCount": 37,
       "overallCount": 42,
       "nightPct": "0.27",
@@ -130,7 +130,7 @@
     },
     {
       "artist": "Joy Division",
-      "score": 5.167729911355454,
+      "score": 5.228235770891367,
       "nightCount": 29,
       "overallCount": 33,
       "nightPct": "0.21",
@@ -138,7 +138,7 @@
     },
     {
       "artist": "Khatia Buniatishvili",
-      "score": 5.040445923391033,
+      "score": 5.0994614908201505,
       "nightCount": 12,
       "overallCount": 14,
       "nightPct": "0.09",
@@ -146,7 +146,7 @@
     },
     {
       "artist": "Keane Wang",
-      "score": 5.040445923391033,
+      "score": 5.0994614908201505,
       "nightCount": 12,
       "overallCount": 14,
       "nightPct": "0.09",
@@ -154,7 +154,7 @@
     },
     {
       "artist": "Massive Attack",
-      "score": 4.9758248218090975,
+      "score": 5.0340837793993805,
       "nightCount": 11,
       "overallCount": 13,
       "nightPct": "0.08",
@@ -227,7 +227,7 @@
     "Early Morning": [
       {
         "artist": "Wilco",
-        "count": 329
+        "count": 341
       },
       {
         "artist": "Peach Pit",
@@ -235,27 +235,27 @@
       },
       {
         "artist": "The Strokes",
-        "count": 184
+        "count": 185
       },
       {
         "artist": "Radiohead",
-        "count": 167
+        "count": 169
       },
       {
         "artist": "Big Thief",
-        "count": 166
+        "count": 168
       },
       {
         "artist": "Mac DeMarco",
-        "count": 165
+        "count": 166
       },
       {
         "artist": "Elliott Smith",
-        "count": 160
+        "count": 161
       },
       {
         "artist": "Arctic Monkeys",
-        "count": 105
+        "count": 107
       },
       {
         "artist": "Duster",
@@ -270,42 +270,42 @@
         "count": 90
       },
       {
-        "artist": "Alex G",
+        "artist": "Beach House",
         "count": 81
       },
       {
-        "artist": "Beach House",
-        "count": 78
+        "artist": "Alex G",
+        "count": 81
       },
       {
         "artist": "Beach Bunny",
         "count": 75
       },
       {
-        "artist": "Current Joys",
-        "count": 68
+        "artist": "Interpol",
+        "count": 74
       }
     ],
     "Daytime": [
       {
         "artist": "Peach Pit",
-        "count": 750
+        "count": 756
       },
       {
         "artist": "Charli xcx",
-        "count": 566
+        "count": 570
       },
       {
         "artist": "The Strokes",
-        "count": 558
+        "count": 569
       },
       {
         "artist": "Elliott Smith",
-        "count": 540
+        "count": 547
       },
       {
         "artist": "Radiohead",
-        "count": 482
+        "count": 487
       },
       {
         "artist": "Wilco",
@@ -313,23 +313,23 @@
       },
       {
         "artist": "Soccer Mommy",
-        "count": 437
+        "count": 447
       },
       {
         "artist": "Beach Bunny",
-        "count": 419
+        "count": 422
       },
       {
         "artist": "Mac DeMarco",
-        "count": 412
+        "count": 416
       },
       {
         "artist": "Big Thief",
-        "count": 377
+        "count": 388
       },
       {
         "artist": "Vince Staples",
-        "count": 356
+        "count": 357
       },
       {
         "artist": "Crumb",
@@ -337,53 +337,53 @@
       },
       {
         "artist": "Alex G",
-        "count": 317
+        "count": 327
+      },
+      {
+        "artist": "Good Morning",
+        "count": 298
       },
       {
         "artist": "Beach House",
-        "count": 273
-      },
-      {
-        "artist": "Frank Ocean",
-        "count": 268
+        "count": 279
       }
     ],
     "Evening": [
       {
         "artist": "Peach Pit",
-        "count": 422
-      },
-      {
-        "artist": "Radiohead",
-        "count": 288
+        "count": 446
       },
       {
         "artist": "Interpol",
-        "count": 245
+        "count": 311
       },
       {
-        "artist": "The Strokes",
-        "count": 228
+        "artist": "Radiohead",
+        "count": 293
       },
       {
         "artist": "Mac DeMarco",
-        "count": 216
+        "count": 234
+      },
+      {
+        "artist": "The Strokes",
+        "count": 233
       },
       {
         "artist": "Wilco",
-        "count": 203
+        "count": 204
       },
       {
         "artist": "Vince Staples",
-        "count": 179
-      },
-      {
-        "artist": "Frank Ocean",
-        "count": 177
+        "count": 189
       },
       {
         "artist": "Beach Bunny",
-        "count": 177
+        "count": 187
+      },
+      {
+        "artist": "Frank Ocean",
+        "count": 178
       },
       {
         "artist": "Elliott Smith",
@@ -391,7 +391,7 @@
       },
       {
         "artist": "Soccer Mommy",
-        "count": 167
+        "count": 171
       },
       {
         "artist": "Mac Miller",
@@ -869,11 +869,11 @@
     {
       "hour": 8,
       "label": "8AM",
-      "totalPlays": 2430,
+      "totalPlays": 2450,
       "topArtists": [
         {
           "artist": "Wilco",
-          "count": 139
+          "count": 140
         },
         {
           "artist": "Peach Pit",
@@ -899,7 +899,7 @@
         },
         {
           "track": "Wilco — I Am Trying to Break Your Heart",
-          "count": 27
+          "count": 28
         },
         {
           "track": "Wilco — I'm the Man Who Loves You",
@@ -918,11 +918,11 @@
     {
       "hour": 9,
       "label": "9AM",
-      "totalPlays": 3280,
+      "totalPlays": 3386,
       "topArtists": [
         {
           "artist": "Wilco",
-          "count": 190
+          "count": 201
         },
         {
           "artist": "Peach Pit",
@@ -930,7 +930,7 @@
         },
         {
           "artist": "The Strokes",
-          "count": 130
+          "count": 131
         },
         {
           "artist": "SMERZ",
@@ -938,7 +938,7 @@
         },
         {
           "artist": "Elliott Smith",
-          "count": 83
+          "count": 84
         }
       ],
       "topTracks": [
@@ -956,7 +956,7 @@
         },
         {
           "track": "Wilco — Kamera",
-          "count": 17
+          "count": 18
         },
         {
           "track": "Cobrah — MANIC",
@@ -967,19 +967,19 @@
     {
       "hour": 10,
       "label": "10AM",
-      "totalPlays": 2486,
+      "totalPlays": 2502,
       "topArtists": [
         {
           "artist": "Elliott Smith",
           "count": 95
         },
         {
-          "artist": "Wilco",
-          "count": 65
+          "artist": "The Strokes",
+          "count": 68
         },
         {
-          "artist": "The Strokes",
-          "count": 64
+          "artist": "Wilco",
+          "count": 65
         },
         {
           "artist": "Big Thief",
@@ -1016,7 +1016,7 @@
     {
       "hour": 11,
       "label": "11AM",
-      "totalPlays": 2127,
+      "totalPlays": 2130,
       "topArtists": [
         {
           "artist": "Vince Staples",
@@ -1065,7 +1065,7 @@
     {
       "hour": 12,
       "label": "12PM",
-      "totalPlays": 3983,
+      "totalPlays": 4036,
       "topArtists": [
         {
           "artist": "Peach Pit",
@@ -1073,7 +1073,7 @@
         },
         {
           "artist": "Elliott Smith",
-          "count": 83
+          "count": 84
         },
         {
           "artist": "Beach Bunny",
@@ -1114,7 +1114,7 @@
     {
       "hour": 13,
       "label": "1PM",
-      "totalPlays": 5189,
+      "totalPlays": 5287,
       "topArtists": [
         {
           "artist": "Peach Pit",
@@ -1122,19 +1122,19 @@
         },
         {
           "artist": "Beach Bunny",
-          "count": 113
+          "count": 115
         },
         {
           "artist": "Radiohead",
-          "count": 104
+          "count": 106
         },
         {
           "artist": "Elliott Smith",
-          "count": 94
+          "count": 95
         },
         {
           "artist": "The Strokes",
-          "count": 88
+          "count": 89
         }
       ],
       "topTracks": [
@@ -1163,15 +1163,15 @@
     {
       "hour": 14,
       "label": "2PM",
-      "totalPlays": 5567,
+      "totalPlays": 5668,
       "topArtists": [
         {
           "artist": "The Strokes",
-          "count": 147
+          "count": 148
         },
         {
           "artist": "Charli xcx",
-          "count": 142
+          "count": 144
         },
         {
           "artist": "Peach Pit",
@@ -1183,7 +1183,7 @@
         },
         {
           "artist": "Soccer Mommy",
-          "count": 84
+          "count": 87
         }
       ],
       "topTracks": [
@@ -1212,7 +1212,7 @@
     {
       "hour": 15,
       "label": "3PM",
-      "totalPlays": 5707,
+      "totalPlays": 5765,
       "topArtists": [
         {
           "artist": "Charli xcx",
@@ -1224,11 +1224,11 @@
         },
         {
           "artist": "Soccer Mommy",
-          "count": 99
+          "count": 101
         },
         {
           "artist": "Mac DeMarco",
-          "count": 91
+          "count": 92
         },
         {
           "artist": "The Strokes",
@@ -1261,7 +1261,7 @@
     {
       "hour": 16,
       "label": "4PM",
-      "totalPlays": 5711,
+      "totalPlays": 5848,
       "topArtists": [
         {
           "artist": "Wilco",
@@ -1269,19 +1269,19 @@
         },
         {
           "artist": "Peach Pit",
-          "count": 190
+          "count": 196
         },
         {
           "artist": "Elliott Smith",
           "count": 113
         },
         {
-          "artist": "Charli xcx",
+          "artist": "Mac DeMarco",
           "count": 101
         },
         {
-          "artist": "Mac DeMarco",
-          "count": 100
+          "artist": "Charli xcx",
+          "count": 101
         }
       ],
       "topTracks": [
@@ -1310,7 +1310,7 @@
     {
       "hour": 17,
       "label": "5PM",
-      "totalPlays": 3858,
+      "totalPlays": 3934,
       "topArtists": [
         {
           "artist": "Wilco",
@@ -1318,19 +1318,19 @@
         },
         {
           "artist": "Peach Pit",
-          "count": 100
+          "count": 109
         },
         {
           "artist": "SMERZ",
           "count": 80
         },
         {
-          "artist": "Elliott Smith",
-          "count": 65
+          "artist": "Vince Staples",
+          "count": 67
         },
         {
-          "artist": "Big Thief",
-          "count": 64
+          "artist": "Elliott Smith",
+          "count": 65
         }
       ],
       "topTracks": [
@@ -1359,27 +1359,27 @@
     {
       "hour": 18,
       "label": "6PM",
-      "totalPlays": 3119,
+      "totalPlays": 3308,
       "topArtists": [
         {
           "artist": "Peach Pit",
-          "count": 104
-        },
-        {
-          "artist": "Radiohead",
-          "count": 91
+          "count": 111
         },
         {
           "artist": "Interpol",
-          "count": 66
+          "count": 106
+        },
+        {
+          "artist": "Radiohead",
+          "count": 93
         },
         {
           "artist": "Mac Miller",
           "count": 62
         },
         {
-          "artist": "OutKast",
-          "count": 45
+          "artist": "Mac DeMarco",
+          "count": 55
         }
       ],
       "topTracks": [
@@ -1392,11 +1392,11 @@
           "count": 20
         },
         {
-          "track": "Beach House — Silver Soul",
-          "count": 15
+          "track": "Jeff Tweedy — I Know What It's Like",
+          "count": 16
         },
         {
-          "track": "Jeff Tweedy — I Know What It's Like",
+          "track": "Beach House — Silver Soul",
           "count": 15
         },
         {
@@ -1408,23 +1408,23 @@
     {
       "hour": 19,
       "label": "7PM",
-      "totalPlays": 3935,
+      "totalPlays": 4002,
       "topArtists": [
         {
           "artist": "Peach Pit",
-          "count": 134
+          "count": 142
         },
         {
           "artist": "Interpol",
-          "count": 103
+          "count": 114
         },
         {
           "artist": "Radiohead",
-          "count": 101
+          "count": 102
         },
         {
           "artist": "Mac DeMarco",
-          "count": 75
+          "count": 76
         },
         {
           "artist": "feeble little horse",
@@ -1441,15 +1441,15 @@
           "count": 8
         },
         {
+          "track": "Interpol — Leif Erikson",
+          "count": 7
+        },
+        {
           "track": "Teen Suicide — doing all the things i used to do with people, pt. 2",
           "count": 7
         },
         {
           "track": "Peach Pit — Vickie",
-          "count": 7
-        },
-        {
-          "track": "Peach Pit — Lips Like Yours",
           "count": 7
         }
       ]
@@ -1457,7 +1457,7 @@
     {
       "hour": 20,
       "label": "8PM",
-      "totalPlays": 4206,
+      "totalPlays": 4218,
       "topArtists": [
         {
           "artist": "Madvillain, Madlib & MF DOOM",
@@ -1468,12 +1468,12 @@
           "count": 84
         },
         {
-          "artist": "The Strokes",
-          "count": 77
+          "artist": "Beach Bunny",
+          "count": 82
         },
         {
-          "artist": "Beach Bunny",
-          "count": 73
+          "artist": "The Strokes",
+          "count": 77
         },
         {
           "artist": "Vince Staples",
@@ -1555,7 +1555,7 @@
     {
       "hour": 22,
       "label": "10PM",
-      "totalPlays": 4907,
+      "totalPlays": 4908,
       "topArtists": [
         {
           "artist": "Radiohead",
@@ -1661,8 +1661,8 @@
     "Sat": 2140
   },
   "meta": {
-    "totalScrobbles": 80028,
+    "totalScrobbles": 80965,
     "lateNightScrobbles": 13609,
-    "lateNightPct": "17.0"
+    "lateNightPct": "16.8"
   }
 }

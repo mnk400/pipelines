@@ -892,11 +892,11 @@
     },
     {
       "artist": "Jai Paul",
-      "totalPlays": 234,
+      "totalPlays": 235,
       "peakQuarter": "2019-Q2",
       "peakPlays": 90,
       "firstQuarter": "2019-Q2",
-      "lastActiveQuarter": "2026-Q2",
+      "lastActiveQuarter": "2026-Q3",
       "timeline": [
         {
           "quarter": "2016-Q1",
@@ -1064,7 +1064,7 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 0
+          "plays": 1
         }
       ]
     },
@@ -1425,184 +1425,6 @@
       ]
     },
     {
-      "artist": "Lovage",
-      "totalPlays": 229,
-      "peakQuarter": "2019-Q3",
-      "peakPlays": 90,
-      "firstQuarter": "2019-Q3",
-      "lastActiveQuarter": "2024-Q1",
-      "timeline": [
-        {
-          "quarter": "2016-Q1",
-          "plays": 0
-        },
-        {
-          "quarter": "2016-Q2",
-          "plays": 0
-        },
-        {
-          "quarter": "2016-Q3",
-          "plays": 0
-        },
-        {
-          "quarter": "2016-Q4",
-          "plays": 0
-        },
-        {
-          "quarter": "2017-Q1",
-          "plays": 0
-        },
-        {
-          "quarter": "2017-Q3",
-          "plays": 0
-        },
-        {
-          "quarter": "2017-Q4",
-          "plays": 0
-        },
-        {
-          "quarter": "2018-Q1",
-          "plays": 0
-        },
-        {
-          "quarter": "2018-Q2",
-          "plays": 0
-        },
-        {
-          "quarter": "2018-Q3",
-          "plays": 0
-        },
-        {
-          "quarter": "2018-Q4",
-          "plays": 0
-        },
-        {
-          "quarter": "2019-Q1",
-          "plays": 0
-        },
-        {
-          "quarter": "2019-Q2",
-          "plays": 0
-        },
-        {
-          "quarter": "2019-Q3",
-          "plays": 90
-        },
-        {
-          "quarter": "2019-Q4",
-          "plays": 0
-        },
-        {
-          "quarter": "2020-Q1",
-          "plays": 24
-        },
-        {
-          "quarter": "2020-Q2",
-          "plays": 18
-        },
-        {
-          "quarter": "2020-Q3",
-          "plays": 0
-        },
-        {
-          "quarter": "2020-Q4",
-          "plays": 0
-        },
-        {
-          "quarter": "2021-Q1",
-          "plays": 0
-        },
-        {
-          "quarter": "2021-Q2",
-          "plays": 14
-        },
-        {
-          "quarter": "2021-Q3",
-          "plays": 0
-        },
-        {
-          "quarter": "2021-Q4",
-          "plays": 0
-        },
-        {
-          "quarter": "2022-Q1",
-          "plays": 0
-        },
-        {
-          "quarter": "2022-Q2",
-          "plays": 0
-        },
-        {
-          "quarter": "2022-Q3",
-          "plays": 0
-        },
-        {
-          "quarter": "2022-Q4",
-          "plays": 30
-        },
-        {
-          "quarter": "2023-Q1",
-          "plays": 50
-        },
-        {
-          "quarter": "2023-Q2",
-          "plays": 0
-        },
-        {
-          "quarter": "2023-Q3",
-          "plays": 2
-        },
-        {
-          "quarter": "2023-Q4",
-          "plays": 0
-        },
-        {
-          "quarter": "2024-Q1",
-          "plays": 1
-        },
-        {
-          "quarter": "2024-Q2",
-          "plays": 0
-        },
-        {
-          "quarter": "2024-Q3",
-          "plays": 0
-        },
-        {
-          "quarter": "2024-Q4",
-          "plays": 0
-        },
-        {
-          "quarter": "2025-Q1",
-          "plays": 0
-        },
-        {
-          "quarter": "2025-Q2",
-          "plays": 0
-        },
-        {
-          "quarter": "2025-Q3",
-          "plays": 0
-        },
-        {
-          "quarter": "2025-Q4",
-          "plays": 0
-        },
-        {
-          "quarter": "2026-Q1",
-          "plays": 0
-        },
-        {
-          "quarter": "2026-Q2",
-          "plays": 0
-        },
-        {
-          "quarter": "2026-Q3",
-          "plays": 0
-        }
-      ]
-    },
-    {
       "artist": "OutKast",
       "totalPlays": 221,
       "peakQuarter": "2019-Q3",
@@ -1782,11 +1604,11 @@
     },
     {
       "artist": "Courtney Barnett",
-      "totalPlays": 215,
+      "totalPlays": 218,
       "peakQuarter": "2024-Q4",
       "peakPlays": 91,
       "firstQuarter": "2018-Q3",
-      "lastActiveQuarter": "2026-Q2",
+      "lastActiveQuarter": "2026-Q3",
       "timeline": [
         {
           "quarter": "2016-Q1",
@@ -1954,17 +1776,17 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 0
+          "plays": 3
         }
       ]
     },
     {
       "artist": "Kevin Abstract",
-      "totalPlays": 200,
+      "totalPlays": 201,
       "peakQuarter": "2019-Q2",
       "peakPlays": 126,
       "firstQuarter": "2019-Q2",
-      "lastActiveQuarter": "2026-Q2",
+      "lastActiveQuarter": "2026-Q3",
       "timeline": [
         {
           "quarter": "2016-Q1",
@@ -2132,7 +1954,7 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 0
+          "plays": 1
         }
       ]
     },
@@ -2669,12 +2491,190 @@
           "plays": 0
         }
       ]
+    },
+    {
+      "artist": "Shane T",
+      "totalPlays": 183,
+      "peakQuarter": "2020-Q3",
+      "peakPlays": 70,
+      "firstQuarter": "2020-Q2",
+      "lastActiveQuarter": "2026-Q2",
+      "timeline": [
+        {
+          "quarter": "2016-Q1",
+          "plays": 0
+        },
+        {
+          "quarter": "2016-Q2",
+          "plays": 0
+        },
+        {
+          "quarter": "2016-Q3",
+          "plays": 0
+        },
+        {
+          "quarter": "2016-Q4",
+          "plays": 0
+        },
+        {
+          "quarter": "2017-Q1",
+          "plays": 0
+        },
+        {
+          "quarter": "2017-Q3",
+          "plays": 0
+        },
+        {
+          "quarter": "2017-Q4",
+          "plays": 0
+        },
+        {
+          "quarter": "2018-Q1",
+          "plays": 0
+        },
+        {
+          "quarter": "2018-Q2",
+          "plays": 0
+        },
+        {
+          "quarter": "2018-Q3",
+          "plays": 0
+        },
+        {
+          "quarter": "2018-Q4",
+          "plays": 0
+        },
+        {
+          "quarter": "2019-Q1",
+          "plays": 0
+        },
+        {
+          "quarter": "2019-Q2",
+          "plays": 0
+        },
+        {
+          "quarter": "2019-Q3",
+          "plays": 0
+        },
+        {
+          "quarter": "2019-Q4",
+          "plays": 0
+        },
+        {
+          "quarter": "2020-Q1",
+          "plays": 0
+        },
+        {
+          "quarter": "2020-Q2",
+          "plays": 1
+        },
+        {
+          "quarter": "2020-Q3",
+          "plays": 70
+        },
+        {
+          "quarter": "2020-Q4",
+          "plays": 27
+        },
+        {
+          "quarter": "2021-Q1",
+          "plays": 32
+        },
+        {
+          "quarter": "2021-Q2",
+          "plays": 13
+        },
+        {
+          "quarter": "2021-Q3",
+          "plays": 3
+        },
+        {
+          "quarter": "2021-Q4",
+          "plays": 0
+        },
+        {
+          "quarter": "2022-Q1",
+          "plays": 2
+        },
+        {
+          "quarter": "2022-Q2",
+          "plays": 2
+        },
+        {
+          "quarter": "2022-Q3",
+          "plays": 2
+        },
+        {
+          "quarter": "2022-Q4",
+          "plays": 5
+        },
+        {
+          "quarter": "2023-Q1",
+          "plays": 3
+        },
+        {
+          "quarter": "2023-Q2",
+          "plays": 3
+        },
+        {
+          "quarter": "2023-Q3",
+          "plays": 0
+        },
+        {
+          "quarter": "2023-Q4",
+          "plays": 3
+        },
+        {
+          "quarter": "2024-Q1",
+          "plays": 8
+        },
+        {
+          "quarter": "2024-Q2",
+          "plays": 1
+        },
+        {
+          "quarter": "2024-Q3",
+          "plays": 0
+        },
+        {
+          "quarter": "2024-Q4",
+          "plays": 1
+        },
+        {
+          "quarter": "2025-Q1",
+          "plays": 2
+        },
+        {
+          "quarter": "2025-Q2",
+          "plays": 1
+        },
+        {
+          "quarter": "2025-Q3",
+          "plays": 0
+        },
+        {
+          "quarter": "2025-Q4",
+          "plays": 0
+        },
+        {
+          "quarter": "2026-Q1",
+          "plays": 2
+        },
+        {
+          "quarter": "2026-Q2",
+          "plays": 2
+        },
+        {
+          "quarter": "2026-Q3",
+          "plays": 0
+        }
+      ]
     }
   ],
   "constants": [
     {
       "artist": "Radiohead",
-      "totalPlays": 2660,
+      "totalPlays": 2672,
       "peakQuarter": "2019-Q2",
       "peakPlays": 316,
       "firstQuarter": "2016-Q1",
@@ -2846,13 +2846,13 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 8
+          "plays": 20
         }
       ]
     },
     {
       "artist": "Peach Pit",
-      "totalPlays": 1863,
+      "totalPlays": 1893,
       "peakQuarter": "2025-Q2",
       "peakPlays": 362,
       "firstQuarter": "2018-Q3",
@@ -3024,13 +3024,13 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 51
+          "plays": 81
         }
       ]
     },
     {
       "artist": "The Strokes",
-      "totalPlays": 1348,
+      "totalPlays": 1365,
       "peakQuarter": "2025-Q1",
       "peakPlays": 136,
       "firstQuarter": "2018-Q3",
@@ -3202,17 +3202,17 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 25
+          "plays": 42
         }
       ]
     },
     {
       "artist": "Frank Ocean",
-      "totalPlays": 1258,
+      "totalPlays": 1260,
       "peakQuarter": "2019-Q4",
       "peakPlays": 126,
       "firstQuarter": "2016-Q4",
-      "lastActiveQuarter": "2026-Q2",
+      "lastActiveQuarter": "2026-Q3",
       "timeline": [
         {
           "quarter": "2016-Q1",
@@ -3380,13 +3380,13 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 0
+          "plays": 2
         }
       ]
     },
     {
       "artist": "Mac DeMarco",
-      "totalPlays": 1001,
+      "totalPlays": 1024,
       "peakQuarter": "2023-Q1",
       "peakPlays": 156,
       "firstQuarter": "2018-Q4",
@@ -3558,191 +3558,13 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 25
-        }
-      ]
-    },
-    {
-      "artist": "Beach Bunny",
-      "totalPlays": 934,
-      "peakQuarter": "2026-Q1",
-      "peakPlays": 135,
-      "firstQuarter": "2019-Q2",
-      "lastActiveQuarter": "2026-Q3",
-      "timeline": [
-        {
-          "quarter": "2016-Q1",
-          "plays": 0
-        },
-        {
-          "quarter": "2016-Q2",
-          "plays": 0
-        },
-        {
-          "quarter": "2016-Q3",
-          "plays": 0
-        },
-        {
-          "quarter": "2016-Q4",
-          "plays": 0
-        },
-        {
-          "quarter": "2017-Q1",
-          "plays": 0
-        },
-        {
-          "quarter": "2017-Q3",
-          "plays": 0
-        },
-        {
-          "quarter": "2017-Q4",
-          "plays": 0
-        },
-        {
-          "quarter": "2018-Q1",
-          "plays": 0
-        },
-        {
-          "quarter": "2018-Q2",
-          "plays": 0
-        },
-        {
-          "quarter": "2018-Q3",
-          "plays": 0
-        },
-        {
-          "quarter": "2018-Q4",
-          "plays": 0
-        },
-        {
-          "quarter": "2019-Q1",
-          "plays": 0
-        },
-        {
-          "quarter": "2019-Q2",
-          "plays": 1
-        },
-        {
-          "quarter": "2019-Q3",
-          "plays": 0
-        },
-        {
-          "quarter": "2019-Q4",
-          "plays": 0
-        },
-        {
-          "quarter": "2020-Q1",
-          "plays": 34
-        },
-        {
-          "quarter": "2020-Q2",
-          "plays": 2
-        },
-        {
-          "quarter": "2020-Q3",
-          "plays": 4
-        },
-        {
-          "quarter": "2020-Q4",
-          "plays": 10
-        },
-        {
-          "quarter": "2021-Q1",
-          "plays": 130
-        },
-        {
-          "quarter": "2021-Q2",
-          "plays": 60
-        },
-        {
-          "quarter": "2021-Q3",
-          "plays": 33
-        },
-        {
-          "quarter": "2021-Q4",
-          "plays": 9
-        },
-        {
-          "quarter": "2022-Q1",
-          "plays": 16
-        },
-        {
-          "quarter": "2022-Q2",
-          "plays": 23
-        },
-        {
-          "quarter": "2022-Q3",
-          "plays": 39
-        },
-        {
-          "quarter": "2022-Q4",
-          "plays": 39
-        },
-        {
-          "quarter": "2023-Q1",
-          "plays": 60
-        },
-        {
-          "quarter": "2023-Q2",
-          "plays": 18
-        },
-        {
-          "quarter": "2023-Q3",
-          "plays": 5
-        },
-        {
-          "quarter": "2023-Q4",
-          "plays": 25
-        },
-        {
-          "quarter": "2024-Q1",
-          "plays": 86
-        },
-        {
-          "quarter": "2024-Q2",
-          "plays": 19
-        },
-        {
-          "quarter": "2024-Q3",
-          "plays": 25
-        },
-        {
-          "quarter": "2024-Q4",
-          "plays": 34
-        },
-        {
-          "quarter": "2025-Q1",
-          "plays": 32
-        },
-        {
-          "quarter": "2025-Q2",
-          "plays": 34
-        },
-        {
-          "quarter": "2025-Q3",
-          "plays": 5
-        },
-        {
-          "quarter": "2025-Q4",
-          "plays": 19
-        },
-        {
-          "quarter": "2026-Q1",
-          "plays": 135
-        },
-        {
-          "quarter": "2026-Q2",
-          "plays": 36
-        },
-        {
-          "quarter": "2026-Q3",
-          "plays": 1
+          "plays": 48
         }
       ]
     },
     {
       "artist": "Soccer Mommy",
-      "totalPlays": 933,
+      "totalPlays": 947,
       "peakQuarter": "2021-Q1",
       "peakPlays": 99,
       "firstQuarter": "2018-Q4",
@@ -3914,16 +3736,16 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 7
+          "plays": 21
         }
       ]
     },
     {
-      "artist": "Interpol",
-      "totalPlays": 799,
-      "peakQuarter": "2018-Q3",
-      "peakPlays": 104,
-      "firstQuarter": "2018-Q3",
+      "artist": "Beach Bunny",
+      "totalPlays": 947,
+      "peakQuarter": "2026-Q1",
+      "peakPlays": 135,
+      "firstQuarter": "2019-Q2",
       "lastActiveQuarter": "2026-Q3",
       "timeline": [
         {
@@ -3964,141 +3786,141 @@
         },
         {
           "quarter": "2018-Q3",
-          "plays": 104
+          "plays": 0
         },
         {
           "quarter": "2018-Q4",
-          "plays": 18
+          "plays": 0
         },
         {
           "quarter": "2019-Q1",
-          "plays": 32
+          "plays": 0
         },
         {
           "quarter": "2019-Q2",
-          "plays": 29
+          "plays": 1
         },
         {
           "quarter": "2019-Q3",
-          "plays": 25
+          "plays": 0
         },
         {
           "quarter": "2019-Q4",
-          "plays": 21
+          "plays": 0
         },
         {
           "quarter": "2020-Q1",
-          "plays": 13
+          "plays": 34
         },
         {
           "quarter": "2020-Q2",
-          "plays": 14
+          "plays": 2
         },
         {
           "quarter": "2020-Q3",
-          "plays": 12
+          "plays": 4
         },
         {
           "quarter": "2020-Q4",
-          "plays": 39
+          "plays": 10
         },
         {
           "quarter": "2021-Q1",
-          "plays": 37
+          "plays": 130
         },
         {
           "quarter": "2021-Q2",
-          "plays": 6
+          "plays": 60
         },
         {
           "quarter": "2021-Q3",
-          "plays": 8
+          "plays": 33
         },
         {
           "quarter": "2021-Q4",
-          "plays": 11
+          "plays": 9
         },
         {
           "quarter": "2022-Q1",
-          "plays": 11
+          "plays": 16
         },
         {
           "quarter": "2022-Q2",
-          "plays": 0
+          "plays": 23
         },
         {
           "quarter": "2022-Q3",
-          "plays": 21
+          "plays": 39
         },
         {
           "quarter": "2022-Q4",
-          "plays": 10
+          "plays": 39
         },
         {
           "quarter": "2023-Q1",
-          "plays": 32
+          "plays": 60
         },
         {
           "quarter": "2023-Q2",
-          "plays": 13
-        },
-        {
-          "quarter": "2023-Q3",
-          "plays": 19
-        },
-        {
-          "quarter": "2023-Q4",
-          "plays": 0
-        },
-        {
-          "quarter": "2024-Q1",
-          "plays": 19
-        },
-        {
-          "quarter": "2024-Q2",
-          "plays": 5
-        },
-        {
-          "quarter": "2024-Q3",
-          "plays": 10
-        },
-        {
-          "quarter": "2024-Q4",
-          "plays": 5
-        },
-        {
-          "quarter": "2025-Q1",
           "plays": 18
         },
         {
+          "quarter": "2023-Q3",
+          "plays": 5
+        },
+        {
+          "quarter": "2023-Q4",
+          "plays": 25
+        },
+        {
+          "quarter": "2024-Q1",
+          "plays": 86
+        },
+        {
+          "quarter": "2024-Q2",
+          "plays": 19
+        },
+        {
+          "quarter": "2024-Q3",
+          "plays": 25
+        },
+        {
+          "quarter": "2024-Q4",
+          "plays": 34
+        },
+        {
+          "quarter": "2025-Q1",
+          "plays": 32
+        },
+        {
           "quarter": "2025-Q2",
-          "plays": 0
+          "plays": 34
         },
         {
           "quarter": "2025-Q3",
-          "plays": 3
+          "plays": 5
         },
         {
           "quarter": "2025-Q4",
-          "plays": 35
+          "plays": 19
         },
         {
           "quarter": "2026-Q1",
-          "plays": 74
+          "plays": 135
         },
         {
           "quarter": "2026-Q2",
-          "plays": 88
+          "plays": 36
         },
         {
           "quarter": "2026-Q3",
-          "plays": 67
+          "plays": 14
         }
       ]
     },
     {
       "artist": "Beach House",
-      "totalPlays": 743,
+      "totalPlays": 758,
       "peakQuarter": "2023-Q4",
       "peakPlays": 88,
       "firstQuarter": "2018-Q3",
@@ -4270,13 +4092,13 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 4
+          "plays": 19
         }
       ]
     },
     {
       "artist": "Sufjan Stevens",
-      "totalPlays": 628,
+      "totalPlays": 630,
       "peakQuarter": "2020-Q2",
       "peakPlays": 95,
       "firstQuarter": "2018-Q3",
@@ -4448,13 +4270,191 @@
         },
         {
           "quarter": "2026-Q3",
-          "plays": 2
+          "plays": 4
+        }
+      ]
+    },
+    {
+      "artist": "Bon Iver",
+      "totalPlays": 620,
+      "peakQuarter": "2020-Q3",
+      "peakPlays": 79,
+      "firstQuarter": "2016-Q1",
+      "lastActiveQuarter": "2026-Q2",
+      "timeline": [
+        {
+          "quarter": "2016-Q1",
+          "plays": 1
+        },
+        {
+          "quarter": "2016-Q2",
+          "plays": 1
+        },
+        {
+          "quarter": "2016-Q3",
+          "plays": 0
+        },
+        {
+          "quarter": "2016-Q4",
+          "plays": 16
+        },
+        {
+          "quarter": "2017-Q1",
+          "plays": 3
+        },
+        {
+          "quarter": "2017-Q3",
+          "plays": 0
+        },
+        {
+          "quarter": "2017-Q4",
+          "plays": 0
+        },
+        {
+          "quarter": "2018-Q1",
+          "plays": 0
+        },
+        {
+          "quarter": "2018-Q2",
+          "plays": 0
+        },
+        {
+          "quarter": "2018-Q3",
+          "plays": 25
+        },
+        {
+          "quarter": "2018-Q4",
+          "plays": 10
+        },
+        {
+          "quarter": "2019-Q1",
+          "plays": 41
+        },
+        {
+          "quarter": "2019-Q2",
+          "plays": 19
+        },
+        {
+          "quarter": "2019-Q3",
+          "plays": 33
+        },
+        {
+          "quarter": "2019-Q4",
+          "plays": 38
+        },
+        {
+          "quarter": "2020-Q1",
+          "plays": 1
+        },
+        {
+          "quarter": "2020-Q2",
+          "plays": 41
+        },
+        {
+          "quarter": "2020-Q3",
+          "plays": 79
+        },
+        {
+          "quarter": "2020-Q4",
+          "plays": 38
+        },
+        {
+          "quarter": "2021-Q1",
+          "plays": 10
+        },
+        {
+          "quarter": "2021-Q2",
+          "plays": 11
+        },
+        {
+          "quarter": "2021-Q3",
+          "plays": 10
+        },
+        {
+          "quarter": "2021-Q4",
+          "plays": 0
+        },
+        {
+          "quarter": "2022-Q1",
+          "plays": 11
+        },
+        {
+          "quarter": "2022-Q2",
+          "plays": 1
+        },
+        {
+          "quarter": "2022-Q3",
+          "plays": 9
+        },
+        {
+          "quarter": "2022-Q4",
+          "plays": 4
+        },
+        {
+          "quarter": "2023-Q1",
+          "plays": 29
+        },
+        {
+          "quarter": "2023-Q2",
+          "plays": 25
+        },
+        {
+          "quarter": "2023-Q3",
+          "plays": 18
+        },
+        {
+          "quarter": "2023-Q4",
+          "plays": 19
+        },
+        {
+          "quarter": "2024-Q1",
+          "plays": 12
+        },
+        {
+          "quarter": "2024-Q2",
+          "plays": 19
+        },
+        {
+          "quarter": "2024-Q3",
+          "plays": 16
+        },
+        {
+          "quarter": "2024-Q4",
+          "plays": 16
+        },
+        {
+          "quarter": "2025-Q1",
+          "plays": 17
+        },
+        {
+          "quarter": "2025-Q2",
+          "plays": 22
+        },
+        {
+          "quarter": "2025-Q3",
+          "plays": 1
+        },
+        {
+          "quarter": "2025-Q4",
+          "plays": 15
+        },
+        {
+          "quarter": "2026-Q1",
+          "plays": 5
+        },
+        {
+          "quarter": "2026-Q2",
+          "plays": 4
+        },
+        {
+          "quarter": "2026-Q3",
+          "plays": 0
         }
       ]
     }
   ],
   "meta": {
-    "totalArtists": 4545,
+    "totalArtists": 4583,
     "qualifyingArtists": 277,
     "phaseCount": 15,
     "constantCount": 10
