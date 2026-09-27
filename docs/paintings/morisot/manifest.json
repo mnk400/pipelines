@@ -31,6 +31,68 @@
       }
     },
     {
+      "id": "wd-Q105099642",
+      "title": "Le Repas chez Simon, d'après Paolo Veronese",
+      "year": "1860",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Berthe_Morisot_-_Le_Repas_chez_Simon%2C_d%27apr%C3%A8s_Paolo_Veronese.jpg/960px-Berthe_Morisot_-_Le_Repas_chez_Simon%2C_d%27apr%C3%A8s_Paolo_Veronese.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/28/Berthe_Morisot_-_Le_Repas_chez_Simon%2C_d%27apr%C3%A8s_Paolo_Veronese.jpg",
+      "width": 1500,
+      "height": 692,
+      "tags": [],
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "meta": {
+        "Collection": "Musée Marmottan Monet"
+      },
+      "extras": {
+        "qid": "Q105099642",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 53,
+          "width_cm": 112
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.marmottan.fr\">https://www.marmottan.fr</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q141350048",
+      "title": "La vue de Tivoli, d'après Corot",
+      "year": "1863",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Morisot_-_La_vue_de_Tivoli%2C_d%27apr%C3%A8s_Corot.jpg/960px-Morisot_-_La_vue_de_Tivoli%2C_d%27apr%C3%A8s_Corot.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/74/Morisot_-_La_vue_de_Tivoli%2C_d%27apr%C3%A8s_Corot.jpg",
+      "width": 1086,
+      "height": 760,
+      "tags": [],
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q141350048",
+        "source": "wikidata",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.wikiart.org/en/berthe-morisot/view-of-tivoli-after-corot\">https://www.wikiart.org/en/berthe-morisot/view-of-tivoli-after-corot</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi> / <bdi>After <a href=\"https://en.wikipedia.org/wiki/en:Jean-Baptiste-Camille_Corot\" class=\"extiw\" title=\"w:en:Jean-Baptiste-Camille Corot\"><span title=\"French landscape and portrait painter and printmaker in etching (1796-1875)\">Jean-Baptiste Camille Corot</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q133257851",
       "title": "The Old Track to Auvers",
       "year": "1863",
@@ -238,10 +300,10 @@
       "height": 1543,
       "tags": [],
       "popularity": {
-        "score": 286.9,
-        "pageviews_365d": 8956,
+        "score": 286.8,
+        "pageviews_365d": 8990,
         "sitelinks": 6,
-        "globalusage": 53
+        "globalusage": 52
       },
       "meta": {
         "Collection": "Q214867",
@@ -335,18 +397,18 @@
     },
     {
       "id": "wd-Q61890627",
-      "title": "Morisot Portrait of a Woman",
+      "title": "Portrait de Madame Edma Pontillon",
       "year": "1871",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/18/Morisot_Portrait_of_a_Woman.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/1/18/Morisot_Portrait_of_a_Woman.jpg",
-      "width": 490,
-      "height": 620,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/45/Berthe_Morisot_-_Portrait_de_Madame_Edma_Pontillon.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/45/Berthe_Morisot_-_Portrait_de_Madame_Edma_Pontillon.jpg",
+      "width": 678,
+      "height": 850,
       "tags": [],
       "popularity": {
-        "score": 30,
+        "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 19
+        "globalusage": 3
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -363,7 +425,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.musee-orsay.fr/fr/collections/catalogue-des-oeuvres/notice.html?nnumid=3035\">http://www.musee-orsay.fr/fr/collections/catalogue-des-oeuvres/notice.html?nnumid=3035</a>",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.musee-orsay.fr\">https://www.musee-orsay.fr</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
         }
       }
@@ -540,10 +602,10 @@
       "height": 5000,
       "tags": [],
       "popularity": {
-        "score": 313.4,
-        "pageviews_365d": 47257,
+        "score": 318,
+        "pageviews_365d": 47343,
         "sitelinks": 11,
-        "globalusage": 6
+        "globalusage": 10
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -566,40 +628,6 @@
       }
     },
     {
-      "id": "wd-Q70140608",
-      "title": "View of Paris from the Trocadero",
-      "year": "1872",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Berthe_Morisot_-_Vue_de_Paris_hauteurs_du_Trocad%C3%A9ro.jpg/960px-Berthe_Morisot_-_Vue_de_Paris_hauteurs_du_Trocad%C3%A9ro.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Berthe_Morisot_-_Vue_de_Paris_hauteurs_du_Trocad%C3%A9ro.jpg",
-      "width": 1111,
-      "height": 613,
-      "tags": [],
-      "popularity": {
-        "score": 22,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 8
-      },
-      "meta": {
-        "Collection": "Santa Barbara Museum of Art"
-      },
-      "extras": {
-        "qid": "Q70140608",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 46,
-          "width_cm": 81.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://wpi.art/2019/01/09/berthe-morisot/\">https://wpi.art/2019/01/09/berthe-morisot/</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q15906838",
       "title": "Woman and child on a balcony",
       "year": "1872",
@@ -609,8 +637,8 @@
       "height": 3200,
       "tags": [],
       "popularity": {
-        "score": 234.4,
-        "pageviews_365d": 2726,
+        "score": 234.5,
+        "pageviews_365d": 2731,
         "sitelinks": 2,
         "globalusage": 12
       },
@@ -781,10 +809,10 @@
       "height": 9478,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 6
       },
       "meta": {
         "Collection": "Cleveland Museum of Art"
@@ -801,6 +829,40 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://clevelandart.org/art/1950.89\">https://clevelandart.org/art/1950.89</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q70140608",
+      "title": "View of Paris from the Trocadero",
+      "year": "1873",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Berthe_Morisot_-_View_of_Paris_from_the_Trocadero.jpg/960px-Berthe_Morisot_-_View_of_Paris_from_the_Trocadero.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/84/Berthe_Morisot_-_View_of_Paris_from_the_Trocadero.jpg",
+      "width": 1854,
+      "height": 1050,
+      "tags": [],
+      "popularity": {
+        "score": 11,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 2
+      },
+      "meta": {
+        "Collection": "Santa Barbara Museum of Art"
+      },
+      "extras": {
+        "qid": "Q70140608",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 46,
+          "width_cm": 81.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://collections.sbma.net\">https://collections.sbma.net</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
         }
       }
@@ -878,7 +940,7 @@
       "tags": [],
       "popularity": {
         "score": 267.3,
-        "pageviews_365d": 6473,
+        "pageviews_365d": 6494,
         "sitelinks": 7,
         "globalusage": 14
       },
@@ -947,7 +1009,7 @@
         "globalusage": 4
       },
       "meta": {
-        "Collection": "musée Albert André"
+        "Collection": "Musée Albert André"
       },
       "extras": {
         "qid": "Q91503291",
@@ -1043,8 +1105,8 @@
       "height": 573,
       "tags": [],
       "popularity": {
-        "score": 222.4,
-        "pageviews_365d": 1436,
+        "score": 222.5,
+        "pageviews_365d": 1445,
         "sitelinks": 1,
         "globalusage": 28
       },
@@ -1078,8 +1140,8 @@
       "height": 1864,
       "tags": [],
       "popularity": {
-        "score": 197.2,
-        "pageviews_365d": 712,
+        "score": 197.3,
+        "pageviews_365d": 716,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -1112,10 +1174,10 @@
       "height": 598,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 6
       },
       "meta": {
         "Collection": "Musée Marmottan Monet"
@@ -1146,10 +1208,10 @@
       "height": 2157,
       "tags": [],
       "popularity": {
-        "score": 285.1,
-        "pageviews_365d": 9153,
-        "sitelinks": 5,
-        "globalusage": 49
+        "score": 286.9,
+        "pageviews_365d": 9178,
+        "sitelinks": 6,
+        "globalusage": 50
       },
       "meta": {
         "Collection": "Musée Marmottan Monet"
@@ -1312,8 +1374,8 @@
       "height": 2343,
       "tags": [],
       "popularity": {
-        "score": 173.9,
-        "pageviews_365d": 388,
+        "score": 174,
+        "pageviews_365d": 389,
         "sitelinks": 1,
         "globalusage": 5
       },
@@ -1508,8 +1570,8 @@
       "height": 2750,
       "tags": [],
       "popularity": {
-        "score": 294.1,
-        "pageviews_365d": 13803,
+        "score": 294.2,
+        "pageviews_365d": 13845,
         "sitelinks": 7,
         "globalusage": 32
       },
@@ -1542,8 +1604,8 @@
       "height": 1200,
       "tags": [],
       "popularity": {
-        "score": 199.9,
-        "pageviews_365d": 706,
+        "score": 200,
+        "pageviews_365d": 711,
         "sitelinks": 3,
         "globalusage": 8
       },
@@ -1645,8 +1707,8 @@
       "height": 850,
       "tags": [],
       "popularity": {
-        "score": 206.2,
-        "pageviews_365d": 1200,
+        "score": 206.3,
+        "pageviews_365d": 1208,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -1680,8 +1742,8 @@
       "height": 3000,
       "tags": [],
       "popularity": {
-        "score": 158.7,
-        "pageviews_365d": 179,
+        "score": 158.9,
+        "pageviews_365d": 180,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -1748,8 +1810,8 @@
       "height": 3748,
       "tags": [],
       "popularity": {
-        "score": 200.4,
-        "pageviews_365d": 914,
+        "score": 200.6,
+        "pageviews_365d": 919,
         "sitelinks": 1,
         "globalusage": 9
       },
@@ -1812,10 +1874,10 @@
       "height": 4226,
       "tags": [],
       "popularity": {
-        "score": 318.3,
-        "pageviews_365d": 22806,
+        "score": 318.5,
+        "pageviews_365d": 22855,
         "sitelinks": 10,
-        "globalusage": 76
+        "globalusage": 77
       },
       "meta": {
         "Collection": "National Gallery"
@@ -1877,7 +1939,7 @@
       "tags": [],
       "popularity": {
         "score": 250.3,
-        "pageviews_365d": 3857,
+        "pageviews_365d": 3863,
         "sitelinks": 4,
         "globalusage": 15
       },
@@ -2067,8 +2129,8 @@
       "height": 8512,
       "tags": [],
       "popularity": {
-        "score": 188.6,
-        "pageviews_365d": 333,
+        "score": 189,
+        "pageviews_365d": 338,
         "sitelinks": 1,
         "globalusage": 37
       },
@@ -2131,8 +2193,8 @@
       "height": 2589,
       "tags": [],
       "popularity": {
-        "score": 206.1,
-        "pageviews_365d": 976,
+        "score": 206.3,
+        "pageviews_365d": 981,
         "sitelinks": 2,
         "globalusage": 9
       },
@@ -2207,8 +2269,8 @@
       "height": 1190,
       "tags": [],
       "popularity": {
-        "score": 207.8,
-        "pageviews_365d": 914,
+        "score": 208,
+        "pageviews_365d": 921,
         "sitelinks": 2,
         "globalusage": 13
       },
@@ -2233,18 +2295,18 @@
     },
     {
       "id": "wd-Q66107697",
-      "title": "Pasie cousant",
+      "title": "Pasie cousant dans le jardin de Bougival, par",
       "year": "1881",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Berthe_Morisot_-_Pasie_cousant.jpg/960px-Berthe_Morisot_-_Pasie_cousant.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/1/19/Berthe_Morisot_-_Pasie_cousant.jpg",
-      "width": 3055,
-      "height": 2471,
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Pasie_cousant_dans_le_jardin_de_Bougival%2C_par_Berthe_Morisot.jpg/960px-Pasie_cousant_dans_le_jardin_de_Bougival%2C_par_Berthe_Morisot.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Pasie_cousant_dans_le_jardin_de_Bougival%2C_par_Berthe_Morisot.jpg",
+      "width": 2600,
+      "height": 2073,
       "tags": [],
       "popularity": {
-        "score": 17.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 5
+        "score": 128.2,
+        "pageviews_365d": 49,
+        "sitelinks": 2,
+        "globalusage": 6
       },
       "meta": {
         "Collection": "Musée des Beaux-Arts de Pau"
@@ -2253,15 +2315,15 @@
         "qid": "Q66107697",
         "source": "wikidata",
         "dimensions": {
-          "height_cm": 81,
-          "width_cm": 100
+          "height_cm": 81.7,
+          "width_cm": 100.1
         },
         "license": {
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": null,
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://d2lkryo36aywim.cloudfront.net/eyJidWNrZXQiOiJvcGFjLXByb2QtbWVkaWEiLCJrZXkiOiJwYXVcL2NvbGxwYXVvdzAyXC80MzUzYWNlYS00MmEyLTQ1OTMtODA5NC1jNjZkYjM0NWI1YmUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoyNjAwLCJoZWlnaHQiOjI2MDAsImZpdCI6Imluc2lkZSJ9fX0=\">https://d2lkryo36aywim.cloudfront.net/eyJidWNrZXQiOiJvcGFjLXByb2QtbWVkaWEiLCJrZXkiOiJwYXVcL2NvbGxwYXVvdzAyXC80MzUzYWNlYS00MmEyLTQ1OTMtODA5NC1jNjZkYjM0NWI1YmUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoyNjAwLCJoZWlnaHQiOjI2MDAsImZpdCI6Imluc2lkZSJ9fX0=</a>",
+          "artist": "Berthe Morisot"
         }
       }
     },
@@ -2999,8 +3061,8 @@
       "height": 1836,
       "tags": [],
       "popularity": {
-        "score": 205.8,
-        "pageviews_365d": 876,
+        "score": 206,
+        "pageviews_365d": 884,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -3131,8 +3193,8 @@
       "height": 6258,
       "tags": [],
       "popularity": {
-        "score": 194.5,
-        "pageviews_365d": 508,
+        "score": 194.7,
+        "pageviews_365d": 511,
         "sitelinks": 2,
         "globalusage": 15
       },
@@ -3199,8 +3261,8 @@
       "height": 3276,
       "tags": [],
       "popularity": {
-        "score": 174.9,
-        "pageviews_365d": 269,
+        "score": 175.4,
+        "pageviews_365d": 274,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -3336,8 +3398,8 @@
       "height": 4000,
       "tags": [],
       "popularity": {
-        "score": 261.6,
-        "pageviews_365d": 4391,
+        "score": 261.7,
+        "pageviews_365d": 4402,
         "sitelinks": 4,
         "globalusage": 35
       },
@@ -3403,8 +3465,8 @@
       "height": 1361,
       "tags": [],
       "popularity": {
-        "score": 193.4,
-        "pageviews_365d": 642,
+        "score": 193.6,
+        "pageviews_365d": 645,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -3505,8 +3567,8 @@
       "height": 3456,
       "tags": [],
       "popularity": {
-        "score": 198.9,
-        "pageviews_365d": 704,
+        "score": 199.1,
+        "pageviews_365d": 708,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -3600,10 +3662,10 @@
       "height": 2716,
       "tags": [],
       "popularity": {
-        "score": 24.8,
+        "score": 23,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 5
+        "globalusage": 4
       },
       "meta": {},
       "extras": {
@@ -3765,8 +3827,8 @@
       "height": 1332,
       "tags": [],
       "popularity": {
-        "score": 233.3,
-        "pageviews_365d": 2460,
+        "score": 233.4,
+        "pageviews_365d": 2469,
         "sitelinks": 4,
         "globalusage": 8
       },
@@ -4095,8 +4157,8 @@
       "height": 837,
       "tags": [],
       "popularity": {
-        "score": 179.4,
-        "pageviews_365d": 366,
+        "score": 181.3,
+        "pageviews_365d": 394,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -4164,8 +4226,8 @@
       "height": 2768,
       "tags": [],
       "popularity": {
-        "score": 198,
-        "pageviews_365d": 864,
+        "score": 198.1,
+        "pageviews_365d": 870,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -4198,8 +4260,8 @@
       "height": 1309,
       "tags": [],
       "popularity": {
-        "score": 235.2,
-        "pageviews_365d": 2113,
+        "score": 235.3,
+        "pageviews_365d": 2118,
         "sitelinks": 3,
         "globalusage": 19
       },
@@ -4333,8 +4395,8 @@
       "height": 3200,
       "tags": [],
       "popularity": {
-        "score": 188.6,
-        "pageviews_365d": 593,
+        "score": 188.9,
+        "pageviews_365d": 601,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -4494,8 +4556,8 @@
       "height": 660,
       "tags": [],
       "popularity": {
-        "score": 216.1,
-        "pageviews_365d": 862,
+        "score": 216.2,
+        "pageviews_365d": 866,
         "sitelinks": 2,
         "globalusage": 36
       },
@@ -4563,8 +4625,8 @@
       "height": 3311,
       "tags": [],
       "popularity": {
-        "score": 181.4,
-        "pageviews_365d": 418,
+        "score": 181.8,
+        "pageviews_365d": 425,
         "sitelinks": 2,
         "globalusage": 6
       },
@@ -4632,7 +4694,7 @@
       "tags": [],
       "popularity": {
         "score": 259.2,
-        "pageviews_365d": 4350,
+        "pageviews_365d": 4361,
         "sitelinks": 5,
         "globalusage": 23
       },
@@ -4665,8 +4727,8 @@
       "height": 491,
       "tags": [],
       "popularity": {
-        "score": 189.2,
-        "pageviews_365d": 607,
+        "score": 189.4,
+        "pageviews_365d": 612,
         "sitelinks": 2,
         "globalusage": 5
       },
@@ -4712,7 +4774,7 @@
         "source": "wikidata",
         "dimensions": {
           "height_cm": 68.5,
-          "width_cm": 80
+          "width_cm": 77
         },
         "license": {
           "short_name": "Public domain",
@@ -4864,8 +4926,8 @@
       "height": 2301,
       "tags": [],
       "popularity": {
-        "score": 191.8,
-        "pageviews_365d": 565,
+        "score": 192,
+        "pageviews_365d": 570,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -4900,8 +4962,8 @@
       "height": 960,
       "tags": [],
       "popularity": {
-        "score": 194.5,
-        "pageviews_365d": 693,
+        "score": 194.7,
+        "pageviews_365d": 699,
         "sitelinks": 1,
         "globalusage": 10
       },
@@ -4934,8 +4996,8 @@
       "height": 650,
       "tags": [],
       "popularity": {
-        "score": 204.4,
-        "pageviews_365d": 1032,
+        "score": 204.5,
+        "pageviews_365d": 1037,
         "sitelinks": 1,
         "globalusage": 10
       },
@@ -5240,10 +5302,10 @@
       "height": 300,
       "tags": [],
       "popularity": {
-        "score": 23,
+        "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 9
+        "globalusage": 10
       },
       "meta": {
         "Collection": "Fogg Museum"
@@ -5486,8 +5548,8 @@
       "height": 3200,
       "tags": [],
       "popularity": {
-        "score": 177.7,
-        "pageviews_365d": 341,
+        "score": 178,
+        "pageviews_365d": 346,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -5650,8 +5712,8 @@
       "height": 9660,
       "tags": [],
       "popularity": {
-        "score": 285.8,
-        "pageviews_365d": 8661,
+        "score": 285.9,
+        "pageviews_365d": 8681,
         "sitelinks": 6,
         "globalusage": 52
       },
@@ -5721,8 +5783,8 @@
       "height": 2246,
       "tags": [],
       "popularity": {
-        "score": 280.7,
-        "pageviews_365d": 14259,
+        "score": 280.8,
+        "pageviews_365d": 14289,
         "sitelinks": 3,
         "globalusage": 15
       },
@@ -5818,7 +5880,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-09-01T10:58:10.192Z",
+    "generated": "2026-09-27T19:55:49.408Z",
     "artist": {
       "qid": "Q105320",
       "name": "Berthe Morisot",
@@ -5829,6 +5891,6 @@
       "label": "paintings",
       "manifestKey": "paintings"
     },
-    "count": 175
+    "count": 177
   }
 }

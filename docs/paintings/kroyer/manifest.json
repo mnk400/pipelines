@@ -2168,8 +2168,8 @@
       "height": 6496,
       "tags": [],
       "popularity": {
-        "score": 210.5,
-        "pageviews_365d": 1162,
+        "score": 210.7,
+        "pageviews_365d": 1173,
         "sitelinks": 1,
         "globalusage": 14
       },
@@ -2202,10 +2202,10 @@
       "height": 1971,
       "tags": [],
       "popularity": {
-        "score": 277,
-        "pageviews_365d": 7189,
-        "sitelinks": 6,
-        "globalusage": 34
+        "score": 278.7,
+        "pageviews_365d": 7202,
+        "sitelinks": 7,
+        "globalusage": 35
       },
       "meta": {
         "Collection": "Hirschsprung Collection",
@@ -4502,7 +4502,7 @@
       "tags": [],
       "popularity": {
         "score": 342.5,
-        "pageviews_365d": 35795,
+        "pageviews_365d": 35866,
         "sitelinks": 14,
         "globalusage": 204
       },
@@ -5740,8 +5740,8 @@
       "height": 4201,
       "tags": [],
       "popularity": {
-        "score": 298.6,
-        "pageviews_365d": 10450,
+        "score": 298.8,
+        "pageviews_365d": 10503,
         "sitelinks": 10,
         "globalusage": 75
       },
@@ -6011,8 +6011,8 @@
       "height": 6234,
       "tags": [],
       "popularity": {
-        "score": 298.5,
-        "pageviews_365d": 9998,
+        "score": 298.6,
+        "pageviews_365d": 10039,
         "sitelinks": 9,
         "globalusage": 91
       },
@@ -6149,8 +6149,8 @@
       "height": 2343,
       "tags": [],
       "popularity": {
-        "score": 319.7,
-        "pageviews_365d": 19181,
+        "score": 319.8,
+        "pageviews_365d": 19259,
         "sitelinks": 11,
         "globalusage": 124
       },
@@ -6458,10 +6458,10 @@
       "height": 2920,
       "tags": [],
       "popularity": {
-        "score": 289.9,
-        "pageviews_365d": 8068,
+        "score": 290.3,
+        "pageviews_365d": 8092,
         "sitelinks": 6,
-        "globalusage": 94
+        "globalusage": 97
       },
       "meta": {
         "Collection": "Børsen"
@@ -6560,8 +6560,8 @@
       "height": 619,
       "tags": [],
       "popularity": {
-        "score": 236.2,
-        "pageviews_365d": 2934,
+        "score": 236.3,
+        "pageviews_365d": 2941,
         "sitelinks": 2,
         "globalusage": 12
       },
@@ -6968,10 +6968,10 @@
       "height": 5615,
       "tags": [],
       "popularity": {
-        "score": 259.4,
-        "pageviews_365d": 3247,
+        "score": 259.6,
+        "pageviews_365d": 3253,
         "sitelinks": 3,
-        "globalusage": 76
+        "globalusage": 77
       },
       "meta": {
         "Collection": "Carlsberg Foundation",
@@ -7202,10 +7202,10 @@
       "height": 4890,
       "tags": [],
       "popularity": {
-        "score": 23,
+        "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 9
+        "globalusage": 10
       },
       "meta": {
         "Collection": "Hirschsprung Collection"
@@ -7270,8 +7270,8 @@
       "height": 2984,
       "tags": [],
       "popularity": {
-        "score": 247.1,
-        "pageviews_365d": 3549,
+        "score": 247.2,
+        "pageviews_365d": 3560,
         "sitelinks": 3,
         "globalusage": 17
       },
@@ -7777,10 +7777,10 @@
       "height": 11698,
       "tags": [],
       "popularity": {
-        "score": 286.3,
-        "pageviews_365d": 10971,
+        "score": 287,
+        "pageviews_365d": 11008,
         "sitelinks": 11,
-        "globalusage": 17
+        "globalusage": 18
       },
       "meta": {
         "Collection": "Hirschsprung Collection",
@@ -8591,8 +8591,8 @@
       "height": 2026,
       "tags": [],
       "popularity": {
-        "score": 274.3,
-        "pageviews_365d": 7241,
+        "score": 274.4,
+        "pageviews_365d": 7264,
         "sitelinks": 7,
         "globalusage": 22
       },
@@ -8660,7 +8660,7 @@
       "tags": [],
       "popularity": {
         "score": 301,
-        "pageviews_365d": 12912,
+        "pageviews_365d": 12951,
         "sitelinks": 8,
         "globalusage": 68
       },
@@ -9369,7 +9369,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-09-01T10:40:20.209Z",
+    "generated": "2026-09-27T19:39:02.348Z",
     "artist": {
       "qid": "Q365068",
       "name": "Peder Severin Krøyer",

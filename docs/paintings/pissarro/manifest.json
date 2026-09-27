@@ -78,10 +78,10 @@
       "height": 1565,
       "tags": [],
       "popularity": {
-        "score": 159.8,
-        "pageviews_365d": 161,
+        "score": 162,
+        "pageviews_365d": 162,
         "sitelinks": 1,
-        "globalusage": 12
+        "globalusage": 15
       },
       "meta": {
         "Collection": "Central Bank of Venezuela"
@@ -108,10 +108,10 @@
       "height": 1767,
       "tags": [],
       "popularity": {
-        "score": 164.6,
-        "pageviews_365d": 168,
+        "score": 164.4,
+        "pageviews_365d": 170,
         "sitelinks": 1,
-        "globalusage": 18
+        "globalusage": 17
       },
       "meta": {
         "Collection": "Colección Patricia Phelps de Cisneros"
@@ -172,8 +172,8 @@
       "height": 2024,
       "tags": [],
       "popularity": {
-        "score": 170.5,
-        "pageviews_365d": 228,
+        "score": 170.6,
+        "pageviews_365d": 229,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -236,8 +236,8 @@
       "height": 403,
       "tags": [],
       "popularity": {
-        "score": 168.5,
-        "pageviews_365d": 205,
+        "score": 168.9,
+        "pageviews_365d": 209,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -268,8 +268,8 @@
       "height": 6261,
       "tags": [],
       "popularity": {
-        "score": 189.7,
-        "pageviews_365d": 383,
+        "score": 189.8,
+        "pageviews_365d": 384,
         "sitelinks": 2,
         "globalusage": 19
       },
@@ -369,8 +369,8 @@
       "height": 2090,
       "tags": [],
       "popularity": {
-        "score": 171.7,
-        "pageviews_365d": 239,
+        "score": 171.9,
+        "pageviews_365d": 241,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -537,8 +537,8 @@
       "height": 195,
       "tags": [],
       "popularity": {
-        "score": 182.3,
-        "pageviews_365d": 284,
+        "score": 182.4,
+        "pageviews_365d": 286,
         "sitelinks": 1,
         "globalusage": 29
       },
@@ -601,8 +601,8 @@
       "height": 4003,
       "tags": [],
       "popularity": {
-        "score": 255.2,
-        "pageviews_365d": 2660,
+        "score": 255.3,
+        "pageviews_365d": 2665,
         "sitelinks": 3,
         "globalusage": 82
       },
@@ -657,7 +657,7 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.smk.dk/udforsk-kunsten/soeg-i-smk/#/detail/KMShm10\">www.smk.dk</a>   and  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.kulturarv.dk/kid/VisVaerk.do?vaerkId=408871\">www.kulturarv.dk</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+          "artist": "<bdi>Attributed to <a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
     },
@@ -741,8 +741,8 @@
       "height": 4000,
       "tags": [],
       "popularity": {
-        "score": 181.3,
-        "pageviews_365d": 277,
+        "score": 181.4,
+        "pageviews_365d": 278,
         "sitelinks": 1,
         "globalusage": 28
       },
@@ -793,6 +793,38 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://artuk.org/discover/artworks/mme-pissarro-sewing-142508/view_as/grid/search/keyword:ashmolean--makers:camille-pissarro-18301903/page/1\">https://artuk.org/discover/artworks/mme-pissarro-sewing-142508/view_as/grid/search/keyword:ashmolean--makers:camille-pissarro-18301903/page/1</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q141271450",
+      "title": "Portrait of the Artist Ludovic Piette before His Easel",
+      "year": "1861",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Camille_Pissarro_-_Portrait_of_the_Artist_Ludovic_Piette_before_His_Easel.jpg/960px-Camille_Pissarro_-_Portrait_of_the_Artist_Ludovic_Piette_before_His_Easel.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Camille_Pissarro_-_Portrait_of_the_Artist_Ludovic_Piette_before_His_Easel.jpg",
+      "width": 1328,
+      "height": 2000,
+      "tags": [],
+      "popularity": {
+        "score": 17.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 5
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q141271450",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 53.3,
+          "width_cm": 37.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://doyle.com\">https://doyle.com</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -903,8 +935,8 @@
       "height": 508,
       "tags": [],
       "popularity": {
-        "score": 170.2,
-        "pageviews_365d": 173,
+        "score": 170.4,
+        "pageviews_365d": 174,
         "sitelinks": 1,
         "globalusage": 30
       },
@@ -937,8 +969,8 @@
       "height": 801,
       "tags": [],
       "popularity": {
-        "score": 160.1,
-        "pageviews_365d": 143,
+        "score": 160.4,
+        "pageviews_365d": 145,
         "sitelinks": 1,
         "globalusage": 17
       },
@@ -999,8 +1031,8 @@
       "height": 219,
       "tags": [],
       "popularity": {
-        "score": 173.4,
-        "pageviews_365d": 256,
+        "score": 173.5,
+        "pageviews_365d": 257,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -1294,8 +1326,8 @@
       "height": 2247,
       "tags": [],
       "popularity": {
-        "score": 165.8,
-        "pageviews_365d": 184,
+        "score": 165.9,
+        "pageviews_365d": 185,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -1360,8 +1392,8 @@
       "height": 139,
       "tags": [],
       "popularity": {
-        "score": 164.3,
-        "pageviews_365d": 138,
+        "score": 164.5,
+        "pageviews_365d": 139,
         "sitelinks": 1,
         "globalusage": 29
       },
@@ -1392,8 +1424,8 @@
       "height": 2495,
       "tags": [],
       "popularity": {
-        "score": 177.7,
-        "pageviews_365d": 196,
+        "score": 178.8,
+        "pageviews_365d": 205,
         "sitelinks": 2,
         "globalusage": 31
       },
@@ -1461,8 +1493,8 @@
       "height": 865,
       "tags": [],
       "popularity": {
-        "score": 178,
-        "pageviews_365d": 456,
+        "score": 178.1,
+        "pageviews_365d": 458,
         "sitelinks": 1,
         "globalusage": 5
       },
@@ -1563,8 +1595,8 @@
       "height": 1817,
       "tags": [],
       "popularity": {
-        "score": 171.5,
-        "pageviews_365d": 184,
+        "score": 171.9,
+        "pageviews_365d": 187,
         "sitelinks": 1,
         "globalusage": 29
       },
@@ -1598,7 +1630,7 @@
       "tags": [],
       "popularity": {
         "score": 180.2,
-        "pageviews_365d": 261,
+        "pageviews_365d": 262,
         "sitelinks": 1,
         "globalusage": 29
       },
@@ -1632,8 +1664,8 @@
       "height": 2816,
       "tags": [],
       "popularity": {
-        "score": 205.5,
-        "pageviews_365d": 508,
+        "score": 205.6,
+        "pageviews_365d": 510,
         "sitelinks": 3,
         "globalusage": 35
       },
@@ -1667,8 +1699,8 @@
       "height": 2944,
       "tags": [],
       "popularity": {
-        "score": 187.4,
-        "pageviews_365d": 314,
+        "score": 187.5,
+        "pageviews_365d": 315,
         "sitelinks": 2,
         "globalusage": 25
       },
@@ -1702,8 +1734,8 @@
       "height": 1450,
       "tags": [],
       "popularity": {
-        "score": 174.2,
-        "pageviews_365d": 208,
+        "score": 174.3,
+        "pageviews_365d": 209,
         "sitelinks": 1,
         "globalusage": 28
       },
@@ -1737,8 +1769,8 @@
       "height": 4195,
       "tags": [],
       "popularity": {
-        "score": 165.2,
-        "pageviews_365d": 172,
+        "score": 165.6,
+        "pageviews_365d": 175,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -1806,8 +1838,8 @@
       "height": 1498,
       "tags": [],
       "popularity": {
-        "score": 178.6,
-        "pageviews_365d": 191,
+        "score": 178.9,
+        "pageviews_365d": 193,
         "sitelinks": 1,
         "globalusage": 55
       },
@@ -1876,8 +1908,8 @@
       "height": 1630,
       "tags": [],
       "popularity": {
-        "score": 179.6,
-        "pageviews_365d": 284,
+        "score": 179.8,
+        "pageviews_365d": 286,
         "sitelinks": 1,
         "globalusage": 22
       },
@@ -1946,8 +1978,8 @@
       "height": 909,
       "tags": [],
       "popularity": {
-        "score": 166.2,
-        "pageviews_365d": 158,
+        "score": 167,
+        "pageviews_365d": 163,
         "sitelinks": 1,
         "globalusage": 25
       },
@@ -1981,10 +2013,10 @@
       "height": 2885,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Collection": "Belvedere",
@@ -2017,8 +2049,8 @@
       "height": 3285,
       "tags": [],
       "popularity": {
-        "score": 246.1,
-        "pageviews_365d": 3009,
+        "score": 246.2,
+        "pageviews_365d": 3020,
         "sitelinks": 6,
         "globalusage": 13
       },
@@ -2085,10 +2117,10 @@
       "height": 1497,
       "tags": [],
       "popularity": {
-        "score": 172.3,
-        "pageviews_365d": 166,
+        "score": 172.6,
+        "pageviews_365d": 167,
         "sitelinks": 1,
-        "globalusage": 41
+        "globalusage": 42
       },
       "meta": {
         "Collection": "Walters Art Museum",
@@ -2186,8 +2218,8 @@
       "height": 2592,
       "tags": [],
       "popularity": {
-        "score": 169.7,
-        "pageviews_365d": 227,
+        "score": 170.3,
+        "pageviews_365d": 232,
         "sitelinks": 2,
         "globalusage": 9
       },
@@ -2221,8 +2253,8 @@
       "height": 4226,
       "tags": [],
       "popularity": {
-        "score": 190.9,
-        "pageviews_365d": 346,
+        "score": 191,
+        "pageviews_365d": 347,
         "sitelinks": 2,
         "globalusage": 28
       },
@@ -2291,8 +2323,8 @@
       "height": 6974,
       "tags": [],
       "popularity": {
-        "score": 185.8,
-        "pageviews_365d": 309,
+        "score": 186.2,
+        "pageviews_365d": 314,
         "sitelinks": 2,
         "globalusage": 22
       },
@@ -2430,8 +2462,8 @@
       "height": 4912,
       "tags": [],
       "popularity": {
-        "score": 161.8,
-        "pageviews_365d": 238,
+        "score": 162.1,
+        "pageviews_365d": 241,
         "sitelinks": 1,
         "globalusage": 5
       },
@@ -2461,8 +2493,8 @@
       "height": 227,
       "tags": [],
       "popularity": {
-        "score": 174,
-        "pageviews_365d": 250,
+        "score": 174.4,
+        "pageviews_365d": 254,
         "sitelinks": 1,
         "globalusage": 17
       },
@@ -2491,8 +2523,8 @@
       "height": 4629,
       "tags": [],
       "popularity": {
-        "score": 161.2,
-        "pageviews_365d": 233,
+        "score": 161.3,
+        "pageviews_365d": 234,
         "sitelinks": 1,
         "globalusage": 5
       },
@@ -2557,8 +2589,8 @@
       "height": 1975,
       "tags": [],
       "popularity": {
-        "score": 165,
-        "pageviews_365d": 155,
+        "score": 165.4,
+        "pageviews_365d": 158,
         "sitelinks": 1,
         "globalusage": 23
       },
@@ -2592,8 +2624,8 @@
       "height": 1152,
       "tags": [],
       "popularity": {
-        "score": 171.4,
-        "pageviews_365d": 204,
+        "score": 171.6,
+        "pageviews_365d": 206,
         "sitelinks": 1,
         "globalusage": 22
       },
@@ -2647,7 +2679,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.clarkart.edu/ArtPiece/Detail/The-Artist-s-Palette-with-a-Landscape\">Clark Art Institute</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.clarkart.edu/ArtPiece/Detail/The-Artist-s-Palette-with-a-Landscape\">Clark Art Institute</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -2697,8 +2729,8 @@
       "height": 1021,
       "tags": [],
       "popularity": {
-        "score": 178.6,
-        "pageviews_365d": 289,
+        "score": 178.7,
+        "pageviews_365d": 290,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -2732,7 +2764,7 @@
       "tags": [],
       "popularity": {
         "score": 180.9,
-        "pageviews_365d": 316,
+        "pageviews_365d": 317,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -2832,8 +2864,8 @@
       "height": 790,
       "tags": [],
       "popularity": {
-        "score": 156.4,
-        "pageviews_365d": 180,
+        "score": 156.5,
+        "pageviews_365d": 181,
         "sitelinks": 1,
         "globalusage": 6
       },
@@ -2901,8 +2933,8 @@
       "height": 4226,
       "tags": [],
       "popularity": {
-        "score": 164.2,
-        "pageviews_365d": 134,
+        "score": 164.6,
+        "pageviews_365d": 136,
         "sitelinks": 1,
         "globalusage": 31
       },
@@ -2936,8 +2968,8 @@
       "height": 773,
       "tags": [],
       "popularity": {
-        "score": 172.1,
-        "pageviews_365d": 339,
+        "score": 172.4,
+        "pageviews_365d": 343,
         "sitelinks": 1,
         "globalusage": 6
       },
@@ -2970,8 +3002,8 @@
       "height": 3107,
       "tags": [],
       "popularity": {
-        "score": 196.2,
-        "pageviews_365d": 657,
+        "score": 196.4,
+        "pageviews_365d": 660,
         "sitelinks": 2,
         "globalusage": 9
       },
@@ -3069,8 +3101,8 @@
       "height": 859,
       "tags": [],
       "popularity": {
-        "score": 174.1,
-        "pageviews_365d": 232,
+        "score": 174.3,
+        "pageviews_365d": 234,
         "sitelinks": 1,
         "globalusage": 21
       },
@@ -3138,8 +3170,8 @@
       "height": 1145,
       "tags": [],
       "popularity": {
-        "score": 170.3,
-        "pageviews_365d": 171,
+        "score": 170.6,
+        "pageviews_365d": 173,
         "sitelinks": 1,
         "globalusage": 31
       },
@@ -3205,8 +3237,8 @@
       "height": 4210,
       "tags": [],
       "popularity": {
-        "score": 206.4,
-        "pageviews_365d": 583,
+        "score": 206.6,
+        "pageviews_365d": 588,
         "sitelinks": 3,
         "globalusage": 27
       },
@@ -3271,10 +3303,10 @@
       "height": 4601,
       "tags": [],
       "popularity": {
-        "score": 255,
-        "pageviews_365d": 3046,
-        "sitelinks": 3,
-        "globalusage": 57
+        "score": 257.6,
+        "pageviews_365d": 3113,
+        "sitelinks": 4,
+        "globalusage": 56
       },
       "meta": {
         "Collection": "Courtauld Institute of Art"
@@ -3340,8 +3372,8 @@
       "height": 3649,
       "tags": [],
       "popularity": {
-        "score": 180.7,
-        "pageviews_365d": 244,
+        "score": 181,
+        "pageviews_365d": 247,
         "sitelinks": 2,
         "globalusage": 24
       },
@@ -3443,8 +3475,8 @@
       "height": 646,
       "tags": [],
       "popularity": {
-        "score": 174.9,
-        "pageviews_365d": 249,
+        "score": 175,
+        "pageviews_365d": 250,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -3471,8 +3503,8 @@
       "height": 5166,
       "tags": [],
       "popularity": {
-        "score": 170.9,
-        "pageviews_365d": 200,
+        "score": 171.4,
+        "pageviews_365d": 204,
         "sitelinks": 1,
         "globalusage": 22
       },
@@ -3506,7 +3538,7 @@
       "tags": [],
       "popularity": {
         "score": 189.7,
-        "pageviews_365d": 418,
+        "pageviews_365d": 419,
         "sitelinks": 1,
         "globalusage": 23
       },
@@ -3573,10 +3605,10 @@
       "height": 4226,
       "tags": [],
       "popularity": {
-        "score": 183.7,
-        "pageviews_365d": 263,
-        "sitelinks": 2,
-        "globalusage": 27
+        "score": 187,
+        "pageviews_365d": 264,
+        "sitelinks": 3,
+        "globalusage": 28
       },
       "meta": {
         "Collection": "National Gallery"
@@ -3608,7 +3640,7 @@
       "tags": [],
       "popularity": {
         "score": 239.6,
-        "pageviews_365d": 2397,
+        "pageviews_365d": 2401,
         "sitelinks": 2,
         "globalusage": 29
       },
@@ -3918,8 +3950,8 @@
       "height": 6588,
       "tags": [],
       "popularity": {
-        "score": 175.9,
-        "pageviews_365d": 249,
+        "score": 176,
+        "pageviews_365d": 250,
         "sitelinks": 1,
         "globalusage": 21
       },
@@ -3990,10 +4022,10 @@
       "height": 1702,
       "tags": [],
       "popularity": {
-        "score": 244.5,
-        "pageviews_365d": 1807,
+        "score": 244.8,
+        "pageviews_365d": 1812,
         "sitelinks": 4,
-        "globalusage": 59
+        "globalusage": 60
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -4059,8 +4091,8 @@
       "height": 3000,
       "tags": [],
       "popularity": {
-        "score": 185.2,
-        "pageviews_365d": 339,
+        "score": 185.5,
+        "pageviews_365d": 342,
         "sitelinks": 1,
         "globalusage": 25
       },
@@ -4295,8 +4327,8 @@
       "height": 785,
       "tags": [],
       "popularity": {
-        "score": 185.3,
-        "pageviews_365d": 442,
+        "score": 185.4,
+        "pageviews_365d": 443,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -4463,8 +4495,8 @@
       "height": 976,
       "tags": [],
       "popularity": {
-        "score": 183.1,
-        "pageviews_365d": 302,
+        "score": 183.6,
+        "pageviews_365d": 308,
         "sitelinks": 1,
         "globalusage": 27
       },
@@ -4530,8 +4562,8 @@
       "height": 1425,
       "tags": [],
       "popularity": {
-        "score": 173.3,
-        "pageviews_365d": 233,
+        "score": 173.4,
+        "pageviews_365d": 234,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -4560,8 +4592,8 @@
       "height": 2540,
       "tags": [],
       "popularity": {
-        "score": 185.9,
-        "pageviews_365d": 316,
+        "score": 186,
+        "pageviews_365d": 318,
         "sitelinks": 1,
         "globalusage": 32
       },
@@ -4734,8 +4766,8 @@
       "height": 1649,
       "tags": [],
       "popularity": {
-        "score": 160.9,
-        "pageviews_365d": 180,
+        "score": 161,
+        "pageviews_365d": 181,
         "sitelinks": 1,
         "globalusage": 10
       },
@@ -4763,16 +4795,16 @@
       "id": "wd-Q21483100",
       "title": "The Boulevard des Fossés, Pontoise",
       "year": "1872",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/The_Boulevard_des_Foss%C3%A9s_by_Camille_Pissarro%2C_Norton_Simon_Museum.JPG/960px-The_Boulevard_des_Foss%C3%A9s_by_Camille_Pissarro%2C_Norton_Simon_Museum.JPG",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Boulevard_des_Foss%C3%A9s_by_Camille_Pissarro%2C_Norton_Simon_Museum.JPG",
-      "width": 2643,
-      "height": 2109,
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Camille_Pissarro_-_The_Boulevard_des_Foss%C3%A9s%2C_Pontoise.jpg/960px-Camille_Pissarro_-_The_Boulevard_des_Foss%C3%A9s%2C_Pontoise.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Camille_Pissarro_-_The_Boulevard_des_Foss%C3%A9s%2C_Pontoise.jpg",
+      "width": 10135,
+      "height": 8474,
       "tags": [],
       "popularity": {
-        "score": 173.9,
-        "pageviews_365d": 215,
+        "score": 155.4,
+        "pageviews_365d": 217,
         "sitelinks": 1,
-        "globalusage": 25
+        "globalusage": 3
       },
       "meta": {
         "Collection": "Norton Simon Museum",
@@ -4789,7 +4821,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.nortonsimon.org\">https://www.nortonsimon.org</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
         }
       }
@@ -5009,8 +5041,8 @@
       "height": 2085,
       "tags": [],
       "popularity": {
-        "score": 226.1,
-        "pageviews_365d": 1188,
+        "score": 226.3,
+        "pageviews_365d": 1193,
         "sitelinks": 3,
         "globalusage": 33
       },
@@ -5246,8 +5278,8 @@
       "height": 1498,
       "tags": [],
       "popularity": {
-        "score": 176.2,
-        "pageviews_365d": 226,
+        "score": 176.4,
+        "pageviews_365d": 228,
         "sitelinks": 1,
         "globalusage": 28
       },
@@ -5281,10 +5313,10 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 32.6,
+        "score": 33,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 25
+        "globalusage": 26
       },
       "meta": {},
       "extras": {
@@ -5379,8 +5411,8 @@
       "height": 4096,
       "tags": [],
       "popularity": {
-        "score": 171.2,
-        "pageviews_365d": 219,
+        "score": 171.3,
+        "pageviews_365d": 220,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -5445,8 +5477,8 @@
       "height": 998,
       "tags": [],
       "popularity": {
-        "score": 165.7,
-        "pageviews_365d": 188,
+        "score": 165.8,
+        "pageviews_365d": 189,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -5475,10 +5507,10 @@
       "height": 3504,
       "tags": [],
       "popularity": {
-        "score": 242.5,
-        "pageviews_365d": 2832,
+        "score": 243.1,
+        "pageviews_365d": 2839,
         "sitelinks": 3,
-        "globalusage": 19
+        "globalusage": 20
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -5510,8 +5542,8 @@
       "height": 1582,
       "tags": [],
       "popularity": {
-        "score": 193,
-        "pageviews_365d": 437,
+        "score": 193.2,
+        "pageviews_365d": 440,
         "sitelinks": 1,
         "globalusage": 29
       },
@@ -5578,8 +5610,8 @@
       "height": 9580,
       "tags": [],
       "popularity": {
-        "score": 163.2,
-        "pageviews_365d": 147,
+        "score": 166.4,
+        "pageviews_365d": 167,
         "sitelinks": 1,
         "globalusage": 22
       },
@@ -5614,10 +5646,10 @@
       "height": 413,
       "tags": [],
       "popularity": {
-        "score": 159.5,
-        "pageviews_365d": 177,
+        "score": 162.7,
+        "pageviews_365d": 181,
         "sitelinks": 1,
-        "globalusage": 9
+        "globalusage": 12
       },
       "meta": {
         "Series": "pontoise"
@@ -5747,13 +5779,12 @@
       "height": 2333,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 5
       },
       "meta": {
-        "Collection": "Ann & Gordon Getty Collection",
         "Series": "pontoise"
       },
       "extras": {
@@ -5817,8 +5848,8 @@
       "height": 2810,
       "tags": [],
       "popularity": {
-        "score": 265.8,
-        "pageviews_365d": 4354,
+        "score": 265.9,
+        "pageviews_365d": 4367,
         "sitelinks": 7,
         "globalusage": 34
       },
@@ -5852,8 +5883,8 @@
       "height": 3081,
       "tags": [],
       "popularity": {
-        "score": 173.6,
-        "pageviews_365d": 193,
+        "score": 173.8,
+        "pageviews_365d": 195,
         "sitelinks": 2,
         "globalusage": 21
       },
@@ -5921,8 +5952,8 @@
       "height": 1544,
       "tags": [],
       "popularity": {
-        "score": 221.8,
-        "pageviews_365d": 1163,
+        "score": 223.3,
+        "pageviews_365d": 1233,
         "sitelinks": 2,
         "globalusage": 30
       },
@@ -6024,8 +6055,8 @@
       "height": 734,
       "tags": [],
       "popularity": {
-        "score": 191.6,
-        "pageviews_365d": 507,
+        "score": 191.9,
+        "pageviews_365d": 513,
         "sitelinks": 1,
         "globalusage": 17
       },
@@ -6262,8 +6293,8 @@
       "height": 2335,
       "tags": [],
       "popularity": {
-        "score": 167.8,
-        "pageviews_365d": 191,
+        "score": 167.9,
+        "pageviews_365d": 192,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -6297,8 +6328,8 @@
       "height": 3767,
       "tags": [],
       "popularity": {
-        "score": 266.1,
-        "pageviews_365d": 3664,
+        "score": 266.2,
+        "pageviews_365d": 3671,
         "sitelinks": 5,
         "globalusage": 73
       },
@@ -6490,8 +6521,8 @@
       "height": 4024,
       "tags": [],
       "popularity": {
-        "score": 171.8,
-        "pageviews_365d": 317,
+        "score": 171.9,
+        "pageviews_365d": 319,
         "sitelinks": 1,
         "globalusage": 7
       },
@@ -6662,7 +6693,7 @@
       "tags": [],
       "popularity": {
         "score": 178.6,
-        "pageviews_365d": 439,
+        "pageviews_365d": 440,
         "sitelinks": 1,
         "globalusage": 6
       },
@@ -6959,8 +6990,8 @@
       "height": 3949,
       "tags": [],
       "popularity": {
-        "score": 241.5,
-        "pageviews_365d": 3047,
+        "score": 241.6,
+        "pageviews_365d": 3056,
         "sitelinks": 5,
         "globalusage": 9
       },
@@ -7025,8 +7056,8 @@
       "height": 6000,
       "tags": [],
       "popularity": {
-        "score": 198,
-        "pageviews_365d": 549,
+        "score": 198.2,
+        "pageviews_365d": 554,
         "sitelinks": 3,
         "globalusage": 13
       },
@@ -7059,8 +7090,8 @@
       "height": 4992,
       "tags": [],
       "popularity": {
-        "score": 177.3,
-        "pageviews_365d": 362,
+        "score": 177.4,
+        "pageviews_365d": 363,
         "sitelinks": 1,
         "globalusage": 9
       },
@@ -7302,8 +7333,8 @@
       "height": 417,
       "tags": [],
       "popularity": {
-        "score": 161.8,
-        "pageviews_365d": 161,
+        "score": 162,
+        "pageviews_365d": 162,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -7578,8 +7609,8 @@
       "height": 1200,
       "tags": [],
       "popularity": {
-        "score": 158,
-        "pageviews_365d": 192,
+        "score": 158.2,
+        "pageviews_365d": 194,
         "sitelinks": 1,
         "globalusage": 6
       },
@@ -8161,8 +8192,8 @@
       "height": 3788,
       "tags": [],
       "popularity": {
-        "score": 177,
-        "pageviews_365d": 186,
+        "score": 177.6,
+        "pageviews_365d": 190,
         "sitelinks": 2,
         "globalusage": 33
       },
@@ -8261,8 +8292,8 @@
       "height": 618,
       "tags": [],
       "popularity": {
-        "score": 204.3,
-        "pageviews_365d": 593,
+        "score": 204.4,
+        "pageviews_365d": 594,
         "sitelinks": 2,
         "globalusage": 28
       },
@@ -8522,7 +8553,7 @@
       "id": "wd-Q133252898",
       "title": "Rue du Fond-de-l'Hermitage, Pontoise)",
       "year": "1876",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Rue_du_Fond-de-l%27Hermitage%2C_Pontoise%29.webp/960px-Rue_du_Fond-de-l%27Hermitage%2C_Pontoise%29.webp.png",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Rue_du_Fond-de-l%27Hermitage%2C_Pontoise%29.webp/960px-Rue_du_Fond-de-l%27Hermitage%2C_Pontoise%29.webp",
       "full": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Rue_du_Fond-de-l%27Hermitage%2C_Pontoise%29.webp",
       "width": 2880,
       "height": 3491,
@@ -8631,8 +8662,8 @@
       "height": 3384,
       "tags": [],
       "popularity": {
-        "score": 193.5,
-        "pageviews_365d": 476,
+        "score": 193.8,
+        "pageviews_365d": 482,
         "sitelinks": 2,
         "globalusage": 16
       },
@@ -9351,8 +9382,8 @@
       "height": 734,
       "tags": [],
       "popularity": {
-        "score": 179.5,
-        "pageviews_365d": 323,
+        "score": 179.6,
+        "pageviews_365d": 324,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -9661,8 +9692,8 @@
       "height": 3801,
       "tags": [],
       "popularity": {
-        "score": 273.7,
-        "pageviews_365d": 5448,
+        "score": 273.8,
+        "pageviews_365d": 5461,
         "sitelinks": 7,
         "globalusage": 43
       },
@@ -9766,10 +9797,10 @@
       "height": 773,
       "tags": [],
       "popularity": {
-        "score": 24.8,
+        "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 11
+        "globalusage": 10
       },
       "meta": {
         "Collection": "Kröller-Müller Museum",
@@ -9801,8 +9832,8 @@
       "height": 2107,
       "tags": [],
       "popularity": {
-        "score": 282.8,
-        "pageviews_365d": 8495,
+        "score": 282.9,
+        "pageviews_365d": 8519,
         "sitelinks": 8,
         "globalusage": 31
       },
@@ -9977,8 +10008,8 @@
       "height": 550,
       "tags": [],
       "popularity": {
-        "score": 193.5,
-        "pageviews_365d": 644,
+        "score": 193.6,
+        "pageviews_365d": 646,
         "sitelinks": 1,
         "globalusage": 11
       },
@@ -10370,16 +10401,16 @@
       "id": "wd-Q21776713",
       "title": "The Path to Le Chou, Pontoise",
       "year": "1878",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Camille_Pissarro_-_La_Sente_du_Chou%2C_Pontoise_-_1878.jpg/960px-Camille_Pissarro_-_La_Sente_du_Chou%2C_Pontoise_-_1878.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Camille_Pissarro_-_La_Sente_du_Chou%2C_Pontoise_-_1878.jpg",
-      "width": 4113,
-      "height": 2547,
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/La_Sente_du_Chou%2C_pr%C3%A8s_de_Pontoise_de_Camille_Pissarro.jpg/960px-La_Sente_du_Chou%2C_pr%C3%A8s_de_Pontoise_de_Camille_Pissarro.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/66/La_Sente_du_Chou%2C_pr%C3%A8s_de_Pontoise_de_Camille_Pissarro.jpg",
+      "width": 5626,
+      "height": 3462,
       "tags": [],
       "popularity": {
-        "score": 196.8,
-        "pageviews_365d": 570,
+        "score": 192.7,
+        "pageviews_365d": 571,
         "sitelinks": 2,
-        "globalusage": 14
+        "globalusage": 9
       },
       "meta": {
         "Collection": "Musée de la Chartreuse de Douai",
@@ -10396,8 +10427,8 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "Unknown source<span style=\"display: none;\">Unknown source</span>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Pissarro\" class=\"extiw\" title=\"w:en:Camille Pissarro\"><span title=\"Danish-French painter (1830-1903)\">Camille Pissarro</span></a></bdi>"
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "artist": null
         }
       }
     },
@@ -10894,8 +10925,8 @@
       "height": 1511,
       "tags": [],
       "popularity": {
-        "score": 160.8,
-        "pageviews_365d": 246,
+        "score": 161,
+        "pageviews_365d": 248,
         "sitelinks": 1,
         "globalusage": 4
       },
@@ -11065,8 +11096,8 @@
       "height": 3001,
       "tags": [],
       "popularity": {
-        "score": 164.3,
-        "pageviews_365d": 159,
+        "score": 164.6,
+        "pageviews_365d": 161,
         "sitelinks": 1,
         "globalusage": 20
       },
@@ -11239,8 +11270,8 @@
       "height": 5429,
       "tags": [],
       "popularity": {
-        "score": 166.9,
-        "pageviews_365d": 208,
+        "score": 167,
+        "pageviews_365d": 209,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -11544,8 +11575,8 @@
       "height": 4603,
       "tags": [],
       "popularity": {
-        "score": 177.9,
-        "pageviews_365d": 235,
+        "score": 178,
+        "pageviews_365d": 236,
         "sitelinks": 1,
         "globalusage": 30
       },
@@ -11640,8 +11671,8 @@
       "height": 6000,
       "tags": [],
       "popularity": {
-        "score": 202.6,
-        "pageviews_365d": 457,
+        "score": 202.7,
+        "pageviews_365d": 459,
         "sitelinks": 3,
         "globalusage": 34
       },
@@ -11775,8 +11806,8 @@
       "height": 9065,
       "tags": [],
       "popularity": {
-        "score": 158.6,
-        "pageviews_365d": 178,
+        "score": 159.1,
+        "pageviews_365d": 182,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -11844,8 +11875,8 @@
       "height": 4152,
       "tags": [],
       "popularity": {
-        "score": 175.7,
-        "pageviews_365d": 210,
+        "score": 175.8,
+        "pageviews_365d": 211,
         "sitelinks": 1,
         "globalusage": 32
       },
@@ -11944,8 +11975,8 @@
       "height": 349,
       "tags": [],
       "popularity": {
-        "score": 163.8,
-        "pageviews_365d": 137,
+        "score": 164,
+        "pageviews_365d": 138,
         "sitelinks": 1,
         "globalusage": 28
       },
@@ -12010,8 +12041,8 @@
       "height": 3789,
       "tags": [],
       "popularity": {
-        "score": 176.2,
-        "pageviews_365d": 205,
+        "score": 176.6,
+        "pageviews_365d": 208,
         "sitelinks": 1,
         "globalusage": 36
       },
@@ -12044,8 +12075,8 @@
       "height": 3050,
       "tags": [],
       "popularity": {
-        "score": 178.7,
-        "pageviews_365d": 237,
+        "score": 178.8,
+        "pageviews_365d": 238,
         "sitelinks": 1,
         "globalusage": 32
       },
@@ -12077,7 +12108,7 @@
       "tags": [],
       "popularity": {
         "score": 269,
-        "pageviews_365d": 4410,
+        "pageviews_365d": 4419,
         "sitelinks": 6,
         "globalusage": 52
       },
@@ -12146,8 +12177,8 @@
       "height": 2250,
       "tags": [],
       "popularity": {
-        "score": 169.2,
-        "pageviews_365d": 158,
+        "score": 169.4,
+        "pageviews_365d": 159,
         "sitelinks": 1,
         "globalusage": 34
       },
@@ -12214,8 +12245,8 @@
       "height": 760,
       "tags": [],
       "popularity": {
-        "score": 164.9,
-        "pageviews_365d": 163,
+        "score": 165.2,
+        "pageviews_365d": 165,
         "sitelinks": 1,
         "globalusage": 20
       },
@@ -12418,8 +12449,8 @@
       "height": 2055,
       "tags": [],
       "popularity": {
-        "score": 220.3,
-        "pageviews_365d": 1021,
+        "score": 220.5,
+        "pageviews_365d": 1027,
         "sitelinks": 2,
         "globalusage": 36
       },
@@ -12757,10 +12788,10 @@
       "height": 2582,
       "tags": [],
       "popularity": {
-        "score": 248.3,
-        "pageviews_365d": 2189,
+        "score": 248.7,
+        "pageviews_365d": 2204,
         "sitelinks": 5,
-        "globalusage": 44
+        "globalusage": 45
       },
       "meta": {
         "Collection": "Kunsthalle Bremen",
@@ -13101,7 +13132,7 @@
         "globalusage": 7
       },
       "meta": {
-        "Collection": "Q847508"
+        "Collection": "Worcester Art Museum"
       },
       "extras": {
         "qid": "Q78923362",
@@ -13265,8 +13296,8 @@
       "height": 699,
       "tags": [],
       "popularity": {
-        "score": 150.9,
-        "pageviews_365d": 154,
+        "score": 151.1,
+        "pageviews_365d": 155,
         "sitelinks": 1,
         "globalusage": 5
       },
@@ -13299,8 +13330,8 @@
       "height": 234,
       "tags": [],
       "popularity": {
-        "score": 185.6,
-        "pageviews_365d": 390,
+        "score": 185.7,
+        "pageviews_365d": 392,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -13327,8 +13358,8 @@
       "height": 5569,
       "tags": [],
       "popularity": {
-        "score": 192.7,
-        "pageviews_365d": 451,
+        "score": 193,
+        "pageviews_365d": 456,
         "sitelinks": 2,
         "globalusage": 17
       },
@@ -13361,8 +13392,8 @@
       "height": 5880,
       "tags": [],
       "popularity": {
-        "score": 168.1,
-        "pageviews_365d": 170,
+        "score": 168.6,
+        "pageviews_365d": 174,
         "sitelinks": 1,
         "globalusage": 25
       },
@@ -13395,8 +13426,8 @@
       "height": 1252,
       "tags": [],
       "popularity": {
-        "score": 181.6,
-        "pageviews_365d": 326,
+        "score": 181.9,
+        "pageviews_365d": 330,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -13529,8 +13560,8 @@
       "height": 1536,
       "tags": [],
       "popularity": {
-        "score": 211.9,
-        "pageviews_365d": 851,
+        "score": 212,
+        "pageviews_365d": 857,
         "sitelinks": 2,
         "globalusage": 24
       },
@@ -13596,7 +13627,7 @@
       "tags": [],
       "popularity": {
         "score": 187.1,
-        "pageviews_365d": 390,
+        "pageviews_365d": 391,
         "sitelinks": 1,
         "globalusage": 21
       },
@@ -13661,8 +13692,8 @@
       "height": 833,
       "tags": [],
       "popularity": {
-        "score": 161.1,
-        "pageviews_365d": 232,
+        "score": 161.4,
+        "pageviews_365d": 235,
         "sitelinks": 1,
         "globalusage": 5
       },
@@ -13695,8 +13726,8 @@
       "height": 3055,
       "tags": [],
       "popularity": {
-        "score": 170.5,
-        "pageviews_365d": 228,
+        "score": 171,
+        "pageviews_365d": 233,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -13829,8 +13860,8 @@
       "height": 2323,
       "tags": [],
       "popularity": {
-        "score": 190.4,
-        "pageviews_365d": 454,
+        "score": 190.5,
+        "pageviews_365d": 456,
         "sitelinks": 1,
         "globalusage": 20
       },
@@ -13966,8 +13997,8 @@
       "height": 1799,
       "tags": [],
       "popularity": {
-        "score": 166.4,
-        "pageviews_365d": 150,
+        "score": 166.5,
+        "pageviews_365d": 151,
         "sitelinks": 1,
         "globalusage": 29
       },
@@ -14135,8 +14166,8 @@
       "height": 1698,
       "tags": [],
       "popularity": {
-        "score": 165.2,
-        "pageviews_365d": 184,
+        "score": 165.3,
+        "pageviews_365d": 185,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -14203,8 +14234,8 @@
       "height": 3000,
       "tags": [],
       "popularity": {
-        "score": 183.2,
-        "pageviews_365d": 291,
+        "score": 183.4,
+        "pageviews_365d": 293,
         "sitelinks": 1,
         "globalusage": 30
       },
@@ -14369,8 +14400,8 @@
       "height": 2631,
       "tags": [],
       "popularity": {
-        "score": 158.3,
-        "pageviews_365d": 147,
+        "score": 158.4,
+        "pageviews_365d": 148,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -14626,8 +14657,8 @@
       "height": 3314,
       "tags": [],
       "popularity": {
-        "score": 182.1,
-        "pageviews_365d": 314,
+        "score": 182.3,
+        "pageviews_365d": 317,
         "sitelinks": 1,
         "globalusage": 22
       },
@@ -14660,8 +14691,8 @@
       "height": 1384,
       "tags": [],
       "popularity": {
-        "score": 164.4,
-        "pageviews_365d": 160,
+        "score": 164.6,
+        "pageviews_365d": 161,
         "sitelinks": 1,
         "globalusage": 20
       },
@@ -14798,8 +14829,8 @@
       "height": 979,
       "tags": [],
       "popularity": {
-        "score": 167.1,
-        "pageviews_365d": 178,
+        "score": 167.3,
+        "pageviews_365d": 180,
         "sitelinks": 1,
         "globalusage": 20
       },
@@ -14866,10 +14897,10 @@
       "height": 671,
       "tags": [],
       "popularity": {
-        "score": 165.9,
-        "pageviews_365d": 239,
+        "score": 169.4,
+        "pageviews_365d": 245,
         "sitelinks": 1,
-        "globalusage": 8
+        "globalusage": 11
       },
       "meta": {
         "Series": "eragny"
@@ -15000,7 +15031,7 @@
       "tags": [],
       "popularity": {
         "score": 272.7,
-        "pageviews_365d": 4932,
+        "pageviews_365d": 4945,
         "sitelinks": 6,
         "globalusage": 57
       },
@@ -15100,10 +15131,10 @@
       "height": 3240,
       "tags": [],
       "popularity": {
-        "score": 274.1,
-        "pageviews_365d": 4947,
+        "score": 274.3,
+        "pageviews_365d": 4958,
         "sitelinks": 7,
-        "globalusage": 57
+        "globalusage": 58
       },
       "meta": {
         "Collection": "Q1117704",
@@ -15230,8 +15261,8 @@
       "height": 2706,
       "tags": [],
       "popularity": {
-        "score": 189.4,
-        "pageviews_365d": 587,
+        "score": 189.5,
+        "pageviews_365d": 590,
         "sitelinks": 1,
         "globalusage": 9
       },
@@ -15262,8 +15293,8 @@
       "height": 5508,
       "tags": [],
       "popularity": {
-        "score": 198.2,
-        "pageviews_365d": 493,
+        "score": 198.3,
+        "pageviews_365d": 495,
         "sitelinks": 2,
         "globalusage": 24
       },
@@ -15296,10 +15327,10 @@
       "height": 4978,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Collection": "National Gallery"
@@ -15330,8 +15361,8 @@
       "height": 4021,
       "tags": [],
       "popularity": {
-        "score": 192.6,
-        "pageviews_365d": 405,
+        "score": 192.7,
+        "pageviews_365d": 406,
         "sitelinks": 1,
         "globalusage": 34
       },
@@ -15431,8 +15462,8 @@
       "height": 800,
       "tags": [],
       "popularity": {
-        "score": 175.1,
-        "pageviews_365d": 186,
+        "score": 175.2,
+        "pageviews_365d": 187,
         "sitelinks": 1,
         "globalusage": 41
       },
@@ -15466,8 +15497,8 @@
       "height": 6960,
       "tags": [],
       "popularity": {
-        "score": 184,
-        "pageviews_365d": 220,
+        "score": 184.2,
+        "pageviews_365d": 222,
         "sitelinks": 2,
         "globalusage": 44
       },
@@ -15500,8 +15531,8 @@
       "height": 6458,
       "tags": [],
       "popularity": {
-        "score": 161.1,
-        "pageviews_365d": 165,
+        "score": 161.3,
+        "pageviews_365d": 166,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -15534,8 +15565,8 @@
       "height": 3300,
       "tags": [],
       "popularity": {
-        "score": 157,
-        "pageviews_365d": 154,
+        "score": 157.2,
+        "pageviews_365d": 155,
         "sitelinks": 1,
         "globalusage": 10
       },
@@ -15568,8 +15599,8 @@
       "height": 1836,
       "tags": [],
       "popularity": {
-        "score": 165.2,
-        "pageviews_365d": 180,
+        "score": 165.6,
+        "pageviews_365d": 183,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -15602,10 +15633,10 @@
       "height": 1573,
       "tags": [],
       "popularity": {
-        "score": 187.9,
-        "pageviews_365d": 200,
+        "score": 188.2,
+        "pageviews_365d": 202,
         "sitelinks": 1,
-        "globalusage": 125
+        "globalusage": 126
       },
       "meta": {},
       "extras": {
@@ -15703,8 +15734,8 @@
       "height": 1321,
       "tags": [],
       "popularity": {
-        "score": 189.4,
-        "pageviews_365d": 364,
+        "score": 189.5,
+        "pageviews_365d": 365,
         "sitelinks": 1,
         "globalusage": 32
       },
@@ -15771,8 +15802,8 @@
       "height": 658,
       "tags": [],
       "popularity": {
-        "score": 168.8,
-        "pageviews_365d": 195,
+        "score": 169.1,
+        "pageviews_365d": 197,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -15839,8 +15870,8 @@
       "height": 736,
       "tags": [],
       "popularity": {
-        "score": 193.1,
-        "pageviews_365d": 427,
+        "score": 193.4,
+        "pageviews_365d": 433,
         "sitelinks": 1,
         "globalusage": 31
       },
@@ -15873,8 +15904,8 @@
       "height": 2596,
       "tags": [],
       "popularity": {
-        "score": 191.7,
-        "pageviews_365d": 405,
+        "score": 191.9,
+        "pageviews_365d": 407,
         "sitelinks": 1,
         "globalusage": 31
       },
@@ -15940,8 +15971,8 @@
       "height": 2575,
       "tags": [],
       "popularity": {
-        "score": 160.1,
-        "pageviews_365d": 154,
+        "score": 160.3,
+        "pageviews_365d": 155,
         "sitelinks": 1,
         "globalusage": 14
       },
@@ -16140,8 +16171,8 @@
       "height": 2407,
       "tags": [],
       "popularity": {
-        "score": 156.9,
-        "pageviews_365d": 148,
+        "score": 157.2,
+        "pageviews_365d": 150,
         "sitelinks": 1,
         "globalusage": 11
       },
@@ -16174,8 +16205,8 @@
       "height": 1652,
       "tags": [],
       "popularity": {
-        "score": 176.2,
-        "pageviews_365d": 240,
+        "score": 176.3,
+        "pageviews_365d": 241,
         "sitelinks": 1,
         "globalusage": 24
       },
@@ -16237,7 +16268,7 @@
       "tags": [],
       "popularity": {
         "score": 181.2,
-        "pageviews_365d": 369,
+        "pageviews_365d": 370,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -16302,10 +16333,10 @@
       "height": 693,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 5
       },
       "meta": {
         "Collection": "National Museum in Warsaw"
@@ -16371,8 +16402,8 @@
       "height": 628,
       "tags": [],
       "popularity": {
-        "score": 176.3,
-        "pageviews_365d": 304,
+        "score": 176.6,
+        "pageviews_365d": 307,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -16435,10 +16466,10 @@
       "height": 6430,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Clark Art Institute"
@@ -16533,8 +16564,8 @@
       "height": 600,
       "tags": [],
       "popularity": {
-        "score": 182.1,
-        "pageviews_365d": 408,
+        "score": 182.2,
+        "pageviews_365d": 410,
         "sitelinks": 1,
         "globalusage": 11
       },
@@ -16567,10 +16598,10 @@
       "height": 1655,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 6
       },
       "meta": {},
       "extras": {
@@ -16900,10 +16931,10 @@
       "height": 2880,
       "tags": [],
       "popularity": {
-        "score": 154.5,
-        "pageviews_365d": 123,
+        "score": 155.8,
+        "pageviews_365d": 126,
         "sitelinks": 1,
-        "globalusage": 14
+        "globalusage": 15
       },
       "meta": {
         "Series": "eragny"
@@ -17236,8 +17267,8 @@
       "height": 971,
       "tags": [],
       "popularity": {
-        "score": 151.9,
-        "pageviews_365d": 172,
+        "score": 152.1,
+        "pageviews_365d": 174,
         "sitelinks": 1,
         "globalusage": 4
       },
@@ -17268,8 +17299,8 @@
       "height": 4551,
       "tags": [],
       "popularity": {
-        "score": 160.4,
-        "pageviews_365d": 165,
+        "score": 160.7,
+        "pageviews_365d": 167,
         "sitelinks": 1,
         "globalusage": 12
       },
@@ -17337,8 +17368,8 @@
       "height": 511,
       "tags": [],
       "popularity": {
-        "score": 170.3,
-        "pageviews_365d": 273,
+        "score": 170.7,
+        "pageviews_365d": 278,
         "sitelinks": 1,
         "globalusage": 9
       },
@@ -17399,8 +17430,8 @@
       "height": 476,
       "tags": [],
       "popularity": {
-        "score": 156.5,
-        "pageviews_365d": 193,
+        "score": 156.7,
+        "pageviews_365d": 194,
         "sitelinks": 1,
         "globalusage": 5
       },
@@ -17632,10 +17663,10 @@
       "height": 400,
       "tags": [],
       "popularity": {
-        "score": 25.6,
+        "score": 24.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 12
+        "globalusage": 11
       },
       "meta": {
         "Collection": "Kröller-Müller Museum"
@@ -17701,8 +17732,8 @@
       "height": 1989,
       "tags": [],
       "popularity": {
-        "score": 162.8,
-        "pageviews_365d": 172,
+        "score": 163,
+        "pageviews_365d": 173,
         "sitelinks": 2,
         "globalusage": 9
       },
@@ -17799,8 +17830,8 @@
       "height": 4045,
       "tags": [],
       "popularity": {
-        "score": 155.4,
-        "pageviews_365d": 116,
+        "score": 155.6,
+        "pageviews_365d": 117,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -17902,8 +17933,8 @@
       "height": 2341,
       "tags": [],
       "popularity": {
-        "score": 157.8,
-        "pageviews_365d": 149,
+        "score": 158,
+        "pageviews_365d": 150,
         "sitelinks": 1,
         "globalusage": 12
       },
@@ -18138,8 +18169,8 @@
       "height": 600,
       "tags": [],
       "popularity": {
-        "score": 157.9,
-        "pageviews_365d": 134,
+        "score": 158.1,
+        "pageviews_365d": 135,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -18241,8 +18272,8 @@
       "height": 2631,
       "tags": [],
       "popularity": {
-        "score": 190.1,
-        "pageviews_365d": 425,
+        "score": 190.3,
+        "pageviews_365d": 429,
         "sitelinks": 1,
         "globalusage": 23
       },
@@ -18409,8 +18440,8 @@
       "height": 3154,
       "tags": [],
       "popularity": {
-        "score": 176.4,
-        "pageviews_365d": 234,
+        "score": 176.6,
+        "pageviews_365d": 236,
         "sitelinks": 1,
         "globalusage": 26
       },
@@ -18747,8 +18778,8 @@
       "height": 3722,
       "tags": [],
       "popularity": {
-        "score": 206.7,
-        "pageviews_365d": 687,
+        "score": 206.8,
+        "pageviews_365d": 690,
         "sitelinks": 1,
         "globalusage": 37
       },
@@ -18816,10 +18847,10 @@
       "height": 4000,
       "tags": [],
       "popularity": {
-        "score": 174.7,
-        "pageviews_365d": 242,
+        "score": 175.7,
+        "pageviews_365d": 247,
         "sitelinks": 1,
-        "globalusage": 20
+        "globalusage": 21
       },
       "meta": {
         "Collection": "Q214867"
@@ -18885,8 +18916,8 @@
       "height": 700,
       "tags": [],
       "popularity": {
-        "score": 165.9,
-        "pageviews_365d": 185,
+        "score": 166.2,
+        "pageviews_365d": 187,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -19021,10 +19052,10 @@
       "height": 968,
       "tags": [],
       "popularity": {
-        "score": 166.5,
-        "pageviews_365d": 168,
+        "score": 167.1,
+        "pageviews_365d": 169,
         "sitelinks": 1,
-        "globalusage": 22
+        "globalusage": 23
       },
       "meta": {
         "Collection": "Birmingham Museums Trust"
@@ -19087,10 +19118,10 @@
       "height": 663,
       "tags": [],
       "popularity": {
-        "score": 261.3,
-        "pageviews_365d": 3464,
-        "sitelinks": 6,
-        "globalusage": 44
+        "score": 263,
+        "pageviews_365d": 3479,
+        "sitelinks": 7,
+        "globalusage": 45
       },
       "meta": {
         "Collection": "Metropolitan Museum of Art"
@@ -19184,7 +19215,7 @@
       "tags": [],
       "popularity": {
         "score": 287.7,
-        "pageviews_365d": 7454,
+        "pageviews_365d": 7477,
         "sitelinks": 11,
         "globalusage": 53
       },
@@ -19217,10 +19248,10 @@
       "height": 773,
       "tags": [],
       "popularity": {
-        "score": 202,
-        "pageviews_365d": 533,
+        "score": 202.5,
+        "pageviews_365d": 537,
         "sitelinks": 2,
-        "globalusage": 29
+        "globalusage": 30
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -19384,8 +19415,8 @@
       "height": 3186,
       "tags": [],
       "popularity": {
-        "score": 259.6,
-        "pageviews_365d": 3711,
+        "score": 259.7,
+        "pageviews_365d": 3719,
         "sitelinks": 8,
         "globalusage": 24
       },
@@ -19452,10 +19483,10 @@
       "height": 1676,
       "tags": [],
       "popularity": {
-        "score": 27.1,
+        "score": 26.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 14
+        "globalusage": 13
       },
       "meta": {
         "Collection": "Thyssen-Bornemisza Museum"
@@ -19623,8 +19654,8 @@
       "height": 1769,
       "tags": [],
       "popularity": {
-        "score": 227.7,
-        "pageviews_365d": 1986,
+        "score": 227.8,
+        "pageviews_365d": 1990,
         "sitelinks": 1,
         "globalusage": 21
       },
@@ -19725,7 +19756,7 @@
       "tags": [],
       "popularity": {
         "score": 276.6,
-        "pageviews_365d": 7212,
+        "pageviews_365d": 7233,
         "sitelinks": 7,
         "globalusage": 28
       },
@@ -19760,8 +19791,8 @@
       "height": 5194,
       "tags": [],
       "popularity": {
-        "score": 176.4,
-        "pageviews_365d": 196,
+        "score": 176.8,
+        "pageviews_365d": 199,
         "sitelinks": 1,
         "globalusage": 41
       },
@@ -19795,10 +19826,10 @@
       "height": 2697,
       "tags": [],
       "popularity": {
-        "score": 281.4,
-        "pageviews_365d": 5451,
+        "score": 281.6,
+        "pageviews_365d": 5480,
         "sitelinks": 6,
-        "globalusage": 107
+        "globalusage": 108
       },
       "meta": {
         "Series": "boulevard-montmartre"
@@ -19864,8 +19895,8 @@
       "height": 3383,
       "tags": [],
       "popularity": {
-        "score": 222.8,
-        "pageviews_365d": 1182,
+        "score": 223,
+        "pageviews_365d": 1189,
         "sitelinks": 2,
         "globalusage": 32
       },
@@ -20211,8 +20242,8 @@
       "height": 3000,
       "tags": [],
       "popularity": {
-        "score": 268.4,
-        "pageviews_365d": 4486,
+        "score": 268.5,
+        "pageviews_365d": 4504,
         "sitelinks": 7,
         "globalusage": 41
       },
@@ -20279,8 +20310,8 @@
       "height": 2056,
       "tags": [],
       "popularity": {
-        "score": 240.5,
-        "pageviews_365d": 2833,
+        "score": 240.6,
+        "pageviews_365d": 2843,
         "sitelinks": 4,
         "globalusage": 12
       },
@@ -20313,10 +20344,10 @@
       "height": 4931,
       "tags": [],
       "popularity": {
-        "score": 292.1,
-        "pageviews_365d": 13695,
+        "score": 292.5,
+        "pageviews_365d": 13721,
         "sitelinks": 5,
-        "globalusage": 36
+        "globalusage": 37
       },
       "meta": {
         "Collection": "National Gallery",
@@ -20348,8 +20379,8 @@
       "height": 3042,
       "tags": [],
       "popularity": {
-        "score": 286.7,
-        "pageviews_365d": 8064,
+        "score": 286.8,
+        "pageviews_365d": 8085,
         "sitelinks": 5,
         "globalusage": 80
       },
@@ -20653,7 +20684,7 @@
       "tags": [],
       "popularity": {
         "score": 250.7,
-        "pageviews_365d": 4315,
+        "pageviews_365d": 4321,
         "sitelinks": 2,
         "globalusage": 20
       },
@@ -20886,8 +20917,8 @@
       "height": 3797,
       "tags": [],
       "popularity": {
-        "score": 243.2,
-        "pageviews_365d": 2086,
+        "score": 243.3,
+        "pageviews_365d": 2095,
         "sitelinks": 2,
         "globalusage": 60
       },
@@ -20921,7 +20952,7 @@
       "tags": [],
       "popularity": {
         "score": 246.4,
-        "pageviews_365d": 2706,
+        "pageviews_365d": 2709,
         "sitelinks": 5,
         "globalusage": 21
       },
@@ -21121,7 +21152,7 @@
       "tags": [],
       "popularity": {
         "score": 258.4,
-        "pageviews_365d": 3470,
+        "pageviews_365d": 3476,
         "sitelinks": 4,
         "globalusage": 46
       },
@@ -21327,10 +21358,10 @@
       "height": 636,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 5
       },
       "meta": {},
       "extras": {
@@ -21427,8 +21458,8 @@
       "height": 2900,
       "tags": [],
       "popularity": {
-        "score": 175.9,
-        "pageviews_365d": 318,
+        "score": 176,
+        "pageviews_365d": 319,
         "sitelinks": 1,
         "globalusage": 11
       },
@@ -21595,8 +21626,8 @@
       "height": 1352,
       "tags": [],
       "popularity": {
-        "score": 145.4,
-        "pageviews_365d": 145,
+        "score": 145.6,
+        "pageviews_365d": 146,
         "sitelinks": 1,
         "globalusage": 3
       },
@@ -21725,8 +21756,8 @@
       "height": 3511,
       "tags": [],
       "popularity": {
-        "score": 184.7,
-        "pageviews_365d": 403,
+        "score": 184.9,
+        "pageviews_365d": 406,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -21793,10 +21824,10 @@
       "height": 3049,
       "tags": [],
       "popularity": {
-        "score": 193.8,
-        "pageviews_365d": 312,
+        "score": 193.6,
+        "pageviews_365d": 313,
         "sitelinks": 2,
-        "globalusage": 49
+        "globalusage": 48
       },
       "meta": {
         "Collection": "Metropolitan Museum of Art"
@@ -21862,7 +21893,7 @@
       "tags": [],
       "popularity": {
         "score": 256.9,
-        "pageviews_365d": 3682,
+        "pageviews_365d": 3690,
         "sitelinks": 5,
         "globalusage": 28
       },
@@ -22368,8 +22399,8 @@
       "height": 766,
       "tags": [],
       "popularity": {
-        "score": 178.2,
-        "pageviews_365d": 290,
+        "score": 178.6,
+        "pageviews_365d": 295,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -22437,7 +22468,7 @@
       "tags": [],
       "popularity": {
         "score": 215.7,
-        "pageviews_365d": 991,
+        "pageviews_365d": 993,
         "sitelinks": 2,
         "globalusage": 24
       },
@@ -22479,8 +22510,8 @@
       "height": 600,
       "tags": [],
       "popularity": {
-        "score": 176.3,
-        "pageviews_365d": 288,
+        "score": 176.7,
+        "pageviews_365d": 292,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -22549,8 +22580,8 @@
       "height": 1625,
       "tags": [],
       "popularity": {
-        "score": 164.7,
-        "pageviews_365d": 196,
+        "score": 164.8,
+        "pageviews_365d": 197,
         "sitelinks": 1,
         "globalusage": 12
       },
@@ -22581,8 +22612,8 @@
       "height": 646,
       "tags": [],
       "popularity": {
-        "score": 166.7,
-        "pageviews_365d": 179,
+        "score": 166.9,
+        "pageviews_365d": 180,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -22649,8 +22680,8 @@
       "height": 2040,
       "tags": [],
       "popularity": {
-        "score": 160,
-        "pageviews_365d": 134,
+        "score": 160.2,
+        "pageviews_365d": 135,
         "sitelinks": 1,
         "globalusage": 20
       },
@@ -22683,10 +22714,10 @@
       "height": 650,
       "tags": [],
       "popularity": {
-        "score": 24,
+        "score": 24.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 10
+        "globalusage": 11
       },
       "meta": {
         "Collection": "Kelvingrove Art Gallery and Museum"
@@ -22717,8 +22748,8 @@
       "height": 349,
       "tags": [],
       "popularity": {
-        "score": 167.4,
-        "pageviews_365d": 201,
+        "score": 167.7,
+        "pageviews_365d": 204,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -22817,8 +22848,8 @@
       "height": 1452,
       "tags": [],
       "popularity": {
-        "score": 161.7,
-        "pageviews_365d": 164,
+        "score": 162.1,
+        "pageviews_365d": 167,
         "sitelinks": 1,
         "globalusage": 14
       },
@@ -22845,8 +22876,8 @@
       "height": 2529,
       "tags": [],
       "popularity": {
-        "score": 192.8,
-        "pageviews_365d": 550,
+        "score": 193.2,
+        "pageviews_365d": 560,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -22981,8 +23012,8 @@
       "height": 1921,
       "tags": [],
       "popularity": {
-        "score": 288,
-        "pageviews_365d": 7561,
+        "score": 288.1,
+        "pageviews_365d": 7590,
         "sitelinks": 11,
         "globalusage": 53
       },
@@ -23015,8 +23046,8 @@
       "height": 1768,
       "tags": [],
       "popularity": {
-        "score": 164.7,
-        "pageviews_365d": 196,
+        "score": 165,
+        "pageviews_365d": 199,
         "sitelinks": 1,
         "globalusage": 12
       },
@@ -23185,8 +23216,8 @@
       "height": 585,
       "tags": [],
       "popularity": {
-        "score": 173.9,
-        "pageviews_365d": 226,
+        "score": 174.5,
+        "pageviews_365d": 231,
         "sitelinks": 1,
         "globalusage": 22
       },
@@ -23321,7 +23352,7 @@
       "tags": [],
       "popularity": {
         "score": 229.8,
-        "pageviews_365d": 2158,
+        "pageviews_365d": 2161,
         "sitelinks": 1,
         "globalusage": 21
       },
@@ -23354,8 +23385,8 @@
       "height": 1698,
       "tags": [],
       "popularity": {
-        "score": 168.7,
-        "pageviews_365d": 167,
+        "score": 169,
+        "pageviews_365d": 169,
         "sitelinks": 1,
         "globalusage": 28
       },
@@ -23456,8 +23487,8 @@
       "height": 1043,
       "tags": [],
       "popularity": {
-        "score": 156.3,
-        "pageviews_365d": 170,
+        "score": 156.7,
+        "pageviews_365d": 173,
         "sitelinks": 1,
         "globalusage": 7
       },
@@ -23521,7 +23552,7 @@
       "tags": [],
       "popularity": {
         "score": 211.9,
-        "pageviews_365d": 1142,
+        "pageviews_365d": 1144,
         "sitelinks": 2,
         "globalusage": 11
       },
@@ -24128,7 +24159,7 @@
         "globalusage": 7
       },
       "meta": {
-        "Collection": "Q847508"
+        "Collection": "Worcester Art Museum"
       },
       "extras": {
         "qid": "Q78995581",
@@ -24394,8 +24425,8 @@
       "height": 3286,
       "tags": [],
       "popularity": {
-        "score": 172.7,
-        "pageviews_365d": 228,
+        "score": 173.1,
+        "pageviews_365d": 231,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -24428,8 +24459,8 @@
       "height": 656,
       "tags": [],
       "popularity": {
-        "score": 161.8,
-        "pageviews_365d": 157,
+        "score": 162.5,
+        "pageviews_365d": 161,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -24460,8 +24491,8 @@
       "height": 4966,
       "tags": [],
       "popularity": {
-        "score": 206.1,
-        "pageviews_365d": 480,
+        "score": 206.4,
+        "pageviews_365d": 485,
         "sitelinks": 3,
         "globalusage": 43
       },
@@ -24528,8 +24559,8 @@
       "height": 3456,
       "tags": [],
       "popularity": {
-        "score": 171.4,
-        "pageviews_365d": 298,
+        "score": 171.7,
+        "pageviews_365d": 301,
         "sitelinks": 2,
         "globalusage": 5
       },
@@ -24665,8 +24696,8 @@
       "height": 1580,
       "tags": [],
       "popularity": {
-        "score": 192.6,
-        "pageviews_365d": 527,
+        "score": 192.7,
+        "pageviews_365d": 529,
         "sitelinks": 2,
         "globalusage": 11
       },
@@ -24937,8 +24968,8 @@
       "height": 1668,
       "tags": [],
       "popularity": {
-        "score": 234.9,
-        "pageviews_365d": 2085,
+        "score": 235.1,
+        "pageviews_365d": 2102,
         "sitelinks": 3,
         "globalusage": 19
       },
@@ -24969,8 +25000,8 @@
       "height": 1988,
       "tags": [],
       "popularity": {
-        "score": 198.3,
-        "pageviews_365d": 874,
+        "score": 198.4,
+        "pageviews_365d": 878,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -25038,10 +25069,10 @@
       "height": 1868,
       "tags": [],
       "popularity": {
-        "score": 163.7,
-        "pageviews_365d": 229,
+        "score": 167.1,
+        "pageviews_365d": 231,
         "sitelinks": 1,
-        "globalusage": 7
+        "globalusage": 10
       },
       "meta": {},
       "extras": {
@@ -25228,8 +25259,8 @@
       "height": 225,
       "tags": [],
       "popularity": {
-        "score": 192.7,
-        "pageviews_365d": 507,
+        "score": 192.8,
+        "pageviews_365d": 511,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -25388,8 +25419,8 @@
       "height": 3200,
       "tags": [],
       "popularity": {
-        "score": 184.1,
-        "pageviews_365d": 360,
+        "score": 184.4,
+        "pageviews_365d": 364,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -25542,8 +25573,8 @@
       "height": 212,
       "tags": [],
       "popularity": {
-        "score": 180,
-        "pageviews_365d": 305,
+        "score": 180.2,
+        "pageviews_365d": 308,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -25570,8 +25601,8 @@
       "height": 6449,
       "tags": [],
       "popularity": {
-        "score": 222.6,
-        "pageviews_365d": 1563,
+        "score": 222.7,
+        "pageviews_365d": 1569,
         "sitelinks": 3,
         "globalusage": 11
       },
@@ -25819,8 +25850,8 @@
       "height": 4581,
       "tags": [],
       "popularity": {
-        "score": 171.2,
-        "pageviews_365d": 187,
+        "score": 171.3,
+        "pageviews_365d": 188,
         "sitelinks": 1,
         "globalusage": 27
       },
@@ -25921,8 +25952,8 @@
       "height": 2454,
       "tags": [],
       "popularity": {
-        "score": 178.9,
-        "pageviews_365d": 272,
+        "score": 179.1,
+        "pageviews_365d": 274,
         "sitelinks": 1,
         "globalusage": 23
       },
@@ -25953,8 +25984,8 @@
       "height": 2403,
       "tags": [],
       "popularity": {
-        "score": 177.4,
-        "pageviews_365d": 265,
+        "score": 179,
+        "pageviews_365d": 282,
         "sitelinks": 1,
         "globalusage": 21
       },
@@ -26021,8 +26052,8 @@
       "height": 2250,
       "tags": [],
       "popularity": {
-        "score": 168.5,
-        "pageviews_365d": 205,
+        "score": 168.7,
+        "pageviews_365d": 207,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -26048,7 +26079,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-09-01T11:05:42.350Z",
+    "generated": "2026-09-27T20:02:37.286Z",
     "artist": {
       "qid": "Q134741",
       "name": "Camille Pissarro",
@@ -26059,6 +26090,6 @@
       "label": "paintings",
       "manifestKey": "paintings"
     },
-    "count": 773
+    "count": 774
   }
 }

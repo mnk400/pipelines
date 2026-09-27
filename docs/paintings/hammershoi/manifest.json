@@ -12,10 +12,10 @@
       "height": 6750,
       "tags": [],
       "popularity": {
-        "score": 25.6,
+        "score": 26.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 12
+        "globalusage": 13
       },
       "meta": {
         "Collection": "Statens Museum for Kunst"
@@ -310,10 +310,10 @@
       "height": 6318,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 8
       },
       "meta": {
         "Collection": "Statens Museum for Kunst"
@@ -381,8 +381,8 @@
       "height": 4567,
       "tags": [],
       "popularity": {
-        "score": 202.8,
-        "pageviews_365d": 935,
+        "score": 202.9,
+        "pageviews_365d": 938,
         "sitelinks": 1,
         "globalusage": 11
       },
@@ -1117,7 +1117,7 @@
       "tags": [],
       "popularity": {
         "score": 268.3,
-        "pageviews_365d": 5103,
+        "pageviews_365d": 5116,
         "sitelinks": 7,
         "globalusage": 29
       },
@@ -1398,8 +1398,8 @@
       "height": 903,
       "tags": [],
       "popularity": {
-        "score": 261.3,
-        "pageviews_365d": 5024,
+        "score": 261.4,
+        "pageviews_365d": 5035,
         "sitelinks": 4,
         "globalusage": 24
       },
@@ -1537,8 +1537,8 @@
       "height": 720,
       "tags": [],
       "popularity": {
-        "score": 281.9,
-        "pageviews_365d": 8104,
+        "score": 282,
+        "pageviews_365d": 8129,
         "sitelinks": 7,
         "globalusage": 36
       },
@@ -1573,7 +1573,7 @@
       "tags": [],
       "popularity": {
         "score": 221.8,
-        "pageviews_365d": 2240,
+        "pageviews_365d": 2246,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -2164,7 +2164,7 @@
       "tags": [],
       "popularity": {
         "score": 279.5,
-        "pageviews_365d": 8913,
+        "pageviews_365d": 8930,
         "sitelinks": 2,
         "globalusage": 60
       },
@@ -2579,8 +2579,8 @@
       "height": 3319,
       "tags": [],
       "popularity": {
-        "score": 191.9,
-        "pageviews_365d": 625,
+        "score": 192,
+        "pageviews_365d": 628,
         "sitelinks": 1,
         "globalusage": 10
       },
@@ -2821,8 +2821,8 @@
       "height": 3225,
       "tags": [],
       "popularity": {
-        "score": 209.1,
-        "pageviews_365d": 1588,
+        "score": 209.2,
+        "pageviews_365d": 1593,
         "sitelinks": 1,
         "globalusage": 5
       },
@@ -3329,8 +3329,8 @@
       "height": 3200,
       "tags": [],
       "popularity": {
-        "score": 233.1,
-        "pageviews_365d": 2801,
+        "score": 233.2,
+        "pageviews_365d": 2806,
         "sitelinks": 3,
         "globalusage": 7
       },
@@ -3602,10 +3602,10 @@
       "height": 3168,
       "tags": [],
       "popularity": {
-        "score": 176.1,
-        "pageviews_365d": 301,
+        "score": 177.3,
+        "pageviews_365d": 307,
         "sitelinks": 1,
-        "globalusage": 13
+        "globalusage": 14
       },
       "meta": {
         "Collection": "Thiel Gallery"
@@ -3930,7 +3930,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-09-01T10:35:53.199Z",
+    "generated": "2026-09-27T19:35:58.793Z",
     "artist": {
       "qid": "Q380706",
       "name": "Vilhelm Hammershøi",

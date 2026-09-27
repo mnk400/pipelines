@@ -590,7 +590,7 @@
       "tags": [],
       "popularity": {
         "score": 337.7,
-        "pageviews_365d": 26774,
+        "pageviews_365d": 26787,
         "sitelinks": 12,
         "globalusage": 304
       },
@@ -4535,7 +4535,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-09-27T19:31:00.042Z",
+    "generated": "2026-09-27T19:33:18.983Z",
     "artist": {
       "qid": "Q173223",
       "name": "Mary Cassatt",

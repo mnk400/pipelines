@@ -48,8 +48,8 @@
       "height": 623,
       "tags": [],
       "popularity": {
-        "score": 270.3,
-        "pageviews_365d": 8024,
+        "score": 270.4,
+        "pageviews_365d": 8056,
         "sitelinks": 4,
         "globalusage": 18
       },
@@ -116,10 +116,10 @@
       "height": 800,
       "tags": [],
       "popularity": {
-        "score": 219,
-        "pageviews_365d": 964,
+        "score": 219.8,
+        "pageviews_365d": 967,
         "sitelinks": 3,
-        "globalusage": 27
+        "globalusage": 29
       },
       "meta": {
         "Collection": "Musées Nationaux Récupération"
@@ -358,42 +358,6 @@
       }
     },
     {
-      "id": "w-24",
-      "title": "Monet w24",
-      "year": "1863",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Monet_w24.jpg/960px-Monet_w24.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Monet_w24.jpg",
-      "width": 1014,
-      "height": 760,
-      "tags": [],
-      "popularity": {
-        "score": 25.6,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 12
-      },
-      "meta": {
-        "Collection": "Bank of Italy"
-      },
-      "extras": {
-        "qid": "Q95626741",
-        "catalog_number": "24",
-        "wildenstein": "24",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 59,
-          "width_cm": 80
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "flicker",
-          "artist": "Claude Monet"
-        }
-      }
-    },
-    {
       "id": "w-18",
       "title": "Woodgatherers at the Edge of the Forest",
       "year": "1863",
@@ -439,8 +403,8 @@
       "height": 3264,
       "tags": [],
       "popularity": {
-        "score": 203.7,
-        "pageviews_365d": 939,
+        "score": 203.9,
+        "pageviews_365d": 944,
         "sitelinks": 1,
         "globalusage": 12
       },
@@ -534,7 +498,7 @@
       }
     },
     {
-      "id": "w-23",
+      "id": "wd-Q50807966",
       "title": "Coastal landscape",
       "year": "1864",
       "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Claude_Monnet.Coastal_landscape.jpg/960px-Claude_Monnet.Coastal_landscape.jpg",
@@ -543,18 +507,16 @@
       "height": 2525,
       "tags": [],
       "popularity": {
-        "score": 27.7,
+        "score": 27.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 15
+        "globalusage": 14
       },
       "meta": {
         "Collection": "Van Gogh Museum"
       },
       "extras": {
         "qid": "Q50807966",
-        "catalog_number": "23",
-        "wildenstein": "23",
         "source": "wikidata",
         "dimensions": {
           "height_cm": 53,
@@ -565,6 +527,42 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "Unknown source<span style=\"display: none;\">Unknown source</span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "w-24",
+      "title": "Country landscape at sunset",
+      "year": "1864",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Claude_Monet_-_La_Route_devant_la_ferme_Saint-Sim%C3%A9on.jpg/960px-Claude_Monet_-_La_Route_devant_la_ferme_Saint-Sim%C3%A9on.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/34/Claude_Monet_-_La_Route_devant_la_ferme_Saint-Sim%C3%A9on.jpg",
+      "width": 1303,
+      "height": 970,
+      "tags": [],
+      "popularity": {
+        "score": 17.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 5
+      },
+      "meta": {
+        "Collection": "Bank of Italy"
+      },
+      "extras": {
+        "qid": "Q95626741",
+        "catalog_number": "24",
+        "wildenstein": "24",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 59,
+          "width_cm": 80
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://artsupp.com\">https://artsupp.com</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -682,7 +680,7 @@
       "tags": [],
       "popularity": {
         "score": 241.4,
-        "pageviews_365d": 3094,
+        "pageviews_365d": 3102,
         "sitelinks": 2,
         "globalusage": 18
       },
@@ -819,8 +817,8 @@
       "height": 946,
       "tags": [],
       "popularity": {
-        "score": 215.4,
-        "pageviews_365d": 1344,
+        "score": 215.5,
+        "pageviews_365d": 1350,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -927,10 +925,10 @@
       "height": 926,
       "tags": [],
       "popularity": {
-        "score": 250.9,
-        "pageviews_365d": 3295,
+        "score": 251.4,
+        "pageviews_365d": 3306,
         "sitelinks": 2,
-        "globalusage": 41
+        "globalusage": 43
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -964,8 +962,8 @@
       "height": 1960,
       "tags": [],
       "popularity": {
-        "score": 238.9,
-        "pageviews_365d": 3299,
+        "score": 239,
+        "pageviews_365d": 3309,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -982,6 +980,38 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "wd-Q141400356",
+      "title": "The Chapel of Notre-Dame-de-Grâce, Honfleur",
+      "year": "1864",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/La_Chapelle_de_Notre-Dame-de-Gr%C3%A2ce%2C_Honfleur_%281864%29_Claude_Monet_%28W_35%29.jpg/960px-La_Chapelle_de_Notre-Dame-de-Gr%C3%A2ce%2C_Honfleur_%281864%29_Claude_Monet_%28W_35%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/81/La_Chapelle_de_Notre-Dame-de-Gr%C3%A2ce%2C_Honfleur_%281864%29_Claude_Monet_%28W_35%29.jpg",
+      "width": 2880,
+      "height": 2200,
+      "tags": [],
+      "popularity": {
+        "score": 17.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 5
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q141400356",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 52,
+          "width_cm": 68
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sothebys.com/en/auctions/ecatalogue/2009/impressionist-modern-art-evening-sale-n08587/lot.64.html\">https://www.sothebys.com/en/auctions/ecatalogue/2009/impressionist-modern-art-evening-sale-n08587/lot.64.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -1058,16 +1088,16 @@
       "id": "w-29",
       "title": "Walk",
       "year": "1864",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Claude_Monet_-_Walk_%28Road_of_the_Farm_Saint-Sim%C3%A9on%29_-_Google_Art_Project.jpg/960px-Claude_Monet_-_Walk_%28Road_of_the_Farm_Saint-Sim%C3%A9on%29_-_Google_Art_Project.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/d/df/Claude_Monet_-_Walk_%28Road_of_the_Farm_Saint-Sim%C3%A9on%29_-_Google_Art_Project.jpg",
-      "width": 2327,
-      "height": 4145,
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Claude_Monet_-_La_Route_de_la_ferme_Saint-Sim%C3%A9on.jpg/960px-Claude_Monet_-_La_Route_de_la_ferme_Saint-Sim%C3%A9on.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Claude_Monet_-_La_Route_de_la_ferme_Saint-Sim%C3%A9on.jpg",
+      "width": 2326,
+      "height": 4144,
       "tags": [],
       "popularity": {
-        "score": 225.9,
-        "pageviews_365d": 1920,
+        "score": 215.5,
+        "pageviews_365d": 1929,
         "sitelinks": 1,
-        "globalusage": 19
+        "globalusage": 6
       },
       "meta": {
         "Collection": "Matsukata Collection"
@@ -1078,14 +1108,14 @@
         "wildenstein": "29",
         "source": "wikidata",
         "dimensions": {
-          "height_cm": 816,
-          "width_cm": 464
+          "height_cm": 81.6,
+          "width_cm": 46.4
         },
         "license": {
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/rwGX7alCWNyquQ\">rwGX7alCWNyquQ at Google Cultural Institute</a> maximum zoom level",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://artsandculture.google.com\">https://artsandculture.google.com</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -1237,8 +1267,8 @@
       }
     },
     {
-      "id": "w-51",
-      "title": "Mouth of the Seine",
+      "id": "wd-Q50807964",
+      "title": "Mouth of the Seine at Honfleur",
       "year": "1865",
       "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/%27Mouth_of_the_Seine%27_by_Claude_Monet%2C_Norton_Simon_Museum.JPG/960px-%27Mouth_of_the_Seine%27_by_Claude_Monet%2C_Norton_Simon_Museum.JPG",
       "full": "https://upload.wikimedia.org/wikipedia/commons/d/da/%27Mouth_of_the_Seine%27_by_Claude_Monet%2C_Norton_Simon_Museum.JPG",
@@ -1256,9 +1286,11 @@
       },
       "extras": {
         "qid": "Q50807964",
-        "catalog_number": "51",
-        "wildenstein": "51",
         "source": "wikidata",
+        "dimensions": {
+          "height_cm": 89.5,
+          "width_cm": 150.5
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -1350,8 +1382,8 @@
       "height": 4337,
       "tags": [],
       "popularity": {
-        "score": 241.7,
-        "pageviews_365d": 2926,
+        "score": 241.8,
+        "pageviews_365d": 2928,
         "sitelinks": 3,
         "globalusage": 16
       },
@@ -1372,42 +1404,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.wikiart.org/en/claude-monet\">https://www.wikiart.org/en/claude-monet</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "w-73",
-      "title": "The Green Wave",
-      "year": "1865",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Claude_Monet_-_La_Vague_Verte.jpg/960px-Claude_Monet_-_La_Vague_Verte.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Claude_Monet_-_La_Vague_Verte.jpg",
-      "width": 3671,
-      "height": 2750,
-      "tags": [],
-      "popularity": {
-        "score": 226,
-        "pageviews_365d": 1359,
-        "sitelinks": 2,
-        "globalusage": 31
-      },
-      "meta": {
-        "Collection": "Metropolitan Museum of Art"
-      },
-      "extras": {
-        "qid": "Q19911668",
-        "catalog_number": "73",
-        "wildenstein": "73",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 48.6,
-          "width_cm": 64.8
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.metmuseum.org/art/collection/search/110001552\">Metropolitan Museum of Art, online collection (The Met object ID 110001552)</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -1458,10 +1454,10 @@
       "height": 5856,
       "tags": [],
       "popularity": {
-        "score": 340.1,
-        "pageviews_365d": 50730,
+        "score": 340.3,
+        "pageviews_365d": 50817,
         "sitelinks": 9,
-        "globalusage": 101
+        "globalusage": 102
       },
       "meta": {
         "Collection": "Kunsthalle Bremen"
@@ -1557,6 +1553,38 @@
       }
     },
     {
+      "id": "wd-Q141573954",
+      "title": "Fishing Boats",
+      "year": "1866",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Claude_Monet_-_Barques_de_p%C3%AAche.jpg/960px-Claude_Monet_-_Barques_de_p%C3%AAche.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Claude_Monet_-_Barques_de_p%C3%AAche.jpg",
+      "width": 4096,
+      "height": 3389,
+      "tags": [],
+      "popularity": {
+        "score": 6.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 1
+      },
+      "meta": {},
+      "extras": {
+        "qid": "Q141573954",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 46,
+          "width_cm": 55.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sothebys.com\">https://www.sothebys.com</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "w-70",
       "title": "Jar of Peaches",
       "year": "1866",
@@ -1593,66 +1621,19 @@
       }
     },
     {
-      "id": "w-63.2",
-      "title": "Le Déjeuner sur l'herbe",
-      "year": "1866",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Claude_Monet_-_Le_dejeurner_sur_l%27herbe_%28left_panel%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Claude_Monet_-_Le_dejeurner_sur_l%27herbe_%28left_panel%29.jpg",
-      "width": 538,
-      "height": 1020,
-      "tags": [],
-      "popularity": {
-        "score": 353.8,
-        "pageviews_365d": 105025,
-        "sitelinks": 17,
-        "globalusage": 35
-      },
-      "meta": {
-        "Collection": "Musée d'Orsay"
-      },
-      "extras": {
-        "qid": "Q1167912",
-        "catalog_number": "63.2",
-        "wildenstein": "63.2",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 418,
-          "width_cm": 217
-        },
-        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!25651/manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.musee-orsay.fr/\">http://www.musee-orsay.fr/</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        },
-        "aliases": [
-          {
-            "id": "w-63 a",
-            "qid": "Q17492904",
-            "catalog_number": "63 a",
-            "wildenstein": "63 a",
-            "source": "wikidata",
-            "title": "Le Déjeuner sur l'herbe"
-          }
-        ]
-      }
-    },
-    {
       "id": "w-62",
-      "title": "Luncheon on the Grass (study for № 63)",
+      "title": "Luncheon on the Grass",
       "year": "1866",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Le_D%C3%A9jeuner_sur_l%27herbe_-_Monet_%28Pushkin_Museum%29.jpg/960px-Le_D%C3%A9jeuner_sur_l%27herbe_-_Monet_%28Pushkin_Museum%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Le_D%C3%A9jeuner_sur_l%27herbe_-_Monet_%28Pushkin_Museum%29.jpg",
-      "width": 3840,
-      "height": 2760,
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Claude_Monet_-_Le_D%C3%A9jeuner_sur_l%27herbe_%281866%29_-_Pushkin_Museum_%D0%96-3307.jpg/960px-Claude_Monet_-_Le_D%C3%A9jeuner_sur_l%27herbe_%281866%29_-_Pushkin_Museum_%D0%96-3307.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/95/Claude_Monet_-_Le_D%C3%A9jeuner_sur_l%27herbe_%281866%29_-_Pushkin_Museum_%D0%96-3307.jpg",
+      "width": 10000,
+      "height": 7069,
       "tags": [],
       "popularity": {
-        "score": 256.3,
-        "pageviews_365d": 3877,
+        "score": 247.6,
+        "pageviews_365d": 3884,
         "sitelinks": 4,
-        "globalusage": 28
+        "globalusage": 11
       },
       "meta": {
         "Collection": "Pushkin Museum of Fine Arts"
@@ -1663,14 +1644,124 @@
         "wildenstein": "62",
         "source": "wikidata",
         "dimensions": {
-          "height_cm": 130,
-          "width_cm": 181
+          "height_cm": 129.8,
+          "width_cm": 181.1
         },
         "license": {
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.art-catalog.ru/picture.php?id_picture=3690\">Art-Catalog.ru</a>",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.newestmuseum.ru/data/authors/m/monet_claude/breakfast_on_the_grass.php?lang=en\">The Museum of Modern Western Art (NWM), GMNZI: 133</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "w-63",
+      "title": "Luncheon on the Grass",
+      "year": "1866",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Claude_Monet_-_Le_dejeurner_sur_l%27herbe_%28left_panel%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Claude_Monet_-_Le_dejeurner_sur_l%27herbe_%28left_panel%29.jpg",
+      "width": 538,
+      "height": 1020,
+      "tags": [],
+      "popularity": {
+        "score": 353.6,
+        "pageviews_365d": 105275,
+        "sitelinks": 17,
+        "globalusage": 34
+      },
+      "meta": {
+        "Collection": "Musée d'Orsay"
+      },
+      "extras": {
+        "qid": "Q1167912",
+        "catalog_number": "63",
+        "wildenstein": "63",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 460,
+          "width_cm": 600
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.musee-orsay.fr/\">http://www.musee-orsay.fr/</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "w-63(b)",
+      "title": "Luncheon on the Grass, Central Panel",
+      "year": "1866",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Claude_Monet_-_Le_D%C3%A9jeuner_sur_l%27herbe%2C_partie_centrale.jpg/960px-Claude_Monet_-_Le_D%C3%A9jeuner_sur_l%27herbe%2C_partie_centrale.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Claude_Monet_-_Le_D%C3%A9jeuner_sur_l%27herbe%2C_partie_centrale.jpg",
+      "width": 1800,
+      "height": 2052,
+      "tags": [],
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "meta": {
+        "Collection": "Musée d'Orsay"
+      },
+      "extras": {
+        "qid": "Q141420094",
+        "catalog_number": "63(b)",
+        "wildenstein": "63(b)",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 248.7,
+          "width_cm": 218
+        },
+        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!25651/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://panoramadelart.com\">https://panoramadelart.com</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "w-63(a)",
+      "title": "Luncheon on the Grass, Left Panel",
+      "year": "1866",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/53/Claude_Monet_-_Le_D%C3%A9jeuner_sur_l%27herbe%2C_partie_gauche.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/5/53/Claude_Monet_-_Le_D%C3%A9jeuner_sur_l%27herbe%2C_partie_gauche.jpg",
+      "width": 700,
+      "height": 2015,
+      "tags": [],
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "meta": {
+        "Collection": "Musée d'Orsay"
+      },
+      "extras": {
+        "qid": "Q17492904",
+        "catalog_number": "63(a)",
+        "wildenstein": "63(a)",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 418,
+          "width_cm": 150
+        },
+        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!10737/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://panoramadelart.com\">https://panoramadelart.com</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -1721,10 +1812,10 @@
       "height": 2490,
       "tags": [],
       "popularity": {
-        "score": 353.6,
-        "pageviews_365d": 61634,
+        "score": 353.7,
+        "pageviews_365d": 61790,
         "sitelinks": 23,
-        "globalusage": 99
+        "globalusage": 100
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -1758,8 +1849,8 @@
       "height": 2410,
       "tags": [],
       "popularity": {
-        "score": 279.1,
-        "pageviews_365d": 8308,
+        "score": 279.2,
+        "pageviews_365d": 8336,
         "sitelinks": 9,
         "globalusage": 20
       },
@@ -1857,10 +1948,10 @@
       "height": 4453,
       "tags": [],
       "popularity": {
-        "score": 360.4,
-        "pageviews_365d": 66347,
+        "score": 360.6,
+        "pageviews_365d": 66488,
         "sitelinks": 24,
-        "globalusage": 157
+        "globalusage": 159
       },
       "meta": {
         "Collection": "Metropolitan Museum of Art"
@@ -1894,7 +1985,7 @@
       "tags": [],
       "popularity": {
         "score": 212.6,
-        "pageviews_365d": 1149,
+        "pageviews_365d": 1152,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -2003,9 +2094,9 @@
       "tags": [],
       "popularity": {
         "score": 301.4,
-        "pageviews_365d": 11332,
+        "pageviews_365d": 11414,
         "sitelinks": 15,
-        "globalusage": 55
+        "globalusage": 54
       },
       "meta": {
         "Collection": "Metropolitan Museum of Art"
@@ -2112,10 +2203,10 @@
       "height": 2961,
       "tags": [],
       "popularity": {
-        "score": 224.9,
-        "pageviews_365d": 2018,
+        "score": 226.2,
+        "pageviews_365d": 2028,
         "sitelinks": 3,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Collection": "Alte Nationalgalerie"
@@ -2185,7 +2276,7 @@
       "tags": [],
       "popularity": {
         "score": 299.3,
-        "pageviews_365d": 16371,
+        "pageviews_365d": 16415,
         "sitelinks": 9,
         "globalusage": 28
       },
@@ -2226,7 +2317,7 @@
         "globalusage": 12
       },
       "meta": {
-        "Collection": "Garengo Foundation"
+        "Collection": "Museum of Art and History Geneva"
       },
       "extras": {
         "qid": "Q50700359",
@@ -2275,6 +2366,42 @@
       }
     },
     {
+      "id": "w-73",
+      "title": "The Green Wave",
+      "year": "1867",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Claude_Monet_-_La_Vague_Verte.jpg/960px-Claude_Monet_-_La_Vague_Verte.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Claude_Monet_-_La_Vague_Verte.jpg",
+      "width": 3671,
+      "height": 2750,
+      "tags": [],
+      "popularity": {
+        "score": 226.5,
+        "pageviews_365d": 1366,
+        "sitelinks": 2,
+        "globalusage": 32
+      },
+      "meta": {
+        "Collection": "Metropolitan Museum of Art"
+      },
+      "extras": {
+        "qid": "Q19911668",
+        "catalog_number": "73",
+        "wildenstein": "73",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 48.6,
+          "width_cm": 64.8
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.metmuseum.org/art/collection/search/110001552\">Metropolitan Museum of Art, online collection (The Met object ID 110001552)</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "w-79",
       "title": "The Road in Front of Saint-Simeon Farm in Winter",
       "year": "1867",
@@ -2284,8 +2411,8 @@
       "height": 1200,
       "tags": [],
       "popularity": {
-        "score": 263.9,
-        "pageviews_365d": 5767,
+        "score": 264,
+        "pageviews_365d": 5788,
         "sitelinks": 5,
         "globalusage": 18
       },
@@ -2320,10 +2447,10 @@
       "height": 2260,
       "tags": [],
       "popularity": {
-        "score": 344,
-        "pageviews_365d": 41003,
+        "score": 344.2,
+        "pageviews_365d": 41081,
         "sitelinks": 18,
-        "globalusage": 134
+        "globalusage": 135
       },
       "meta": {
         "Collection": "Hermitage Museum"
@@ -2529,8 +2656,8 @@
       "height": 1500,
       "tags": [],
       "popularity": {
-        "score": 276.4,
-        "pageviews_365d": 8014,
+        "score": 276.5,
+        "pageviews_365d": 8033,
         "sitelinks": 7,
         "globalusage": 21
       },
@@ -2564,7 +2691,7 @@
       "tags": [],
       "popularity": {
         "score": 242.4,
-        "pageviews_365d": 2390,
+        "pageviews_365d": 2397,
         "sitelinks": 4,
         "globalusage": 23
       },
@@ -2636,10 +2763,10 @@
       "height": 2425,
       "tags": [],
       "popularity": {
-        "score": 282.6,
-        "pageviews_365d": 9218,
+        "score": 283,
+        "pageviews_365d": 9243,
         "sitelinks": 6,
-        "globalusage": 32
+        "globalusage": 33
       },
       "meta": {
         "Collection": "Potter Palmer Collection"
@@ -2776,8 +2903,8 @@
       "height": 2909,
       "tags": [],
       "popularity": {
-        "score": 365.2,
-        "pageviews_365d": 89862,
+        "score": 365.3,
+        "pageviews_365d": 90073,
         "sitelinks": 19,
         "globalusage": 149
       },
@@ -2886,7 +3013,7 @@
       "tags": [],
       "popularity": {
         "score": 249.2,
-        "pageviews_365d": 3354,
+        "pageviews_365d": 3356,
         "sitelinks": 2,
         "globalusage": 33
       },
@@ -2957,8 +3084,8 @@
       "height": 2752,
       "tags": [],
       "popularity": {
-        "score": 349.8,
-        "pageviews_365d": 58808,
+        "score": 349.9,
+        "pageviews_365d": 58952,
         "sitelinks": 16,
         "globalusage": 108
       },
@@ -3059,10 +3186,10 @@
       "height": 2370,
       "tags": [],
       "popularity": {
-        "score": 13.9,
+        "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 3
+        "globalusage": 4
       },
       "meta": {},
       "extras": {
@@ -3337,7 +3464,7 @@
       "tags": [],
       "popularity": {
         "score": 265.8,
-        "pageviews_365d": 5334,
+        "pageviews_365d": 5345,
         "sitelinks": 7,
         "globalusage": 20
       },
@@ -3374,7 +3501,7 @@
       "tags": [],
       "popularity": {
         "score": 229.7,
-        "pageviews_365d": 1826,
+        "pageviews_365d": 1828,
         "sitelinks": 1,
         "globalusage": 32
       },
@@ -3482,10 +3609,10 @@
       "height": 1645,
       "tags": [],
       "popularity": {
-        "score": 263,
-        "pageviews_365d": 4564,
+        "score": 263.3,
+        "pageviews_365d": 4569,
         "sitelinks": 3,
-        "globalusage": 46
+        "globalusage": 47
       },
       "meta": {
         "Collection": "National Gallery"
@@ -3730,8 +3857,8 @@
       "height": 299,
       "tags": [],
       "popularity": {
-        "score": 262.9,
-        "pageviews_365d": 6682,
+        "score": 263,
+        "pageviews_365d": 6699,
         "sitelinks": 2,
         "globalusage": 23
       },
@@ -3858,10 +3985,10 @@
       "height": 2506,
       "tags": [],
       "popularity": {
-        "score": 288.6,
-        "pageviews_365d": 7924,
+        "score": 288.8,
+        "pageviews_365d": 7943,
         "sitelinks": 9,
-        "globalusage": 60
+        "globalusage": 61
       },
       "meta": {
         "Collection": "Metropolitan Museum of Art"
@@ -4000,10 +4127,10 @@
       "height": 1158,
       "tags": [],
       "popularity": {
-        "score": 30,
+        "score": 28.9,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 9
+        "globalusage": 8
       },
       "meta": {
         "Collection": "Kröller-Müller Museum"
@@ -4204,10 +4331,10 @@
       "height": 1929,
       "tags": [],
       "popularity": {
-        "score": 232.6,
-        "pageviews_365d": 2091,
+        "score": 232.2,
+        "pageviews_365d": 2096,
         "sitelinks": 2,
-        "globalusage": 20
+        "globalusage": 19
       },
       "meta": {
         "Collection": "National Gallery",
@@ -4315,7 +4442,7 @@
       "tags": [],
       "popularity": {
         "score": 215,
-        "pageviews_365d": 1194,
+        "pageviews_365d": 1196,
         "sitelinks": 1,
         "globalusage": 21
       },
@@ -4349,7 +4476,7 @@
       "tags": [],
       "popularity": {
         "score": 269.5,
-        "pageviews_365d": 6398,
+        "pageviews_365d": 6403,
         "sitelinks": 6,
         "globalusage": 21
       },
@@ -4821,10 +4948,10 @@
       "height": 4478,
       "tags": [],
       "popularity": {
-        "score": 446.5,
-        "pageviews_365d": 811028,
+        "score": 446.6,
+        "pageviews_365d": 813445,
         "sitelinks": 52,
-        "globalusage": 781
+        "globalusage": 788
       },
       "meta": {
         "Collection": "Musée Marmottan Monet"
@@ -4953,8 +5080,8 @@
       "height": 3953,
       "tags": [],
       "popularity": {
-        "score": 248.6,
-        "pageviews_365d": 3177,
+        "score": 248.7,
+        "pageviews_365d": 3185,
         "sitelinks": 4,
         "globalusage": 21
       },
@@ -5097,7 +5224,7 @@
       "tags": [],
       "popularity": {
         "score": 311.2,
-        "pageviews_365d": 22706,
+        "pageviews_365d": 22752,
         "sitelinks": 14,
         "globalusage": 27
       },
@@ -5171,7 +5298,7 @@
       "tags": [],
       "popularity": {
         "score": 266.2,
-        "pageviews_365d": 5608,
+        "pageviews_365d": 5621,
         "sitelinks": 6,
         "globalusage": 21
       },
@@ -5206,10 +5333,10 @@
       "height": 9011,
       "tags": [],
       "popularity": {
-        "score": 31.4,
+        "score": 31.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 22
+        "globalusage": 23
       },
       "meta": {
         "Collection": "Q214867"
@@ -5243,8 +5370,8 @@
       "height": 5037,
       "tags": [],
       "popularity": {
-        "score": 316.3,
-        "pageviews_365d": 27587,
+        "score": 316.4,
+        "pageviews_365d": 27653,
         "sitelinks": 11,
         "globalusage": 35
       },
@@ -5279,8 +5406,8 @@
       "height": 2068,
       "tags": [],
       "popularity": {
-        "score": 212.2,
-        "pageviews_365d": 810,
+        "score": 212.3,
+        "pageviews_365d": 812,
         "sitelinks": 3,
         "globalusage": 21
       },
@@ -5387,8 +5514,8 @@
       "height": 768,
       "tags": [],
       "popularity": {
-        "score": 224.7,
-        "pageviews_365d": 1703,
+        "score": 224.8,
+        "pageviews_365d": 1706,
         "sitelinks": 2,
         "globalusage": 15
       },
@@ -5495,8 +5622,8 @@
       "height": 700,
       "tags": [],
       "popularity": {
-        "score": 212.4,
-        "pageviews_365d": 866,
+        "score": 212.5,
+        "pageviews_365d": 868,
         "sitelinks": 3,
         "globalusage": 18
       },
@@ -5672,8 +5799,8 @@
       "height": 795,
       "tags": [],
       "popularity": {
-        "score": 167.2,
-        "pageviews_365d": 211,
+        "score": 167.4,
+        "pageviews_365d": 212,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -5780,10 +5907,10 @@
       "height": 3992,
       "tags": [],
       "popularity": {
-        "score": 306.4,
-        "pageviews_365d": 19191,
+        "score": 305.5,
+        "pageviews_365d": 19221,
         "sitelinks": 10,
-        "globalusage": 35
+        "globalusage": 32
       },
       "meta": {
         "Collection": "The Nelson-Atkins Museum of Art"
@@ -5888,7 +6015,7 @@
       "tags": [],
       "popularity": {
         "score": 265.4,
-        "pageviews_365d": 4160,
+        "pageviews_365d": 4167,
         "sitelinks": 4,
         "globalusage": 59
       },
@@ -5959,8 +6086,8 @@
       "height": 2976,
       "tags": [],
       "popularity": {
-        "score": 226.9,
-        "pageviews_365d": 1581,
+        "score": 227,
+        "pageviews_365d": 1586,
         "sitelinks": 3,
         "globalusage": 17
       },
@@ -5995,8 +6122,8 @@
       "height": 1611,
       "tags": [],
       "popularity": {
-        "score": 274.4,
-        "pageviews_365d": 6057,
+        "score": 274.5,
+        "pageviews_365d": 6069,
         "sitelinks": 9,
         "globalusage": 28
       },
@@ -6027,10 +6154,10 @@
       "height": 1889,
       "tags": [],
       "popularity": {
-        "score": 274.6,
-        "pageviews_365d": 5911,
+        "score": 274.8,
+        "pageviews_365d": 5920,
         "sitelinks": 4,
-        "globalusage": 62
+        "globalusage": 63
       },
       "meta": {
         "Collection": "Pushkin Museum of Fine Arts"
@@ -6064,7 +6191,7 @@
       "tags": [],
       "popularity": {
         "score": 194.7,
-        "pageviews_365d": 601,
+        "pageviews_365d": 603,
         "sitelinks": 3,
         "globalusage": 7
       },
@@ -6100,7 +6227,7 @@
       "tags": [],
       "popularity": {
         "score": 279.1,
-        "pageviews_365d": 8939,
+        "pageviews_365d": 8955,
         "sitelinks": 6,
         "globalusage": 24
       },
@@ -6135,8 +6262,8 @@
       "height": 383,
       "tags": [],
       "popularity": {
-        "score": 263,
-        "pageviews_365d": 5351,
+        "score": 263.1,
+        "pageviews_365d": 5367,
         "sitelinks": 5,
         "globalusage": 20
       },
@@ -6461,8 +6588,8 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 295.3,
-        "pageviews_365d": 13753,
+        "score": 295.4,
+        "pageviews_365d": 13808,
         "sitelinks": 9,
         "globalusage": 29
       },
@@ -6498,8 +6625,8 @@
       "height": 602,
       "tags": [],
       "popularity": {
-        "score": 224.3,
-        "pageviews_365d": 1634,
+        "score": 224.4,
+        "pageviews_365d": 1638,
         "sitelinks": 2,
         "globalusage": 16
       },
@@ -6534,10 +6661,10 @@
       "height": 4258,
       "tags": [],
       "popularity": {
-        "score": 348.5,
-        "pageviews_365d": 92328,
+        "score": 348.8,
+        "pageviews_365d": 92501,
         "sitelinks": 11,
-        "globalusage": 43
+        "globalusage": 44
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -6572,7 +6699,7 @@
       "tags": [],
       "popularity": {
         "score": 253.8,
-        "pageviews_365d": 3778,
+        "pageviews_365d": 3782,
         "sitelinks": 4,
         "globalusage": 23
       },
@@ -6608,8 +6735,8 @@
       "height": 1328,
       "tags": [],
       "popularity": {
-        "score": 250,
-        "pageviews_365d": 2861,
+        "score": 250.1,
+        "pageviews_365d": 2870,
         "sitelinks": 4,
         "globalusage": 32
       },
@@ -6678,10 +6805,10 @@
       "height": 830,
       "tags": [],
       "popularity": {
-        "score": 294,
-        "pageviews_365d": 13570,
+        "score": 294.3,
+        "pageviews_365d": 13599,
         "sitelinks": 6,
-        "globalusage": 38
+        "globalusage": 39
       },
       "meta": {
         "Collection": "Museum of Grenoble"
@@ -6819,10 +6946,10 @@
       "height": 493,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 6
       },
       "meta": {
         "Collection": "Artizon Museum"
@@ -6854,7 +6981,7 @@
       "tags": [],
       "popularity": {
         "score": 269.6,
-        "pageviews_365d": 5831,
+        "pageviews_365d": 5842,
         "sitelinks": 6,
         "globalusage": 27
       },
@@ -6889,10 +7016,10 @@
       "height": 1146,
       "tags": [],
       "popularity": {
-        "score": 13.9,
+        "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 3
+        "globalusage": 1
       },
       "meta": {
         "Collection": "Himeji City Museum of Art"
@@ -7028,7 +7155,7 @@
       "tags": [],
       "popularity": {
         "score": 264,
-        "pageviews_365d": 5186,
+        "pageviews_365d": 5195,
         "sitelinks": 5,
         "globalusage": 24
       },
@@ -7064,7 +7191,7 @@
       "tags": [],
       "popularity": {
         "score": 244.5,
-        "pageviews_365d": 3002,
+        "pageviews_365d": 3008,
         "sitelinks": 3,
         "globalusage": 20
       },
@@ -7158,7 +7285,7 @@
       }
     },
     {
-      "id": "wd-Q90913879",
+      "id": "w-294",
       "title": "Le Bassin du Commerce, Le Havre",
       "year": "1874",
       "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/HavreMonet.jpg/960px-HavreMonet.jpg",
@@ -7228,6 +7355,43 @@
       }
     },
     {
+      "id": "w-339",
+      "title": "Les barques. Régates à Argenteuil",
+      "year": "1874",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Claude_Monet_047.jpg/960px-Claude_Monet_047.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Claude_Monet_047.jpg",
+      "width": 1600,
+      "height": 998,
+      "tags": [],
+      "popularity": {
+        "score": 220,
+        "pageviews_365d": 1620,
+        "sitelinks": 1,
+        "globalusage": 16
+      },
+      "meta": {
+        "Collection": "Musée d'Orsay"
+      },
+      "extras": {
+        "qid": "Q3828534",
+        "catalog_number": "339",
+        "wildenstein": "339",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 60,
+          "width_cm": 100
+        },
+        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!1099/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q139898084",
       "title": "Manet malt im Garten Monets in Argenteuil",
       "year": "1874",
@@ -7237,8 +7401,8 @@
       "height": 752,
       "tags": [],
       "popularity": {
-        "score": 177.3,
-        "pageviews_365d": 274,
+        "score": 177.8,
+        "pageviews_365d": 280,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -7567,10 +7731,10 @@
       "height": 2736,
       "tags": [],
       "popularity": {
-        "score": 229.7,
-        "pageviews_365d": 2010,
+        "score": 230.5,
+        "pageviews_365d": 2014,
         "sitelinks": 3,
-        "globalusage": 12
+        "globalusage": 13
       },
       "meta": {
         "Collection": "Alte Nationalgalerie"
@@ -7637,10 +7801,10 @@
       "height": 1917,
       "tags": [],
       "popularity": {
-        "score": 28.3,
+        "score": 26.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 16
+        "globalusage": 13
       },
       "meta": {
         "Collection": "Q2148186"
@@ -7671,8 +7835,8 @@
       "height": 5998,
       "tags": [],
       "popularity": {
-        "score": 192.5,
-        "pageviews_365d": 641,
+        "score": 192.6,
+        "pageviews_365d": 644,
         "sitelinks": 1,
         "globalusage": 10
       },
@@ -7888,10 +8052,10 @@
       "height": 3546,
       "tags": [],
       "popularity": {
-        "score": 13.9,
+        "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 3
+        "globalusage": 4
       },
       "meta": {
         "Collection": "Mie Prefectural Art Museum"
@@ -7958,8 +8122,8 @@
       "height": 2524,
       "tags": [],
       "popularity": {
-        "score": 284.5,
-        "pageviews_365d": 12658,
+        "score": 284.6,
+        "pageviews_365d": 12683,
         "sitelinks": 8,
         "globalusage": 13
       },
@@ -8103,10 +8267,10 @@
       "height": 2748,
       "tags": [],
       "popularity": {
-        "score": 36.1,
+        "score": 35.6,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 36
+        "globalusage": 34
       },
       "meta": {
         "Collection": "Kröller-Müller Museum"
@@ -8271,8 +8435,8 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 242.1,
-        "pageviews_365d": 2782,
+        "score": 242.2,
+        "pageviews_365d": 2789,
         "sitelinks": 4,
         "globalusage": 15
       },
@@ -8523,8 +8687,8 @@
       "height": 2328,
       "tags": [],
       "popularity": {
-        "score": 190.2,
-        "pageviews_365d": 539,
+        "score": 190.3,
+        "pageviews_365d": 540,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -8659,10 +8823,10 @@
       "height": 1060,
       "tags": [],
       "popularity": {
-        "score": 38.1,
+        "score": 38.3,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 44
+        "globalusage": 45
       },
       "meta": {
         "Collection": "Barnes Foundation"
@@ -8870,8 +9034,8 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 261.8,
-        "pageviews_365d": 5209,
+        "score": 262,
+        "pageviews_365d": 5235,
         "sitelinks": 7,
         "globalusage": 14
       },
@@ -8943,8 +9107,8 @@
       "height": 4226,
       "tags": [],
       "popularity": {
-        "score": 302.3,
-        "pageviews_365d": 17519,
+        "score": 302.4,
+        "pageviews_365d": 17579,
         "sitelinks": 9,
         "globalusage": 32
       },
@@ -9300,8 +9464,8 @@
       "height": 1128,
       "tags": [],
       "popularity": {
-        "score": 285.6,
-        "pageviews_365d": 12328,
+        "score": 285.7,
+        "pageviews_365d": 12358,
         "sitelinks": 5,
         "globalusage": 24
       },
@@ -9336,8 +9500,8 @@
       "height": 1193,
       "tags": [],
       "popularity": {
-        "score": 213.9,
-        "pageviews_365d": 1268,
+        "score": 214,
+        "pageviews_365d": 1271,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -9372,10 +9536,10 @@
       "height": 7455,
       "tags": [],
       "popularity": {
-        "score": 399.1,
-        "pageviews_365d": 285989,
+        "score": 399.4,
+        "pageviews_365d": 286934,
         "sitelinks": 23,
-        "globalusage": 204
+        "globalusage": 209
       },
       "meta": {
         "Collection": "Q214867"
@@ -9516,8 +9680,8 @@
       "height": 1107,
       "tags": [],
       "popularity": {
-        "score": 218.6,
-        "pageviews_365d": 1465,
+        "score": 218.7,
+        "pageviews_365d": 1467,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -9620,10 +9784,10 @@
       "height": 2370,
       "tags": [],
       "popularity": {
-        "score": 353.8,
-        "pageviews_365d": 68813,
+        "score": 353.9,
+        "pageviews_365d": 68967,
         "sitelinks": 14,
-        "globalusage": 123
+        "globalusage": 124
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston"
@@ -9898,10 +10062,10 @@
       "height": 1070,
       "tags": [],
       "popularity": {
-        "score": 288.1,
-        "pageviews_365d": 11109,
+        "score": 288.4,
+        "pageviews_365d": 11143,
         "sitelinks": 4,
-        "globalusage": 49
+        "globalusage": 50
       },
       "meta": {
         "Collection": "Barnes Foundation"
@@ -9935,7 +10099,7 @@
       "tags": [],
       "popularity": {
         "score": 225.6,
-        "pageviews_365d": 1635,
+        "pageviews_365d": 1636,
         "sitelinks": 1,
         "globalusage": 28
       },
@@ -9971,7 +10135,7 @@
       "tags": [],
       "popularity": {
         "score": 223.2,
-        "pageviews_365d": 1504,
+        "pageviews_365d": 1508,
         "sitelinks": 3,
         "globalusage": 13
       },
@@ -10006,10 +10170,10 @@
       "height": 4418,
       "tags": [],
       "popularity": {
-        "score": 301.2,
-        "pageviews_365d": 13976,
+        "score": 301.4,
+        "pageviews_365d": 14018,
         "sitelinks": 7,
-        "globalusage": 64
+        "globalusage": 65
       },
       "meta": {
         "Collection": "Art Institute of Chicago"
@@ -10043,7 +10207,7 @@
       "tags": [],
       "popularity": {
         "score": 289.4,
-        "pageviews_365d": 10587,
+        "pageviews_365d": 10614,
         "sitelinks": 7,
         "globalusage": 39
       },
@@ -10174,10 +10338,10 @@
       "height": 1849,
       "tags": [],
       "popularity": {
-        "score": 33.7,
+        "score": 34,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 28
+        "globalusage": 29
       },
       "meta": {
         "Collection": "Pola Museum of Art"
@@ -10210,10 +10374,10 @@
       "height": 2637,
       "tags": [],
       "popularity": {
-        "score": 276.1,
-        "pageviews_365d": 6642,
+        "score": 276.3,
+        "pageviews_365d": 6656,
         "sitelinks": 3,
-        "globalusage": 67
+        "globalusage": 68
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -10310,7 +10474,7 @@
       "tags": [],
       "popularity": {
         "score": 272.9,
-        "pageviews_365d": 6020,
+        "pageviews_365d": 6037,
         "sitelinks": 6,
         "globalusage": 35
       },
@@ -10345,8 +10509,8 @@
       "height": 2859,
       "tags": [],
       "popularity": {
-        "score": 261.9,
-        "pageviews_365d": 4963,
+        "score": 262,
+        "pageviews_365d": 4979,
         "sitelinks": 7,
         "globalusage": 16
       },
@@ -10430,7 +10594,7 @@
         "source": "wikidata",
         "dimensions": {
           "height_cm": 83,
-          "width_cm": 101.5
+          "width_cm": 101.3
         },
         "iiif": "https://iiif.harvardartmuseums.org/manifests/object/228649",
         "license": {
@@ -10488,10 +10652,10 @@
       "height": 1238,
       "tags": [],
       "popularity": {
-        "score": 279.6,
-        "pageviews_365d": 8546,
+        "score": 280.1,
+        "pageviews_365d": 8555,
         "sitelinks": 4,
-        "globalusage": 40
+        "globalusage": 42
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -10768,8 +10932,8 @@
       "height": 8753,
       "tags": [],
       "popularity": {
-        "score": 305.9,
-        "pageviews_365d": 21977,
+        "score": 306,
+        "pageviews_365d": 22016,
         "sitelinks": 8,
         "globalusage": 29
       },
@@ -11093,8 +11257,8 @@
       "height": 5860,
       "tags": [],
       "popularity": {
-        "score": 249.3,
-        "pageviews_365d": 2930,
+        "score": 249.4,
+        "pageviews_365d": 2939,
         "sitelinks": 2,
         "globalusage": 47
       },
@@ -11236,10 +11400,10 @@
       "height": 5087,
       "tags": [],
       "popularity": {
-        "score": 311.6,
-        "pageviews_365d": 22634,
+        "score": 311.9,
+        "pageviews_365d": 22724,
         "sitelinks": 8,
-        "globalusage": 48
+        "globalusage": 49
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -11630,8 +11794,8 @@
       "height": 1800,
       "tags": [],
       "popularity": {
-        "score": 261.4,
-        "pageviews_365d": 3965,
+        "score": 261.5,
+        "pageviews_365d": 3975,
         "sitelinks": 5,
         "globalusage": 37
       },
@@ -11808,7 +11972,7 @@
         "globalusage": 13
       },
       "meta": {
-        "Collection": "Impressionism: The Hasso Plattner Collection"
+        "Collection": "Museum Barberini"
       },
       "extras": {
         "qid": "Q108479165",
@@ -12128,8 +12292,8 @@
       "height": 674,
       "tags": [],
       "popularity": {
-        "score": 211.6,
-        "pageviews_365d": 1064,
+        "score": 211.7,
+        "pageviews_365d": 1068,
         "sitelinks": 2,
         "globalusage": 13
       },
@@ -12342,10 +12506,10 @@
       "height": 5113,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 23,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 9
       },
       "meta": {
         "Collection": "Musée des Beaux-Arts de Rouen"
@@ -12525,8 +12689,8 @@
       "height": 7384,
       "tags": [],
       "popularity": {
-        "score": 209.4,
-        "pageviews_365d": 1059,
+        "score": 209.5,
+        "pageviews_365d": 1061,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -13200,7 +13364,7 @@
       "tags": [],
       "popularity": {
         "score": 233,
-        "pageviews_365d": 2750,
+        "pageviews_365d": 2753,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -13379,8 +13543,8 @@
       "height": 2132,
       "tags": [],
       "popularity": {
-        "score": 211.1,
-        "pageviews_365d": 1146,
+        "score": 211.2,
+        "pageviews_365d": 1150,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -13813,8 +13977,8 @@
       "height": 1881,
       "tags": [],
       "popularity": {
-        "score": 243.5,
-        "pageviews_365d": 3220,
+        "score": 243.6,
+        "pageviews_365d": 3226,
         "sitelinks": 3,
         "globalusage": 15
       },
@@ -13990,8 +14154,8 @@
       "height": 3966,
       "tags": [],
       "popularity": {
-        "score": 247.4,
-        "pageviews_365d": 2490,
+        "score": 247.5,
+        "pageviews_365d": 2495,
         "sitelinks": 1,
         "globalusage": 89
       },
@@ -14383,10 +14547,10 @@
       "height": 4226,
       "tags": [],
       "popularity": {
-        "score": 228.2,
+        "score": 228.5,
         "pageviews_365d": 1303,
         "sitelinks": 3,
-        "globalusage": 32
+        "globalusage": 33
       },
       "meta": {
         "Collection": "Hugh Lane Gallery"
@@ -14734,7 +14898,7 @@
       "tags": [],
       "popularity": {
         "score": 261.9,
-        "pageviews_365d": 5446,
+        "pageviews_365d": 5458,
         "sitelinks": 2,
         "globalusage": 35
       },
@@ -14806,10 +14970,10 @@
       "height": 1635,
       "tags": [],
       "popularity": {
-        "score": 29.4,
+        "score": 28.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 18
+        "globalusage": 17
       },
       "meta": {
         "Collection": "Thyssen-Bornemisza Museum"
@@ -15096,8 +15260,8 @@
       "height": 589,
       "tags": [],
       "popularity": {
-        "score": 247.9,
-        "pageviews_365d": 3581,
+        "score": 248,
+        "pageviews_365d": 3593,
         "sitelinks": 3,
         "globalusage": 18
       },
@@ -15198,10 +15362,10 @@
       "height": 550,
       "tags": [],
       "popularity": {
-        "score": 314.8,
-        "pageviews_365d": 24632,
+        "score": 314.6,
+        "pageviews_365d": 24705,
         "sitelinks": 11,
-        "globalusage": 40
+        "globalusage": 39
       },
       "meta": {
         "Collection": "National Museum in Poznań"
@@ -15733,8 +15897,8 @@
       "height": 1400,
       "tags": [],
       "popularity": {
-        "score": 207.9,
-        "pageviews_365d": 1023,
+        "score": 208,
+        "pageviews_365d": 1024,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -15803,8 +15967,8 @@
       "height": 2554,
       "tags": [],
       "popularity": {
-        "score": 258.3,
-        "pageviews_365d": 5550,
+        "score": 258.4,
+        "pageviews_365d": 5564,
         "sitelinks": 8,
         "globalusage": 7
       },
@@ -16091,8 +16255,8 @@
       "height": 2774,
       "tags": [],
       "popularity": {
-        "score": 237.3,
-        "pageviews_365d": 1556,
+        "score": 237.5,
+        "pageviews_365d": 1564,
         "sitelinks": 3,
         "globalusage": 52
       },
@@ -16161,10 +16325,10 @@
       "height": 1491,
       "tags": [],
       "popularity": {
-        "score": 28.9,
+        "score": 28.3,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 17
+        "globalusage": 16
       },
       "meta": {
         "Collection": "Thyssen-Bornemisza Museum"
@@ -16335,8 +16499,8 @@
       "height": 837,
       "tags": [],
       "popularity": {
-        "score": 142.2,
-        "pageviews_365d": 88,
+        "score": 142.7,
+        "pageviews_365d": 90,
         "sitelinks": 1,
         "globalusage": 9
       },
@@ -16402,7 +16566,7 @@
       "tags": [],
       "popularity": {
         "score": 209.2,
-        "pageviews_365d": 1353,
+        "pageviews_365d": 1354,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -16471,10 +16635,10 @@
       "height": 3508,
       "tags": [],
       "popularity": {
-        "score": 289.2,
-        "pageviews_365d": 10444,
+        "score": 289.5,
+        "pageviews_365d": 10473,
         "sitelinks": 8,
-        "globalusage": 35
+        "globalusage": 36
       },
       "meta": {
         "Collection": "Belvedere"
@@ -16891,7 +17055,7 @@
       }
     },
     {
-      "id": "w-294",
+      "id": "wd-Q117712263",
       "title": "The Church of Varengeville, Sunset",
       "year": "1882",
       "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Claude_Monet_-_L%27%C3%89glise_de_Varengeville%2C_soleil_couchant_%281882%29.jpg/960px-Claude_Monet_-_L%27%C3%89glise_de_Varengeville%2C_soleil_couchant_%281882%29.jpg",
@@ -16935,7 +17099,7 @@
       "tags": [],
       "popularity": {
         "score": 315.3,
-        "pageviews_365d": 31837,
+        "pageviews_365d": 31906,
         "sitelinks": 7,
         "globalusage": 33
       },
@@ -17109,7 +17273,7 @@
       "tags": [],
       "popularity": {
         "score": 233.7,
-        "pageviews_365d": 3461,
+        "pageviews_365d": 3465,
         "sitelinks": 1,
         "globalusage": 9
       },
@@ -17186,7 +17350,7 @@
         "globalusage": 14
       },
       "meta": {
-        "Collection": "Yoshino Gypsum"
+        "Collection": "Yamagata Museum of Art"
       },
       "extras": {
         "qid": "Q95911185",
@@ -17362,7 +17526,7 @@
       "tags": [],
       "popularity": {
         "score": 210,
-        "pageviews_365d": 847,
+        "pageviews_365d": 848,
         "sitelinks": 2,
         "globalusage": 20
       },
@@ -17469,8 +17633,8 @@
       "height": 1209,
       "tags": [],
       "popularity": {
-        "score": 277.5,
-        "pageviews_365d": 7356,
+        "score": 277.6,
+        "pageviews_365d": 7383,
         "sitelinks": 8,
         "globalusage": 26
       },
@@ -17606,8 +17770,8 @@
       "height": 684,
       "tags": [],
       "popularity": {
-        "score": 242.7,
-        "pageviews_365d": 2660,
+        "score": 242.8,
+        "pageviews_365d": 2670,
         "sitelinks": 4,
         "globalusage": 18
       },
@@ -18141,7 +18305,7 @@
       "tags": [],
       "popularity": {
         "score": 234.4,
-        "pageviews_365d": 1753,
+        "pageviews_365d": 1757,
         "sitelinks": 2,
         "globalusage": 38
       },
@@ -18392,8 +18556,8 @@
       "height": 1532,
       "tags": [],
       "popularity": {
-        "score": 261.1,
-        "pageviews_365d": 6011,
+        "score": 261.2,
+        "pageviews_365d": 6023,
         "sitelinks": 5,
         "globalusage": 12
       },
@@ -18969,8 +19133,8 @@
       "height": 4572,
       "tags": [],
       "popularity": {
-        "score": 272.7,
-        "pageviews_365d": 4863,
+        "score": 272.8,
+        "pageviews_365d": 4875,
         "sitelinks": 8,
         "globalusage": 46
       },
@@ -19218,10 +19382,10 @@
       "height": 3688,
       "tags": [],
       "popularity": {
-        "score": 236.9,
-        "pageviews_365d": 1974,
+        "score": 237.3,
+        "pageviews_365d": 1979,
         "sitelinks": 3,
-        "globalusage": 27
+        "globalusage": 28
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -19399,8 +19563,8 @@
       "height": 2364,
       "tags": [],
       "popularity": {
-        "score": 164.8,
-        "pageviews_365d": 197,
+        "score": 164.9,
+        "pageviews_365d": 198,
         "sitelinks": 1,
         "globalusage": 12
       },
@@ -20064,8 +20228,8 @@
       "height": 4551,
       "tags": [],
       "popularity": {
-        "score": 201.7,
-        "pageviews_365d": 570,
+        "score": 201.8,
+        "pageviews_365d": 572,
         "sitelinks": 1,
         "globalusage": 36
       },
@@ -20100,8 +20264,8 @@
       "height": 3388,
       "tags": [],
       "popularity": {
-        "score": 195.6,
-        "pageviews_365d": 530,
+        "score": 195.7,
+        "pageviews_365d": 532,
         "sitelinks": 2,
         "globalusage": 15
       },
@@ -20245,10 +20409,10 @@
       "height": 3207,
       "tags": [],
       "popularity": {
-        "score": 188,
-        "pageviews_365d": 344,
+        "score": 187.9,
+        "pageviews_365d": 347,
         "sitelinks": 1,
-        "globalusage": 32
+        "globalusage": 31
       },
       "meta": {
         "Collection": "Israel Museum"
@@ -20277,10 +20441,10 @@
       "height": 1279,
       "tags": [],
       "popularity": {
-        "score": 292.1,
-        "pageviews_365d": 11345,
+        "score": 292.4,
+        "pageviews_365d": 11389,
         "sitelinks": 3,
-        "globalusage": 87
+        "globalusage": 89
       },
       "meta": {
         "Collection": "Clark Art Institute"
@@ -20313,8 +20477,8 @@
       "height": 2380,
       "tags": [],
       "popularity": {
-        "score": 198.1,
-        "pageviews_365d": 638,
+        "score": 198.2,
+        "pageviews_365d": 639,
         "sitelinks": 2,
         "globalusage": 12
       },
@@ -20484,6 +20648,42 @@
       }
     },
     {
+      "id": "w-1029",
+      "title": "Three Fishing Boats",
+      "year": "1885",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Claude_Monet_-_Three_Fishing_Boats_-_Google_Art_Project.jpg/960px-Claude_Monet_-_Three_Fishing_Boats_-_Google_Art_Project.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Claude_Monet_-_Three_Fishing_Boats_-_Google_Art_Project.jpg",
+      "width": 5408,
+      "height": 4291,
+      "tags": [],
+      "popularity": {
+        "score": 27.7,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 15
+      },
+      "meta": {
+        "Collection": "Museum of Fine Arts, Budapest"
+      },
+      "extras": {
+        "qid": "Q22205318",
+        "catalog_number": "1029",
+        "wildenstein": "1029",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 73,
+          "width_cm": 92.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/AwFK3bYzu9yMHw\">AwFK3bYzu9yMHw at Google Cultural Institute</a> maximum zoom level",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "w-961",
       "title": "Winter in Giverny",
       "year": "1885",
@@ -20637,8 +20837,8 @@
       "height": 2175,
       "tags": [],
       "popularity": {
-        "score": 280.3,
-        "pageviews_365d": 11215,
+        "score": 280.4,
+        "pageviews_365d": 11252,
         "sitelinks": 7,
         "globalusage": 13
       },
@@ -20783,7 +20983,7 @@
       "tags": [],
       "popularity": {
         "score": 281.2,
-        "pageviews_365d": 15801,
+        "pageviews_365d": 15817,
         "sitelinks": 3,
         "globalusage": 12
       },
@@ -20856,7 +21056,7 @@
       "tags": [],
       "popularity": {
         "score": 266.7,
-        "pageviews_365d": 6124,
+        "pageviews_365d": 6133,
         "sitelinks": 4,
         "globalusage": 25
       },
@@ -21282,10 +21482,10 @@
       "height": 1572,
       "tags": [],
       "popularity": {
-        "score": 28.3,
+        "score": 28.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 16
+        "globalusage": 17
       },
       "meta": {},
       "extras": {
@@ -21456,10 +21656,10 @@
       "height": 816,
       "tags": [],
       "popularity": {
-        "score": 30,
+        "score": 31.8,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 9
+        "globalusage": 11
       },
       "meta": {
         "Collection": "Fitzwilliam Museum"
@@ -21493,7 +21693,7 @@
       "tags": [],
       "popularity": {
         "score": 206.4,
-        "pageviews_365d": 830,
+        "pageviews_365d": 832,
         "sitelinks": 1,
         "globalusage": 22
       },
@@ -21528,8 +21728,8 @@
       "height": 8042,
       "tags": [],
       "popularity": {
-        "score": 200.8,
-        "pageviews_365d": 404,
+        "score": 200.9,
+        "pageviews_365d": 405,
         "sitelinks": 1,
         "globalusage": 79
       },
@@ -21632,8 +21832,8 @@
       "height": 2792,
       "tags": [],
       "popularity": {
-        "score": 242.8,
-        "pageviews_365d": 2396,
+        "score": 242.9,
+        "pageviews_365d": 2399,
         "sitelinks": 4,
         "globalusage": 24
       },
@@ -21705,8 +21905,8 @@
       "height": 2360,
       "tags": [],
       "popularity": {
-        "score": 264.5,
-        "pageviews_365d": 6236,
+        "score": 264.6,
+        "pageviews_365d": 6253,
         "sitelinks": 3,
         "globalusage": 24
       },
@@ -21741,10 +21941,10 @@
       "height": 3537,
       "tags": [],
       "popularity": {
-        "score": 220,
-        "pageviews_365d": 1136,
+        "score": 220.3,
+        "pageviews_365d": 1138,
         "sitelinks": 1,
-        "globalusage": 40
+        "globalusage": 41
       },
       "meta": {
         "Collection": "Metropolitan Museum of Art"
@@ -21912,42 +22112,6 @@
       }
     },
     {
-      "id": "w-1029",
-      "title": "Three Fishing Boats",
-      "year": "1886",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Claude_Monet_-_Three_Fishing_Boats_-_Google_Art_Project.jpg/960px-Claude_Monet_-_Three_Fishing_Boats_-_Google_Art_Project.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Claude_Monet_-_Three_Fishing_Boats_-_Google_Art_Project.jpg",
-      "width": 5408,
-      "height": 4291,
-      "tags": [],
-      "popularity": {
-        "score": 27.7,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 15
-      },
-      "meta": {
-        "Collection": "Hungarian National Gallery"
-      },
-      "extras": {
-        "qid": "Q22205318",
-        "catalog_number": "1029",
-        "wildenstein": "1029",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 73,
-          "width_cm": 92.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/AwFK3bYzu9yMHw\">AwFK3bYzu9yMHw at Google Cultural Institute</a> maximum zoom level",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "w-1067",
       "title": "Tulip Field in Holland",
       "year": "1886",
@@ -21958,7 +22122,7 @@
       "tags": [],
       "popularity": {
         "score": 255.8,
-        "pageviews_365d": 5804,
+        "pageviews_365d": 5808,
         "sitelinks": 4,
         "globalusage": 9
       },
@@ -22242,8 +22406,8 @@
       "height": 10810,
       "tags": [],
       "popularity": {
-        "score": 308.3,
-        "pageviews_365d": 34878,
+        "score": 308.4,
+        "pageviews_365d": 34966,
         "sitelinks": 8,
         "globalusage": 11
       },
@@ -22379,8 +22543,8 @@
       "height": 1772,
       "tags": [],
       "popularity": {
-        "score": 214.4,
-        "pageviews_365d": 1098,
+        "score": 214.5,
+        "pageviews_365d": 1103,
         "sitelinks": 2,
         "globalusage": 16
       },
@@ -22447,8 +22611,8 @@
       "height": 764,
       "tags": [],
       "popularity": {
-        "score": 256.2,
-        "pageviews_365d": 3758,
+        "score": 256.3,
+        "pageviews_365d": 3767,
         "sitelinks": 4,
         "globalusage": 30
       },
@@ -22629,8 +22793,8 @@
       "height": 798,
       "tags": [],
       "popularity": {
-        "score": 216.2,
-        "pageviews_365d": 1211,
+        "score": 216.3,
+        "pageviews_365d": 1214,
         "sitelinks": 3,
         "globalusage": 11
       },
@@ -22738,14 +22902,12 @@
       "height": 858,
       "tags": [],
       "popularity": {
-        "score": 230.3,
-        "pageviews_365d": 2033,
+        "score": 228.5,
+        "pageviews_365d": 2035,
         "sitelinks": 2,
-        "globalusage": 17
+        "globalusage": 14
       },
-      "meta": {
-        "Collection": "Thyssen-Bornemisza Museum"
-      },
+      "meta": {},
       "extras": {
         "qid": "Q3821389",
         "catalog_number": "1153",
@@ -22775,7 +22937,7 @@
       "tags": [],
       "popularity": {
         "score": 223.7,
-        "pageviews_365d": 1437,
+        "pageviews_365d": 1440,
         "sitelinks": 2,
         "globalusage": 21
       },
@@ -23410,7 +23572,7 @@
       "tags": [],
       "popularity": {
         "score": 243.4,
-        "pageviews_365d": 2531,
+        "pageviews_365d": 2535,
         "sitelinks": 4,
         "globalusage": 22
       },
@@ -23804,10 +23966,10 @@
       "height": 3456,
       "tags": [],
       "popularity": {
-        "score": 28.9,
+        "score": 26.4,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 8
+        "globalusage": 6
       },
       "meta": {
         "Collection": "Philadelphia Museum of Art"
@@ -24123,8 +24285,8 @@
       "height": 829,
       "tags": [],
       "popularity": {
-        "score": 258.2,
-        "pageviews_365d": 4010,
+        "score": 258.3,
+        "pageviews_365d": 4017,
         "sitelinks": 6,
         "globalusage": 22
       },
@@ -24303,8 +24465,8 @@
       "height": 2081,
       "tags": [],
       "popularity": {
-        "score": 247.8,
-        "pageviews_365d": 4403,
+        "score": 247.9,
+        "pageviews_365d": 4413,
         "sitelinks": 4,
         "globalusage": 8
       },
@@ -24483,10 +24645,10 @@
       "height": 4025,
       "tags": [],
       "popularity": {
-        "score": 287.8,
-        "pageviews_365d": 8442,
+        "score": 287.2,
+        "pageviews_365d": 8461,
         "sitelinks": 10,
-        "globalusage": 43
+        "globalusage": 40
       },
       "meta": {
         "Collection": "São Paulo Museum of Art"
@@ -24556,7 +24718,7 @@
       "tags": [],
       "popularity": {
         "score": 274,
-        "pageviews_365d": 6174,
+        "pageviews_365d": 6193,
         "sitelinks": 7,
         "globalusage": 32
       },
@@ -24809,8 +24971,8 @@
       "height": 3163,
       "tags": [],
       "popularity": {
-        "score": 265.8,
-        "pageviews_365d": 6704,
+        "score": 265.9,
+        "pageviews_365d": 6720,
         "sitelinks": 4,
         "globalusage": 18
       },
@@ -25107,8 +25269,8 @@
       "height": 1772,
       "tags": [],
       "popularity": {
-        "score": 197,
-        "pageviews_365d": 630,
+        "score": 197.1,
+        "pageviews_365d": 631,
         "sitelinks": 1,
         "globalusage": 17
       },
@@ -25180,10 +25342,10 @@
       "height": 3713,
       "tags": [],
       "popularity": {
-        "score": 42.3,
+        "score": 42.2,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 68
+        "globalusage": 67
       },
       "meta": {
         "Collection": "Q99533760",
@@ -25825,7 +25987,7 @@
       "tags": [],
       "popularity": {
         "score": 204.6,
-        "pageviews_365d": 817,
+        "pageviews_365d": 818,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -25971,10 +26133,10 @@
       "height": 3297,
       "tags": [],
       "popularity": {
-        "score": 228.2,
-        "pageviews_365d": 1462,
+        "score": 228.5,
+        "pageviews_365d": 1465,
         "sitelinks": 2,
-        "globalusage": 32
+        "globalusage": 33
       },
       "meta": {
         "Collection": "Tate",
@@ -26008,8 +26170,8 @@
       "height": 4001,
       "tags": [],
       "popularity": {
-        "score": 234.8,
-        "pageviews_365d": 2288,
+        "score": 234.9,
+        "pageviews_365d": 2294,
         "sitelinks": 2,
         "globalusage": 20
       },
@@ -26670,10 +26832,10 @@
       "height": 5635,
       "tags": [],
       "popularity": {
-        "score": 43.7,
+        "score": 43.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 78
+        "globalusage": 79
       },
       "meta": {
         "Collection": "Musée Marmottan Monet",
@@ -26729,7 +26891,7 @@
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
           "usage_terms": "Creative Commons Zero, Public Domain Dedication",
-          "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=220716\">image number 220716</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
+          "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=220716\">image number 220716</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -26924,8 +27086,8 @@
       "height": 2522,
       "tags": [],
       "popularity": {
-        "score": 169.2,
-        "pageviews_365d": 184,
+        "score": 169.6,
+        "pageviews_365d": 187,
         "sitelinks": 1,
         "globalusage": 23
       },
@@ -27353,7 +27515,7 @@
       "tags": [],
       "popularity": {
         "score": 199.5,
-        "pageviews_365d": 458,
+        "pageviews_365d": 459,
         "sitelinks": 2,
         "globalusage": 33
       },
@@ -27883,7 +28045,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<p><a rel=\"nofollow\" class=\"external text\" href=\"//www.getty.edu/art/collection/object/131471\">The Getty Center, Object 131471</a>\n</p>\n<table style=\"width:100%; clear:both; margin:0.5em auto; background-color: var(--background-color-neutral-subtle, #f9f9f9); color: var(--color-base, #202122); border: 2px solid var(--border-color-muted, #dadde3); border-spacing: 8px; box-sizing: border-box; padding: 0;\" lang=\"en\" class=\"layouttemplate licensetpl\" dir=\"ltr\">\n<tbody><tr>\n<td style=\"width:100px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:J._Paul_Getty_Museum\" title=\"J. Paul Getty Museum\"><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Getty_Center_2.jpg/120px-Getty_Center_2.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"150\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Getty_Center_2.jpg/250px-Getty_Center_2.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"400\" data-file-height=\"600\"></a></span>\n</td>\n<td><i>This image was taken from the <a href=\"//commons.wikimedia.org/wiki/Commons:J._Paul_Getty_Museum\" title=\"Commons:J. Paul Getty Museum\">Getty Research Institute</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"http://www.getty.edu/about/opencontent.html\">Open Content Program</a>, which states the following regarding their assessment that <b>no known copyright restrictions</b> exist:</i>\n<dl><dd>Open content images are digital surrogates of works of art that are in the Getty's collections and in the public domain, for which we hold all rights, or for which we are not aware of any rights restrictions.</dd></dl>\n<p>While the Getty Research Institute cannot make an absolute statement on the copyright status of a given image, \"Open content images can be used for any purpose without first seeking permission from the Getty.\"\n</p><p>More information can be found at <a rel=\"nofollow\" class=\"external text\" href=\"http://www.getty.edu/about/opencontent.html\">http://www.getty.edu/about/opencontent.html</a>.<span class=\"licensetpl_long\" style=\"display: none\">No known copyright restrictions</span><span class=\"licensetpl_short\" style=\"display: none\">No restrictions</span><span class=\"licensetpl_link\" style=\"display: none\">http://www.getty.edu/about/opencontent.html</span><span class=\"licensetpl_attr_req licensetpl_link_req\" style=\"display: none\">false</span>\n</p>\n</td></tr></tbody></table>",
+          "credit": "<p><a rel=\"nofollow\" class=\"external text\" href=\"//www.getty.edu/art/collection/object/131471\">The Getty Center, Object 131471</a>\n</p>\n<table style=\"width:100%; clear:both; margin:0.5em auto; background-color: var(--background-color-neutral-subtle, #f9f9f9); color: var(--color-base, #202122); border: 2px solid var(--border-color-muted, #dadde3); border-spacing: 8px; box-sizing: border-box; padding: 0;\" lang=\"en\" class=\"layouttemplate licensetpl\" dir=\"ltr\">\n<tbody><tr>\n<td style=\"width:100px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:J._Paul_Getty_Museum\" title=\"J. Paul Getty Museum\"><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Getty_Center_2.jpg/120px-Getty_Center_2.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"150\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Getty_Center_2.jpg/250px-Getty_Center_2.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"400\" data-file-height=\"600\"></a></span>\n</td>\n<td><i>This image was taken from the <a href=\"//commons.wikimedia.org/wiki/Commons:J._Paul_Getty_Museum\" title=\"Commons:J. Paul Getty Museum\">Getty Research Institute</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"http://www.getty.edu/about/opencontent.html\">Open Content Program</a>, which states the following regarding their assessment that <b>no known copyright restrictions</b> exist:</i>\n<dl><dd>Open content images are digital surrogates of works of art that are in the Getty's collections and in the public domain, for which we hold all rights, or for which we are not aware of any rights restrictions.</dd></dl>\n<p>While the Getty Research Institute cannot make an absolute statement on the copyright status of a given image, \"Open content images can be used for any purpose without first seeking permission from the Getty.\"\n</p><p>More information can be found at <a rel=\"nofollow\" class=\"external text\" href=\"http://www.getty.edu/about/opencontent.html\">http://www.getty.edu/about/opencontent.html</a>.<span class=\"licensetpl_long\" style=\"display: none\">No known copyright restrictions</span><span class=\"licensetpl_short\" style=\"display: none\">No restrictions</span><span class=\"licensetpl_link\" style=\"display: none\">http://www.getty.edu/about/opencontent.html</span><span class=\"licensetpl_attr_req licensetpl_link_req\" style=\"display: none\">false</span>\n</p>\n</td></tr></tbody></table>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -27971,7 +28133,7 @@
       "tags": [],
       "popularity": {
         "score": 195.3,
-        "pageviews_365d": 563,
+        "pageviews_365d": 564,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -28393,10 +28555,10 @@
       "height": 2784,
       "tags": [],
       "popularity": {
-        "score": 36.4,
+        "score": 36.6,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 37
+        "globalusage": 38
       },
       "meta": {
         "Collection": "Kunsthaus Zürich"
@@ -28535,8 +28697,8 @@
       "height": 2369,
       "tags": [],
       "popularity": {
-        "score": 201.5,
-        "pageviews_365d": 650,
+        "score": 201.6,
+        "pageviews_365d": 654,
         "sitelinks": 1,
         "globalusage": 25
       },
@@ -28643,8 +28805,8 @@
       "height": 600,
       "tags": [],
       "popularity": {
-        "score": 198.6,
-        "pageviews_365d": 620,
+        "score": 198.7,
+        "pageviews_365d": 623,
         "sitelinks": 1,
         "globalusage": 21
       },
@@ -28679,8 +28841,8 @@
       "height": 4000,
       "tags": [],
       "popularity": {
-        "score": 162.9,
-        "pageviews_365d": 234,
+        "score": 163,
+        "pageviews_365d": 235,
         "sitelinks": 1,
         "globalusage": 6
       },
@@ -28860,8 +29022,8 @@
       "height": 549,
       "tags": [],
       "popularity": {
-        "score": 217.4,
-        "pageviews_365d": 1599,
+        "score": 217.5,
+        "pageviews_365d": 1604,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -29078,8 +29240,8 @@
       "height": 3821,
       "tags": [],
       "popularity": {
-        "score": 165.2,
-        "pageviews_365d": 176,
+        "score": 165.7,
+        "pageviews_365d": 179,
         "sitelinks": 1,
         "globalusage": 17
       },
@@ -29402,10 +29564,10 @@
       "height": 731,
       "tags": [],
       "popularity": {
-        "score": 199.3,
+        "score": 200.1,
         "pageviews_365d": 787,
         "sitelinks": 1,
-        "globalusage": 12
+        "globalusage": 13
       },
       "meta": {
         "Collection": "Fondazione Magnani-Rocca"
@@ -29660,8 +29822,8 @@
       "height": 2012,
       "tags": [],
       "popularity": {
-        "score": 220.8,
-        "pageviews_365d": 1390,
+        "score": 220.9,
+        "pageviews_365d": 1392,
         "sitelinks": 2,
         "globalusage": 17
       },
@@ -29696,8 +29858,8 @@
       "height": 599,
       "tags": [],
       "popularity": {
-        "score": 199,
-        "pageviews_365d": 766,
+        "score": 199.1,
+        "pageviews_365d": 768,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -29984,10 +30146,10 @@
       "height": 756,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 6
       },
       "meta": {
         "Series": "nympheas"
@@ -30018,10 +30180,10 @@
       "height": 746,
       "tags": [],
       "popularity": {
-        "score": 23,
+        "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 9
+        "globalusage": 10
       },
       "meta": {
         "Series": "nympheas"
@@ -30052,10 +30214,10 @@
       "height": 741,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Series": "nympheas"
@@ -30086,10 +30248,10 @@
       "height": 870,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 6
       },
       "meta": {
         "Series": "nympheas"
@@ -30120,10 +30282,10 @@
       "height": 3307,
       "tags": [],
       "popularity": {
-        "score": 30.4,
+        "score": 30.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 20
+        "globalusage": 21
       },
       "meta": {
         "Collection": "National Museum of Western Art",
@@ -30194,8 +30356,8 @@
       "height": 480,
       "tags": [],
       "popularity": {
-        "score": 245.8,
-        "pageviews_365d": 3168,
+        "score": 245.9,
+        "pageviews_365d": 3170,
         "sitelinks": 1,
         "globalusage": 41
       },
@@ -30290,6 +30452,43 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a href=\"//commons.wikimedia.org/wiki/User:Dschwen\" title=\"User:Dschwen\">Daniel Schwen</a>, Own work, image taken at the Metropolitan Museum of Art, New York, 2008-05-28",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "w-1520",
+      "title": "Bridge over the Water-Lilies",
+      "year": "1899",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/df/Monet_-_Wildenstein_1996%2C_1520.png",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/d/df/Monet_-_Wildenstein_1996%2C_1520.png",
+      "width": 244,
+      "height": 315,
+      "tags": [],
+      "popularity": {
+        "score": 24,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 10
+      },
+      "meta": {
+        "Collection": "Mohamed Mahmoud Khalil Museum",
+        "Series": "nympheas"
+      },
+      "extras": {
+        "qid": "Q84056394",
+        "catalog_number": "1520",
+        "wildenstein": "1520",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 116,
+          "width_cm": 89
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "Clipped from <a rel=\"nofollow\" class=\"external free\" href=\"https://wpi.art/2019/01/16/monet/\">https://wpi.art/2019/01/16/monet/</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -30452,8 +30651,8 @@
       "height": 3225,
       "tags": [],
       "popularity": {
-        "score": 265.3,
-        "pageviews_365d": 12783,
+        "score": 265.4,
+        "pageviews_365d": 12827,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -30553,42 +30752,6 @@
       }
     },
     {
-      "id": "w-1520",
-      "title": "Monet - Wildenstein 1996, 1520",
-      "year": "1899",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/df/Monet_-_Wildenstein_1996%2C_1520.png",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/d/df/Monet_-_Wildenstein_1996%2C_1520.png",
-      "width": 244,
-      "height": 315,
-      "tags": [],
-      "popularity": {
-        "score": 23,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 9
-      },
-      "meta": {
-        "Collection": "Mohamed Mahmoud Khalil Museum"
-      },
-      "extras": {
-        "qid": "Q84056394",
-        "catalog_number": "1520",
-        "wildenstein": "1520",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 116,
-          "width_cm": 89
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "Clipped from <a rel=\"nofollow\" class=\"external free\" href=\"https://wpi.art/2019/01/16/monet/\">https://wpi.art/2019/01/16/monet/</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "w-1512",
       "title": "The Japanese Footbridge and the Water Lily Pool, Giverny",
       "year": "1899",
@@ -30635,10 +30798,10 @@
       "height": 530,
       "tags": [],
       "popularity": {
-        "score": 23,
+        "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 9
+        "globalusage": 10
       },
       "meta": {
         "Series": "nympheas"
@@ -30669,10 +30832,10 @@
       "height": 1242,
       "tags": [],
       "popularity": {
-        "score": 312.8,
-        "pageviews_365d": 38195,
+        "score": 312.5,
+        "pageviews_365d": 38259,
         "sitelinks": 4,
-        "globalusage": 26
+        "globalusage": 25
       },
       "meta": {
         "Collection": "Musée d'Orsay",
@@ -30708,7 +30871,7 @@
       "tags": [],
       "popularity": {
         "score": 283.3,
-        "pageviews_365d": 16423,
+        "pageviews_365d": 16447,
         "sitelinks": 1,
         "globalusage": 28
       },
@@ -30744,10 +30907,10 @@
       "height": 722,
       "tags": [],
       "popularity": {
-        "score": 23,
+        "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 9
+        "globalusage": 10
       },
       "meta": {
         "Series": "nympheas"
@@ -30853,10 +31016,10 @@
       "height": 316,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Series": "nympheas"
@@ -30920,7 +31083,7 @@
       "tags": [],
       "popularity": {
         "score": 226.1,
-        "pageviews_365d": 1934,
+        "pageviews_365d": 1937,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -31252,8 +31415,8 @@
       "height": 3231,
       "tags": [],
       "popularity": {
-        "score": 247.2,
-        "pageviews_365d": 3911,
+        "score": 247.3,
+        "pageviews_365d": 3924,
         "sitelinks": 2,
         "globalusage": 18
       },
@@ -31327,7 +31490,7 @@
       "tags": [],
       "popularity": {
         "score": 348.5,
-        "pageviews_365d": 79422,
+        "pageviews_365d": 79576,
         "sitelinks": 14,
         "globalusage": 50
       },
@@ -31431,10 +31594,10 @@
       "height": 996,
       "tags": [],
       "popularity": {
-        "score": 28.3,
+        "score": 28.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 16
+        "globalusage": 17
       },
       "meta": {},
       "extras": {
@@ -31537,10 +31700,10 @@
       "height": 206,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 6
       },
       "meta": {
         "Series": "nympheas"
@@ -31571,10 +31734,10 @@
       "height": 571,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Series": "nympheas"
@@ -31749,10 +31912,10 @@
       "height": 501,
       "tags": [],
       "popularity": {
-        "score": 32.6,
+        "score": 32.2,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 25
+        "globalusage": 24
       },
       "meta": {
         "Collection": "Hugh Lane Gallery"
@@ -31823,7 +31986,7 @@
       "tags": [],
       "popularity": {
         "score": 222,
-        "pageviews_365d": 1397,
+        "pageviews_365d": 1399,
         "sitelinks": 3,
         "globalusage": 14
       },
@@ -32315,10 +32478,10 @@
       "height": 3427,
       "tags": [],
       "popularity": {
-        "score": 25.6,
+        "score": 24.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 12
+        "globalusage": 11
       },
       "meta": {
         "Collection": "Belvedere"
@@ -32600,10 +32763,10 @@
       "height": 1908,
       "tags": [],
       "popularity": {
-        "score": 28.9,
+        "score": 28.3,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 17
+        "globalusage": 16
       },
       "meta": {
         "Collection": "Harvard Art Museums",
@@ -32708,10 +32871,10 @@
       "height": 2389,
       "tags": [],
       "popularity": {
-        "score": 38.3,
+        "score": 38.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 45
+        "globalusage": 46
       },
       "meta": {
         "Series": "parliament"
@@ -32877,43 +33040,6 @@
       }
     },
     {
-      "id": "w-1661",
-      "title": "Nymphéas (1903) Claude Monet - Musée Marmottan Monet (W 1661)",
-      "year": "1903",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/01/Nymph%C3%A9as_%281903%29_Claude_Monet_-_Mus%C3%A9e_Marmottan_Monet_%28W_1661%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/0/01/Nymph%C3%A9as_%281903%29_Claude_Monet_-_Mus%C3%A9e_Marmottan_Monet_%28W_1661%29.jpg",
-      "width": 568,
-      "height": 505,
-      "tags": [],
-      "popularity": {
-        "score": 20.8,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 7
-      },
-      "meta": {
-        "Collection": "Musée Marmottan Monet",
-        "Series": "nympheas"
-      },
-      "extras": {
-        "qid": "Q105099618",
-        "catalog_number": "1661",
-        "wildenstein": "1661",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 89,
-          "width_cm": 100
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.marmottan.fr/notice/5166/?is=true\">https://www.marmottan.fr/notice/5166/?is=true</a>",
-          "artist": "Claude Monet"
-        }
-      }
-    },
-    {
       "id": "w-1660",
       "title": "Nymphéas W1660 - Musée Marmottan-Monet",
       "year": "1903",
@@ -32989,6 +33115,43 @@
       }
     },
     {
+      "id": "w-1661",
+      "title": "Water Lilies",
+      "year": "1903",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/01/Nymph%C3%A9as_%281903%29_Claude_Monet_-_Mus%C3%A9e_Marmottan_Monet_%28W_1661%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/01/Nymph%C3%A9as_%281903%29_Claude_Monet_-_Mus%C3%A9e_Marmottan_Monet_%28W_1661%29.jpg",
+      "width": 568,
+      "height": 505,
+      "tags": [],
+      "popularity": {
+        "score": 20.8,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 7
+      },
+      "meta": {
+        "Collection": "Musée Marmottan Monet",
+        "Series": "nympheas"
+      },
+      "extras": {
+        "qid": "Q105099618",
+        "catalog_number": "1661",
+        "wildenstein": "1661",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 89,
+          "width_cm": 100
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.marmottan.fr/notice/5166/?is=true\">https://www.marmottan.fr/notice/5166/?is=true</a>",
+          "artist": "Claude Monet"
+        }
+      }
+    },
+    {
       "id": "wd-Q141170840",
       "title": "Water-Lilies, Clouds",
       "year": "1903",
@@ -32998,10 +33161,10 @@
       "height": 740,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 6
       },
       "meta": {
         "Series": "nympheas"
@@ -33111,7 +33274,7 @@
         "globalusage": 11
       },
       "meta": {
-        "Collection": "Q847508"
+        "Collection": "Worcester Art Museum"
       },
       "extras": {
         "qid": "Q38623358",
@@ -33466,10 +33629,10 @@
       "height": 928,
       "tags": [],
       "popularity": {
-        "score": 33,
+        "score": 33.3,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 26
+        "globalusage": 27
       },
       "meta": {
         "Collection": "National Gallery of Canada"
@@ -33502,10 +33665,10 @@
       "height": 662,
       "tags": [],
       "popularity": {
-        "score": 33.3,
+        "score": 33.7,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 27
+        "globalusage": 28
       },
       "meta": {
         "Collection": "Museum of Fine Arts, St. Petersburg, Florida, USA",
@@ -33646,10 +33809,10 @@
       "height": 889,
       "tags": [],
       "popularity": {
-        "score": 52.4,
+        "score": 52.6,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 93
+        "globalusage": 95
       },
       "meta": {
         "Collection": "Musée d'Orsay",
@@ -33827,8 +33990,8 @@
       "height": 1604,
       "tags": [],
       "popularity": {
-        "score": 238.7,
-        "pageviews_365d": 2230,
+        "score": 238.8,
+        "pageviews_365d": 2241,
         "sitelinks": 2,
         "globalusage": 32
       },
@@ -33900,10 +34063,10 @@
       "height": 774,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 6
       },
       "meta": {
         "Series": "nympheas"
@@ -34038,10 +34201,10 @@
       "height": 558,
       "tags": [],
       "popularity": {
-        "score": 22,
+        "score": 23,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 8
+        "globalusage": 9
       },
       "meta": {},
       "extras": {
@@ -34097,78 +34260,6 @@
       }
     },
     {
-      "id": "w-1672",
-      "title": "Nymphéas (1905)",
-      "year": "1905",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Claude_Monet%2C_Nymph%C3%A9as_%281905%29.jpg/960px-Claude_Monet%2C_Nymph%C3%A9as_%281905%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/4/45/Claude_Monet%2C_Nymph%C3%A9as_%281905%29.jpg",
-      "width": 3200,
-      "height": 2847,
-      "tags": [],
-      "popularity": {
-        "score": 36.4,
-        "pageviews_365d": 0,
-        "sitelinks": 1,
-        "globalusage": 18
-      },
-      "meta": {
-        "Series": "nympheas"
-      },
-      "extras": {
-        "qid": "Q136341490",
-        "catalog_number": "1672",
-        "wildenstein": "1672",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 88.3,
-          "width_cm": 99.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "1. <a rel=\"nofollow\" class=\"external text\" href=\"http://www.artdaily.org/index.asp?int_sec=2&amp;int_new=58246#.Ubz6B5wfxeM\">Artdaily.org</a><br>2. Unknown source<span style=\"display: none;\">Unknown source</span><br>3. <a href=\"https://en.wikipedia.org/wiki/Christie%27s\" class=\"extiw\" title=\"en:Christie's\">Christie's</a>, LotFinder:  entry  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.christies.com/LotFinder/lot_details.aspx?intObjectID=5615591\">5615591</a> (sale 2594, lot 41, New York, 7 November 2012)",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "w-1679",
-      "title": "Nymphéas (W 1679)",
-      "year": "1905",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Claude_Monet_-_Nymph%C3%A9as_%28W_1679%29.jpg/960px-Claude_Monet_-_Nymph%C3%A9as_%28W_1679%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/8/86/Claude_Monet_-_Nymph%C3%A9as_%28W_1679%29.jpg",
-      "width": 2000,
-      "height": 1616,
-      "tags": [],
-      "popularity": {
-        "score": 34,
-        "pageviews_365d": 0,
-        "sitelinks": 1,
-        "globalusage": 14
-      },
-      "meta": {
-        "Series": "nympheas"
-      },
-      "extras": {
-        "qid": "Q136341491",
-        "catalog_number": "1679",
-        "wildenstein": "1679",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 81,
-          "width_cm": 100.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "www.sothebys.com",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q141170844",
       "title": "The Bridge over the Water-Lily Pond",
       "year": "1905",
@@ -34178,10 +34269,10 @@
       "height": 926,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Series": "nympheas"
@@ -34212,10 +34303,10 @@
       "height": 873,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 6
       },
       "meta": {
         "Series": "nympheas"
@@ -34274,6 +34365,78 @@
       }
     },
     {
+      "id": "w-1672",
+      "title": "Water Lilies",
+      "year": "1905",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Claude_Monet%2C_Nymph%C3%A9as_%281905%29.jpg/960px-Claude_Monet%2C_Nymph%C3%A9as_%281905%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/45/Claude_Monet%2C_Nymph%C3%A9as_%281905%29.jpg",
+      "width": 3200,
+      "height": 2847,
+      "tags": [],
+      "popularity": {
+        "score": 36.4,
+        "pageviews_365d": 0,
+        "sitelinks": 1,
+        "globalusage": 18
+      },
+      "meta": {
+        "Series": "nympheas"
+      },
+      "extras": {
+        "qid": "Q136341490",
+        "catalog_number": "1672",
+        "wildenstein": "1672",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 88.3,
+          "width_cm": 99.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "1. <a rel=\"nofollow\" class=\"external text\" href=\"http://www.artdaily.org/index.asp?int_sec=2&amp;int_new=58246#.Ubz6B5wfxeM\">Artdaily.org</a><br>2. Unknown source<span style=\"display: none;\">Unknown source</span><br>3. <a href=\"https://en.wikipedia.org/wiki/Christie%27s\" class=\"extiw\" title=\"en:Christie's\">Christie's</a>, LotFinder:  entry  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.christies.com/LotFinder/lot_details.aspx?intObjectID=5615591\">5615591</a> (sale 2594, lot 41, New York, 7 November 2012)",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "w-1679",
+      "title": "Water Lilies",
+      "year": "1905",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Claude_Monet_-_Nymph%C3%A9as_%28W_1679%29.jpg/960px-Claude_Monet_-_Nymph%C3%A9as_%28W_1679%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/86/Claude_Monet_-_Nymph%C3%A9as_%28W_1679%29.jpg",
+      "width": 2000,
+      "height": 1616,
+      "tags": [],
+      "popularity": {
+        "score": 34,
+        "pageviews_365d": 0,
+        "sitelinks": 1,
+        "globalusage": 14
+      },
+      "meta": {
+        "Series": "nympheas"
+      },
+      "extras": {
+        "qid": "Q136341491",
+        "catalog_number": "1679",
+        "wildenstein": "1679",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 81,
+          "width_cm": 100.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "www.sothebys.com",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q141170915",
       "title": "Water-Lilies",
       "year": "1905",
@@ -34283,10 +34446,10 @@
       "height": 925,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Series": "nympheas"
@@ -34317,10 +34480,10 @@
       "height": 455,
       "tags": [],
       "popularity": {
-        "score": 22,
+        "score": 23,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 8
+        "globalusage": 9
       },
       "meta": {
         "Series": "nympheas"
@@ -34351,10 +34514,10 @@
       "height": 1762,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Series": "nympheas"
@@ -34385,10 +34548,10 @@
       "height": 453,
       "tags": [],
       "popularity": {
-        "score": 22,
+        "score": 23,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 8
+        "globalusage": 9
       },
       "meta": {
         "Series": "nympheas"
@@ -34419,10 +34582,10 @@
       "height": 1363,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Series": "nympheas"
@@ -34453,10 +34616,10 @@
       "height": 506,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Series": "nympheas"
@@ -34510,42 +34673,6 @@
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
           "usage_terms": "Creative Commons Zero, Public Domain Dedication",
           "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=2648\">image number 2648</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "w-1684",
-      "title": "Nymphéas 2000 NYR 09350 0021 000(010704)",
-      "year": "1906",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/69/Nymph%C3%A9as_2000_NYR_09350_0021_000%28010704%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/6/69/Nymph%C3%A9as_2000_NYR_09350_0021_000%28010704%29.jpg",
-      "width": 512,
-      "height": 455,
-      "tags": [],
-      "popularity": {
-        "score": 13.9,
-        "pageviews_365d": 0,
-        "sitelinks": 1,
-        "globalusage": 1
-      },
-      "meta": {
-        "Series": "nympheas"
-      },
-      "extras": {
-        "qid": "Q136341495",
-        "catalog_number": "1684",
-        "wildenstein": "1684",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 88.5,
-          "width_cm": 100
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com/lot/lot-1780600\">https://www.christies.com/lot/lot-1780600</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -34625,6 +34752,42 @@
       }
     },
     {
+      "id": "w-1684",
+      "title": "Water Lilies",
+      "year": "1906",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/69/Nymph%C3%A9as_2000_NYR_09350_0021_000%28010704%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/69/Nymph%C3%A9as_2000_NYR_09350_0021_000%28010704%29.jpg",
+      "width": 512,
+      "height": 455,
+      "tags": [],
+      "popularity": {
+        "score": 13.9,
+        "pageviews_365d": 0,
+        "sitelinks": 1,
+        "globalusage": 1
+      },
+      "meta": {
+        "Series": "nympheas"
+      },
+      "extras": {
+        "qid": "Q136341495",
+        "catalog_number": "1684",
+        "wildenstein": "1684",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 88.5,
+          "width_cm": 100
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com/lot/lot-1780600\">https://www.christies.com/lot/lot-1780600</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q141170922",
       "title": "Water-Lilies",
       "year": "1906",
@@ -34634,10 +34797,10 @@
       "height": 782,
       "tags": [],
       "popularity": {
-        "score": 22,
+        "score": 23,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 8
+        "globalusage": 9
       },
       "meta": {
         "Series": "nympheas"
@@ -34668,10 +34831,10 @@
       "height": 1766,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Series": "nympheas"
@@ -34702,10 +34865,10 @@
       "height": 935,
       "tags": [],
       "popularity": {
-        "score": 24,
+        "score": 24.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 10
+        "globalusage": 11
       },
       "meta": {
         "Series": "nympheas"
@@ -34736,10 +34899,10 @@
       "height": 1554,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Series": "nympheas"
@@ -34909,146 +35072,6 @@
       }
     },
     {
-      "id": "w-1717",
-      "title": "Monet - Wildenstein 1996, 1717",
-      "year": "1907",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Monet_-_Wildenstein_1996%2C_1717.png",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Monet_-_Wildenstein_1996%2C_1717.png",
-      "width": 522,
-      "height": 765,
-      "tags": [],
-      "popularity": {
-        "score": 24,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 10
-      },
-      "meta": {
-        "Collection": "Musée Marmottan Monet"
-      },
-      "extras": {
-        "qid": "Q105099608",
-        "catalog_number": "1717",
-        "wildenstein": "1717",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 105,
-          "width_cm": 73
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "Clipped from <a rel=\"nofollow\" class=\"external free\" href=\"https://wpi.art/2019/01/16/monet/\">https://wpi.art/2019/01/16/monet/</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "w-1695",
-      "title": "Monet w1695",
-      "year": "1907",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Monet_w1695.jpg/960px-Monet_w1695.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/7/71/Monet_w1695.jpg",
-      "width": 2000,
-      "height": 1654,
-      "tags": [],
-      "popularity": {
-        "score": 24,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 10
-      },
-      "meta": {
-        "Collection": "Mohamed Mahmoud Khalil Museum"
-      },
-      "extras": {
-        "qid": "Q84056527",
-        "catalog_number": "1695",
-        "wildenstein": "1695",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 81,
-          "width_cm": 100
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "flicker",
-          "artist": "Clause Monet"
-        }
-      }
-    },
-    {
-      "id": "w-1707",
-      "title": "Monet w1707",
-      "year": "1907",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Monet_w1707.jpg/960px-Monet_w1707.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Monet_w1707.jpg",
-      "width": 3105,
-      "height": 3817,
-      "tags": [],
-      "popularity": {
-        "score": 30,
-        "pageviews_365d": 0,
-        "sitelinks": 1,
-        "globalusage": 9
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q136341496",
-        "catalog_number": "1707",
-        "wildenstein": "1707",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 100,
-          "width_cm": 81
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": null,
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "w-1708",
-      "title": "Monet w1708",
-      "year": "1907",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Monet_w1708.jpg/960px-Monet_w1708.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Monet_w1708.jpg",
-      "width": 1320,
-      "height": 1863,
-      "tags": [],
-      "popularity": {
-        "score": 30,
-        "pageviews_365d": 0,
-        "sitelinks": 1,
-        "globalusage": 9
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q136341497",
-        "catalog_number": "1708",
-        "wildenstein": "1708",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 100,
-          "width_cm": 73
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": null,
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "w-1723",
       "title": "Monet w1723",
       "year": "1907",
@@ -35093,7 +35116,7 @@
       "tags": [],
       "popularity": {
         "score": 190.5,
-        "pageviews_365d": 395,
+        "pageviews_365d": 396,
         "sitelinks": 1,
         "globalusage": 29
       },
@@ -35125,8 +35148,8 @@
       "height": 425,
       "tags": [],
       "popularity": {
-        "score": 198.1,
-        "pageviews_365d": 691,
+        "score": 198.2,
+        "pageviews_365d": 692,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -35142,6 +35165,43 @@
           "usage_terms": "Public domain",
           "credit": "(Uploaded using <a rel=\"nofollow\" class=\"external text\" href=\"http://tools.wikimedia.de/~magnus/commonshelper.php\">CommonsHelper</a> or <a rel=\"nofollow\" class=\"external text\" href=\"http://tools.wikimedia.de/~magnus/pushforcommons.php\">PushForCommons</a>)",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "w-1695",
+      "title": "Water Lilies",
+      "year": "1907",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Monet_w1695.jpg/960px-Monet_w1695.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/71/Monet_w1695.jpg",
+      "width": 2000,
+      "height": 1654,
+      "tags": [],
+      "popularity": {
+        "score": 24,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 10
+      },
+      "meta": {
+        "Collection": "Mohamed Mahmoud Khalil Museum",
+        "Series": "nympheas"
+      },
+      "extras": {
+        "qid": "Q84056527",
+        "catalog_number": "1695",
+        "wildenstein": "1695",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 81,
+          "width_cm": 100
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "flicker",
+          "artist": "Clause Monet"
         }
       }
     },
@@ -35253,6 +35313,79 @@
       }
     },
     {
+      "id": "w-1707",
+      "title": "Water Lilies",
+      "year": "1907",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Monet_w1707.jpg/960px-Monet_w1707.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Monet_w1707.jpg",
+      "width": 3105,
+      "height": 3817,
+      "tags": [],
+      "popularity": {
+        "score": 30,
+        "pageviews_365d": 0,
+        "sitelinks": 1,
+        "globalusage": 9
+      },
+      "meta": {
+        "Series": "nympheas"
+      },
+      "extras": {
+        "qid": "Q136341496",
+        "catalog_number": "1707",
+        "wildenstein": "1707",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 100,
+          "width_cm": 81
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": null,
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "w-1715",
+      "title": "Water Lilies",
+      "year": "1907",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/96/Claude_Monet_-_Water-Lilies_%28Bridgestone_Museum%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/96/Claude_Monet_-_Water-Lilies_%28Bridgestone_Museum%29.jpg",
+      "width": 783,
+      "height": 1075,
+      "tags": [],
+      "popularity": {
+        "score": 38.7,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 47
+      },
+      "meta": {
+        "Collection": "Artizon Museum",
+        "Series": "nympheas"
+      },
+      "extras": {
+        "qid": "Q124254554",
+        "catalog_number": "1715",
+        "wildenstein": "1715",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 100,
+          "width_cm": 73
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "Unknown source<span style=\"display: none;\">Unknown source</span>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "w-1716",
       "title": "Water Lilies",
       "year": "1907",
@@ -35327,6 +35460,79 @@
       }
     },
     {
+      "id": "w-1708",
+      "title": "Water Lilies, Gray Weather",
+      "year": "1907",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Monet_w1708.jpg/960px-Monet_w1708.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Monet_w1708.jpg",
+      "width": 1320,
+      "height": 1863,
+      "tags": [],
+      "popularity": {
+        "score": 30,
+        "pageviews_365d": 0,
+        "sitelinks": 1,
+        "globalusage": 9
+      },
+      "meta": {
+        "Series": "nympheas"
+      },
+      "extras": {
+        "qid": "Q136341497",
+        "catalog_number": "1708",
+        "wildenstein": "1708",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 100,
+          "width_cm": 73
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": null,
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "w-1717",
+      "title": "Water Lilies. Study",
+      "year": "1907",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Monet_-_Wildenstein_1996%2C_1717.png",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Monet_-_Wildenstein_1996%2C_1717.png",
+      "width": 522,
+      "height": 765,
+      "tags": [],
+      "popularity": {
+        "score": 24,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 10
+      },
+      "meta": {
+        "Collection": "Musée Marmottan Monet",
+        "Series": "nympheas"
+      },
+      "extras": {
+        "qid": "Q105099608",
+        "catalog_number": "1717",
+        "wildenstein": "1717",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 105,
+          "width_cm": 73
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "Clipped from <a rel=\"nofollow\" class=\"external free\" href=\"https://wpi.art/2019/01/16/monet/\">https://wpi.art/2019/01/16/monet/</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "w-1702",
       "title": "Water-Lilies",
       "year": "1907",
@@ -35336,10 +35542,10 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Series": "nympheas"
@@ -35372,10 +35578,10 @@
       "height": 500,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Series": "nympheas"
@@ -35406,10 +35612,10 @@
       "height": 3200,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Series": "nympheas"
@@ -35440,10 +35646,10 @@
       "height": 478,
       "tags": [],
       "popularity": {
-        "score": 23,
+        "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 9
+        "globalusage": 10
       },
       "meta": {
         "Series": "nympheas"
@@ -35474,10 +35680,10 @@
       "height": 732,
       "tags": [],
       "popularity": {
-        "score": 22,
+        "score": 23,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 8
+        "globalusage": 9
       },
       "meta": {
         "Series": "nympheas"
@@ -35508,10 +35714,10 @@
       "height": 1023,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 5
       },
       "meta": {
         "Series": "nympheas"
@@ -35542,10 +35748,10 @@
       "height": 2941,
       "tags": [],
       "popularity": {
-        "score": 23,
+        "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 9
+        "globalusage": 10
       },
       "meta": {
         "Series": "nympheas"
@@ -35576,10 +35782,10 @@
       "height": 556,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 6
       },
       "meta": {
         "Series": "nympheas"
@@ -35610,10 +35816,10 @@
       "height": 539,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 6
       },
       "meta": {
         "Series": "nympheas"
@@ -35644,10 +35850,10 @@
       "height": 554,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Series": "nympheas"
@@ -35669,43 +35875,6 @@
       }
     },
     {
-      "id": "w-1715",
-      "title": "Water-Lilies (Bridgestone Museum)",
-      "year": "1907",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/96/Claude_Monet_-_Water-Lilies_%28Bridgestone_Museum%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/9/96/Claude_Monet_-_Water-Lilies_%28Bridgestone_Museum%29.jpg",
-      "width": 783,
-      "height": 1075,
-      "tags": [],
-      "popularity": {
-        "score": 38.7,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 47
-      },
-      "meta": {
-        "Collection": "Artizon Museum",
-        "Series": "nympheas"
-      },
-      "extras": {
-        "qid": "Q124254554",
-        "catalog_number": "1715",
-        "wildenstein": "1715",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 100,
-          "width_cm": 73
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "Unknown source<span style=\"display: none;\">Unknown source</span>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "w-1718",
       "title": "Water-Lilies, Reflections on the Water",
       "year": "1907",
@@ -35721,7 +35890,7 @@
         "globalusage": 9
       },
       "meta": {
-        "Collection": "musée Albert André",
+        "Collection": "Musée Albert André",
         "Series": "nympheas"
       },
       "extras": {
@@ -35789,10 +35958,10 @@
       "height": 510,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Series": "nympheas"
@@ -35933,8 +36102,8 @@
       "height": 10488,
       "tags": [],
       "popularity": {
-        "score": 201.2,
-        "pageviews_365d": 824,
+        "score": 201.4,
+        "pageviews_365d": 830,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -36039,8 +36208,8 @@
       "height": 1966,
       "tags": [],
       "popularity": {
-        "score": 188.1,
-        "pageviews_365d": 392,
+        "score": 188.2,
+        "pageviews_365d": 394,
         "sitelinks": 2,
         "globalusage": 15
       },
@@ -36487,8 +36656,8 @@
       "height": 1758,
       "tags": [],
       "popularity": {
-        "score": 343.5,
-        "pageviews_365d": 67968,
+        "score": 343.6,
+        "pageviews_365d": 68097,
         "sitelinks": 12,
         "globalusage": 52
       },
@@ -36523,10 +36692,10 @@
       "height": 4710,
       "tags": [],
       "popularity": {
-        "score": 33,
+        "score": 33.3,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 26
+        "globalusage": 27
       },
       "meta": {
         "Collection": "Q1117704"
@@ -36596,7 +36765,7 @@
       "tags": [],
       "popularity": {
         "score": 294.8,
-        "pageviews_365d": 11558,
+        "pageviews_365d": 11587,
         "sitelinks": 8,
         "globalusage": 48
       },
@@ -36667,10 +36836,10 @@
       "height": 1748,
       "tags": [],
       "popularity": {
-        "score": 311.2,
-        "pageviews_365d": 18417,
+        "score": 311.4,
+        "pageviews_365d": 18468,
         "sitelinks": 9,
-        "globalusage": 70
+        "globalusage": 71
       },
       "meta": {
         "Collection": "Museum of Fine Arts Boston"
@@ -36703,10 +36872,10 @@
       "height": 1206,
       "tags": [],
       "popularity": {
-        "score": 40.3,
+        "score": 40.6,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 27
+        "globalusage": 28
       },
       "meta": {
         "Collection": "Fine Arts Museums of San Francisco"
@@ -36794,7 +36963,7 @@
           "short_name": "CC0",
           "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
           "usage_terms": "Creative Commons Zero, Public Domain Dedication",
-          "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=222918\">image number 222918</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
+          "credit": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Amgueddfa_Cymru-logo-black.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/250px-Amgueddfa_Cymru-logo-black.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"130\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Amgueddfa_Cymru-logo-black.svg/330px-Amgueddfa_Cymru-logo-black.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"198\"></a></span>\n</td>\n<td style=\"text-align: center;\">This image is uploaded as <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/view-item?i=222918\">image number 222918</a> at <a rel=\"nofollow\" class=\"external text\" href=\"https://images.museumwales.ac.uk/\">Amgueddfa Cymru Images</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -37099,7 +37268,7 @@
         "globalusage": 13
       },
       "meta": {
-        "Collection": "Q847508",
+        "Collection": "Worcester Art Museum",
         "Series": "nympheas"
       },
       "extras": {
@@ -37130,10 +37299,10 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 5
       },
       "meta": {
         "Series": "nympheas"
@@ -37164,10 +37333,10 @@
       "height": 1694,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Series": "nympheas"
@@ -37198,10 +37367,10 @@
       "height": 585,
       "tags": [],
       "popularity": {
-        "score": 22,
+        "score": 23,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 8
+        "globalusage": 9
       },
       "meta": {
         "Series": "nympheas"
@@ -37232,10 +37401,10 @@
       "height": 925,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 5
       },
       "meta": {
         "Series": "nympheas"
@@ -37439,10 +37608,10 @@
       "height": 200,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Collection": "Q2340634"
@@ -37510,10 +37679,10 @@
       "height": 713,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 5
       },
       "meta": {
         "Series": "nympheas"
@@ -37544,10 +37713,10 @@
       "height": 394,
       "tags": [],
       "popularity": {
-        "score": 23,
+        "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 9
+        "globalusage": 10
       },
       "meta": {
         "Series": "nympheas"
@@ -37578,10 +37747,10 @@
       "height": 860,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 5
       },
       "meta": {
         "Series": "nympheas"
@@ -37612,10 +37781,10 @@
       "height": 934,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Series": "nympheas"
@@ -37646,10 +37815,10 @@
       "height": 724,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 5
       },
       "meta": {
         "Series": "nympheas"
@@ -37680,10 +37849,10 @@
       "height": 398,
       "tags": [],
       "popularity": {
-        "score": 23,
+        "score": 25.6,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 9
+        "globalusage": 12
       },
       "meta": {
         "Collection": "Museum of Modern Art",
@@ -37715,10 +37884,10 @@
       "height": 772,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Beyeler Foundation",
@@ -37750,10 +37919,10 @@
       "height": 659,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 5
       },
       "meta": {
         "Series": "nympheas"
@@ -37784,10 +37953,10 @@
       "height": 427,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Series": "nympheas"
@@ -37818,10 +37987,10 @@
       "height": 954,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 5
       },
       "meta": {
         "Series": "nympheas"
@@ -37852,10 +38021,10 @@
       "height": 444,
       "tags": [],
       "popularity": {
-        "score": 23,
+        "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 9
+        "globalusage": 10
       },
       "meta": {
         "Series": "nympheas"
@@ -38032,7 +38201,7 @@
       "tags": [],
       "popularity": {
         "score": 274,
-        "pageviews_365d": 8074,
+        "pageviews_365d": 8094,
         "sitelinks": 4,
         "globalusage": 26
       },
@@ -38100,10 +38269,10 @@
       "height": 4173,
       "tags": [],
       "popularity": {
-        "score": 48,
+        "score": 48.2,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 60
+        "globalusage": 61
       },
       "meta": {
         "Collection": "Bavarian State Painting Collections",
@@ -38137,10 +38306,10 @@
       "height": 1084,
       "tags": [],
       "popularity": {
-        "score": 37.1,
+        "score": 37.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 40
+        "globalusage": 41
       },
       "meta": {
         "Collection": "Musée Marmottan Monet",
@@ -38392,10 +38561,10 @@
       "height": 937,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Musée Marmottan Monet"
@@ -38493,6 +38662,43 @@
       }
     },
     {
+      "id": "w-1793",
+      "title": "Water Lilies",
+      "year": "1916",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Water_Lilies_%281914-1917%29_Claude_Monet_-_Asahi_Group_Sanso_Museum_%28W_1793%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Water_Lilies_%281914-1917%29_Claude_Monet_-_Asahi_Group_Sanso_Museum_%28W_1793%29.jpg",
+      "width": 802,
+      "height": 600,
+      "tags": [],
+      "popularity": {
+        "score": 22,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 8
+      },
+      "meta": {
+        "Collection": "Asahi Group Oyamazaki Villa Museum of Art",
+        "Series": "nympheas"
+      },
+      "extras": {
+        "qid": "Q95689720",
+        "catalog_number": "1793",
+        "wildenstein": "1793",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 150.5,
+          "width_cm": 200
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.asahigroup-oyamazaki.com/collection/monet/03/\">https://www.asahigroup-oyamazaki.com/collection/monet/03/</a>",
+          "artist": "Claude Monet"
+        }
+      }
+    },
+    {
       "id": "w-1800",
       "title": "Water Lilies",
       "year": "1916",
@@ -38530,43 +38736,6 @@
       }
     },
     {
-      "id": "w-1793",
-      "title": "Water Lilies (1914-1917) Claude Monet - Asahi Group Sanso Museum (W 1793)",
-      "year": "1916",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Water_Lilies_%281914-1917%29_Claude_Monet_-_Asahi_Group_Sanso_Museum_%28W_1793%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Water_Lilies_%281914-1917%29_Claude_Monet_-_Asahi_Group_Sanso_Museum_%28W_1793%29.jpg",
-      "width": 802,
-      "height": 600,
-      "tags": [],
-      "popularity": {
-        "score": 20.8,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 7
-      },
-      "meta": {
-        "Collection": "Asahi Group Oyamazaki Villa Museum of Art",
-        "Series": "nympheas"
-      },
-      "extras": {
-        "qid": "Q95689720",
-        "catalog_number": "1793",
-        "wildenstein": "1793",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 150.5,
-          "width_cm": 200
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.asahigroup-oyamazaki.com/collection/monet/03/\">https://www.asahigroup-oyamazaki.com/collection/monet/03/</a>",
-          "artist": "Claude Monet"
-        }
-      }
-    },
-    {
       "id": "wd-Q141170952",
       "title": "Water-Lilies",
       "year": "1916",
@@ -38576,10 +38745,10 @@
       "height": 734,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Series": "nympheas"
@@ -38610,10 +38779,10 @@
       "height": 2706,
       "tags": [],
       "popularity": {
-        "score": 26.4,
+        "score": 27.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 13
+        "globalusage": 14
       },
       "meta": {
         "Collection": "McNay Art Museum",
@@ -38645,10 +38814,10 @@
       "height": 454,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Series": "nympheas"
@@ -38716,7 +38885,7 @@
       "tags": [],
       "popularity": {
         "score": 250.5,
-        "pageviews_365d": 4199,
+        "pageviews_365d": 4203,
         "sitelinks": 2,
         "globalusage": 21
       },
@@ -38933,10 +39102,10 @@
       "height": 266,
       "tags": [],
       "popularity": {
-        "score": 22,
+        "score": 23,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 8
+        "globalusage": 9
       },
       "meta": {
         "Series": "nympheas"
@@ -39004,10 +39173,10 @@
       "height": 508,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 5
       },
       "meta": {
         "Series": "nympheas"
@@ -39038,8 +39207,8 @@
       "height": 492,
       "tags": [],
       "popularity": {
-        "score": 213.3,
-        "pageviews_365d": 1253,
+        "score": 213.4,
+        "pageviews_365d": 1256,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -39214,42 +39383,6 @@
       }
     },
     {
-      "id": "w-1881",
-      "title": "Coin du bassin aux nymphéas (1918-1919) Claude Monet (W 1881)",
-      "year": "1918",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Coin_du_bassin_aux_nymph%C3%A9as_%281918-1919%29_Claude_Monet_%28W_1881%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Coin_du_bassin_aux_nymph%C3%A9as_%281918-1919%29_Claude_Monet_%28W_1881%29.jpg",
-      "width": 485,
-      "height": 719,
-      "tags": [],
-      "popularity": {
-        "score": 19.5,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 6
-      },
-      "meta": {
-        "Series": "nympheas"
-      },
-      "extras": {
-        "qid": "Q136341512",
-        "catalog_number": "1881",
-        "wildenstein": "1881",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 130.5,
-          "width_cm": 88.8
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com/en/lot/lot-6202471\">https://www.christies.com/en/lot/lot-6202471</a>",
-          "artist": "Claude Monet"
-        }
-      }
-    },
-    {
       "id": "w-1880",
       "title": "Coin du bassin aux nymphéas (W 1880)",
       "year": "1918",
@@ -39323,38 +39456,38 @@
       }
     },
     {
-      "id": "w-1898",
-      "title": "Le bassin aux nymphéas (W1898)",
+      "id": "w-1881",
+      "title": "Corner of the Water Lily Pond",
       "year": "1918",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Claude_Monet_-_Le_bassin_aux_nymph%C3%A9as_%28W1898%29.jpg/960px-Claude_Monet_-_Le_bassin_aux_nymph%C3%A9as_%28W1898%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/1/16/Claude_Monet_-_Le_bassin_aux_nymph%C3%A9as_%28W1898%29.jpg",
-      "width": 3200,
-      "height": 1575,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Coin_du_bassin_aux_nymph%C3%A9as_%281918-1919%29_Claude_Monet_%28W_1881%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Coin_du_bassin_aux_nymph%C3%A9as_%281918-1919%29_Claude_Monet_%28W_1881%29.jpg",
+      "width": 485,
+      "height": 719,
       "tags": [],
       "popularity": {
-        "score": 24,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 10
+        "globalusage": 6
       },
       "meta": {
         "Series": "nympheas"
       },
       "extras": {
-        "qid": "Q136341517",
-        "catalog_number": "1898",
-        "wildenstein": "1898",
+        "qid": "Q136341512",
+        "catalog_number": "1881",
+        "wildenstein": "1881",
         "source": "wikidata",
         "dimensions": {
-          "height_cm": 100.1,
-          "width_cm": 200.6
+          "height_cm": 130.5,
+          "width_cm": 88.8
         },
         "license": {
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "www.christies.com, sale lot 35 B, 9 Nov 2023 (<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com/en/lot/lot-6453115\">https://www.christies.com/en/lot/lot-6453115</a>)",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com/en/lot/lot-6202471\">https://www.christies.com/en/lot/lot-6202471</a>",
+          "artist": "Claude Monet"
         }
       }
     },
@@ -39505,6 +39638,42 @@
       }
     },
     {
+      "id": "w-1898",
+      "title": "The Water Lily Pond",
+      "year": "1918",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Claude_Monet_-_Le_bassin_aux_nymph%C3%A9as_%28W1898%29.jpg/960px-Claude_Monet_-_Le_bassin_aux_nymph%C3%A9as_%28W1898%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/16/Claude_Monet_-_Le_bassin_aux_nymph%C3%A9as_%28W1898%29.jpg",
+      "width": 3200,
+      "height": 1575,
+      "tags": [],
+      "popularity": {
+        "score": 24,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 10
+      },
+      "meta": {
+        "Series": "nympheas"
+      },
+      "extras": {
+        "qid": "Q136341517",
+        "catalog_number": "1898",
+        "wildenstein": "1898",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 100.1,
+          "width_cm": 200.6
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "www.christies.com, sale lot 35 B, 9 Nov 2023 (<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com/en/lot/lot-6453115\">https://www.christies.com/en/lot/lot-6453115</a>)",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "w-1884",
       "title": "The Water-Lily Pond",
       "year": "1918",
@@ -39623,10 +39792,10 @@
       "height": 1976,
       "tags": [],
       "popularity": {
-        "score": 42.2,
+        "score": 42.5,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 33
+        "globalusage": 34
       },
       "meta": {
         "Collection": "Honolulu Museum of Art",
@@ -39660,10 +39829,10 @@
       "height": 1221,
       "tags": [],
       "popularity": {
-        "score": 268.2,
-        "pageviews_365d": 4654,
+        "score": 268.9,
+        "pageviews_365d": 4693,
         "sitelinks": 6,
-        "globalusage": 42
+        "globalusage": 44
       },
       "meta": {
         "Collection": "Columbus Museum of Art"
@@ -39732,10 +39901,10 @@
       "height": 2991,
       "tags": [],
       "popularity": {
-        "score": 209.9,
+        "score": 210.2,
         "pageviews_365d": 792,
         "sitelinks": 1,
-        "globalusage": 36
+        "globalusage": 37
       },
       "meta": {
         "Collection": "Kimbell Art Museum"
@@ -39914,7 +40083,7 @@
     },
     {
       "id": "w-1893b",
-      "title": "Le Bassin aux nymphéas (1919) Claude Monet (W 1893-2)",
+      "title": "The Water Lily Pond",
       "year": "1919",
       "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/70/Le_Bassin_aux_nymph%C3%A9as_%281919%29_Claude_Monet_%28W_1893-2%29.jpg",
       "full": "https://upload.wikimedia.org/wikipedia/commons/7/70/Le_Bassin_aux_nymph%C3%A9as_%281919%29_Claude_Monet_%28W_1893-2%29.jpg",
@@ -39958,10 +40127,10 @@
       "height": 619,
       "tags": [],
       "popularity": {
-        "score": 316.3,
-        "pageviews_365d": 26506,
+        "score": 316.5,
+        "pageviews_365d": 26557,
         "sitelinks": 6,
-        "globalusage": 67
+        "globalusage": 68
       },
       "meta": {
         "Collection": "Metropolitan Museum of Art",
@@ -40105,10 +40274,10 @@
       "height": 312,
       "tags": [],
       "popularity": {
-        "score": 23,
+        "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 9
+        "globalusage": 10
       },
       "meta": {
         "Series": "nympheas"
@@ -40140,7 +40309,7 @@
       "tags": [],
       "popularity": {
         "score": 221.8,
-        "pageviews_365d": 1643,
+        "pageviews_365d": 1645,
         "sitelinks": 2,
         "globalusage": 12
       },
@@ -40929,10 +41098,10 @@
       "height": 2582,
       "tags": [],
       "popularity": {
-        "score": 32.6,
+        "score": 32.2,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 25
+        "globalusage": 24
       },
       "meta": {
         "Collection": "Thyssen-Bornemisza Museum"
@@ -40965,10 +41134,10 @@
       "height": 7188,
       "tags": [],
       "popularity": {
-        "score": 36.4,
+        "score": 36.6,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 37
+        "globalusage": 38
       },
       "meta": {
         "Collection": "Kunstmuseum Den Haag"
@@ -41199,42 +41368,6 @@
       }
     },
     {
-      "id": "w-1781",
-      "title": "Bassin aux nymphéas, les rosiers (1913) Claude Monet (1781)",
-      "year": null,
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Bassin_aux_nymph%C3%A9as%2C_les_rosiers_%281913%29_Claude_Monet_%281781%29.jpg/960px-Bassin_aux_nymph%C3%A9as%2C_les_rosiers_%281913%29_Claude_Monet_%281781%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bassin_aux_nymph%C3%A9as%2C_les_rosiers_%281913%29_Claude_Monet_%281781%29.jpg",
-      "width": 2880,
-      "height": 2101,
-      "tags": [],
-      "popularity": {
-        "score": 26.4,
-        "pageviews_365d": 0,
-        "sitelinks": 1,
-        "globalusage": 6
-      },
-      "meta": {
-        "Series": "nympheas"
-      },
-      "extras": {
-        "qid": "Q136341524",
-        "catalog_number": "1781",
-        "wildenstein": "1781",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 100,
-          "width_cm": 81
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sothebys.com/en/auctions/ecatalogue/2015/impressionist-modern-art-evening-sale-n09340/lot.47.html\">https://www.sothebys.com/en/auctions/ecatalogue/2015/impressionist-modern-art-evening-sale-n09340/lot.47.html</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "w-69",
       "title": "Blossoming Garden, Sainte-Adresse",
       "year": null,
@@ -41250,7 +41383,7 @@
         "globalusage": 30
       },
       "meta": {
-        "Collection": "Munich Central Collecting Point"
+        "Collection": "Musées Nationaux Récupération"
       },
       "extras": {
         "qid": "Q17491735",
@@ -41501,35 +41634,6 @@
       }
     },
     {
-      "id": "w-63/2",
-      "title": "dejeunersurlherbe",
-      "year": null,
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/74/Monet_dejeunersurlherbe.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/7/74/Monet_dejeunersurlherbe.jpg",
-      "width": 894,
-      "height": 1024,
-      "tags": [],
-      "popularity": {
-        "score": 47.1,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 110
-      },
-      "meta": {},
-      "extras": {
-        "catalog_number": "63/2",
-        "wildenstein": "63/2",
-        "source": "commons-wildenstein",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "Claude Monet",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "w-124",
       "title": "fishing-boats-calm-sea",
       "year": null,
@@ -41705,10 +41809,10 @@
       "height": 394,
       "tags": [],
       "popularity": {
-        "score": 35.6,
+        "score": 35.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 34
+        "globalusage": 35
       },
       "meta": {
         "Series": "haystacks"
@@ -41779,7 +41883,7 @@
       "tags": [],
       "popularity": {
         "score": 263.9,
-        "pageviews_365d": 6761,
+        "pageviews_365d": 6769,
         "sitelinks": 6,
         "globalusage": 10
       },
@@ -41883,10 +41987,10 @@
       "height": 2620,
       "tags": [],
       "popularity": {
-        "score": 33.3,
+        "score": 33.7,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 27
+        "globalusage": 28
       },
       "meta": {
         "Collection": "Art Institute of Chicago",
@@ -41920,10 +42024,10 @@
       "height": 5936,
       "tags": [],
       "popularity": {
-        "score": 257.5,
-        "pageviews_365d": 3910,
+        "score": 257.3,
+        "pageviews_365d": 3918,
         "sitelinks": 4,
-        "globalusage": 31
+        "globalusage": 30
       },
       "meta": {
         "Collection": "Q214867"
@@ -41958,7 +42062,7 @@
       "tags": [],
       "popularity": {
         "score": 219.9,
-        "pageviews_365d": 1609,
+        "pageviews_365d": 1611,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -42132,10 +42236,10 @@
       "height": 2149,
       "tags": [],
       "popularity": {
-        "score": 22,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 8
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Metropolitan Museum of Art"
@@ -42214,42 +42318,6 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "Clipped from <a rel=\"nofollow\" class=\"external free\" href=\"https://wpi.art/2019/01/16/monet/\">https://wpi.art/2019/01/16/monet/</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "w-1890",
-      "title": "Le bassin aux nymphéas",
-      "year": null,
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Le_bassin_aux_nymph%C3%A9as_-_Claude_Monet.jpg/960px-Le_bassin_aux_nymph%C3%A9as_-_Claude_Monet.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Le_bassin_aux_nymph%C3%A9as_-_Claude_Monet.jpg",
-      "width": 2233,
-      "height": 1096,
-      "tags": [],
-      "popularity": {
-        "score": 47.2,
-        "pageviews_365d": 0,
-        "sitelinks": 1,
-        "globalusage": 55
-      },
-      "meta": {
-        "Series": "nympheas"
-      },
-      "extras": {
-        "qid": "Q136341513",
-        "catalog_number": "1890",
-        "wildenstein": "1890",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 100.4,
-          "width_cm": 201
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "1. <a href=\"https://en.wikipedia.org/wiki/Private_collection\" class=\"extiw\" title=\"en:Private collection\">Private collection</a><div style=\"display: none;\">institution QS:P195,somevalue,P3831,Q768717</div><br>2. <a href=\"https://en.wikipedia.org/wiki/Christie%27s\" class=\"extiw\" title=\"en:Christie's\">Christie's</a>, LotFinder:  entry  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.christies.com/LotFinder/lot_details.aspx?intObjectID=5100003\">5100003</a> (sale 7599, lot 16, london, 24 June 2008)",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -42503,10 +42571,10 @@
       "height": 4800,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 6
       },
       "meta": {},
       "extras": {
@@ -42532,8 +42600,8 @@
       "height": 2002,
       "tags": [],
       "popularity": {
-        "score": 223.3,
-        "pageviews_365d": 1572,
+        "score": 223.4,
+        "pageviews_365d": 1575,
         "sitelinks": 2,
         "globalusage": 16
       },
@@ -42654,43 +42722,6 @@
           "url": "https://creativecommons.org/licenses/by/3.0",
           "usage_terms": "Creative Commons Attribution 3.0",
           "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>, <a href=\"//commons.wikimedia.org/w/index.php?title=User:GautierPoupeau&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:GautierPoupeau (page does not exist)\">Gautier Poupeau</a>, 15 April 2012",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "w-339",
-      "title": "Les barques. Régates à Argenteuil",
-      "year": null,
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Claude_Monet_047.jpg/960px-Claude_Monet_047.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Claude_Monet_047.jpg",
-      "width": 1600,
-      "height": 998,
-      "tags": [],
-      "popularity": {
-        "score": 220,
-        "pageviews_365d": 1619,
-        "sitelinks": 1,
-        "globalusage": 16
-      },
-      "meta": {
-        "Collection": "Musée d'Orsay"
-      },
-      "extras": {
-        "qid": "Q3828534",
-        "catalog_number": "339",
-        "wildenstein": "339",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 60,
-          "width_cm": 100
-        },
-        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!1099/manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -42875,7 +42906,7 @@
       "tags": [],
       "popularity": {
         "score": 215,
-        "pageviews_365d": 1217,
+        "pageviews_365d": 1218,
         "sitelinks": 2,
         "globalusage": 13
       },
@@ -42971,72 +43002,6 @@
       }
     },
     {
-      "id": "w-1789",
-      "title": "Monet - Wildenstein 1996, 1789",
-      "year": null,
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/11/Monet_-_Wildenstein_1996%2C_1789.png",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/1/11/Monet_-_Wildenstein_1996%2C_1789.png",
-      "width": 388,
-      "height": 507,
-      "tags": [],
-      "popularity": {
-        "score": 24,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 10
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q136341507",
-        "catalog_number": "1789",
-        "wildenstein": "1789",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 175,
-          "width_cm": 135.4
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "Clipped from <a rel=\"nofollow\" class=\"external free\" href=\"https://wpi.art/2019/01/16/monet/\">https://wpi.art/2019/01/16/monet/</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "wd-Q136341519",
-      "title": "Monet - Wildenstein 1996, 1901a",
-      "year": null,
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Monet_-_Wildenstein_1996%2C_1901a.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Monet_-_Wildenstein_1996%2C_1901a.jpg",
-      "width": 940,
-      "height": 761,
-      "tags": [],
-      "popularity": {
-        "score": 22,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 8
-      },
-      "meta": {},
-      "extras": {
-        "qid": "Q136341519",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 46,
-          "width_cm": 56.2
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "Clipped from <a rel=\"nofollow\" class=\"external free\" href=\"https://wpi.art/2019/01/16/monet/\">https://wpi.art/2019/01/16/monet/</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "w-1792",
       "title": "Monet w1792",
       "year": null,
@@ -43071,6 +43036,35 @@
       }
     },
     {
+      "id": "w-51",
+      "title": "Mouth of the Seine - 1865",
+      "year": null,
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Claude_Monet_-_Mouth_of_the_Seine_-_1865.jpg/960px-Claude_Monet_-_Mouth_of_the_Seine_-_1865.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/8/89/Claude_Monet_-_Mouth_of_the_Seine_-_1865.jpg",
+      "width": 16267,
+      "height": 9458,
+      "tags": [],
+      "popularity": {
+        "score": 6.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 1
+      },
+      "meta": {},
+      "extras": {
+        "catalog_number": "51",
+        "wildenstein": "51",
+        "source": "commons-wildenstein",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.nortonsimon.org\">https://www.nortonsimon.org</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "w-1501",
       "title": "Nympheas",
       "year": null,
@@ -43080,8 +43074,8 @@
       "height": 1868,
       "tags": [],
       "popularity": {
-        "score": 214,
-        "pageviews_365d": 768,
+        "score": 214.1,
+        "pageviews_365d": 770,
         "sitelinks": 2,
         "globalusage": 39
       },
@@ -43141,42 +43135,6 @@
           "usage_terms": "Public domain",
           "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "w-1798",
-      "title": "Nymphéas (1914-1917) Claude Monet (W 1798)",
-      "year": null,
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nymph%C3%A9as_%281914-1917%29_Claude_Monet_%28W_1798%29.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nymph%C3%A9as_%281914-1917%29_Claude_Monet_%28W_1798%29.jpg",
-      "width": 555,
-      "height": 721,
-      "tags": [],
-      "popularity": {
-        "score": 20.8,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 7
-      },
-      "meta": {
-        "Series": "nympheas"
-      },
-      "extras": {
-        "qid": "Q136341509",
-        "catalog_number": "1798",
-        "wildenstein": "1798",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 130.5,
-          "width_cm": 100
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sothebys.com/en/buy/auction/2022/modern-contemporary-evening-auction/nympheas-2\">https://www.sothebys.com/en/buy/auction/2022/modern-contemporary-evening-auction/nympheas-2</a>",
-          "artist": "Claude Monet"
         }
       }
     },
@@ -43259,10 +43217,10 @@
       "height": 1074,
       "tags": [],
       "popularity": {
-        "score": 37.4,
+        "score": 37.6,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 41
+        "globalusage": 42
       },
       "meta": {
         "Collection": "Musée Marmottan Monet",
@@ -43320,43 +43278,6 @@
       }
     },
     {
-      "id": "w-1861",
-      "title": "Nymphéas, reflets de saule - Kitakyushu",
-      "year": null,
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Claude_Monet_-_Nymph%C3%A9as%2C_reflets_de_saule_-_Kitakyushu.jpg/960px-Claude_Monet_-_Nymph%C3%A9as%2C_reflets_de_saule_-_Kitakyushu.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Claude_Monet_-_Nymph%C3%A9as%2C_reflets_de_saule_-_Kitakyushu.jpg",
-      "width": 1200,
-      "height": 792,
-      "tags": [],
-      "popularity": {
-        "score": 20.8,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 7
-      },
-      "meta": {
-        "Collection": "Kitakyushu Municipal Museum of Art",
-        "Series": "nympheas"
-      },
-      "extras": {
-        "qid": "Q96145959",
-        "catalog_number": "1861",
-        "wildenstein": "1861",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 130,
-          "width_cm": 200
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://higashida-museumpark.jp/en/library/kmma/02.html\">Higashida Museum Park</a> <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://higashida-museumpark.jp/library/kmma/img/02.jpg\">[1]</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "w-338",
       "title": "Petit-Gennevilliers, soleil couchant",
       "year": null,
@@ -43366,10 +43287,10 @@
       "height": 626,
       "tags": [],
       "popularity": {
-        "score": 13.9,
+        "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 3
+        "globalusage": 4
       },
       "meta": {},
       "extras": {
@@ -43504,8 +43425,8 @@
       "height": 803,
       "tags": [],
       "popularity": {
-        "score": 220.9,
-        "pageviews_365d": 1310,
+        "score": 221,
+        "pageviews_365d": 1314,
         "sitelinks": 2,
         "globalusage": 20
       },
@@ -43541,10 +43462,10 @@
       "height": 4475,
       "tags": [],
       "popularity": {
-        "score": 13.9,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 3
+        "globalusage": 5
       },
       "meta": {},
       "extras": {
@@ -43571,7 +43492,7 @@
       "tags": [],
       "popularity": {
         "score": 236.4,
-        "pageviews_365d": 2555,
+        "pageviews_365d": 2559,
         "sitelinks": 1,
         "globalusage": 27
       },
@@ -43670,10 +43591,10 @@
       "height": 4632,
       "tags": [],
       "popularity": {
-        "score": 36.6,
+        "score": 36.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 38
+        "globalusage": 39
       },
       "meta": {
         "Collection": "Batliner Collection"
@@ -43771,10 +43692,10 @@
       "height": 3493,
       "tags": [],
       "popularity": {
-        "score": 30.4,
+        "score": 30.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 20
+        "globalusage": 21
       },
       "meta": {
         "Collection": "São Paulo Museum of Art"
@@ -43873,8 +43794,8 @@
       "height": 3408,
       "tags": [],
       "popularity": {
-        "score": 259.2,
-        "pageviews_365d": 7349,
+        "score": 259.3,
+        "pageviews_365d": 7365,
         "sitelinks": 2,
         "globalusage": 12
       },
@@ -43909,10 +43830,10 @@
       "height": 3893,
       "tags": [],
       "popularity": {
-        "score": 236.1,
-        "pageviews_365d": 1548,
+        "score": 236.5,
+        "pageviews_365d": 1554,
         "sitelinks": 4,
-        "globalusage": 37
+        "globalusage": 38
       },
       "meta": {
         "Collection": "Städel Museum"
@@ -43981,8 +43902,8 @@
       "height": 14500,
       "tags": [],
       "popularity": {
-        "score": 301.5,
-        "pageviews_365d": 13492,
+        "score": 301.6,
+        "pageviews_365d": 13527,
         "sitelinks": 9,
         "globalusage": 58
       },
@@ -44017,10 +43938,10 @@
       "height": 2655,
       "tags": [],
       "popularity": {
-        "score": 36.1,
+        "score": 36.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 36
+        "globalusage": 37
       },
       "meta": {
         "Collection": "Musée Marmottan Monet"
@@ -44155,10 +44076,10 @@
       "height": 1205,
       "tags": [],
       "popularity": {
-        "score": 28.9,
+        "score": 28.3,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 17
+        "globalusage": 16
       },
       "meta": {
         "Collection": "Thyssen-Bornemisza Museum"
@@ -44392,6 +44313,42 @@
       }
     },
     {
+      "id": "w-1890",
+      "title": "The Water Lily Pond",
+      "year": null,
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Le_bassin_aux_nymph%C3%A9as_-_Claude_Monet.jpg/960px-Le_bassin_aux_nymph%C3%A9as_-_Claude_Monet.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Le_bassin_aux_nymph%C3%A9as_-_Claude_Monet.jpg",
+      "width": 2233,
+      "height": 1096,
+      "tags": [],
+      "popularity": {
+        "score": 47.4,
+        "pageviews_365d": 0,
+        "sitelinks": 1,
+        "globalusage": 56
+      },
+      "meta": {
+        "Series": "nympheas"
+      },
+      "extras": {
+        "qid": "Q136341513",
+        "catalog_number": "1890",
+        "wildenstein": "1890",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 100.4,
+          "width_cm": 201
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "1. <a href=\"https://en.wikipedia.org/wiki/Private_collection\" class=\"extiw\" title=\"en:Private collection\">Private collection</a><div style=\"display: none;\">institution QS:P195,somevalue,P3831,Q768717</div><br>2. <a href=\"https://en.wikipedia.org/wiki/Christie%27s\" class=\"extiw\" title=\"en:Christie's\">Christie's</a>, LotFinder:  entry  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.christies.com/LotFinder/lot_details.aspx?intObjectID=5100003\">5100003</a> (sale 7599, lot 16, london, 24 June 2008)",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "w-1899",
       "title": "The Water Lily Pond",
       "year": null,
@@ -44457,6 +44414,42 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.marmottan.fr/notice/5165/\">musée Marmottan-Monet</a> <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.marmottan.fr/wp-content/themes/marmottan2019/collection/full/5165.jpg\">[1]</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "w-1781",
+      "title": "The Water-Lily Pond, Rose Arches",
+      "year": null,
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Bassin_aux_nymph%C3%A9as%2C_les_rosiers_%281913%29_Claude_Monet_%281781%29.jpg/960px-Bassin_aux_nymph%C3%A9as%2C_les_rosiers_%281913%29_Claude_Monet_%281781%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bassin_aux_nymph%C3%A9as%2C_les_rosiers_%281913%29_Claude_Monet_%281781%29.jpg",
+      "width": 2880,
+      "height": 2101,
+      "tags": [],
+      "popularity": {
+        "score": 26.4,
+        "pageviews_365d": 0,
+        "sitelinks": 1,
+        "globalusage": 6
+      },
+      "meta": {
+        "Series": "nympheas"
+      },
+      "extras": {
+        "qid": "Q136341524",
+        "catalog_number": "1781",
+        "wildenstein": "1781",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 100,
+          "width_cm": 81
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sothebys.com/en/auctions/ecatalogue/2015/impressionist-modern-art-evening-sale-n09340/lot.47.html\">https://www.sothebys.com/en/auctions/ecatalogue/2015/impressionist-modern-art-evening-sale-n09340/lot.47.html</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -44696,6 +44689,78 @@
           "usage_terms": "Public domain",
           "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artsy.net/show/kimbell-art-museum-monet-the-late-years\">https://www.artsy.net/show/kimbell-art-museum-monet-the-late-years</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "w-1789",
+      "title": "Water Lilies",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/11/Monet_-_Wildenstein_1996%2C_1789.png",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/11/Monet_-_Wildenstein_1996%2C_1789.png",
+      "width": 388,
+      "height": 507,
+      "tags": [],
+      "popularity": {
+        "score": 24,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 10
+      },
+      "meta": {
+        "Series": "nympheas"
+      },
+      "extras": {
+        "qid": "Q136341507",
+        "catalog_number": "1789",
+        "wildenstein": "1789",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 175,
+          "width_cm": 135.4
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "Clipped from <a rel=\"nofollow\" class=\"external free\" href=\"https://wpi.art/2019/01/16/monet/\">https://wpi.art/2019/01/16/monet/</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "w-1798",
+      "title": "Water Lilies",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nymph%C3%A9as_%281914-1917%29_Claude_Monet_%28W_1798%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nymph%C3%A9as_%281914-1917%29_Claude_Monet_%28W_1798%29.jpg",
+      "width": 555,
+      "height": 721,
+      "tags": [],
+      "popularity": {
+        "score": 20.8,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 7
+      },
+      "meta": {
+        "Series": "nympheas"
+      },
+      "extras": {
+        "qid": "Q136341509",
+        "catalog_number": "1798",
+        "wildenstein": "1798",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 130.5,
+          "width_cm": 100
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sothebys.com/en/buy/auction/2022/modern-contemporary-evening-auction/nympheas-2\">https://www.sothebys.com/en/buy/auction/2022/modern-contemporary-evening-auction/nympheas-2</a>",
+          "artist": "Claude Monet"
         }
       }
     },
@@ -44948,6 +45013,40 @@
       }
     },
     {
+      "id": "wd-Q136341519",
+      "title": "Water Lilies",
+      "year": null,
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Monet_-_Wildenstein_1996%2C_1901a.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Monet_-_Wildenstein_1996%2C_1901a.jpg",
+      "width": 940,
+      "height": 761,
+      "tags": [],
+      "popularity": {
+        "score": 22,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 8
+      },
+      "meta": {
+        "Series": "nympheas"
+      },
+      "extras": {
+        "qid": "Q136341519",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 46,
+          "width_cm": 56.2
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "Clipped from <a rel=\"nofollow\" class=\"external free\" href=\"https://wpi.art/2019/01/16/monet/\">https://wpi.art/2019/01/16/monet/</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "wd-Q42882593",
       "title": "Water Lilies (Nymphéas)",
       "year": null,
@@ -44957,10 +45056,10 @@
       "height": 1173,
       "tags": [],
       "popularity": {
-        "score": 36.4,
+        "score": 36.9,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 18
+        "globalusage": 19
       },
       "meta": {
         "Collection": "Carnegie Museum of Art",
@@ -45103,10 +45202,10 @@
       "height": 3577,
       "tags": [],
       "popularity": {
-        "score": 194.4,
-        "pageviews_365d": 353,
+        "score": 194.7,
+        "pageviews_365d": 354,
         "sitelinks": 1,
-        "globalusage": 58
+        "globalusage": 59
       },
       "meta": {
         "Collection": "National Gallery",
@@ -45126,6 +45225,43 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "<p>1. <cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>\n</p>\n 2. <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.nationalgallery.org.uk/paintings/claude-oscar-monet-water-lilies\">[1]</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "w-1861",
+      "title": "Water-Lilies, Reflection of a Weeping Willow",
+      "year": null,
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Claude_Monet_-_Nymph%C3%A9as%2C_reflets_de_saule_-_Kitakyushu.jpg/960px-Claude_Monet_-_Nymph%C3%A9as%2C_reflets_de_saule_-_Kitakyushu.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Claude_Monet_-_Nymph%C3%A9as%2C_reflets_de_saule_-_Kitakyushu.jpg",
+      "width": 1200,
+      "height": 792,
+      "tags": [],
+      "popularity": {
+        "score": 20.8,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 7
+      },
+      "meta": {
+        "Collection": "Kitakyushu Municipal Museum of Art",
+        "Series": "nympheas"
+      },
+      "extras": {
+        "qid": "Q96145959",
+        "catalog_number": "1861",
+        "wildenstein": "1861",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 130,
+          "width_cm": 200
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://higashida-museumpark.jp/en/library/kmma/02.html\">Higashida Museum Park</a> <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://higashida-museumpark.jp/library/kmma/img/02.jpg\">[1]</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -45283,10 +45419,10 @@
       "height": 1215,
       "tags": [],
       "popularity": {
-        "score": 43.7,
+        "score": 43.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 78
+        "globalusage": 79
       },
       "meta": {
         "Series": "nympheas"
@@ -58885,35 +59021,6 @@
       }
     },
     {
-      "id": "w-35",
-      "title": "Wildenstein 35",
-      "year": null,
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/95/Monet_-_Wildenstein_1996%2C_35.png",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/9/95/Monet_-_Wildenstein_1996%2C_35.png",
-      "width": 358,
-      "height": 264,
-      "tags": [],
-      "popularity": {
-        "score": 0,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 0
-      },
-      "meta": {},
-      "extras": {
-        "catalog_number": "35",
-        "wildenstein": "35",
-        "source": "commons-wildenstein",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "Clipped from <a rel=\"nofollow\" class=\"external free\" href=\"https://wpi.art/2019/01/16/monet/\">https://wpi.art/2019/01/16/monet/</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "w-353",
       "title": "Wildenstein 353",
       "year": null,
@@ -64598,35 +64705,6 @@
       }
     },
     {
-      "id": "w-76",
-      "title": "Wildenstein 76",
-      "year": null,
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/26/Monet_-_Wildenstein_1996%2C_76.png",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/2/26/Monet_-_Wildenstein_1996%2C_76.png",
-      "width": 482,
-      "height": 395,
-      "tags": [],
-      "popularity": {
-        "score": 16.1,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 4
-      },
-      "meta": {},
-      "extras": {
-        "catalog_number": "76",
-        "wildenstein": "76",
-        "source": "commons-wildenstein",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "Clipped from <a rel=\"nofollow\" class=\"external free\" href=\"https://wpi.art/2019/01/16/monet/\">https://wpi.art/2019/01/16/monet/</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "w-760",
       "title": "Wildenstein 760",
       "year": null,
@@ -69559,7 +69637,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-09-01T10:54:15.267Z",
+    "generated": "2026-09-27T19:53:40.704Z",
     "artist": {
       "qid": "Q296",
       "name": "Claude Monet",
@@ -69570,6 +69648,6 @@
       "label": "paintings",
       "manifestKey": "paintings"
     },
-    "count": 2111
+    "count": 2113
   }
 }

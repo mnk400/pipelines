@@ -12,10 +12,10 @@
       "height": 2103,
       "tags": [],
       "popularity": {
-        "score": 274,
-        "pageviews_365d": 5159,
+        "score": 274.4,
+        "pageviews_365d": 5168,
         "sitelinks": 8,
-        "globalusage": 45
+        "globalusage": 47
       },
       "meta": {
         "Collection": "Musée des Beaux-Arts de la ville de Paris"
@@ -80,10 +80,10 @@
       "height": 2626,
       "tags": [],
       "popularity": {
-        "score": 11,
+        "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 2
+        "globalusage": 1
       },
       "meta": {
         "Collection": "Saarland Museum"
@@ -216,8 +216,8 @@
       "height": 3510,
       "tags": [],
       "popularity": {
-        "score": 195.2,
-        "pageviews_365d": 488,
+        "score": 195.5,
+        "pageviews_365d": 494,
         "sitelinks": 2,
         "globalusage": 18
       },
@@ -250,8 +250,8 @@
       "height": 940,
       "tags": [],
       "popularity": {
-        "score": 198.4,
-        "pageviews_365d": 645,
+        "score": 198.5,
+        "pageviews_365d": 647,
         "sitelinks": 2,
         "globalusage": 12
       },
@@ -284,10 +284,10 @@
       "height": 1636,
       "tags": [],
       "popularity": {
-        "score": 22,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 8
+        "globalusage": 5
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -385,9 +385,9 @@
       "height": 355,
       "tags": [],
       "popularity": {
-        "score": 253.8,
-        "pageviews_365d": 3702,
-        "sitelinks": 6,
+        "score": 250.9,
+        "pageviews_365d": 3504,
+        "sitelinks": 5,
         "globalusage": 17
       },
       "meta": {
@@ -514,7 +514,7 @@
       "id": "wd-Q138290726",
       "title": "La Seine à Argenteuil",
       "year": "1870",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/La_Seine_%C3%A0_Argenteuil_-_Alfred_Sisley.webp/960px-La_Seine_%C3%A0_Argenteuil_-_Alfred_Sisley.webp.png",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/La_Seine_%C3%A0_Argenteuil_-_Alfred_Sisley.webp/960px-La_Seine_%C3%A0_Argenteuil_-_Alfred_Sisley.webp",
       "full": "https://upload.wikimedia.org/wikipedia/commons/d/d7/La_Seine_%C3%A0_Argenteuil_-_Alfred_Sisley.webp",
       "width": 2880,
       "height": 1883,
@@ -618,9 +618,9 @@
       "height": 602,
       "tags": [],
       "popularity": {
-        "score": 271.9,
-        "pageviews_365d": 6057,
-        "sitelinks": 8,
+        "score": 269.7,
+        "pageviews_365d": 5821,
+        "sitelinks": 7,
         "globalusage": 24
       },
       "meta": {
@@ -815,7 +815,7 @@
       "tags": [],
       "popularity": {
         "score": 236.1,
-        "pageviews_365d": 2244,
+        "pageviews_365d": 2248,
         "sitelinks": 4,
         "globalusage": 14
       },
@@ -1151,10 +1151,10 @@
       "height": 1671,
       "tags": [],
       "popularity": {
-        "score": 252,
-        "pageviews_365d": 3592,
+        "score": 253.1,
+        "pageviews_365d": 3602,
         "sitelinks": 5,
-        "globalusage": 18
+        "globalusage": 20
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -1291,7 +1291,7 @@
       "tags": [],
       "popularity": {
         "score": 205.3,
-        "pageviews_365d": 1000,
+        "pageviews_365d": 1002,
         "sitelinks": 1,
         "globalusage": 12
       },
@@ -1325,8 +1325,8 @@
       "height": 1716,
       "tags": [],
       "popularity": {
-        "score": 210,
-        "pageviews_365d": 979,
+        "score": 210.1,
+        "pageviews_365d": 981,
         "sitelinks": 3,
         "globalusage": 10
       },
@@ -1394,8 +1394,8 @@
       "height": 1352,
       "tags": [],
       "popularity": {
-        "score": 255.3,
-        "pageviews_365d": 3860,
+        "score": 255.4,
+        "pageviews_365d": 3880,
         "sitelinks": 5,
         "globalusage": 21
       },
@@ -1463,9 +1463,9 @@
       "height": 4429,
       "tags": [],
       "popularity": {
-        "score": 305.9,
-        "pageviews_365d": 13947,
-        "sitelinks": 10,
+        "score": 303.8,
+        "pageviews_365d": 13331,
+        "sitelinks": 9,
         "globalusage": 75
       },
       "meta": {
@@ -1528,9 +1528,9 @@
       "height": 757,
       "tags": [],
       "popularity": {
-        "score": 248.8,
-        "pageviews_365d": 2748,
-        "sitelinks": 6,
+        "score": 245.4,
+        "pageviews_365d": 2548,
+        "sitelinks": 5,
         "globalusage": 22
       },
       "meta": {
@@ -1598,7 +1598,7 @@
       "tags": [],
       "popularity": {
         "score": 237.6,
-        "pageviews_365d": 2603,
+        "pageviews_365d": 2610,
         "sitelinks": 4,
         "globalusage": 11
       },
@@ -1734,10 +1734,10 @@
       "height": 1950,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 6
       },
       "meta": {
         "Collection": "Durand-Ruel & Cie.",
@@ -1769,8 +1769,8 @@
       "height": 480,
       "tags": [],
       "popularity": {
-        "score": 250.2,
-        "pageviews_365d": 2729,
+        "score": 250.3,
+        "pageviews_365d": 2734,
         "sitelinks": 6,
         "globalusage": 26
       },
@@ -1870,7 +1870,7 @@
       "tags": [],
       "popularity": {
         "score": 259.5,
-        "pageviews_365d": 5004,
+        "pageviews_365d": 5012,
         "sitelinks": 6,
         "globalusage": 14
       },
@@ -2032,10 +2032,10 @@
       "height": 2265,
       "tags": [],
       "popularity": {
-        "score": 222.7,
+        "score": 223,
         "pageviews_365d": 1147,
         "sitelinks": 2,
-        "globalusage": 34
+        "globalusage": 35
       },
       "meta": {
         "Collection": "Montreal Museum of Fine Arts",
@@ -2262,8 +2262,8 @@
       "height": 2472,
       "tags": [],
       "popularity": {
-        "score": 251,
-        "pageviews_365d": 4835,
+        "score": 251.1,
+        "pageviews_365d": 4843,
         "sitelinks": 6,
         "globalusage": 6
       },
@@ -2668,9 +2668,9 @@
       "height": 1917,
       "tags": [],
       "popularity": {
-        "score": 259.4,
-        "pageviews_365d": 5797,
-        "sitelinks": 7,
+        "score": 257.3,
+        "pageviews_365d": 5612,
+        "sitelinks": 6,
         "globalusage": 8
       },
       "meta": {
@@ -3264,7 +3264,7 @@
       "tags": [],
       "popularity": {
         "score": 199.7,
-        "pageviews_365d": 725,
+        "pageviews_365d": 726,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -3602,10 +3602,10 @@
       "height": 3902,
       "tags": [],
       "popularity": {
-        "score": 210.1,
-        "pageviews_365d": 892,
+        "score": 210.9,
+        "pageviews_365d": 894,
         "sitelinks": 1,
-        "globalusage": 27
+        "globalusage": 29
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -3702,7 +3702,7 @@
       "tags": [],
       "popularity": {
         "score": 255.9,
-        "pageviews_365d": 4102,
+        "pageviews_365d": 4113,
         "sitelinks": 4,
         "globalusage": 23
       },
@@ -3802,10 +3802,10 @@
       "height": 2963,
       "tags": [],
       "popularity": {
-        "score": 24.8,
+        "score": 25.6,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 11
+        "globalusage": 12
       },
       "meta": {
         "Collection": "National Galleries Scotland"
@@ -4280,7 +4280,7 @@
       "tags": [],
       "popularity": {
         "score": 233.8,
-        "pageviews_365d": 2303,
+        "pageviews_365d": 2305,
         "sitelinks": 3,
         "globalusage": 13
       },
@@ -4313,10 +4313,10 @@
       "height": 835,
       "tags": [],
       "popularity": {
-        "score": 24.8,
+        "score": 23,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 5
+        "globalusage": 4
       },
       "meta": {},
       "extras": {
@@ -4379,8 +4379,8 @@
       "height": 1805,
       "tags": [],
       "popularity": {
-        "score": 274,
-        "pageviews_365d": 6133,
+        "score": 274.1,
+        "pageviews_365d": 6146,
         "sitelinks": 8,
         "globalusage": 29
       },
@@ -4414,10 +4414,10 @@
       "height": 1944,
       "tags": [],
       "popularity": {
-        "score": 165.6,
+        "score": 164.1,
         "pageviews_365d": 222,
         "sitelinks": 2,
-        "globalusage": 6
+        "globalusage": 5
       },
       "meta": {
         "Collection": "Neue Pinakothek"
@@ -4650,8 +4650,8 @@
       "height": 1702,
       "tags": [],
       "popularity": {
-        "score": 264.1,
-        "pageviews_365d": 4114,
+        "score": 264.2,
+        "pageviews_365d": 4123,
         "sitelinks": 7,
         "globalusage": 33
       },
@@ -4718,8 +4718,8 @@
       "height": 2090,
       "tags": [],
       "popularity": {
-        "score": 249.1,
-        "pageviews_365d": 3074,
+        "score": 249.2,
+        "pageviews_365d": 3082,
         "sitelinks": 6,
         "globalusage": 17
       },
@@ -4918,7 +4918,7 @@
       "id": "wd-Q138302501",
       "title": "Duck pond",
       "year": "1875",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/La_Mare_aux_canards_-_Alfred_Sisley.webp/960px-La_Mare_aux_canards_-_Alfred_Sisley.webp.png",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/La_Mare_aux_canards_-_Alfred_Sisley.webp/960px-La_Mare_aux_canards_-_Alfred_Sisley.webp",
       "full": "https://upload.wikimedia.org/wikipedia/commons/4/4c/La_Mare_aux_canards_-_Alfred_Sisley.webp",
       "width": 2880,
       "height": 2407,
@@ -5121,7 +5121,7 @@
       "tags": [],
       "popularity": {
         "score": 256.2,
-        "pageviews_365d": 4627,
+        "pageviews_365d": 4633,
         "sitelinks": 3,
         "globalusage": 22
       },
@@ -5313,10 +5313,10 @@
       "height": 219,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 5
       },
       "meta": {
         "Collection": "Q214867",
@@ -5349,8 +5349,8 @@
       "height": 2286,
       "tags": [],
       "popularity": {
-        "score": 264.9,
-        "pageviews_365d": 5082,
+        "score": 265,
+        "pageviews_365d": 5102,
         "sitelinks": 5,
         "globalusage": 28
       },
@@ -5755,8 +5755,8 @@
       "height": 219,
       "tags": [],
       "popularity": {
-        "score": 228.5,
-        "pageviews_365d": 2614,
+        "score": 228.6,
+        "pageviews_365d": 2619,
         "sitelinks": 3,
         "globalusage": 5
       },
@@ -5965,8 +5965,8 @@
       "height": 2179,
       "tags": [],
       "popularity": {
-        "score": 261.1,
-        "pageviews_365d": 4510,
+        "score": 261.2,
+        "pageviews_365d": 4519,
         "sitelinks": 9,
         "globalusage": 15
       },
@@ -6000,10 +6000,10 @@
       "height": 5046,
       "tags": [],
       "popularity": {
-        "score": 267.5,
-        "pageviews_365d": 4395,
-        "sitelinks": 6,
-        "globalusage": 45
+        "score": 264.9,
+        "pageviews_365d": 4178,
+        "sitelinks": 5,
+        "globalusage": 46
       },
       "meta": {
         "Collection": "Walters Art Museum"
@@ -6711,8 +6711,8 @@
       "height": 945,
       "tags": [],
       "popularity": {
-        "score": 283.1,
-        "pageviews_365d": 9213,
+        "score": 283.2,
+        "pageviews_365d": 9239,
         "sitelinks": 8,
         "globalusage": 26
       },
@@ -7438,8 +7438,8 @@
       "height": 3326,
       "tags": [],
       "popularity": {
-        "score": 233.4,
-        "pageviews_365d": 2393,
+        "score": 233.5,
+        "pageviews_365d": 2401,
         "sitelinks": 6,
         "globalusage": 6
       },
@@ -7611,7 +7611,7 @@
       "tags": [],
       "popularity": {
         "score": 195,
-        "pageviews_365d": 624,
+        "pageviews_365d": 625,
         "sitelinks": 2,
         "globalusage": 9
       },
@@ -7714,8 +7714,8 @@
       "height": 1909,
       "tags": [],
       "popularity": {
-        "score": 269,
-        "pageviews_365d": 3581,
+        "score": 269.1,
+        "pageviews_365d": 3587,
         "sitelinks": 8,
         "globalusage": 69
       },
@@ -7755,7 +7755,7 @@
         "globalusage": 6
       },
       "meta": {
-        "Collection": "Q847508"
+        "Collection": "Worcester Art Museum"
       },
       "extras": {
         "qid": "Q79028375",
@@ -7783,8 +7783,8 @@
       "height": 410,
       "tags": [],
       "popularity": {
-        "score": 241.1,
-        "pageviews_365d": 2677,
+        "score": 241.2,
+        "pageviews_365d": 2680,
         "sitelinks": 4,
         "globalusage": 15
       },
@@ -7993,10 +7993,10 @@
       "height": 1103,
       "tags": [],
       "popularity": {
-        "score": 22,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 8
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Staatsgalerie Stuttgart",
@@ -8028,8 +8028,8 @@
       "height": 2052,
       "tags": [],
       "popularity": {
-        "score": 217.8,
-        "pageviews_365d": 1224,
+        "score": 217.9,
+        "pageviews_365d": 1229,
         "sitelinks": 4,
         "globalusage": 10
       },
@@ -8599,8 +8599,8 @@
       "height": 2407,
       "tags": [],
       "popularity": {
-        "score": 259.7,
-        "pageviews_365d": 3994,
+        "score": 259.8,
+        "pageviews_365d": 4003,
         "sitelinks": 8,
         "globalusage": 20
       },
@@ -9143,7 +9143,7 @@
       "id": "wd-Q138290718",
       "title": "La Seine au Point du jour",
       "year": "1878",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/La_Seine_au_point_du_jour_-_ALFRED_SISLEY.webp/960px-La_Seine_au_point_du_jour_-_ALFRED_SISLEY.webp.png",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/La_Seine_au_point_du_jour_-_ALFRED_SISLEY.webp/960px-La_Seine_au_point_du_jour_-_ALFRED_SISLEY.webp",
       "full": "https://upload.wikimedia.org/wikipedia/commons/a/a9/La_Seine_au_point_du_jour_-_ALFRED_SISLEY.webp",
       "width": 2880,
       "height": 2376,
@@ -9244,8 +9244,8 @@
       "height": 4253,
       "tags": [],
       "popularity": {
-        "score": 251.9,
-        "pageviews_365d": 3572,
+        "score": 252,
+        "pageviews_365d": 3582,
         "sitelinks": 5,
         "globalusage": 18
       },
@@ -11358,7 +11358,7 @@
       "id": "wd-Q93456838",
       "title": "Les bords du Loing",
       "year": "1880",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Les_bords_du_Loing_-_Alfred_Sisley.webp/960px-Les_bords_du_Loing_-_Alfred_Sisley.webp.png",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Les_bords_du_Loing_-_Alfred_Sisley.webp/960px-Les_bords_du_Loing_-_Alfred_Sisley.webp",
       "full": "https://upload.wikimedia.org/wikipedia/commons/0/07/Les_bords_du_Loing_-_Alfred_Sisley.webp",
       "width": 2880,
       "height": 2402,
@@ -11538,10 +11538,10 @@
       "height": 952,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 20.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Johannesburg Art Gallery"
@@ -11594,7 +11594,7 @@
       "id": "wd-Q138302500",
       "title": "Saint-Mammès heights, springtime",
       "year": "1880",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Les_hauteurs_de_Saint-Mamm%C3%A8s_au_printemps_-_Alfred_Sisley.webp/960px-Les_hauteurs_de_Saint-Mamm%C3%A8s_au_printemps_-_Alfred_Sisley.webp.png",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Les_hauteurs_de_Saint-Mamm%C3%A8s_au_printemps_-_Alfred_Sisley.webp/960px-Les_hauteurs_de_Saint-Mamm%C3%A8s_au_printemps_-_Alfred_Sisley.webp",
       "full": "https://upload.wikimedia.org/wikipedia/commons/3/37/Les_hauteurs_de_Saint-Mamm%C3%A8s_au_printemps_-_Alfred_Sisley.webp",
       "width": 2880,
       "height": 2118,
@@ -11854,10 +11854,10 @@
       "height": 818,
       "tags": [],
       "popularity": {
-        "score": 261.4,
-        "pageviews_365d": 5268,
+        "score": 260.8,
+        "pageviews_365d": 5279,
         "sitelinks": 6,
-        "globalusage": 15
+        "globalusage": 14
       },
       "meta": {
         "Collection": "National Gallery"
@@ -11984,10 +11984,10 @@
       "height": 814,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 16.1,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 4
       },
       "meta": {
         "Collection": "Kröller-Müller Museum"
@@ -12014,8 +12014,8 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 226.6,
-        "pageviews_365d": 1525,
+        "score": 226.7,
+        "pageviews_365d": 1532,
         "sitelinks": 3,
         "globalusage": 18
       },
@@ -13654,7 +13654,7 @@
       "tags": [],
       "popularity": {
         "score": 207.9,
-        "pageviews_365d": 1145,
+        "pageviews_365d": 1146,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -13824,7 +13824,7 @@
       "tags": [],
       "popularity": {
         "score": 204.7,
-        "pageviews_365d": 805,
+        "pageviews_365d": 807,
         "sitelinks": 2,
         "globalusage": 13
       },
@@ -14832,7 +14832,7 @@
       "id": "wd-Q138290736",
       "title": "Les Bords du Loing à Saint-Mammès",
       "year": "1884",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Les_Bords_du_Loing_%C3%A0_Saint-Mamm%C3%A8s_-_ALFRED_SISLEY.webp/960px-Les_Bords_du_Loing_%C3%A0_Saint-Mamm%C3%A8s_-_ALFRED_SISLEY.webp.png",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Les_Bords_du_Loing_%C3%A0_Saint-Mamm%C3%A8s_-_ALFRED_SISLEY.webp/960px-Les_Bords_du_Loing_%C3%A0_Saint-Mamm%C3%A8s_-_ALFRED_SISLEY.webp",
       "full": "https://upload.wikimedia.org/wikipedia/commons/8/82/Les_Bords_du_Loing_%C3%A0_Saint-Mamm%C3%A8s_-_ALFRED_SISLEY.webp",
       "width": 2880,
       "height": 2010,
@@ -14994,8 +14994,8 @@
       "height": 1460,
       "tags": [],
       "popularity": {
-        "score": 212.4,
-        "pageviews_365d": 1210,
+        "score": 212.5,
+        "pageviews_365d": 1212,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -16173,7 +16173,7 @@
       "id": "wd-Q138281638",
       "title": "Canal du Loing à Saint-Mammès",
       "year": "1885",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Canal_du_Loing_%C3%A0_Saint-Mamm%C3%A8s_-_ALFRED_SISLEY.webp/960px-Canal_du_Loing_%C3%A0_Saint-Mamm%C3%A8s_-_ALFRED_SISLEY.webp.png",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Canal_du_Loing_%C3%A0_Saint-Mamm%C3%A8s_-_ALFRED_SISLEY.webp/960px-Canal_du_Loing_%C3%A0_Saint-Mamm%C3%A8s_-_ALFRED_SISLEY.webp",
       "full": "https://upload.wikimedia.org/wikipedia/commons/8/83/Canal_du_Loing_%C3%A0_Saint-Mamm%C3%A8s_-_ALFRED_SISLEY.webp",
       "width": 2880,
       "height": 2397,
@@ -16624,7 +16624,7 @@
       "id": "wd-Q138302504",
       "title": "Les Sablons",
       "year": "1885",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Les_Sablons_-_Alfred_Sisley.webp/960px-Les_Sablons_-_Alfred_Sisley.webp.png",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Les_Sablons_-_Alfred_Sisley.webp/960px-Les_Sablons_-_Alfred_Sisley.webp",
       "full": "https://upload.wikimedia.org/wikipedia/commons/7/70/Les_Sablons_-_Alfred_Sisley.webp",
       "width": 2880,
       "height": 1964,
@@ -17813,7 +17813,7 @@
       "tags": [],
       "popularity": {
         "score": 231.1,
-        "pageviews_365d": 2464,
+        "pageviews_365d": 2468,
         "sitelinks": 3,
         "globalusage": 8
       },
@@ -19082,10 +19082,10 @@
       "height": 4666,
       "tags": [],
       "popularity": {
-        "score": 23,
+        "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 9
+        "globalusage": 10
       },
       "meta": {
         "Collection": "Minneapolis Institute of Art",
@@ -19111,7 +19111,7 @@
       "id": "wd-Q138290720",
       "title": "Les moulins de Moret, gelée blanche, effet du soir",
       "year": "1888",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Les_moulins_de_Moret%2C_gel%C3%A9e_blanche%2C_effet_du_soir_-_Alfred_Sisley.webp/960px-Les_moulins_de_Moret%2C_gel%C3%A9e_blanche%2C_effet_du_soir_-_Alfred_Sisley.webp.png",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Les_moulins_de_Moret%2C_gel%C3%A9e_blanche%2C_effet_du_soir_-_Alfred_Sisley.webp/960px-Les_moulins_de_Moret%2C_gel%C3%A9e_blanche%2C_effet_du_soir_-_Alfred_Sisley.webp",
       "full": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Les_moulins_de_Moret%2C_gel%C3%A9e_blanche%2C_effet_du_soir_-_Alfred_Sisley.webp",
       "width": 2880,
       "height": 2002,
@@ -20508,8 +20508,8 @@
       "height": 387,
       "tags": [],
       "popularity": {
-        "score": 250.9,
-        "pageviews_365d": 3459,
+        "score": 251,
+        "pageviews_365d": 3468,
         "sitelinks": 6,
         "globalusage": 15
       },
@@ -21242,7 +21242,7 @@
       "id": "wd-Q138302502",
       "title": "Small bridge over the Orvanne",
       "year": "1890",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Petit_pont_sur_l%27Orvanne_-_Alfred_Sisley.webp/960px-Petit_pont_sur_l%27Orvanne_-_Alfred_Sisley.webp.png",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Petit_pont_sur_l%27Orvanne_-_Alfred_Sisley.webp/960px-Petit_pont_sur_l%27Orvanne_-_Alfred_Sisley.webp",
       "full": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Petit_pont_sur_l%27Orvanne_-_Alfred_Sisley.webp",
       "width": 2880,
       "height": 1990,
@@ -21439,7 +21439,7 @@
       "id": "wd-Q138290723",
       "title": "Vue de Moret-sur-Loing",
       "year": "1890",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Vue_de_Moret-sur-Loing_-_Alfred_Sisley.webp/960px-Vue_de_Moret-sur-Loing_-_Alfred_Sisley.webp.png",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Vue_de_Moret-sur-Loing_-_Alfred_Sisley.webp/960px-Vue_de_Moret-sur-Loing_-_Alfred_Sisley.webp",
       "full": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Vue_de_Moret-sur-Loing_-_Alfred_Sisley.webp",
       "width": 2880,
       "height": 2224,
@@ -22116,8 +22116,8 @@
       "height": 800,
       "tags": [],
       "popularity": {
-        "score": 228.4,
-        "pageviews_365d": 1716,
+        "score": 228.5,
+        "pageviews_365d": 1720,
         "sitelinks": 3,
         "globalusage": 16
       },
@@ -22176,16 +22176,16 @@
       "id": "wd-Q108479249",
       "title": "The Orvanne and the Loing Canal in Winter",
       "year": "1891",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Alfred_Sisley_The_Orvanne_and_the_Loing_Canal_in_Winter_1891.jpg/960px-Alfred_Sisley_The_Orvanne_and_the_Loing_Canal_in_Winter_1891.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Alfred_Sisley_The_Orvanne_and_the_Loing_Canal_in_Winter_1891.jpg",
-      "width": 1920,
-      "height": 2340,
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/L%27Orvanne_et_le_canal_du_Loing_en_hiver.jpg/960px-L%27Orvanne_et_le_canal_du_Loing_en_hiver.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/e/ef/L%27Orvanne_et_le_canal_du_Loing_en_hiver.jpg",
+      "width": 1024,
+      "height": 1279,
       "tags": [],
       "popularity": {
-        "score": 17.9,
+        "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 5
+        "globalusage": 10
       },
       "meta": {
         "Collection": "Museum Barberini",
@@ -22202,7 +22202,7 @@
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://sammlung.museum-barberini.de/de/MB-Sis-10_alfred-sisley-die-orvanne-und-der-loing-kanal-im-winter\">sammlung.museum-barberini.de</a>",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.the-athenaeum.org/art/detail.php?ID=104846\">http://www.the-athenaeum.org/art/detail.php?ID=104846</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"><span title=\"French, British painter (1839–1899)\">Alfred Sisley</span></a></bdi>"
         }
       }
@@ -22650,8 +22650,8 @@
       "height": 3665,
       "tags": [],
       "popularity": {
-        "score": 182.5,
-        "pageviews_365d": 338,
+        "score": 182.6,
+        "pageviews_365d": 339,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -22993,7 +22993,7 @@
       "tags": [],
       "popularity": {
         "score": 269.4,
-        "pageviews_365d": 5737,
+        "pageviews_365d": 5755,
         "sitelinks": 7,
         "globalusage": 24
       },
@@ -23324,10 +23324,10 @@
       "height": 3504,
       "tags": [],
       "popularity": {
-        "score": 24.8,
+        "score": 26.4,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 5
+        "globalusage": 6
       },
       "meta": {
         "Collection": "Building of the Winterthur Museum of Art",
@@ -23971,10 +23971,10 @@
       "height": 2836,
       "tags": [],
       "popularity": {
-        "score": 205.7,
-        "pageviews_365d": 864,
+        "score": 206.5,
+        "pageviews_365d": 865,
         "sitelinks": 2,
-        "globalusage": 12
+        "globalusage": 13
       },
       "meta": {
         "Collection": "Musée des Beaux-Arts de la ville de Paris",
@@ -24006,10 +24006,10 @@
       "height": 2000,
       "tags": [],
       "popularity": {
-        "score": 27.7,
+        "score": 28.9,
         "pageviews_365d": 0,
         "sitelinks": 1,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Collection": "Detroit Institute of Arts",
@@ -24913,10 +24913,10 @@
       "height": 3564,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Collection": "Museum of Fine Arts of Reims"
@@ -25013,10 +25013,10 @@
       "height": 231,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 22,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 8
       },
       "meta": {
         "Collection": "Artizon Museum"
@@ -25372,10 +25372,10 @@
       "height": 3187,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 5
       },
       "meta": {
         "Collection": "Amgueddfa Cymru – Museum Wales"
@@ -25406,10 +25406,10 @@
       "height": 2075,
       "tags": [],
       "popularity": {
-        "score": 31.4,
+        "score": 31.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 22
+        "globalusage": 23
       },
       "meta": {
         "Collection": "Kunstmuseum Bern"
@@ -25765,7 +25765,7 @@
       "id": "wd-Q138290728",
       "title": "Chemin de Veneux et les côteaux de la Celle",
       "year": null,
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Chemin_de_Veneux_et_les_coteaux_de_la_Celle_-_Alfred_Sisley.webp/960px-Chemin_de_Veneux_et_les_coteaux_de_la_Celle_-_Alfred_Sisley.webp.png",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Chemin_de_Veneux_et_les_coteaux_de_la_Celle_-_Alfred_Sisley.webp/960px-Chemin_de_Veneux_et_les_coteaux_de_la_Celle_-_Alfred_Sisley.webp",
       "full": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Chemin_de_Veneux_et_les_coteaux_de_la_Celle_-_Alfred_Sisley.webp",
       "width": 2880,
       "height": 2193,
@@ -25918,7 +25918,7 @@
       "id": "wd-Q138281640",
       "title": "La Seine au bas-Meudon",
       "year": null,
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/La_Seine_au_bas-Meudon_-_ALFRED_SISLEY.webp/960px-La_Seine_au_bas-Meudon_-_ALFRED_SISLEY.webp.png",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/La_Seine_au_bas-Meudon_-_ALFRED_SISLEY.webp/960px-La_Seine_au_bas-Meudon_-_ALFRED_SISLEY.webp",
       "full": "https://upload.wikimedia.org/wikipedia/commons/0/0c/La_Seine_au_bas-Meudon_-_ALFRED_SISLEY.webp",
       "width": 2880,
       "height": 2366,
@@ -26069,7 +26069,7 @@
       "id": "wd-Q138302503",
       "title": "Loing banks in Saint-Mammès",
       "year": null,
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Bord_du_Loing_%C3%A0_Saint-Mamm%C3%A8s_-_Alfred_Sisley.webp/960px-Bord_du_Loing_%C3%A0_Saint-Mamm%C3%A8s_-_Alfred_Sisley.webp.png",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Bord_du_Loing_%C3%A0_Saint-Mamm%C3%A8s_-_Alfred_Sisley.webp/960px-Bord_du_Loing_%C3%A0_Saint-Mamm%C3%A8s_-_Alfred_Sisley.webp",
       "full": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bord_du_Loing_%C3%A0_Saint-Mamm%C3%A8s_-_Alfred_Sisley.webp",
       "width": 2880,
       "height": 2305,
@@ -26106,7 +26106,7 @@
       "tags": [],
       "popularity": {
         "score": 196.8,
-        "pageviews_365d": 672,
+        "pageviews_365d": 673,
         "sitelinks": 2,
         "globalusage": 9
       },
@@ -26135,7 +26135,7 @@
       "id": "wd-Q138302499",
       "title": "Orchard near Moret-sur-Loing",
       "year": null,
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Verger_aux_environs_de_Moret-sur-Loing_-_Alfred_Sisley.webp/960px-Verger_aux_environs_de_Moret-sur-Loing_-_Alfred_Sisley.webp.png",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Verger_aux_environs_de_Moret-sur-Loing_-_Alfred_Sisley.webp/960px-Verger_aux_environs_de_Moret-sur-Loing_-_Alfred_Sisley.webp",
       "full": "https://upload.wikimedia.org/wikipedia/commons/3/34/Verger_aux_environs_de_Moret-sur-Loing_-_Alfred_Sisley.webp",
       "width": 2878,
       "height": 2395,
@@ -26395,7 +26395,7 @@
       "id": "wd-Q138302498",
       "title": "Saint-Mammès",
       "year": null,
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Saint-Mamm%C3%A8s_-_Alfred_Sisley.webp/960px-Saint-Mamm%C3%A8s_-_Alfred_Sisley.webp.png",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Saint-Mamm%C3%A8s_-_Alfred_Sisley.webp/960px-Saint-Mamm%C3%A8s_-_Alfred_Sisley.webp",
       "full": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Saint-Mamm%C3%A8s_-_Alfred_Sisley.webp",
       "width": 2880,
       "height": 3425,
@@ -26496,7 +26496,7 @@
       "tags": [],
       "popularity": {
         "score": 209.6,
-        "pageviews_365d": 998,
+        "pageviews_365d": 1000,
         "sitelinks": 3,
         "globalusage": 9
       },
@@ -26748,10 +26748,10 @@
       "height": 1534,
       "tags": [],
       "popularity": {
-        "score": 23,
+        "score": 24,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 9
+        "globalusage": 10
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -26777,7 +26777,7 @@
       "id": "wd-Q138290733",
       "title": "Sous-bois",
       "year": null,
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Sous-bois_-_Alfred_Sisley.webp/960px-Sous-bois_-_Alfred_Sisley.webp.png",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Sous-bois_-_Alfred_Sisley.webp/960px-Sous-bois_-_Alfred_Sisley.webp",
       "full": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sous-bois_-_Alfred_Sisley.webp",
       "width": 2880,
       "height": 2122,
@@ -27025,7 +27025,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-09-01T11:20:30.190Z",
+    "generated": "2026-09-27T20:14:02.418Z",
     "artist": {
       "qid": "Q175130",
       "name": "Alfred Sisley",
