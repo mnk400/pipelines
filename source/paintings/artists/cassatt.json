@@ -1,0 +1,38 @@
+{
+  "artist": {
+    "qid": "Q173223",
+    "name": "Mary Cassatt",
+    "slug": "cassatt"
+  },
+  "work": {
+    "qid": "Q3305213",
+    "label": "paintings",
+    "manifestKey": "paintings"
+  },
+  "seriesRules": [
+    {
+      "name": "mother-and-child",
+      "pattern": "\\b(mother|child|children|baby|infant|nurse|maternal|caress|kiss|bath)"
+    },
+    {
+      "name": "theatre",
+      "pattern": "\\b(loge|opera|theat(er|re)|box)\\b"
+    },
+    {
+      "name": "tea",
+      "pattern": "\\b(tea|cup)\\b"
+    },
+    {
+      "name": "garden",
+      "pattern": "\\b(garden|lilacs?|flowers?|boating|boat)"
+    },
+    {
+      "name": "reading-sewing",
+      "pattern": "\\b(reading|sewing|knitting|crocheting|letter|book)"
+    },
+    {
+      "name": "portrait",
+      "pattern": "\\b(portrait|self-portrait|mrs\\.?|madame|lady|miss)\\b"
+    }
+  ]
+}
