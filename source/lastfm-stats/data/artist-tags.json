@@ -144064,5 +144064,115 @@
   "Czarface, Frankie Pulitzer & Busta Rhymes": [],
   "Czarface, Frankie Pulitzer & El-P": [],
   "Czarface, Frankie Pulitzer & Kendra Morris": [],
-  "Czarface, Frankie Pulitzer & Method Man": []
+  "Czarface, Frankie Pulitzer & Method Man": [],
+  "Loser Company": [
+    {
+      "name": "los angeles",
+      "count": 100
+    },
+    {
+      "name": "indie rock",
+      "count": 100
+    },
+    {
+      "name": "grunge",
+      "count": 16
+    },
+    {
+      "name": "rock",
+      "count": 16
+    },
+    {
+      "name": "indie",
+      "count": 8
+    },
+    {
+      "name": "alternative",
+      "count": 8
+    }
+  ],
+  "Knifeplay": [
+    {
+      "name": "shoegaze",
+      "count": 100
+    },
+    {
+      "name": "dream pop",
+      "count": 46
+    },
+    {
+      "name": "slowcore",
+      "count": 30
+    },
+    {
+      "name": "lo-fi",
+      "count": 8
+    },
+    {
+      "name": "indie",
+      "count": 2
+    },
+    {
+      "name": "indie rock",
+      "count": 1
+    },
+    {
+      "name": "american",
+      "count": 1
+    },
+    {
+      "name": "rare sads",
+      "count": 1
+    },
+    {
+      "name": "rare sad girl",
+      "count": 1
+    },
+    {
+      "name": "sadcore",
+      "count": 1
+    }
+  ],
+  "Shearwater": [
+    {
+      "name": "folk",
+      "count": 100
+    },
+    {
+      "name": "indie",
+      "count": 70
+    },
+    {
+      "name": "indie rock",
+      "count": 40
+    },
+    {
+      "name": "alt-country",
+      "count": 24
+    },
+    {
+      "name": "indie folk",
+      "count": 8
+    },
+    {
+      "name": "austin",
+      "count": 5
+    },
+    {
+      "name": "american",
+      "count": 4
+    },
+    {
+      "name": "folk rock",
+      "count": 1
+    },
+    {
+      "name": "rock",
+      "count": 1
+    },
+    {
+      "name": "alternative",
+      "count": 1
+    }
+  ]
 }

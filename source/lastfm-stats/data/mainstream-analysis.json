@@ -2892,17 +2892,17 @@
     },
     {
       "month": "2026-08",
-      "totalPlays": 826,
+      "totalPlays": 884,
       "medianListeners": 1850348,
       "p25Listeners": 769271,
       "p75Listeners": 3168369,
       "obscurityScore": 36.6,
       "tierPct": {
-        "obscure": 3.51,
-        "niche": 16.95,
-        "mid": 34.87,
-        "popular": 39.47,
-        "mainstream": 5.21
+        "obscure": 3.39,
+        "niche": 16.06,
+        "mid": 35.52,
+        "popular": 40.16,
+        "mainstream": 4.86
       },
       "mostObscure": {
         "name": "CZARFACE & Frankie Pulitzer",
@@ -2913,6 +2913,31 @@
         "name": "Radiohead",
         "listeners": 8130713,
         "plays": 5
+      }
+    },
+    {
+      "month": "2026-09",
+      "totalPlays": 427,
+      "medianListeners": 1776548,
+      "p25Listeners": 514425,
+      "p75Listeners": 3168369,
+      "obscurityScore": 37.5,
+      "tierPct": {
+        "obscure": 5.15,
+        "niche": 18.97,
+        "mid": 40.98,
+        "popular": 31.62,
+        "mainstream": 3.28
+      },
+      "mostObscure": {
+        "name": "Hello Mary",
+        "listeners": 70577,
+        "plays": 9
+      },
+      "mostMainstream": {
+        "name": "Radiohead",
+        "listeners": 8130713,
+        "plays": 1
       }
     }
   ],
@@ -3413,22 +3438,22 @@
     },
     {
       "month": "2026-07",
-      "totalPlays": 1500,
-      "obscurityScore": 40.4,
-      "medianListeners": 1579198,
+      "totalPlays": 1985,
+      "obscurityScore": 39.4,
+      "medianListeners": 1644981,
       "tierPct": {
-        "obscure": 7.69,
-        "niche": 17.01,
-        "mid": 32.94,
-        "popular": 37.24,
-        "mainstream": 5.13
+        "obscure": 6.8,
+        "niche": 17.36,
+        "mid": 35.84,
+        "popular": 35.6,
+        "mainstream": 4.39
       }
     }
   ],
   "meta": {
-    "totalArtists": 4568,
+    "totalArtists": 4571,
     "firstMonth": "2016-03",
-    "lastMonth": "2026-08",
-    "overallMedianListeners": 1552226
+    "lastMonth": "2026-09",
+    "overallMedianListeners": 1554144
   }
 }
