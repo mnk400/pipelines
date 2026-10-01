@@ -40,10 +40,10 @@
       "height": 692,
       "tags": [],
       "popularity": {
-        "score": 16.1,
+        "score": 17.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 4
+        "globalusage": 5
       },
       "meta": {
         "Collection": "Musée Marmottan Monet"
@@ -195,7 +195,7 @@
     {
       "id": "wd-Q105627769",
       "title": "1867 - Rosbras, Brittany",
-      "year": "1867",
+      "year": "1866",
       "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Berthe_Morisot%2C_1867_-_Rosbras%2C_Brittany.jpg",
       "full": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Berthe_Morisot%2C_1867_-_Rosbras%2C_Brittany.jpg",
       "width": 898,
@@ -211,6 +211,10 @@
       "extras": {
         "qid": "Q105627769",
         "source": "wikidata",
+        "dimensions": {
+          "height_cm": 55,
+          "width_cm": 73
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
@@ -294,16 +298,16 @@
       "id": "wd-Q3225805",
       "title": "The Port at Lorient",
       "year": "1869",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Berthe_Morisot_The_Harbor_at_Lorient.jpg/960px-Berthe_Morisot_The_Harbor_at_Lorient.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Berthe_Morisot_The_Harbor_at_Lorient.jpg",
-      "width": 2668,
-      "height": 1543,
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Berthe_Morisot%2C_The_Harbor_at_Lorient%2C_1869%2C_NGA_52192.jpg/960px-Berthe_Morisot%2C_The_Harbor_at_Lorient%2C_1869%2C_NGA_52192.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Berthe_Morisot%2C_The_Harbor_at_Lorient%2C_1869%2C_NGA_52192.jpg",
+      "width": 4000,
+      "height": 2343,
       "tags": [],
       "popularity": {
-        "score": 286.8,
-        "pageviews_365d": 8990,
+        "score": 265.3,
+        "pageviews_365d": 9107,
         "sitelinks": 6,
-        "globalusage": 52
+        "globalusage": 5
       },
       "meta": {
         "Collection": "Q214867",
@@ -318,10 +322,10 @@
         },
         "iiif": "https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=52192",
         "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "Unknown source<span style=\"display: none;\">Unknown source</span>",
+          "short_name": "CC0",
+          "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "usage_terms": "Creative Commons Zero, Public Domain Dedication",
+          "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
         }
       }
@@ -602,8 +606,8 @@
       "height": 5000,
       "tags": [],
       "popularity": {
-        "score": 318,
-        "pageviews_365d": 47343,
+        "score": 318.2,
+        "pageviews_365d": 47834,
         "sitelinks": 11,
         "globalusage": 10
       },
@@ -637,8 +641,8 @@
       "height": 3200,
       "tags": [],
       "popularity": {
-        "score": 234.5,
-        "pageviews_365d": 2731,
+        "score": 234.2,
+        "pageviews_365d": 2704,
         "sitelinks": 2,
         "globalusage": 12
       },
@@ -939,8 +943,8 @@
       "height": 5287,
       "tags": [],
       "popularity": {
-        "score": 267.3,
-        "pageviews_365d": 6494,
+        "score": 267.8,
+        "pageviews_365d": 6603,
         "sitelinks": 7,
         "globalusage": 14
       },
@@ -967,16 +971,16 @@
       "id": "wd-Q110233557",
       "title": "In a Villa at the Seaside",
       "year": "1874",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/%27In_a_Villa_at_the_Seaside%27_by_Berthe_Morisot%2C_Norton_Simon_Museum.jpg/960px-%27In_a_Villa_at_the_Seaside%27_by_Berthe_Morisot%2C_Norton_Simon_Museum.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/2/23/%27In_a_Villa_at_the_Seaside%27_by_Berthe_Morisot%2C_Norton_Simon_Museum.jpg",
-      "width": 3056,
-      "height": 2464,
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Berthe_Morisot_-_In_a_Villa_at_the_Sea.jpg/960px-Berthe_Morisot_-_In_a_Villa_at_the_Sea.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/0/08/Berthe_Morisot_-_In_a_Villa_at_the_Sea.jpg",
+      "width": 10608,
+      "height": 8544,
       "tags": [],
       "popularity": {
-        "score": 19.5,
+        "score": 11,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 6
+        "globalusage": 2
       },
       "meta": {
         "Collection": "Norton Simon Museum"
@@ -984,11 +988,15 @@
       "extras": {
         "qid": "Q110233557",
         "source": "wikidata",
+        "dimensions": {
+          "height_cm": 50.2,
+          "width_cm": 61
+        },
         "license": {
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.nortonsimon.org\">https://www.nortonsimon.org</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Berthe_Morisot\" class=\"extiw\" title=\"w:en:Berthe Morisot\"><span title=\"French painter (1841-1895)\">Berthe Morisot</span></a></bdi>"
         }
       }
@@ -1105,8 +1113,8 @@
       "height": 573,
       "tags": [],
       "popularity": {
-        "score": 222.5,
-        "pageviews_365d": 1445,
+        "score": 222.8,
+        "pageviews_365d": 1464,
         "sitelinks": 1,
         "globalusage": 28
       },
@@ -1140,10 +1148,10 @@
       "height": 1864,
       "tags": [],
       "popularity": {
-        "score": 197.3,
-        "pageviews_365d": 716,
+        "score": 201.8,
+        "pageviews_365d": 820,
         "sitelinks": 2,
-        "globalusage": 8
+        "globalusage": 9
       },
       "meta": {
         "Collection": "Musée Marmottan Monet"
@@ -1209,7 +1217,7 @@
       "tags": [],
       "popularity": {
         "score": 286.9,
-        "pageviews_365d": 9178,
+        "pageviews_365d": 9173,
         "sitelinks": 6,
         "globalusage": 50
       },
@@ -1374,8 +1382,8 @@
       "height": 2343,
       "tags": [],
       "popularity": {
-        "score": 174,
-        "pageviews_365d": 389,
+        "score": 177,
+        "pageviews_365d": 439,
         "sitelinks": 1,
         "globalusage": 5
       },
@@ -1570,8 +1578,8 @@
       "height": 2750,
       "tags": [],
       "popularity": {
-        "score": 294.2,
-        "pageviews_365d": 13845,
+        "score": 294.7,
+        "pageviews_365d": 14151,
         "sitelinks": 7,
         "globalusage": 32
       },
@@ -1604,8 +1612,8 @@
       "height": 1200,
       "tags": [],
       "popularity": {
-        "score": 200,
-        "pageviews_365d": 711,
+        "score": 201.2,
+        "pageviews_365d": 744,
         "sitelinks": 3,
         "globalusage": 8
       },
@@ -1707,8 +1715,8 @@
       "height": 850,
       "tags": [],
       "popularity": {
-        "score": 206.3,
-        "pageviews_365d": 1208,
+        "score": 207.3,
+        "pageviews_365d": 1254,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -1742,8 +1750,8 @@
       "height": 3000,
       "tags": [],
       "popularity": {
-        "score": 158.9,
-        "pageviews_365d": 180,
+        "score": 171.7,
+        "pageviews_365d": 301,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -1810,8 +1818,8 @@
       "height": 3748,
       "tags": [],
       "popularity": {
-        "score": 200.6,
-        "pageviews_365d": 919,
+        "score": 202.3,
+        "pageviews_365d": 987,
         "sitelinks": 1,
         "globalusage": 9
       },
@@ -1874,10 +1882,10 @@
       "height": 4226,
       "tags": [],
       "popularity": {
-        "score": 318.5,
-        "pageviews_365d": 22855,
+        "score": 318.4,
+        "pageviews_365d": 22888,
         "sitelinks": 10,
-        "globalusage": 77
+        "globalusage": 76
       },
       "meta": {
         "Collection": "National Gallery"
@@ -1938,10 +1946,10 @@
       "height": 5217,
       "tags": [],
       "popularity": {
-        "score": 250.3,
-        "pageviews_365d": 3863,
+        "score": 251,
+        "pageviews_365d": 3869,
         "sitelinks": 4,
-        "globalusage": 15
+        "globalusage": 16
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -2129,10 +2137,10 @@
       "height": 8512,
       "tags": [],
       "popularity": {
-        "score": 189,
-        "pageviews_365d": 338,
+        "score": 192.4,
+        "pageviews_365d": 384,
         "sitelinks": 1,
-        "globalusage": 37
+        "globalusage": 38
       },
       "meta": {
         "Collection": "Dallas Museum of Art"
@@ -2193,8 +2201,8 @@
       "height": 2589,
       "tags": [],
       "popularity": {
-        "score": 206.3,
-        "pageviews_365d": 981,
+        "score": 207,
+        "pageviews_365d": 1011,
         "sitelinks": 2,
         "globalusage": 9
       },
@@ -2234,10 +2242,10 @@
       "height": 2593,
       "tags": [],
       "popularity": {
-        "score": 188.3,
-        "pageviews_365d": 261,
+        "score": 191.7,
+        "pageviews_365d": 297,
         "sitelinks": 2,
-        "globalusage": 44
+        "globalusage": 45
       },
       "meta": {
         "Collection": "Wallraf–Richartz Museum",
@@ -2269,8 +2277,8 @@
       "height": 1190,
       "tags": [],
       "popularity": {
-        "score": 208,
-        "pageviews_365d": 921,
+        "score": 211.8,
+        "pageviews_365d": 1070,
         "sitelinks": 2,
         "globalusage": 13
       },
@@ -2303,8 +2311,8 @@
       "height": 2073,
       "tags": [],
       "popularity": {
-        "score": 128.2,
-        "pageviews_365d": 49,
+        "score": 151.5,
+        "pageviews_365d": 126,
         "sitelinks": 2,
         "globalusage": 6
       },
@@ -2998,8 +3006,8 @@
       "height": 1663,
       "tags": [],
       "popularity": {
-        "score": 152,
-        "pageviews_365d": 151,
+        "score": 152.5,
+        "pageviews_365d": 154,
         "sitelinks": 1,
         "globalusage": 6
       },
@@ -3061,8 +3069,8 @@
       "height": 1836,
       "tags": [],
       "popularity": {
-        "score": 206,
-        "pageviews_365d": 884,
+        "score": 210.1,
+        "pageviews_365d": 1041,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -3193,8 +3201,8 @@
       "height": 6258,
       "tags": [],
       "popularity": {
-        "score": 194.7,
-        "pageviews_365d": 511,
+        "score": 195.5,
+        "pageviews_365d": 529,
         "sitelinks": 2,
         "globalusage": 15
       },
@@ -3261,8 +3269,8 @@
       "height": 3276,
       "tags": [],
       "popularity": {
-        "score": 175.4,
-        "pageviews_365d": 274,
+        "score": 181.2,
+        "pageviews_365d": 346,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -3398,8 +3406,8 @@
       "height": 4000,
       "tags": [],
       "popularity": {
-        "score": 261.7,
-        "pageviews_365d": 4402,
+        "score": 262.1,
+        "pageviews_365d": 4476,
         "sitelinks": 4,
         "globalusage": 35
       },
@@ -3465,8 +3473,8 @@
       "height": 1361,
       "tags": [],
       "popularity": {
-        "score": 193.6,
-        "pageviews_365d": 645,
+        "score": 196.1,
+        "pageviews_365d": 715,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -3567,8 +3575,8 @@
       "height": 3456,
       "tags": [],
       "popularity": {
-        "score": 199.1,
-        "pageviews_365d": 708,
+        "score": 200.4,
+        "pageviews_365d": 746,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -3827,8 +3835,8 @@
       "height": 1332,
       "tags": [],
       "popularity": {
-        "score": 233.4,
-        "pageviews_365d": 2469,
+        "score": 233.6,
+        "pageviews_365d": 2489,
         "sitelinks": 4,
         "globalusage": 8
       },
@@ -4157,8 +4165,8 @@
       "height": 837,
       "tags": [],
       "popularity": {
-        "score": 181.3,
-        "pageviews_365d": 394,
+        "score": 185.6,
+        "pageviews_365d": 469,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -4226,8 +4234,8 @@
       "height": 2768,
       "tags": [],
       "popularity": {
-        "score": 198.1,
-        "pageviews_365d": 870,
+        "score": 202,
+        "pageviews_365d": 1014,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -4260,8 +4268,8 @@
       "height": 1309,
       "tags": [],
       "popularity": {
-        "score": 235.3,
-        "pageviews_365d": 2118,
+        "score": 236.6,
+        "pageviews_365d": 2235,
         "sitelinks": 3,
         "globalusage": 19
       },
@@ -4363,10 +4371,10 @@
       "height": 2000,
       "tags": [],
       "popularity": {
-        "score": 30.9,
+        "score": 31.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 21
+        "globalusage": 22
       },
       "meta": {},
       "extras": {
@@ -4395,8 +4403,8 @@
       "height": 3200,
       "tags": [],
       "popularity": {
-        "score": 188.9,
-        "pageviews_365d": 601,
+        "score": 192.5,
+        "pageviews_365d": 695,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -4459,10 +4467,10 @@
       "height": 513,
       "tags": [],
       "popularity": {
-        "score": 24,
+        "score": 24.8,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 10
+        "globalusage": 11
       },
       "meta": {
         "Collection": "Museu da Chácara do Céu",
@@ -4556,8 +4564,8 @@
       "height": 660,
       "tags": [],
       "popularity": {
-        "score": 216.2,
-        "pageviews_365d": 866,
+        "score": 219.4,
+        "pageviews_365d": 985,
         "sitelinks": 2,
         "globalusage": 36
       },
@@ -4625,8 +4633,8 @@
       "height": 3311,
       "tags": [],
       "popularity": {
-        "score": 181.8,
-        "pageviews_365d": 425,
+        "score": 184.8,
+        "pageviews_365d": 479,
         "sitelinks": 2,
         "globalusage": 6
       },
@@ -4693,10 +4701,10 @@
       "height": 800,
       "tags": [],
       "popularity": {
-        "score": 259.2,
-        "pageviews_365d": 4361,
+        "score": 260.1,
+        "pageviews_365d": 4443,
         "sitelinks": 5,
-        "globalusage": 23
+        "globalusage": 24
       },
       "meta": {
         "Collection": "Musée des Augustins"
@@ -4727,8 +4735,8 @@
       "height": 491,
       "tags": [],
       "popularity": {
-        "score": 189.4,
-        "pageviews_365d": 612,
+        "score": 190.5,
+        "pageviews_365d": 640,
         "sitelinks": 2,
         "globalusage": 5
       },
@@ -4926,8 +4934,8 @@
       "height": 2301,
       "tags": [],
       "popularity": {
-        "score": 192,
-        "pageviews_365d": 570,
+        "score": 192.4,
+        "pageviews_365d": 580,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -4962,10 +4970,10 @@
       "height": 960,
       "tags": [],
       "popularity": {
-        "score": 194.7,
-        "pageviews_365d": 699,
+        "score": 197.1,
+        "pageviews_365d": 744,
         "sitelinks": 1,
-        "globalusage": 10
+        "globalusage": 11
       },
       "meta": {
         "Collection": "National Museum of Fine Arts, Argentina"
@@ -4996,8 +5004,8 @@
       "height": 650,
       "tags": [],
       "popularity": {
-        "score": 204.5,
-        "pageviews_365d": 1037,
+        "score": 205.4,
+        "pageviews_365d": 1073,
         "sitelinks": 1,
         "globalusage": 10
       },
@@ -5065,8 +5073,8 @@
       "height": 4001,
       "tags": [],
       "popularity": {
-        "score": 158.4,
-        "pageviews_365d": 169,
+        "score": 158.8,
+        "pageviews_365d": 172,
         "sitelinks": 1,
         "globalusage": 9
       },
@@ -5420,8 +5428,8 @@
       "height": 3106,
       "tags": [],
       "popularity": {
-        "score": 175.3,
-        "pageviews_365d": 270,
+        "score": 176.5,
+        "pageviews_365d": 283,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -5548,8 +5556,8 @@
       "height": 3200,
       "tags": [],
       "popularity": {
-        "score": 178,
-        "pageviews_365d": 346,
+        "score": 183.8,
+        "pageviews_365d": 437,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -5678,10 +5686,10 @@
       "height": 1600,
       "tags": [],
       "popularity": {
-        "score": 33,
+        "score": 33.3,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 26
+        "globalusage": 27
       },
       "meta": {
         "Collection": "Clark Art Institute"
@@ -5712,8 +5720,8 @@
       "height": 9660,
       "tags": [],
       "popularity": {
-        "score": 285.9,
-        "pageviews_365d": 8681,
+        "score": 286.4,
+        "pageviews_365d": 8856,
         "sitelinks": 6,
         "globalusage": 52
       },
@@ -5783,8 +5791,8 @@
       "height": 2246,
       "tags": [],
       "popularity": {
-        "score": 280.8,
-        "pageviews_365d": 14289,
+        "score": 281.1,
+        "pageviews_365d": 14485,
         "sitelinks": 3,
         "globalusage": 15
       },
@@ -5880,7 +5888,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-09-27T19:55:49.408Z",
+    "generated": "2026-10-01T12:15:06.440Z",
     "artist": {
       "qid": "Q105320",
       "name": "Berthe Morisot",

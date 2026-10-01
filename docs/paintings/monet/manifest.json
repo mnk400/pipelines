@@ -48,8 +48,8 @@
       "height": 623,
       "tags": [],
       "popularity": {
-        "score": 270.4,
-        "pageviews_365d": 8056,
+        "score": 272.1,
+        "pageviews_365d": 8618,
         "sitelinks": 4,
         "globalusage": 18
       },
@@ -116,10 +116,10 @@
       "height": 800,
       "tags": [],
       "popularity": {
-        "score": 219.8,
-        "pageviews_365d": 967,
+        "score": 219.4,
+        "pageviews_365d": 966,
         "sitelinks": 3,
-        "globalusage": 29
+        "globalusage": 28
       },
       "meta": {
         "Collection": "Musées Nationaux Récupération"
@@ -403,8 +403,8 @@
       "height": 3264,
       "tags": [],
       "popularity": {
-        "score": 203.9,
-        "pageviews_365d": 944,
+        "score": 208.8,
+        "pageviews_365d": 1150,
         "sitelinks": 1,
         "globalusage": 12
       },
@@ -679,8 +679,8 @@
       "height": 1099,
       "tags": [],
       "popularity": {
-        "score": 241.4,
-        "pageviews_365d": 3102,
+        "score": 241.7,
+        "pageviews_365d": 3137,
         "sitelinks": 2,
         "globalusage": 18
       },
@@ -817,8 +817,8 @@
       "height": 946,
       "tags": [],
       "popularity": {
-        "score": 215.5,
-        "pageviews_365d": 1350,
+        "score": 216.3,
+        "pageviews_365d": 1394,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -925,10 +925,10 @@
       "height": 926,
       "tags": [],
       "popularity": {
-        "score": 251.4,
-        "pageviews_365d": 3306,
+        "score": 251.2,
+        "pageviews_365d": 3309,
         "sitelinks": 2,
-        "globalusage": 43
+        "globalusage": 42
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -962,8 +962,8 @@
       "height": 1960,
       "tags": [],
       "popularity": {
-        "score": 239,
-        "pageviews_365d": 3309,
+        "score": 238.5,
+        "pageviews_365d": 3250,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -1094,8 +1094,8 @@
       "height": 4144,
       "tags": [],
       "popularity": {
-        "score": 215.5,
-        "pageviews_365d": 1929,
+        "score": 215.9,
+        "pageviews_365d": 1959,
         "sitelinks": 1,
         "globalusage": 6
       },
@@ -1240,8 +1240,8 @@
       "height": 3031,
       "tags": [],
       "popularity": {
-        "score": 218,
-        "pageviews_365d": 1104,
+        "score": 219.9,
+        "pageviews_365d": 1193,
         "sitelinks": 2,
         "globalusage": 23
       },
@@ -1346,8 +1346,8 @@
       "height": 1184,
       "tags": [],
       "popularity": {
-        "score": 169.9,
-        "pageviews_365d": 217,
+        "score": 171.4,
+        "pageviews_365d": 231,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -1382,8 +1382,8 @@
       "height": 4337,
       "tags": [],
       "popularity": {
-        "score": 241.8,
-        "pageviews_365d": 2928,
+        "score": 242,
+        "pageviews_365d": 2951,
         "sitelinks": 3,
         "globalusage": 16
       },
@@ -1454,8 +1454,8 @@
       "height": 5856,
       "tags": [],
       "popularity": {
-        "score": 340.3,
-        "pageviews_365d": 50817,
+        "score": 339.8,
+        "pageviews_365d": 49946,
         "sitelinks": 9,
         "globalusage": 102
       },
@@ -1562,10 +1562,10 @@
       "height": 3389,
       "tags": [],
       "popularity": {
-        "score": 6.9,
+        "score": 13.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 1
+        "globalusage": 3
       },
       "meta": {},
       "extras": {
@@ -1630,8 +1630,8 @@
       "height": 7069,
       "tags": [],
       "popularity": {
-        "score": 247.6,
-        "pageviews_365d": 3884,
+        "score": 247.4,
+        "pageviews_365d": 3853,
         "sitelinks": 4,
         "globalusage": 11
       },
@@ -1666,8 +1666,8 @@
       "height": 1020,
       "tags": [],
       "popularity": {
-        "score": 353.6,
-        "pageviews_365d": 105275,
+        "score": 353.4,
+        "pageviews_365d": 104526,
         "sitelinks": 17,
         "globalusage": 34
       },
@@ -1767,42 +1767,6 @@
       }
     },
     {
-      "id": "w-72",
-      "title": "Marine, Le Havre - Ordrupgaard",
-      "year": "1866",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Claude_Monet_-_Marine%2C_Le_Havre_-_Ordrupgaard.jpg/960px-Claude_Monet_-_Marine%2C_Le_Havre_-_Ordrupgaard.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Claude_Monet_-_Marine%2C_Le_Havre_-_Ordrupgaard.jpg",
-      "width": 2048,
-      "height": 1458,
-      "tags": [],
-      "popularity": {
-        "score": 20.8,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 7
-      },
-      "meta": {
-        "Collection": "Museum Ordrupgaard"
-      },
-      "extras": {
-        "qid": "Q66254514",
-        "catalog_number": "72",
-        "wildenstein": "72",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 43,
-          "width_cm": 59.5
-        },
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/jacquemartandre/status/930485753200726023\">twitter musée Jacquemard-André</a> <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://pbs.twimg.com/media/DOm_guXWkAAFpkO.jpg:large\">[1]</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "w-67",
       "title": "Women in the Garden",
       "year": "1866",
@@ -1812,8 +1776,8 @@
       "height": 2490,
       "tags": [],
       "popularity": {
-        "score": 353.7,
-        "pageviews_365d": 61790,
+        "score": 353.8,
+        "pageviews_365d": 61909,
         "sitelinks": 23,
         "globalusage": 100
       },
@@ -1849,8 +1813,8 @@
       "height": 2410,
       "tags": [],
       "popularity": {
-        "score": 279.2,
-        "pageviews_365d": 8336,
+        "score": 279.4,
+        "pageviews_365d": 8411,
         "sitelinks": 9,
         "globalusage": 20
       },
@@ -1948,8 +1912,8 @@
       "height": 4453,
       "tags": [],
       "popularity": {
-        "score": 360.6,
-        "pageviews_365d": 66488,
+        "score": 360.5,
+        "pageviews_365d": 66408,
         "sitelinks": 24,
         "globalusage": 159
       },
@@ -1985,7 +1949,7 @@
       "tags": [],
       "popularity": {
         "score": 212.6,
-        "pageviews_365d": 1152,
+        "pageviews_365d": 1149,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -2048,6 +2012,42 @@
       }
     },
     {
+      "id": "w-72",
+      "title": "Marine, Le Havre",
+      "year": "1867",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Claude_Monet_-_Marine%2C_Le_Havre.jpg/960px-Claude_Monet_-_Marine%2C_Le_Havre.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Claude_Monet_-_Marine%2C_Le_Havre.jpg",
+      "width": 6000,
+      "height": 4281,
+      "tags": [],
+      "popularity": {
+        "score": 16.1,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 4
+      },
+      "meta": {
+        "Collection": "Museum Ordrupgaard"
+      },
+      "extras": {
+        "qid": "Q66254514",
+        "catalog_number": "72",
+        "wildenstein": "72",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 43,
+          "width_cm": 59.5
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://museumordrupgaard.dk\">https://museumordrupgaard.dk</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "w-83",
       "title": "Quai du Louvre",
       "year": "1867",
@@ -2093,8 +2093,8 @@
       "height": 2790,
       "tags": [],
       "popularity": {
-        "score": 301.4,
-        "pageviews_365d": 11414,
+        "score": 301.9,
+        "pageviews_365d": 11668,
         "sitelinks": 15,
         "globalusage": 54
       },
@@ -2135,7 +2135,7 @@
         "globalusage": 14
       },
       "meta": {
-        "Collection": "Harvard Art Museums"
+        "Collection": "Fogg Museum"
       },
       "extras": {
         "qid": "Q70781190",
@@ -2143,7 +2143,7 @@
         "wildenstein": "80",
         "source": "wikidata",
         "dimensions": {
-          "height_cm": 56,
+          "height_cm": 54.5,
           "width_cm": 81
         },
         "iiif": "https://iiif.harvardartmuseums.org/manifests/object/299844",
@@ -2203,10 +2203,10 @@
       "height": 2961,
       "tags": [],
       "popularity": {
-        "score": 226.2,
-        "pageviews_365d": 2028,
+        "score": 225.8,
+        "pageviews_365d": 2090,
         "sitelinks": 3,
-        "globalusage": 8
+        "globalusage": 7
       },
       "meta": {
         "Collection": "Alte Nationalgalerie"
@@ -2275,8 +2275,8 @@
       "height": 5021,
       "tags": [],
       "popularity": {
-        "score": 299.3,
-        "pageviews_365d": 16415,
+        "score": 299.9,
+        "pageviews_365d": 16754,
         "sitelinks": 9,
         "globalusage": 28
       },
@@ -2317,7 +2317,7 @@
         "globalusage": 12
       },
       "meta": {
-        "Collection": "Museum of Art and History Geneva"
+        "Collection": "Garengo Foundation"
       },
       "extras": {
         "qid": "Q50700359",
@@ -2334,38 +2334,6 @@
       }
     },
     {
-      "id": "w-87",
-      "title": "The Entrance to the Port of Le Havre",
-      "year": "1867",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/%27The_Entrance_to_the_Port_of_Le_Havre%27_by_Monet%2C_Norton_Simon_Museum.JPG/960px-%27The_Entrance_to_the_Port_of_Le_Havre%27_by_Monet%2C_Norton_Simon_Museum.JPG",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/0/00/%27The_Entrance_to_the_Port_of_Le_Havre%27_by_Monet%2C_Norton_Simon_Museum.JPG",
-      "width": 3088,
-      "height": 2488,
-      "tags": [],
-      "popularity": {
-        "score": 30.9,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 21
-      },
-      "meta": {
-        "Collection": "Norton Simon Museum"
-      },
-      "extras": {
-        "qid": "Q50807790",
-        "catalog_number": "87",
-        "wildenstein": "87",
-        "source": "wikidata",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "w-73",
       "title": "The Green Wave",
       "year": "1867",
@@ -2375,8 +2343,8 @@
       "height": 2750,
       "tags": [],
       "popularity": {
-        "score": 226.5,
-        "pageviews_365d": 1366,
+        "score": 227.2,
+        "pageviews_365d": 1405,
         "sitelinks": 2,
         "globalusage": 32
       },
@@ -2411,8 +2379,8 @@
       "height": 1200,
       "tags": [],
       "popularity": {
-        "score": 264,
-        "pageviews_365d": 5788,
+        "score": 264.1,
+        "pageviews_365d": 5832,
         "sitelinks": 5,
         "globalusage": 18
       },
@@ -2447,8 +2415,8 @@
       "height": 2260,
       "tags": [],
       "popularity": {
-        "score": 344.2,
-        "pageviews_365d": 41081,
+        "score": 343.6,
+        "pageviews_365d": 40128,
         "sitelinks": 18,
         "globalusage": 135
       },
@@ -2656,8 +2624,8 @@
       "height": 1500,
       "tags": [],
       "popularity": {
-        "score": 276.5,
-        "pageviews_365d": 8033,
+        "score": 276.6,
+        "pageviews_365d": 8069,
         "sitelinks": 7,
         "globalusage": 21
       },
@@ -2690,8 +2658,8 @@
       "height": 2691,
       "tags": [],
       "popularity": {
-        "score": 242.4,
-        "pageviews_365d": 2397,
+        "score": 243.6,
+        "pageviews_365d": 2509,
         "sitelinks": 4,
         "globalusage": 23
       },
@@ -2763,8 +2731,8 @@
       "height": 2425,
       "tags": [],
       "popularity": {
-        "score": 283,
-        "pageviews_365d": 9243,
+        "score": 283.1,
+        "pageviews_365d": 9271,
         "sitelinks": 6,
         "globalusage": 33
       },
@@ -2894,6 +2862,42 @@
       }
     },
     {
+      "id": "w-87",
+      "title": "The Entrance to the Port of Le Havre",
+      "year": "1868",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Claude_Monet_-_The_Entrance_to_the_Port_of_Le_Havre.jpg/960px-Claude_Monet_-_The_Entrance_to_the_Port_of_Le_Havre.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Claude_Monet_-_The_Entrance_to_the_Port_of_Le_Havre.jpg",
+      "width": 11091,
+      "height": 9088,
+      "tags": [],
+      "popularity": {
+        "score": 13.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 3
+      },
+      "meta": {
+        "Collection": "Norton Simon Museum"
+      },
+      "extras": {
+        "qid": "Q50807790",
+        "catalog_number": "87",
+        "wildenstein": "87",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 50.2,
+          "width_cm": 61.3
+        },
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.nortonsimon.org\">https://www.nortonsimon.org</a>",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
       "id": "w-133",
       "title": "The Magpie",
       "year": "1868",
@@ -2903,8 +2907,8 @@
       "height": 2909,
       "tags": [],
       "popularity": {
-        "score": 365.3,
-        "pageviews_365d": 90073,
+        "score": 365.6,
+        "pageviews_365d": 91415,
         "sitelinks": 19,
         "globalusage": 149
       },
@@ -3012,8 +3016,8 @@
       "height": 4226,
       "tags": [],
       "popularity": {
-        "score": 249.2,
-        "pageviews_365d": 3356,
+        "score": 248.1,
+        "pageviews_365d": 3212,
         "sitelinks": 2,
         "globalusage": 33
       },
@@ -3084,8 +3088,8 @@
       "height": 2752,
       "tags": [],
       "popularity": {
-        "score": 349.9,
-        "pageviews_365d": 58952,
+        "score": 350.2,
+        "pageviews_365d": 59795,
         "sitelinks": 16,
         "globalusage": 108
       },
@@ -3385,16 +3389,16 @@
       "id": "w-154",
       "title": "Breakwater at Trouville, Low Tide",
       "year": "1870",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Claude_Monet_-_Entr%C3%A9e_du_port_de_Trouville.jpg/960px-Claude_Monet_-_Entr%C3%A9e_du_port_de_Trouville.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Claude_Monet_-_Entr%C3%A9e_du_port_de_Trouville.jpg",
-      "width": 3998,
-      "height": 3286,
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Claude_Monet_-_Breakwater_at_Trouville%2C_Low_Tide_-_Google_Arts_%26_Culture.jpg/960px-Claude_Monet_-_Breakwater_at_Trouville%2C_Low_Tide_-_Google_Arts_%26_Culture.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/3/33/Claude_Monet_-_Breakwater_at_Trouville%2C_Low_Tide_-_Google_Arts_%26_Culture.jpg",
+      "width": 4388,
+      "height": 3532,
       "tags": [],
       "popularity": {
-        "score": 24.8,
+        "score": 6.9,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 11
+        "globalusage": 1
       },
       "meta": {
         "Collection": "Hungarian National Gallery"
@@ -3406,13 +3410,13 @@
         "source": "wikidata",
         "dimensions": {
           "height_cm": 54,
-          "width_cm": 66
+          "width_cm": 65.7
         },
         "license": {
           "short_name": "Public domain",
           "url": null,
           "usage_terms": "Public domain",
-          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://eblouissantsreflets.fr/fr/oeuvres/entree-du-port-de-trouville\">http://eblouissantsreflets.fr/fr/oeuvres/entree-du-port-de-trouville</a>",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://artsandculture.google.com\">https://artsandculture.google.com</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -3463,8 +3467,8 @@
       "height": 4533,
       "tags": [],
       "popularity": {
-        "score": 265.8,
-        "pageviews_365d": 5345,
+        "score": 267.3,
+        "pageviews_365d": 5660,
         "sitelinks": 7,
         "globalusage": 20
       },
@@ -3500,8 +3504,8 @@
       "height": 3586,
       "tags": [],
       "popularity": {
-        "score": 229.7,
-        "pageviews_365d": 1828,
+        "score": 230.1,
+        "pageviews_365d": 1861,
         "sitelinks": 1,
         "globalusage": 32
       },
@@ -3610,7 +3614,7 @@
       "tags": [],
       "popularity": {
         "score": 263.3,
-        "pageviews_365d": 4569,
+        "pageviews_365d": 4570,
         "sitelinks": 3,
         "globalusage": 47
       },
@@ -3857,10 +3861,10 @@
       "height": 299,
       "tags": [],
       "popularity": {
-        "score": 263,
-        "pageviews_365d": 6699,
+        "score": 262.7,
+        "pageviews_365d": 6735,
         "sitelinks": 2,
-        "globalusage": 23
+        "globalusage": 22
       },
       "meta": {},
       "extras": {
@@ -3985,8 +3989,8 @@
       "height": 2506,
       "tags": [],
       "popularity": {
-        "score": 288.8,
-        "pageviews_365d": 7943,
+        "score": 288.5,
+        "pageviews_365d": 7849,
         "sitelinks": 9,
         "globalusage": 61
       },
@@ -4077,6 +4081,43 @@
           "url": null,
           "usage_terms": "Public domain",
           "credit": "Copied from an art book",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "w-163",
+      "title": "Meditation. Madame Monet on the Sofa",
+      "year": "1871",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Claude_Monet_-_M%C3%A9ditation._Madame_Monet_au_canap%C3%A9.jpg/960px-Claude_Monet_-_M%C3%A9ditation._Madame_Monet_au_canap%C3%A9.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/2/27/Claude_Monet_-_M%C3%A9ditation._Madame_Monet_au_canap%C3%A9.jpg",
+      "width": 2400,
+      "height": 1533,
+      "tags": [],
+      "popularity": {
+        "score": 13.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 3
+      },
+      "meta": {
+        "Collection": "Musée d'Orsay"
+      },
+      "extras": {
+        "qid": "Q17494240",
+        "catalog_number": "163",
+        "wildenstein": "163",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 48.2,
+          "width_cm": 74.5
+        },
+        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!806/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com\">https://www.christies.com</a>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -4331,8 +4372,8 @@
       "height": 1929,
       "tags": [],
       "popularity": {
-        "score": 232.2,
-        "pageviews_365d": 2096,
+        "score": 232.7,
+        "pageviews_365d": 2143,
         "sitelinks": 2,
         "globalusage": 19
       },
@@ -4441,8 +4482,8 @@
       "height": 1217,
       "tags": [],
       "popularity": {
-        "score": 215,
-        "pageviews_365d": 1196,
+        "score": 215.5,
+        "pageviews_365d": 1217,
         "sitelinks": 1,
         "globalusage": 21
       },
@@ -4475,8 +4516,8 @@
       "height": 2156,
       "tags": [],
       "popularity": {
-        "score": 269.5,
-        "pageviews_365d": 6403,
+        "score": 269.3,
+        "pageviews_365d": 6348,
         "sitelinks": 6,
         "globalusage": 21
       },
@@ -4911,8 +4952,8 @@
       "height": 2195,
       "tags": [],
       "popularity": {
-        "score": 227.3,
-        "pageviews_365d": 1430,
+        "score": 228.4,
+        "pageviews_365d": 1492,
         "sitelinks": 3,
         "globalusage": 23
       },
@@ -4948,8 +4989,8 @@
       "height": 4478,
       "tags": [],
       "popularity": {
-        "score": 446.6,
-        "pageviews_365d": 813445,
+        "score": 446.7,
+        "pageviews_365d": 816976,
         "sitelinks": 52,
         "globalusage": 788
       },
@@ -5080,8 +5121,8 @@
       "height": 3953,
       "tags": [],
       "popularity": {
-        "score": 248.7,
-        "pageviews_365d": 3185,
+        "score": 249.3,
+        "pageviews_365d": 3263,
         "sitelinks": 4,
         "globalusage": 21
       },
@@ -5224,7 +5265,7 @@
       "tags": [],
       "popularity": {
         "score": 311.2,
-        "pageviews_365d": 22752,
+        "pageviews_365d": 22754,
         "sitelinks": 14,
         "globalusage": 27
       },
@@ -5297,8 +5338,8 @@
       "height": 1224,
       "tags": [],
       "popularity": {
-        "score": 266.2,
-        "pageviews_365d": 5621,
+        "score": 266.1,
+        "pageviews_365d": 5596,
         "sitelinks": 6,
         "globalusage": 21
       },
@@ -5370,8 +5411,8 @@
       "height": 5037,
       "tags": [],
       "popularity": {
-        "score": 316.4,
-        "pageviews_365d": 27653,
+        "score": 316.8,
+        "pageviews_365d": 28166,
         "sitelinks": 11,
         "globalusage": 35
       },
@@ -5406,8 +5447,8 @@
       "height": 2068,
       "tags": [],
       "popularity": {
-        "score": 212.3,
-        "pageviews_365d": 812,
+        "score": 212.2,
+        "pageviews_365d": 810,
         "sitelinks": 3,
         "globalusage": 21
       },
@@ -5514,8 +5555,8 @@
       "height": 768,
       "tags": [],
       "popularity": {
-        "score": 224.8,
-        "pageviews_365d": 1706,
+        "score": 225.3,
+        "pageviews_365d": 1744,
         "sitelinks": 2,
         "globalusage": 15
       },
@@ -5622,8 +5663,8 @@
       "height": 700,
       "tags": [],
       "popularity": {
-        "score": 212.5,
-        "pageviews_365d": 868,
+        "score": 213.5,
+        "pageviews_365d": 902,
         "sitelinks": 3,
         "globalusage": 18
       },
@@ -5799,8 +5840,8 @@
       "height": 795,
       "tags": [],
       "popularity": {
-        "score": 167.4,
-        "pageviews_365d": 212,
+        "score": 169.7,
+        "pageviews_365d": 233,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -5908,7 +5949,7 @@
       "tags": [],
       "popularity": {
         "score": 305.5,
-        "pageviews_365d": 19221,
+        "pageviews_365d": 19196,
         "sitelinks": 10,
         "globalusage": 32
       },
@@ -6014,8 +6055,8 @@
       "height": 1441,
       "tags": [],
       "popularity": {
-        "score": 265.4,
-        "pageviews_365d": 4167,
+        "score": 265.7,
+        "pageviews_365d": 4212,
         "sitelinks": 4,
         "globalusage": 59
       },
@@ -6086,8 +6127,8 @@
       "height": 2976,
       "tags": [],
       "popularity": {
-        "score": 227,
-        "pageviews_365d": 1586,
+        "score": 226.3,
+        "pageviews_365d": 1542,
         "sitelinks": 3,
         "globalusage": 17
       },
@@ -6122,8 +6163,8 @@
       "height": 1611,
       "tags": [],
       "popularity": {
-        "score": 274.5,
-        "pageviews_365d": 6069,
+        "score": 274.8,
+        "pageviews_365d": 6160,
         "sitelinks": 9,
         "globalusage": 28
       },
@@ -6154,8 +6195,8 @@
       "height": 1889,
       "tags": [],
       "popularity": {
-        "score": 274.8,
-        "pageviews_365d": 5920,
+        "score": 275.1,
+        "pageviews_365d": 5988,
         "sitelinks": 4,
         "globalusage": 63
       },
@@ -6190,8 +6231,8 @@
       "height": 6512,
       "tags": [],
       "popularity": {
-        "score": 194.7,
-        "pageviews_365d": 603,
+        "score": 195.1,
+        "pageviews_365d": 612,
         "sitelinks": 3,
         "globalusage": 7
       },
@@ -6226,8 +6267,8 @@
       "height": 2436,
       "tags": [],
       "popularity": {
-        "score": 279.1,
-        "pageviews_365d": 8955,
+        "score": 279.6,
+        "pageviews_365d": 9124,
         "sitelinks": 6,
         "globalusage": 24
       },
@@ -6262,8 +6303,8 @@
       "height": 383,
       "tags": [],
       "popularity": {
-        "score": 263.1,
-        "pageviews_365d": 5367,
+        "score": 263.4,
+        "pageviews_365d": 5437,
         "sitelinks": 5,
         "globalusage": 20
       },
@@ -6516,9 +6557,9 @@
       "height": 2440,
       "tags": [],
       "popularity": {
-        "score": 28.3,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
+        "score": 153.7,
+        "pageviews_365d": 113,
+        "sitelinks": 1,
         "globalusage": 16
       },
       "meta": {
@@ -6588,8 +6629,8 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 295.4,
-        "pageviews_365d": 13808,
+        "score": 296.1,
+        "pageviews_365d": 14239,
         "sitelinks": 9,
         "globalusage": 29
       },
@@ -6625,8 +6666,8 @@
       "height": 602,
       "tags": [],
       "popularity": {
-        "score": 224.4,
-        "pageviews_365d": 1638,
+        "score": 225.1,
+        "pageviews_365d": 1689,
         "sitelinks": 2,
         "globalusage": 16
       },
@@ -6662,7 +6703,7 @@
       "tags": [],
       "popularity": {
         "score": 348.8,
-        "pageviews_365d": 92501,
+        "pageviews_365d": 92461,
         "sitelinks": 11,
         "globalusage": 44
       },
@@ -6698,8 +6739,8 @@
       "height": 4024,
       "tags": [],
       "popularity": {
-        "score": 253.8,
-        "pageviews_365d": 3782,
+        "score": 254,
+        "pageviews_365d": 3815,
         "sitelinks": 4,
         "globalusage": 23
       },
@@ -6735,8 +6776,8 @@
       "height": 1328,
       "tags": [],
       "popularity": {
-        "score": 250.1,
-        "pageviews_365d": 2870,
+        "score": 250.3,
+        "pageviews_365d": 2891,
         "sitelinks": 4,
         "globalusage": 32
       },
@@ -6805,8 +6846,8 @@
       "height": 830,
       "tags": [],
       "popularity": {
-        "score": 294.3,
-        "pageviews_365d": 13599,
+        "score": 294.4,
+        "pageviews_365d": 13643,
         "sitelinks": 6,
         "globalusage": 39
       },
@@ -6980,8 +7021,8 @@
       "height": 2501,
       "tags": [],
       "popularity": {
-        "score": 269.6,
-        "pageviews_365d": 5842,
+        "score": 269.2,
+        "pageviews_365d": 5754,
         "sitelinks": 6,
         "globalusage": 27
       },
@@ -7155,7 +7196,7 @@
       "tags": [],
       "popularity": {
         "score": 264,
-        "pageviews_365d": 5195,
+        "pageviews_365d": 5192,
         "sitelinks": 5,
         "globalusage": 24
       },
@@ -7190,8 +7231,8 @@
       "height": 1900,
       "tags": [],
       "popularity": {
-        "score": 244.5,
-        "pageviews_365d": 3008,
+        "score": 244,
+        "pageviews_365d": 2946,
         "sitelinks": 3,
         "globalusage": 20
       },
@@ -7355,43 +7396,6 @@
       }
     },
     {
-      "id": "w-339",
-      "title": "Les barques. Régates à Argenteuil",
-      "year": "1874",
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Claude_Monet_047.jpg/960px-Claude_Monet_047.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Claude_Monet_047.jpg",
-      "width": 1600,
-      "height": 998,
-      "tags": [],
-      "popularity": {
-        "score": 220,
-        "pageviews_365d": 1620,
-        "sitelinks": 1,
-        "globalusage": 16
-      },
-      "meta": {
-        "Collection": "Musée d'Orsay"
-      },
-      "extras": {
-        "qid": "Q3828534",
-        "catalog_number": "339",
-        "wildenstein": "339",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 60,
-          "width_cm": 100
-        },
-        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!1099/manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "wd-Q139898084",
       "title": "Manet malt im Garten Monets in Argenteuil",
       "year": "1874",
@@ -7401,8 +7405,8 @@
       "height": 752,
       "tags": [],
       "popularity": {
-        "score": 177.8,
-        "pageviews_365d": 280,
+        "score": 183.6,
+        "pageviews_365d": 352,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -7731,10 +7735,10 @@
       "height": 2736,
       "tags": [],
       "popularity": {
-        "score": 230.5,
-        "pageviews_365d": 2014,
+        "score": 229.8,
+        "pageviews_365d": 2017,
         "sitelinks": 3,
-        "globalusage": 13
+        "globalusage": 12
       },
       "meta": {
         "Collection": "Alte Nationalgalerie"
@@ -7835,8 +7839,8 @@
       "height": 5998,
       "tags": [],
       "popularity": {
-        "score": 192.6,
-        "pageviews_365d": 644,
+        "score": 193.5,
+        "pageviews_365d": 667,
         "sitelinks": 1,
         "globalusage": 10
       },
@@ -8122,8 +8126,8 @@
       "height": 2524,
       "tags": [],
       "popularity": {
-        "score": 284.6,
-        "pageviews_365d": 12683,
+        "score": 285.1,
+        "pageviews_365d": 12940,
         "sitelinks": 8,
         "globalusage": 13
       },
@@ -8435,8 +8439,8 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 242.2,
-        "pageviews_365d": 2789,
+        "score": 242.5,
+        "pageviews_365d": 2825,
         "sitelinks": 4,
         "globalusage": 15
       },
@@ -8620,7 +8624,7 @@
         "globalusage": 6
       },
       "meta": {
-        "Collection": "Impressionism: The Hasso Plattner Collection"
+        "Collection": "Museum Barberini"
       },
       "extras": {
         "qid": "Q108479164",
@@ -8687,8 +8691,8 @@
       "height": 2328,
       "tags": [],
       "popularity": {
-        "score": 190.3,
-        "pageviews_365d": 540,
+        "score": 192.8,
+        "pageviews_365d": 597,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -9034,8 +9038,8 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 262,
-        "pageviews_365d": 5235,
+        "score": 262.4,
+        "pageviews_365d": 5328,
         "sitelinks": 7,
         "globalusage": 14
       },
@@ -9108,7 +9112,7 @@
       "tags": [],
       "popularity": {
         "score": 302.4,
-        "pageviews_365d": 17579,
+        "pageviews_365d": 17641,
         "sitelinks": 9,
         "globalusage": 32
       },
@@ -9355,8 +9359,8 @@
       "height": 4042,
       "tags": [],
       "popularity": {
-        "score": 233.3,
-        "pageviews_365d": 2582,
+        "score": 232.6,
+        "pageviews_365d": 2507,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -9464,8 +9468,8 @@
       "height": 1128,
       "tags": [],
       "popularity": {
-        "score": 285.7,
-        "pageviews_365d": 12358,
+        "score": 285.6,
+        "pageviews_365d": 12335,
         "sitelinks": 5,
         "globalusage": 24
       },
@@ -9500,8 +9504,8 @@
       "height": 1193,
       "tags": [],
       "popularity": {
-        "score": 214,
-        "pageviews_365d": 1271,
+        "score": 214.9,
+        "pageviews_365d": 1318,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -9536,8 +9540,8 @@
       "height": 7455,
       "tags": [],
       "popularity": {
-        "score": 399.4,
-        "pageviews_365d": 286934,
+        "score": 399.7,
+        "pageviews_365d": 290463,
         "sitelinks": 23,
         "globalusage": 209
       },
@@ -9646,8 +9650,8 @@
       "height": 1890,
       "tags": [],
       "popularity": {
-        "score": 181.5,
-        "pageviews_365d": 296,
+        "score": 181.9,
+        "pageviews_365d": 301,
         "sitelinks": 1,
         "globalusage": 24
       },
@@ -9680,8 +9684,8 @@
       "height": 1107,
       "tags": [],
       "popularity": {
-        "score": 218.7,
-        "pageviews_365d": 1467,
+        "score": 218.3,
+        "pageviews_365d": 1447,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -9785,7 +9789,7 @@
       "tags": [],
       "popularity": {
         "score": 353.9,
-        "pageviews_365d": 68967,
+        "pageviews_365d": 68868,
         "sitelinks": 14,
         "globalusage": 124
       },
@@ -10062,8 +10066,8 @@
       "height": 1070,
       "tags": [],
       "popularity": {
-        "score": 288.4,
-        "pageviews_365d": 11143,
+        "score": 288.3,
+        "pageviews_365d": 11119,
         "sitelinks": 4,
         "globalusage": 50
       },
@@ -10098,8 +10102,8 @@
       "height": 825,
       "tags": [],
       "popularity": {
-        "score": 225.6,
-        "pageviews_365d": 1636,
+        "score": 226,
+        "pageviews_365d": 1662,
         "sitelinks": 1,
         "globalusage": 28
       },
@@ -10134,8 +10138,8 @@
       "height": 1460,
       "tags": [],
       "popularity": {
-        "score": 223.2,
-        "pageviews_365d": 1508,
+        "score": 222.6,
+        "pageviews_365d": 1468,
         "sitelinks": 3,
         "globalusage": 13
       },
@@ -10170,8 +10174,8 @@
       "height": 4418,
       "tags": [],
       "popularity": {
-        "score": 301.4,
-        "pageviews_365d": 14018,
+        "score": 301.6,
+        "pageviews_365d": 14115,
         "sitelinks": 7,
         "globalusage": 65
       },
@@ -10206,10 +10210,10 @@
       "height": 1317,
       "tags": [],
       "popularity": {
-        "score": 289.4,
-        "pageviews_365d": 10614,
+        "score": 289.5,
+        "pageviews_365d": 10754,
         "sitelinks": 7,
-        "globalusage": 39
+        "globalusage": 38
       },
       "meta": {
         "Collection": "Hermitage Museum"
@@ -10374,8 +10378,8 @@
       "height": 2637,
       "tags": [],
       "popularity": {
-        "score": 276.3,
-        "pageviews_365d": 6656,
+        "score": 275.7,
+        "pageviews_365d": 6507,
         "sitelinks": 3,
         "globalusage": 68
       },
@@ -10473,8 +10477,8 @@
       "height": 662,
       "tags": [],
       "popularity": {
-        "score": 272.9,
-        "pageviews_365d": 6037,
+        "score": 273.3,
+        "pageviews_365d": 6117,
         "sitelinks": 6,
         "globalusage": 35
       },
@@ -10509,8 +10513,8 @@
       "height": 2859,
       "tags": [],
       "popularity": {
-        "score": 262,
-        "pageviews_365d": 4979,
+        "score": 262.5,
+        "pageviews_365d": 5080,
         "sitelinks": 7,
         "globalusage": 16
       },
@@ -10579,8 +10583,8 @@
       "height": 5087,
       "tags": [],
       "popularity": {
-        "score": 185.9,
-        "pageviews_365d": 403,
+        "score": 187.9,
+        "pageviews_365d": 437,
         "sitelinks": 2,
         "globalusage": 11
       },
@@ -10652,10 +10656,10 @@
       "height": 1238,
       "tags": [],
       "popularity": {
-        "score": 280.1,
-        "pageviews_365d": 8555,
+        "score": 280.3,
+        "pageviews_365d": 8705,
         "sitelinks": 4,
-        "globalusage": 42
+        "globalusage": 41
       },
       "meta": {
         "Collection": "Musée d'Orsay"
@@ -10932,8 +10936,8 @@
       "height": 8753,
       "tags": [],
       "popularity": {
-        "score": 306,
-        "pageviews_365d": 22016,
+        "score": 306.1,
+        "pageviews_365d": 22141,
         "sitelinks": 8,
         "globalusage": 29
       },
@@ -11257,8 +11261,8 @@
       "height": 5860,
       "tags": [],
       "popularity": {
-        "score": 249.4,
-        "pageviews_365d": 2939,
+        "score": 250,
+        "pageviews_365d": 3019,
         "sitelinks": 2,
         "globalusage": 47
       },
@@ -11400,8 +11404,8 @@
       "height": 5087,
       "tags": [],
       "popularity": {
-        "score": 311.9,
-        "pageviews_365d": 22724,
+        "score": 313.4,
+        "pageviews_365d": 24182,
         "sitelinks": 8,
         "globalusage": 49
       },
@@ -11794,8 +11798,8 @@
       "height": 1800,
       "tags": [],
       "popularity": {
-        "score": 261.5,
-        "pageviews_365d": 3975,
+        "score": 262.2,
+        "pageviews_365d": 4097,
         "sitelinks": 5,
         "globalusage": 37
       },
@@ -11972,7 +11976,7 @@
         "globalusage": 13
       },
       "meta": {
-        "Collection": "Museum Barberini"
+        "Collection": "Impressionism: The Hasso Plattner Collection"
       },
       "extras": {
         "qid": "Q108479165",
@@ -12292,8 +12296,8 @@
       "height": 674,
       "tags": [],
       "popularity": {
-        "score": 211.7,
-        "pageviews_365d": 1068,
+        "score": 212.1,
+        "pageviews_365d": 1084,
         "sitelinks": 2,
         "globalusage": 13
       },
@@ -12329,8 +12333,8 @@
       "height": 295,
       "tags": [],
       "popularity": {
-        "score": 171,
-        "pageviews_365d": 217,
+        "score": 173.1,
+        "pageviews_365d": 236,
         "sitelinks": 1,
         "globalusage": 18
       },
@@ -12361,8 +12365,8 @@
       "height": 2106,
       "tags": [],
       "popularity": {
-        "score": 169.9,
-        "pageviews_365d": 250,
+        "score": 170.8,
+        "pageviews_365d": 259,
         "sitelinks": 1,
         "globalusage": 11
       },
@@ -12689,8 +12693,8 @@
       "height": 7384,
       "tags": [],
       "popularity": {
-        "score": 209.5,
-        "pageviews_365d": 1061,
+        "score": 210.5,
+        "pageviews_365d": 1105,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -12865,8 +12869,8 @@
       "height": 482,
       "tags": [],
       "popularity": {
-        "score": 196.5,
-        "pageviews_365d": 458,
+        "score": 197.3,
+        "pageviews_365d": 473,
         "sitelinks": 1,
         "globalusage": 37
       },
@@ -13363,8 +13367,8 @@
       "height": 3691,
       "tags": [],
       "popularity": {
-        "score": 233,
-        "pageviews_365d": 2753,
+        "score": 234.3,
+        "pageviews_365d": 2902,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -13543,8 +13547,8 @@
       "height": 2132,
       "tags": [],
       "popularity": {
-        "score": 211.2,
-        "pageviews_365d": 1150,
+        "score": 211.5,
+        "pageviews_365d": 1165,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -13977,8 +13981,8 @@
       "height": 1881,
       "tags": [],
       "popularity": {
-        "score": 243.6,
-        "pageviews_365d": 3226,
+        "score": 244,
+        "pageviews_365d": 3276,
         "sitelinks": 3,
         "globalusage": 15
       },
@@ -14154,8 +14158,8 @@
       "height": 3966,
       "tags": [],
       "popularity": {
-        "score": 247.5,
-        "pageviews_365d": 2495,
+        "score": 246.6,
+        "pageviews_365d": 2410,
         "sitelinks": 1,
         "globalusage": 89
       },
@@ -14547,10 +14551,10 @@
       "height": 4226,
       "tags": [],
       "popularity": {
-        "score": 228.5,
-        "pageviews_365d": 1303,
+        "score": 228.6,
+        "pageviews_365d": 1344,
         "sitelinks": 3,
-        "globalusage": 33
+        "globalusage": 31
       },
       "meta": {
         "Collection": "Hugh Lane Gallery"
@@ -14897,8 +14901,8 @@
       "height": 3130,
       "tags": [],
       "popularity": {
-        "score": 261.9,
-        "pageviews_365d": 5458,
+        "score": 261.4,
+        "pageviews_365d": 5347,
         "sitelinks": 2,
         "globalusage": 35
       },
@@ -15260,8 +15264,8 @@
       "height": 589,
       "tags": [],
       "popularity": {
-        "score": 248,
-        "pageviews_365d": 3593,
+        "score": 248.6,
+        "pageviews_365d": 3679,
         "sitelinks": 3,
         "globalusage": 18
       },
@@ -15362,8 +15366,8 @@
       "height": 550,
       "tags": [],
       "popularity": {
-        "score": 314.6,
-        "pageviews_365d": 24705,
+        "score": 314.3,
+        "pageviews_365d": 24366,
         "sitelinks": 11,
         "globalusage": 39
       },
@@ -15897,8 +15901,8 @@
       "height": 1400,
       "tags": [],
       "popularity": {
-        "score": 208,
-        "pageviews_365d": 1024,
+        "score": 208.7,
+        "pageviews_365d": 1056,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -15967,8 +15971,8 @@
       "height": 2554,
       "tags": [],
       "popularity": {
-        "score": 258.4,
-        "pageviews_365d": 5564,
+        "score": 258.5,
+        "pageviews_365d": 5584,
         "sitelinks": 8,
         "globalusage": 7
       },
@@ -16255,8 +16259,8 @@
       "height": 2774,
       "tags": [],
       "popularity": {
-        "score": 237.5,
-        "pageviews_365d": 1564,
+        "score": 238.5,
+        "pageviews_365d": 1631,
         "sitelinks": 3,
         "globalusage": 52
       },
@@ -16499,8 +16503,8 @@
       "height": 837,
       "tags": [],
       "popularity": {
-        "score": 142.7,
-        "pageviews_365d": 90,
+        "score": 155.9,
+        "pageviews_365d": 153,
         "sitelinks": 1,
         "globalusage": 9
       },
@@ -16565,8 +16569,8 @@
       "height": 2613,
       "tags": [],
       "popularity": {
-        "score": 209.2,
-        "pageviews_365d": 1354,
+        "score": 208.8,
+        "pageviews_365d": 1333,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -16635,8 +16639,8 @@
       "height": 3508,
       "tags": [],
       "popularity": {
-        "score": 289.5,
-        "pageviews_365d": 10473,
+        "score": 289.7,
+        "pageviews_365d": 10564,
         "sitelinks": 8,
         "globalusage": 36
       },
@@ -17099,7 +17103,7 @@
       "tags": [],
       "popularity": {
         "score": 315.3,
-        "pageviews_365d": 31906,
+        "pageviews_365d": 31862,
         "sitelinks": 7,
         "globalusage": 33
       },
@@ -17272,8 +17276,8 @@
       "height": 240,
       "tags": [],
       "popularity": {
-        "score": 233.7,
-        "pageviews_365d": 3465,
+        "score": 233.5,
+        "pageviews_365d": 3434,
         "sitelinks": 1,
         "globalusage": 9
       },
@@ -17525,8 +17529,8 @@
       "height": 3763,
       "tags": [],
       "popularity": {
-        "score": 210,
-        "pageviews_365d": 848,
+        "score": 210.2,
+        "pageviews_365d": 853,
         "sitelinks": 2,
         "globalusage": 20
       },
@@ -17633,8 +17637,8 @@
       "height": 1209,
       "tags": [],
       "popularity": {
-        "score": 277.6,
-        "pageviews_365d": 7383,
+        "score": 277.2,
+        "pageviews_365d": 7278,
         "sitelinks": 8,
         "globalusage": 26
       },
@@ -17770,8 +17774,8 @@
       "height": 684,
       "tags": [],
       "popularity": {
-        "score": 242.8,
-        "pageviews_365d": 2670,
+        "score": 243.5,
+        "pageviews_365d": 2748,
         "sitelinks": 4,
         "globalusage": 18
       },
@@ -18304,8 +18308,8 @@
       "height": 2393,
       "tags": [],
       "popularity": {
-        "score": 234.4,
-        "pageviews_365d": 1757,
+        "score": 234.7,
+        "pageviews_365d": 1775,
         "sitelinks": 2,
         "globalusage": 38
       },
@@ -18556,8 +18560,8 @@
       "height": 1532,
       "tags": [],
       "popularity": {
-        "score": 261.2,
-        "pageviews_365d": 6023,
+        "score": 260.9,
+        "pageviews_365d": 5968,
         "sitelinks": 5,
         "globalusage": 12
       },
@@ -19133,8 +19137,8 @@
       "height": 4572,
       "tags": [],
       "popularity": {
-        "score": 272.8,
-        "pageviews_365d": 4875,
+        "score": 272.6,
+        "pageviews_365d": 4839,
         "sitelinks": 8,
         "globalusage": 46
       },
@@ -19382,8 +19386,8 @@
       "height": 3688,
       "tags": [],
       "popularity": {
-        "score": 237.3,
-        "pageviews_365d": 1979,
+        "score": 237.6,
+        "pageviews_365d": 2002,
         "sitelinks": 3,
         "globalusage": 28
       },
@@ -19563,8 +19567,8 @@
       "height": 2364,
       "tags": [],
       "popularity": {
-        "score": 164.9,
-        "pageviews_365d": 198,
+        "score": 165.9,
+        "pageviews_365d": 206,
         "sitelinks": 1,
         "globalusage": 12
       },
@@ -20228,8 +20232,8 @@
       "height": 4551,
       "tags": [],
       "popularity": {
-        "score": 201.8,
-        "pageviews_365d": 572,
+        "score": 202,
+        "pageviews_365d": 577,
         "sitelinks": 1,
         "globalusage": 36
       },
@@ -20264,8 +20268,8 @@
       "height": 3388,
       "tags": [],
       "popularity": {
-        "score": 195.7,
-        "pageviews_365d": 532,
+        "score": 200.4,
+        "pageviews_365d": 642,
         "sitelinks": 2,
         "globalusage": 15
       },
@@ -20409,8 +20413,8 @@
       "height": 3207,
       "tags": [],
       "popularity": {
-        "score": 187.9,
-        "pageviews_365d": 347,
+        "score": 191.4,
+        "pageviews_365d": 399,
         "sitelinks": 1,
         "globalusage": 31
       },
@@ -20442,7 +20446,7 @@
       "tags": [],
       "popularity": {
         "score": 292.4,
-        "pageviews_365d": 11389,
+        "pageviews_365d": 11397,
         "sitelinks": 3,
         "globalusage": 89
       },
@@ -20477,8 +20481,8 @@
       "height": 2380,
       "tags": [],
       "popularity": {
-        "score": 198.2,
-        "pageviews_365d": 639,
+        "score": 199.2,
+        "pageviews_365d": 666,
         "sitelinks": 2,
         "globalusage": 12
       },
@@ -20837,8 +20841,8 @@
       "height": 2175,
       "tags": [],
       "popularity": {
-        "score": 280.4,
-        "pageviews_365d": 11252,
+        "score": 280.8,
+        "pageviews_365d": 11457,
         "sitelinks": 7,
         "globalusage": 13
       },
@@ -20982,8 +20986,8 @@
       "height": 10277,
       "tags": [],
       "popularity": {
-        "score": 281.2,
-        "pageviews_365d": 15817,
+        "score": 281.1,
+        "pageviews_365d": 15739,
         "sitelinks": 3,
         "globalusage": 12
       },
@@ -21055,8 +21059,8 @@
       "height": 4800,
       "tags": [],
       "popularity": {
-        "score": 266.7,
-        "pageviews_365d": 6133,
+        "score": 266.6,
+        "pageviews_365d": 6103,
         "sitelinks": 4,
         "globalusage": 25
       },
@@ -21692,8 +21696,8 @@
       "height": 2393,
       "tags": [],
       "popularity": {
-        "score": 206.4,
-        "pageviews_365d": 832,
+        "score": 205.3,
+        "pageviews_365d": 795,
         "sitelinks": 1,
         "globalusage": 22
       },
@@ -21728,8 +21732,8 @@
       "height": 8042,
       "tags": [],
       "popularity": {
-        "score": 200.9,
-        "pageviews_365d": 405,
+        "score": 201.9,
+        "pageviews_365d": 422,
         "sitelinks": 1,
         "globalusage": 79
       },
@@ -21832,8 +21836,8 @@
       "height": 2792,
       "tags": [],
       "popularity": {
-        "score": 242.9,
-        "pageviews_365d": 2399,
+        "score": 243.1,
+        "pageviews_365d": 2426,
         "sitelinks": 4,
         "globalusage": 24
       },
@@ -21905,8 +21909,8 @@
       "height": 2360,
       "tags": [],
       "popularity": {
-        "score": 264.6,
-        "pageviews_365d": 6253,
+        "score": 261.8,
+        "pageviews_365d": 5587,
         "sitelinks": 3,
         "globalusage": 24
       },
@@ -21941,8 +21945,8 @@
       "height": 3537,
       "tags": [],
       "popularity": {
-        "score": 220.3,
-        "pageviews_365d": 1138,
+        "score": 220.7,
+        "pageviews_365d": 1158,
         "sitelinks": 1,
         "globalusage": 41
       },
@@ -22121,8 +22125,8 @@
       "height": 1200,
       "tags": [],
       "popularity": {
-        "score": 255.8,
-        "pageviews_365d": 5808,
+        "score": 255.3,
+        "pageviews_365d": 5693,
         "sitelinks": 4,
         "globalusage": 9
       },
@@ -22406,8 +22410,8 @@
       "height": 10810,
       "tags": [],
       "popularity": {
-        "score": 308.4,
-        "pageviews_365d": 34966,
+        "score": 308.7,
+        "pageviews_365d": 35394,
         "sitelinks": 8,
         "globalusage": 11
       },
@@ -22543,8 +22547,8 @@
       "height": 1772,
       "tags": [],
       "popularity": {
-        "score": 214.5,
-        "pageviews_365d": 1103,
+        "score": 214.8,
+        "pageviews_365d": 1116,
         "sitelinks": 2,
         "globalusage": 16
       },
@@ -22611,8 +22615,8 @@
       "height": 764,
       "tags": [],
       "popularity": {
-        "score": 256.3,
-        "pageviews_365d": 3767,
+        "score": 256.8,
+        "pageviews_365d": 3845,
         "sitelinks": 4,
         "globalusage": 30
       },
@@ -22793,8 +22797,8 @@
       "height": 798,
       "tags": [],
       "popularity": {
-        "score": 216.3,
-        "pageviews_365d": 1214,
+        "score": 217.5,
+        "pageviews_365d": 1276,
         "sitelinks": 3,
         "globalusage": 11
       },
@@ -22902,8 +22906,8 @@
       "height": 858,
       "tags": [],
       "popularity": {
-        "score": 228.5,
-        "pageviews_365d": 2035,
+        "score": 229.6,
+        "pageviews_365d": 2126,
         "sitelinks": 2,
         "globalusage": 14
       },
@@ -22936,8 +22940,8 @@
       "height": 4533,
       "tags": [],
       "popularity": {
-        "score": 223.7,
-        "pageviews_365d": 1440,
+        "score": 224.2,
+        "pageviews_365d": 1469,
         "sitelinks": 2,
         "globalusage": 21
       },
@@ -23571,8 +23575,8 @@
       "height": 2640,
       "tags": [],
       "popularity": {
-        "score": 243.4,
-        "pageviews_365d": 2535,
+        "score": 243.9,
+        "pageviews_365d": 2589,
         "sitelinks": 4,
         "globalusage": 22
       },
@@ -23789,8 +23793,8 @@
       "height": 682,
       "tags": [],
       "popularity": {
-        "score": 173.7,
-        "pageviews_365d": 342,
+        "score": 174.6,
+        "pageviews_365d": 355,
         "sitelinks": 1,
         "globalusage": 7
       },
@@ -24285,8 +24289,8 @@
       "height": 829,
       "tags": [],
       "popularity": {
-        "score": 258.3,
-        "pageviews_365d": 4017,
+        "score": 258.7,
+        "pageviews_365d": 4085,
         "sitelinks": 6,
         "globalusage": 22
       },
@@ -24465,8 +24469,8 @@
       "height": 2081,
       "tags": [],
       "popularity": {
-        "score": 247.9,
-        "pageviews_365d": 4413,
+        "score": 247.8,
+        "pageviews_365d": 4400,
         "sitelinks": 4,
         "globalusage": 8
       },
@@ -24645,10 +24649,10 @@
       "height": 4025,
       "tags": [],
       "popularity": {
-        "score": 287.2,
-        "pageviews_365d": 8461,
+        "score": 287.5,
+        "pageviews_365d": 8335,
         "sitelinks": 10,
-        "globalusage": 40
+        "globalusage": 43
       },
       "meta": {
         "Collection": "São Paulo Museum of Art"
@@ -24717,8 +24721,8 @@
       "height": 706,
       "tags": [],
       "popularity": {
-        "score": 274,
-        "pageviews_365d": 6193,
+        "score": 274.2,
+        "pageviews_365d": 6244,
         "sitelinks": 7,
         "globalusage": 32
       },
@@ -24971,8 +24975,8 @@
       "height": 3163,
       "tags": [],
       "popularity": {
-        "score": 265.9,
-        "pageviews_365d": 6720,
+        "score": 265.5,
+        "pageviews_365d": 6625,
         "sitelinks": 4,
         "globalusage": 18
       },
@@ -25269,8 +25273,8 @@
       "height": 1772,
       "tags": [],
       "popularity": {
-        "score": 197.1,
-        "pageviews_365d": 631,
+        "score": 198.3,
+        "pageviews_365d": 663,
         "sitelinks": 1,
         "globalusage": 17
       },
@@ -25986,8 +25990,8 @@
       "height": 5353,
       "tags": [],
       "popularity": {
-        "score": 204.6,
-        "pageviews_365d": 818,
+        "score": 205.4,
+        "pageviews_365d": 846,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -26133,8 +26137,8 @@
       "height": 3297,
       "tags": [],
       "popularity": {
-        "score": 228.5,
-        "pageviews_365d": 1465,
+        "score": 229.7,
+        "pageviews_365d": 1537,
         "sitelinks": 2,
         "globalusage": 33
       },
@@ -26170,10 +26174,10 @@
       "height": 4001,
       "tags": [],
       "popularity": {
-        "score": 234.9,
-        "pageviews_365d": 2294,
+        "score": 235.2,
+        "pageviews_365d": 2371,
         "sitelinks": 2,
-        "globalusage": 20
+        "globalusage": 19
       },
       "meta": {
         "Collection": "National Galleries Scotland",
@@ -27086,8 +27090,8 @@
       "height": 2522,
       "tags": [],
       "popularity": {
-        "score": 169.6,
-        "pageviews_365d": 187,
+        "score": 171.4,
+        "pageviews_365d": 201,
         "sitelinks": 1,
         "globalusage": 23
       },
@@ -27514,8 +27518,8 @@
       "height": 2449,
       "tags": [],
       "popularity": {
-        "score": 199.5,
-        "pageviews_365d": 459,
+        "score": 199.4,
+        "pageviews_365d": 457,
         "sitelinks": 2,
         "globalusage": 33
       },
@@ -27949,8 +27953,8 @@
       "height": 10423,
       "tags": [],
       "popularity": {
-        "score": 128.6,
-        "pageviews_365d": 47,
+        "score": 132,
+        "pageviews_365d": 54,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -27986,8 +27990,8 @@
       "height": 10000,
       "tags": [],
       "popularity": {
-        "score": 162.7,
-        "pageviews_365d": 187,
+        "score": 164,
+        "pageviews_365d": 197,
         "sitelinks": 2,
         "globalusage": 7
       },
@@ -28060,8 +28064,8 @@
       "height": 371,
       "tags": [],
       "popularity": {
-        "score": 193.1,
-        "pageviews_365d": 596,
+        "score": 193.5,
+        "pageviews_365d": 605,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -28132,8 +28136,8 @@
       "height": 3557,
       "tags": [],
       "popularity": {
-        "score": 195.3,
-        "pageviews_365d": 564,
+        "score": 197.1,
+        "pageviews_365d": 606,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -28697,8 +28701,8 @@
       "height": 2369,
       "tags": [],
       "popularity": {
-        "score": 201.6,
-        "pageviews_365d": 654,
+        "score": 202.9,
+        "pageviews_365d": 689,
         "sitelinks": 1,
         "globalusage": 25
       },
@@ -28805,8 +28809,8 @@
       "height": 600,
       "tags": [],
       "popularity": {
-        "score": 198.7,
-        "pageviews_365d": 623,
+        "score": 198.9,
+        "pageviews_365d": 627,
         "sitelinks": 1,
         "globalusage": 21
       },
@@ -28841,8 +28845,8 @@
       "height": 4000,
       "tags": [],
       "popularity": {
-        "score": 163,
-        "pageviews_365d": 235,
+        "score": 164,
+        "pageviews_365d": 245,
         "sitelinks": 1,
         "globalusage": 6
       },
@@ -28913,8 +28917,8 @@
       "height": 635,
       "tags": [],
       "popularity": {
-        "score": 189,
-        "pageviews_365d": 603,
+        "score": 190,
+        "pageviews_365d": 627,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -29022,8 +29026,8 @@
       "height": 549,
       "tags": [],
       "popularity": {
-        "score": 217.5,
-        "pageviews_365d": 1604,
+        "score": 217.1,
+        "pageviews_365d": 1582,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -29240,8 +29244,8 @@
       "height": 3821,
       "tags": [],
       "popularity": {
-        "score": 165.7,
-        "pageviews_365d": 179,
+        "score": 175.5,
+        "pageviews_365d": 266,
         "sitelinks": 1,
         "globalusage": 17
       },
@@ -29564,8 +29568,8 @@
       "height": 731,
       "tags": [],
       "popularity": {
-        "score": 200.1,
-        "pageviews_365d": 787,
+        "score": 200.3,
+        "pageviews_365d": 796,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -29822,8 +29826,8 @@
       "height": 2012,
       "tags": [],
       "popularity": {
-        "score": 220.9,
-        "pageviews_365d": 1392,
+        "score": 220.2,
+        "pageviews_365d": 1356,
         "sitelinks": 2,
         "globalusage": 17
       },
@@ -29858,8 +29862,8 @@
       "height": 599,
       "tags": [],
       "popularity": {
-        "score": 199.1,
-        "pageviews_365d": 768,
+        "score": 197.8,
+        "pageviews_365d": 730,
         "sitelinks": 2,
         "globalusage": 8
       },
@@ -30356,8 +30360,8 @@
       "height": 480,
       "tags": [],
       "popularity": {
-        "score": 245.9,
-        "pageviews_365d": 3170,
+        "score": 245.4,
+        "pageviews_365d": 3118,
         "sitelinks": 1,
         "globalusage": 41
       },
@@ -30651,8 +30655,8 @@
       "height": 3225,
       "tags": [],
       "popularity": {
-        "score": 265.4,
-        "pageviews_365d": 12827,
+        "score": 266.6,
+        "pageviews_365d": 13440,
         "sitelinks": 1,
         "globalusage": 8
       },
@@ -30761,8 +30765,8 @@
       "height": 4127,
       "tags": [],
       "popularity": {
-        "score": 208.3,
-        "pageviews_365d": 795,
+        "score": 207.8,
+        "pageviews_365d": 782,
         "sitelinks": 1,
         "globalusage": 30
       },
@@ -30832,10 +30836,10 @@
       "height": 1242,
       "tags": [],
       "popularity": {
-        "score": 312.5,
-        "pageviews_365d": 38259,
+        "score": 312.9,
+        "pageviews_365d": 38394,
         "sitelinks": 4,
-        "globalusage": 25
+        "globalusage": 26
       },
       "meta": {
         "Collection": "Musée d'Orsay",
@@ -30870,8 +30874,8 @@
       "height": 5821,
       "tags": [],
       "popularity": {
-        "score": 283.3,
-        "pageviews_365d": 16447,
+        "score": 283.5,
+        "pageviews_365d": 16593,
         "sitelinks": 1,
         "globalusage": 28
       },
@@ -31082,8 +31086,8 @@
       "height": 2372,
       "tags": [],
       "popularity": {
-        "score": 226.1,
-        "pageviews_365d": 1937,
+        "score": 226.8,
+        "pageviews_365d": 1994,
         "sitelinks": 1,
         "globalusage": 19
       },
@@ -31415,8 +31419,8 @@
       "height": 3231,
       "tags": [],
       "popularity": {
-        "score": 247.3,
-        "pageviews_365d": 3924,
+        "score": 247.4,
+        "pageviews_365d": 3940,
         "sitelinks": 2,
         "globalusage": 18
       },
@@ -31489,8 +31493,8 @@
       "height": 871,
       "tags": [],
       "popularity": {
-        "score": 348.5,
-        "pageviews_365d": 79576,
+        "score": 348.1,
+        "pageviews_365d": 78124,
         "sitelinks": 14,
         "globalusage": 50
       },
@@ -31985,8 +31989,8 @@
       "height": 3618,
       "tags": [],
       "popularity": {
-        "score": 222,
-        "pageviews_365d": 1399,
+        "score": 221.9,
+        "pageviews_365d": 1393,
         "sitelinks": 3,
         "globalusage": 14
       },
@@ -33698,8 +33702,8 @@
       "height": 1752,
       "tags": [],
       "popularity": {
-        "score": 175.6,
-        "pageviews_365d": 258,
+        "score": 175.5,
+        "pageviews_365d": 257,
         "sitelinks": 2,
         "globalusage": 12
       },
@@ -33990,8 +33994,8 @@
       "height": 1604,
       "tags": [],
       "popularity": {
-        "score": 238.8,
-        "pageviews_365d": 2241,
+        "score": 239.3,
+        "pageviews_365d": 2280,
         "sitelinks": 2,
         "globalusage": 32
       },
@@ -35115,8 +35119,8 @@
       "height": 5001,
       "tags": [],
       "popularity": {
-        "score": 190.5,
-        "pageviews_365d": 396,
+        "score": 193.8,
+        "pageviews_365d": 452,
         "sitelinks": 1,
         "globalusage": 29
       },
@@ -35148,8 +35152,8 @@
       "height": 425,
       "tags": [],
       "popularity": {
-        "score": 198.2,
-        "pageviews_365d": 692,
+        "score": 199.8,
+        "pageviews_365d": 738,
         "sitelinks": 1,
         "globalusage": 15
       },
@@ -35542,10 +35546,10 @@
       "height": 1024,
       "tags": [],
       "popularity": {
-        "score": 20.8,
+        "score": 19.5,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 7
+        "globalusage": 6
       },
       "meta": {
         "Series": "nympheas"
@@ -36102,8 +36106,8 @@
       "height": 10488,
       "tags": [],
       "popularity": {
-        "score": 201.4,
-        "pageviews_365d": 830,
+        "score": 201.9,
+        "pageviews_365d": 847,
         "sitelinks": 1,
         "globalusage": 13
       },
@@ -36208,8 +36212,8 @@
       "height": 1966,
       "tags": [],
       "popularity": {
-        "score": 188.2,
-        "pageviews_365d": 394,
+        "score": 191.4,
+        "pageviews_365d": 448,
         "sitelinks": 2,
         "globalusage": 15
       },
@@ -36278,8 +36282,8 @@
       "height": 1293,
       "tags": [],
       "popularity": {
-        "score": 193,
-        "pageviews_365d": 393,
+        "score": 197.8,
+        "pageviews_365d": 477,
         "sitelinks": 2,
         "globalusage": 25
       },
@@ -36656,8 +36660,8 @@
       "height": 1758,
       "tags": [],
       "popularity": {
-        "score": 343.6,
-        "pageviews_365d": 68097,
+        "score": 342.9,
+        "pageviews_365d": 66402,
         "sitelinks": 12,
         "globalusage": 52
       },
@@ -36764,8 +36768,8 @@
       "height": 2712,
       "tags": [],
       "popularity": {
-        "score": 294.8,
-        "pageviews_365d": 11587,
+        "score": 295,
+        "pageviews_365d": 11664,
         "sitelinks": 8,
         "globalusage": 48
       },
@@ -36836,8 +36840,8 @@
       "height": 1748,
       "tags": [],
       "popularity": {
-        "score": 311.4,
-        "pageviews_365d": 18468,
+        "score": 311.2,
+        "pageviews_365d": 18349,
         "sitelinks": 9,
         "globalusage": 71
       },
@@ -38200,8 +38204,8 @@
       "height": 2818,
       "tags": [],
       "popularity": {
-        "score": 274,
-        "pageviews_365d": 8094,
+        "score": 274.2,
+        "pageviews_365d": 8150,
         "sitelinks": 4,
         "globalusage": 26
       },
@@ -38708,8 +38712,8 @@
       "height": 8363,
       "tags": [],
       "popularity": {
-        "score": 193.4,
-        "pageviews_365d": 513,
+        "score": 190.9,
+        "pageviews_365d": 463,
         "sitelinks": 2,
         "globalusage": 13
       },
@@ -38884,8 +38888,8 @@
       "height": 2277,
       "tags": [],
       "popularity": {
-        "score": 250.5,
-        "pageviews_365d": 4203,
+        "score": 250.4,
+        "pageviews_365d": 4188,
         "sitelinks": 2,
         "globalusage": 21
       },
@@ -39207,8 +39211,8 @@
       "height": 492,
       "tags": [],
       "popularity": {
-        "score": 213.4,
-        "pageviews_365d": 1256,
+        "score": 213.2,
+        "pageviews_365d": 1245,
         "sitelinks": 2,
         "globalusage": 10
       },
@@ -39829,10 +39833,10 @@
       "height": 1221,
       "tags": [],
       "popularity": {
-        "score": 268.9,
-        "pageviews_365d": 4693,
+        "score": 272.8,
+        "pageviews_365d": 5532,
         "sitelinks": 6,
-        "globalusage": 44
+        "globalusage": 43
       },
       "meta": {
         "Collection": "Columbus Museum of Art"
@@ -39901,8 +39905,8 @@
       "height": 2991,
       "tags": [],
       "popularity": {
-        "score": 210.2,
-        "pageviews_365d": 792,
+        "score": 211.4,
+        "pageviews_365d": 830,
         "sitelinks": 1,
         "globalusage": 37
       },
@@ -40018,7 +40022,7 @@
         "Collection": "Musée Marmottan Monet"
       },
       "extras": {
-        "qid": "Q63952039",
+        "qid": "Q105099615",
         "catalog_number": "1903",
         "wildenstein": "1903",
         "source": "wikidata",
@@ -40035,8 +40039,8 @@
         },
         "aliases": [
           {
-            "id": "wd-Q105099615",
-            "qid": "Q105099615",
+            "id": "wd-Q63952039",
+            "qid": "Q63952039",
             "catalog_number": "1903",
             "wildenstein": "1903",
             "source": "wikidata",
@@ -40127,8 +40131,8 @@
       "height": 619,
       "tags": [],
       "popularity": {
-        "score": 316.5,
-        "pageviews_365d": 26557,
+        "score": 315.9,
+        "pageviews_365d": 25937,
         "sitelinks": 6,
         "globalusage": 68
       },
@@ -40308,8 +40312,8 @@
       "height": 817,
       "tags": [],
       "popularity": {
-        "score": 221.8,
-        "pageviews_365d": 1645,
+        "score": 222.3,
+        "pageviews_365d": 1678,
         "sitelinks": 2,
         "globalusage": 12
       },
@@ -41383,7 +41387,7 @@
         "globalusage": 30
       },
       "meta": {
-        "Collection": "Musées Nationaux Récupération"
+        "Collection": "Munich Central Collecting Point"
       },
       "extras": {
         "qid": "Q17491735",
@@ -41735,8 +41739,8 @@
       "height": 723,
       "tags": [],
       "popularity": {
-        "score": 198.3,
-        "pageviews_365d": 824,
+        "score": 199.6,
+        "pageviews_365d": 868,
         "sitelinks": 2,
         "globalusage": 6
       },
@@ -41882,10 +41886,10 @@
       "height": 8034,
       "tags": [],
       "popularity": {
-        "score": 263.9,
-        "pageviews_365d": 6769,
+        "score": 262.9,
+        "pageviews_365d": 6735,
         "sitelinks": 6,
-        "globalusage": 10
+        "globalusage": 9
       },
       "meta": {
         "Collection": "Pushkin Museum of Fine Arts",
@@ -42024,8 +42028,8 @@
       "height": 5936,
       "tags": [],
       "popularity": {
-        "score": 257.3,
-        "pageviews_365d": 3918,
+        "score": 257.5,
+        "pageviews_365d": 3956,
         "sitelinks": 4,
         "globalusage": 30
       },
@@ -42061,8 +42065,8 @@
       "height": 800,
       "tags": [],
       "popularity": {
-        "score": 219.9,
-        "pageviews_365d": 1611,
+        "score": 220.3,
+        "pageviews_365d": 1640,
         "sitelinks": 1,
         "globalusage": 16
       },
@@ -42152,6 +42156,35 @@
           "usage_terms": "Public domain",
           "credit": "National Gallery of Canada",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "w-157",
+      "title": "LA PLAGE À TROUVILLE (1870) Claude Monet (W157)",
+      "year": null,
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/LA_PLAGE_%C3%80_TROUVILLE_%281870%29_Claude_Monet_%28W157%29.jpg/960px-LA_PLAGE_%C3%80_TROUVILLE_%281870%29_Claude_Monet_%28W157%29.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/1/10/LA_PLAGE_%C3%80_TROUVILLE_%281870%29_Claude_Monet_%28W157%29.jpg",
+      "width": 2861,
+      "height": 1828,
+      "tags": [],
+      "popularity": {
+        "score": 6.9,
+        "pageviews_365d": 0,
+        "sitelinks": 0,
+        "globalusage": 1
+      },
+      "meta": {},
+      "extras": {
+        "catalog_number": "157",
+        "wildenstein": "157",
+        "source": "commons-wildenstein",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sothebys.com/en/auctions/ecatalogue/2008/impressionist-modern-art-evening-sale-l08007/lot.10.html\">https://www.sothebys.com/en/auctions/ecatalogue/2008/impressionist-modern-art-evening-sale-l08007/lot.10.html</a>",
+          "artist": "Claude Monet"
         }
       }
     },
@@ -42600,8 +42633,8 @@
       "height": 2002,
       "tags": [],
       "popularity": {
-        "score": 223.4,
-        "pageviews_365d": 1575,
+        "score": 223.9,
+        "pageviews_365d": 1607,
         "sitelinks": 2,
         "globalusage": 16
       },
@@ -42722,6 +42755,43 @@
           "url": "https://creativecommons.org/licenses/by/3.0",
           "usage_terms": "Creative Commons Attribution 3.0",
           "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>, <a href=\"//commons.wikimedia.org/w/index.php?title=User:GautierPoupeau&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:GautierPoupeau (page does not exist)\">Gautier Poupeau</a>, 15 April 2012",
+          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
+        }
+      }
+    },
+    {
+      "id": "w-339",
+      "title": "Les barques. Régates à Argenteuil",
+      "year": null,
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Claude_Monet_047.jpg/960px-Claude_Monet_047.jpg",
+      "full": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Claude_Monet_047.jpg",
+      "width": 1600,
+      "height": 998,
+      "tags": [],
+      "popularity": {
+        "score": 220.4,
+        "pageviews_365d": 1647,
+        "sitelinks": 1,
+        "globalusage": 16
+      },
+      "meta": {
+        "Collection": "Musée d'Orsay"
+      },
+      "extras": {
+        "qid": "Q3828534",
+        "catalog_number": "339",
+        "wildenstein": "339",
+        "source": "wikidata",
+        "dimensions": {
+          "height_cm": 60,
+          "width_cm": 100
+        },
+        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!1099/manifest.json",
+        "license": {
+          "short_name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "credit": "<cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>",
           "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
         }
       }
@@ -42859,43 +42929,6 @@
       }
     },
     {
-      "id": "w-163",
-      "title": "Meditation. Madame Monet on the Sofa",
-      "year": null,
-      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Madame_Monet_au_canap%C3%A9_Monet_1871.jpg/960px-Madame_Monet_au_canap%C3%A9_Monet_1871.jpg",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Madame_Monet_au_canap%C3%A9_Monet_1871.jpg",
-      "width": 3172,
-      "height": 2020,
-      "tags": [],
-      "popularity": {
-        "score": 27.7,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 15
-      },
-      "meta": {
-        "Collection": "Musée d'Orsay"
-      },
-      "extras": {
-        "qid": "Q17494240",
-        "catalog_number": "163",
-        "wildenstein": "163",
-        "source": "wikidata",
-        "dimensions": {
-          "height_cm": 48.2,
-          "width_cm": 74.5
-        },
-        "iiif": "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!806/manifest.json",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
       "id": "w-105",
       "title": "Monet - ice-floes-on-the-seine-at-bougival-1868",
       "year": null,
@@ -42905,8 +42938,8 @@
       "height": 1200,
       "tags": [],
       "popularity": {
-        "score": 215,
-        "pageviews_365d": 1218,
+        "score": 216.3,
+        "pageviews_365d": 1282,
         "sitelinks": 2,
         "globalusage": 13
       },
@@ -43074,8 +43107,8 @@
       "height": 1868,
       "tags": [],
       "popularity": {
-        "score": 214.1,
-        "pageviews_365d": 770,
+        "score": 214,
+        "pageviews_365d": 768,
         "sitelinks": 2,
         "globalusage": 39
       },
@@ -43425,8 +43458,8 @@
       "height": 803,
       "tags": [],
       "popularity": {
-        "score": 221,
-        "pageviews_365d": 1314,
+        "score": 221.3,
+        "pageviews_365d": 1330,
         "sitelinks": 2,
         "globalusage": 20
       },
@@ -43491,8 +43524,8 @@
       "height": 1345,
       "tags": [],
       "popularity": {
-        "score": 236.4,
-        "pageviews_365d": 2559,
+        "score": 236.6,
+        "pageviews_365d": 2577,
         "sitelinks": 1,
         "globalusage": 27
       },
@@ -43692,10 +43725,10 @@
       "height": 3493,
       "tags": [],
       "popularity": {
-        "score": 30.9,
+        "score": 30.4,
         "pageviews_365d": 0,
         "sitelinks": 0,
-        "globalusage": 21
+        "globalusage": 20
       },
       "meta": {
         "Collection": "São Paulo Museum of Art"
@@ -43794,10 +43827,10 @@
       "height": 3408,
       "tags": [],
       "popularity": {
-        "score": 259.3,
-        "pageviews_365d": 7365,
+        "score": 258.8,
+        "pageviews_365d": 7456,
         "sitelinks": 2,
-        "globalusage": 12
+        "globalusage": 11
       },
       "meta": {
         "Collection": "Museum of Modern Art"
@@ -43830,8 +43863,8 @@
       "height": 3893,
       "tags": [],
       "popularity": {
-        "score": 236.5,
-        "pageviews_365d": 1554,
+        "score": 239.8,
+        "pageviews_365d": 1775,
         "sitelinks": 4,
         "globalusage": 38
       },
@@ -43903,7 +43936,7 @@
       "tags": [],
       "popularity": {
         "score": 301.6,
-        "pageviews_365d": 13527,
+        "pageviews_365d": 13540,
         "sitelinks": 9,
         "globalusage": 58
       },
@@ -44532,7 +44565,7 @@
         "globalusage": 19
       },
       "meta": {
-        "Collection": "Musées Nationaux Récupération"
+        "Collection": "Musée d'Orsay"
       },
       "extras": {
         "qid": "Q17495907",
@@ -45202,8 +45235,8 @@
       "height": 3577,
       "tags": [],
       "popularity": {
-        "score": 194.7,
-        "pageviews_365d": 354,
+        "score": 194.3,
+        "pageviews_365d": 349,
         "sitelinks": 1,
         "globalusage": 59
       },
@@ -45586,8 +45619,8 @@
       "height": 2118,
       "tags": [],
       "popularity": {
-        "score": 219.6,
-        "pageviews_365d": 869,
+        "score": 220.4,
+        "pageviews_365d": 894,
         "sitelinks": 4,
         "globalusage": 30
       },
@@ -53645,35 +53678,6 @@
       "extras": {
         "catalog_number": "1558",
         "wildenstein": "1558",
-        "source": "commons-wildenstein",
-        "license": {
-          "short_name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "credit": "Clipped from <a rel=\"nofollow\" class=\"external free\" href=\"https://wpi.art/2019/01/16/monet/\">https://wpi.art/2019/01/16/monet/</a>",
-          "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Claude_Monet\" class=\"extiw\" title=\"w:en:Claude Monet\"><span title=\"French painter (1840–1926)\">Claude Monet</span></a></bdi>"
-        }
-      }
-    },
-    {
-      "id": "w-157",
-      "title": "Wildenstein 157",
-      "year": null,
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Monet_-_Wildenstein_1996%2C_157.png",
-      "full": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Monet_-_Wildenstein_1996%2C_157.png",
-      "width": 594,
-      "height": 364,
-      "tags": [],
-      "popularity": {
-        "score": 11,
-        "pageviews_365d": 0,
-        "sitelinks": 0,
-        "globalusage": 2
-      },
-      "meta": {},
-      "extras": {
-        "catalog_number": "157",
-        "wildenstein": "157",
         "source": "commons-wildenstein",
         "license": {
           "short_name": "Public domain",
@@ -69637,7 +69641,7 @@
   ],
   "source": {
     "generator": "pipelines-paintings",
-    "generated": "2026-09-27T19:53:40.704Z",
+    "generated": "2026-10-01T12:13:07.004Z",
     "artist": {
       "qid": "Q296",
       "name": "Claude Monet",
